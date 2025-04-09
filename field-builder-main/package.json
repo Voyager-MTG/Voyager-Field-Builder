@@ -1,0 +1,14 @@
+{
+  "name": "field-builder",
+  "version": "1.0.0",
+  "description": "Script for building Field Test files.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cajun",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "0.3.5"
+  }
+}
