@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Zombie</name>
+      <set>HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Merfolk Horror</name>
+      <set>HEL</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton</name>
+      <set>HEL</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Hydra</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Horse</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Horse </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vampire Soldier</name>
+      <set>HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Vampire Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

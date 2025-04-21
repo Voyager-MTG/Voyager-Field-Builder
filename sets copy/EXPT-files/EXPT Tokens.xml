@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Icon Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Soul Splintering</reverse-related>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Sundown</reverse-related>
+    </card>
+    <card>
+      <name>Distant Vulture Astral</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Creature - Bird Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Distant Vulture has lifelink as long as it’s a token.</text>
+      <token>1</token>
+      <reverse-related>Distant Vulture</reverse-related>
+    </card>
+    <card>
+      <name>Insect Plant Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wall Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Robot Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Extant Surveyor</reverse-related>
+    </card>
+    <card>
+      <name>Can Be Cast From Exile</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(These cards can be cast from exile.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>The Demon Within</reverse-related>
+    </card>
+    <card>
+      <name>Drake Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Cerise, Augur of Flow</reverse-related>
+      <reverse-related>Tepid Tamer</reverse-related>
+      <reverse-related>Meirel Drifter</reverse-related>
+      <reverse-related>Adventurous Pair</reverse-related>
+      <reverse-related>Ignelscor Witch</reverse-related>
+      <reverse-related>Kindred Spirits</reverse-related>
+    </card>
+    <card>
+      <name>Fox Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Fox </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Kindred Spirits</reverse-related>
+    </card>
+    <card>
+      <name>Wurm Dragon Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Kindred Enchantment - Wurm Dragon </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This enchantment is also a creature if you’ve illuminated silver.</text>
+      <token>1</token>
+      <reverse-related>Homestead Pair</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Token 2</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Unveiling</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Token 3</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related>Unveiling</reverse-related>
+    </card>
+    <card>
+      <name>Dragon Eye Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Dragon Eye </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+      <reverse-related>Promise of Hunger</reverse-related>
+    </card>
+    <card>
+      <name>Aubrey</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Legendary Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste</text>
+      <token>1</token>
+      <reverse-related>Chirps, Spice Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Orb Wizard</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Orb Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+      <token>1</token>
+      <reverse-related>Wandering Travelers</reverse-related>
+    </card>
+    <card>
+      <name>Treasure Token</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Treasure </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice this creature: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Inkblot Artist</reverse-related>
+      <reverse-related>Bastien Chapitaux</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

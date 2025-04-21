@@ -1,0 +1,701 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Voidstone Shard</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, scry 2.</text>
+      <token>1</token>
+      <reverse-related count="2">Blessing of Faloden Woods</reverse-related>
+      <reverse-related>Breaking the Mold</reverse-related>
+      <reverse-related>Dromencal&apos;s Respite</reverse-related>
+      <reverse-related>Due Dismissal</reverse-related>
+      <reverse-related>Dust to Life</reverse-related>
+      <reverse-related>Eternity Siphon</reverse-related>
+      <reverse-related>Mordel Patrol</reverse-related>
+      <reverse-related>Multaph&apos;s Riftwarden</reverse-related>
+      <reverse-related>Outlands Respite</reverse-related>
+      <reverse-related count="2">Powerstone Claw</reverse-related>
+      <reverse-related>Prismatism</reverse-related>
+      <reverse-related>Purge the Clanless</reverse-related>
+      <reverse-related>Razorshell Drake</reverse-related>
+      <reverse-related>Rift Burn</reverse-related>
+      <reverse-related>Riftborn Flames</reverse-related>
+      <reverse-related>Riftborn Paradise</reverse-related>
+      <reverse-related>Rip to Yesterday</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Rip to Tomorrow</reverse-related>
+      <reverse-related count="2">Ripped into Eternity</reverse-related>
+      <reverse-related>Rush Down</reverse-related>
+      <reverse-related>Suffused Memories</reverse-related>
+      <reverse-related>Triumphant Riftcaller</reverse-related>
+      <reverse-related>Waterspout</reverse-related>
+    </card>
+    <card>
+      <name>Reformed Rift</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(Created by Raze the Clanless.)
+{T}: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Mountain</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+      <token>1</token>
+      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related>Warped Exploration</reverse-related>
+    </card>
+    <card>
+      <name>Subdued Rift</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 black and white Cat enchantment creature token. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Rift Tender</reverse-related>
+      <reverse-related>Avlod Mistshaper</reverse-related>
+      <reverse-related>Giants Blade</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related>Avlod Watchers</reverse-related>
+      <reverse-related>Outlands Riftbearer</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Hollow Graze</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UB</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Malevolent Naginata</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Ever Vigilant</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains vigilance and can’t be blocked by creatures with power 2 or less until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Outlands Diviner</reverse-related>
+      <reverse-related>Outlands Protector</reverse-related>
+      <reverse-related>Outlands Wanderer</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Steady Growth</name>
+      <set>VNM</set>
+      <prop>
+        <colors>BG</colors>
+        <type>Trace Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Add one mana of any color.”</text>
+      <token>1</token>
+      <reverse-related>Keeper of Calm</reverse-related>
+      <reverse-related>Scout&apos;s Bow</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Prepared Strike</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and gains first strike until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Frontline Assaulter</reverse-related>
+      <reverse-related>Flaming Iron</reverse-related>
+      <reverse-related>Minotaur Outlander</reverse-related>
+    </card>
+    <card>
+      <name>In the Moment</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your library. You may play it this turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Mordel Drillmaster</reverse-related>
+      <reverse-related>Pinnacle of Vinimroth</reverse-related>
+      <reverse-related>Mordel Excursionist</reverse-related>
+    </card>
+    <card>
+      <name>Reshape Will</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WU</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Willshaper</reverse-related>
+      <reverse-related>Avakin Watcher</reverse-related>
+      <reverse-related>Skillful Blade</reverse-related>
+      <reverse-related>Windshaper Drake</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Readied Assault</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WR</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, creatures you control get +1/+1 and can attack as though they didn’t have defender. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Tracker</reverse-related>
+      <reverse-related>Warforged Herald</reverse-related>
+      <reverse-related>Chromaboon Blade</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Military Training</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Trainer</reverse-related>
+      <reverse-related>Fadove Drillmaster</reverse-related>
+      <reverse-related>Bruin Challenger</reverse-related>
+      <reverse-related>Bruin Mentor</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>White Drake Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Drake Rider</reverse-related>
+    </card>
+    <card>
+      <name>Icebound Reinforcements Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <type>Token Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
+      <token>1</token>
+      <reverse-related>Icebound Reinforcements</reverse-related>
+    </card>
+    <card>
+      <name>Luminous</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four permanents of the same color, you’ve illuminated that color for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Abrupt Death</reverse-related>
+      <reverse-related>Aeon Awakener</reverse-related>
+      <reverse-related>Avakin Opportunist</reverse-related>
+      <reverse-related>Avakin Riftwalker</reverse-related>
+      <reverse-related>Avakin Shaman</reverse-related>
+      <reverse-related>Boon of Roduth</reverse-related>
+      <reverse-related>Conscripted by the Clanless</reverse-related>
+      <reverse-related>Cursory Casualty</reverse-related>
+      <reverse-related>Drake Wrangler</reverse-related>
+      <reverse-related>Ephemeral Ordinance</reverse-related>
+      <reverse-related>Evanescent Impasse</reverse-related>
+      <reverse-related>Fadove Initiate</reverse-related>
+      <reverse-related>Fleeting Ruin</reverse-related>
+      <reverse-related>Impetuous Eradication</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Prismatic Powerstone</reverse-related>
+      <reverse-related>Rebuke the Foul</reverse-related>
+      <reverse-related>Rifttouched Ursine</reverse-related>
+      <reverse-related>Search For Wisdom</reverse-related>
+      <reverse-related>Stalwart Resolution</reverse-related>
+      <reverse-related>Study the Rifts</reverse-related>
+      <reverse-related>Sublime Liquidation</reverse-related>
+      <reverse-related>Torch</reverse-related>
+      <reverse-related>Transient Eternity</reverse-related>
+      <reverse-related>Transitory Refuge</reverse-related>
+      <reverse-related>Untamed Drake</reverse-related>
+      <reverse-related>Urkial, Outlands Clanleader</reverse-related>
+      <reverse-related>Vanishing Resolve</reverse-related>
+      <reverse-related>Verem-Volcano Rumbler</reverse-related>
+      <reverse-related>Weight of Betrayal</reverse-related>
+    </card>
+    <card>
+      <name>Cat Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Subdued Rift VNM</reverse-related>
+      <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+    </card>
+    <card>
+      <name>Warped Exploration</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a trace of a basic land of any type into your hand. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Explorers Compass</reverse-related>
+      <reverse-related>Wings of New Horizons</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Blue Drake Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This can’t block.</text>
+      <token>1</token>
+      <reverse-related count="2">Aerial Roost</reverse-related>
+      <reverse-related>Drake Wrangler</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Plains</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Island</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Swamp</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Forest</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Harsh Reprise</name>
+      <set>VNM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent loses 2 life. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Avakin Avenger</reverse-related>
+      <reverse-related>Avakin Mentor</reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Cut from Void</name>
+      <set>VNM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Kaln-Ocean Cloak</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related>Sage of Truths</reverse-related>
+      <reverse-related>Storm Bearer</reverse-related>
+    </card>
+    <card>
+      <name>Sanctum Reminder</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Before the game starts, place your sanctum here face down. This is not an ordered deck. You can look at your sanctum at any time.
+Your sanctum consists of up to seven basic land cards and unique nonbasic cards that can start in the sanctum.
+You can move cards in and out of your sanctum in sideboarding, provided that all the cards in it can start there.</text>
+      <token>1</token>
+      <reverse-related>Avlod Pathshaper</reverse-related>
+      <reverse-related>Bearer of Change</reverse-related>
+      <reverse-related>Breach of Malice</reverse-related>
+      <reverse-related>Breach of Mortality</reverse-related>
+      <reverse-related>Breach of Nature</reverse-related>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Breach of Sanity</reverse-related>
+      <reverse-related>Breach of the Unknown</reverse-related>
+      <reverse-related>Crumbling Forest</reverse-related>
+      <reverse-related>Crumbling Island</reverse-related>
+      <reverse-related>Crumbling Mountain</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Crumbling Swamp</reverse-related>
+      <reverse-related>Dusted Spire</reverse-related>
+      <reverse-related>Eternities Weaver</reverse-related>
+      <reverse-related>Fadove Pathwarden</reverse-related>
+      <reverse-related>Fadove Reinforcement</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Keeper of Faloden Woods</reverse-related>
+      <reverse-related>Mordel Combatant</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Mordel Reinforcement</reverse-related>
+      <reverse-related>Outlands Guardian</reverse-related>
+      <reverse-related>Outlands Pathwarden</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Path of Insight</reverse-related>
+      <reverse-related>Path of Revival</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+      <reverse-related>Path of the Grove</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+      <reverse-related>Path to Ages</reverse-related>
+      <reverse-related>Path to Restoration</reverse-related>
+      <reverse-related>Pathborn Aggression</reverse-related>
+      <reverse-related>Pathborn Drake</reverse-related>
+      <reverse-related>Pathbound Bloom</reverse-related>
+      <reverse-related>Pathbound Drake</reverse-related>
+      <reverse-related>Paths Strider</reverse-related>
+      <reverse-related>Restored Forest</reverse-related>
+      <reverse-related>Restored Island</reverse-related>
+      <reverse-related>Restored Mountain</reverse-related>
+      <reverse-related>Restored Plains</reverse-related>
+      <reverse-related>Restored Swamp</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Unstable Rift</reverse-related>
+      <reverse-related>Verem-Volcano Keeper</reverse-related>
+      <reverse-related>Flashing Path</reverse-related>
+      <reverse-related>Shimmering Path</reverse-related>
+    </card>
+    <card>
+      <name>Pathbound</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pathbound cards in your sanctum count towards deck building costs when creating a starting deck.
+Each pathbound card in your sanctum must be unique. You may have only five pathbound cards in your sanctum at the beginning of the game.</text>
+      <token>1</token>
+      <reverse-related>Avlod Pathshaper</reverse-related>
+      <reverse-related>Bearer of Change</reverse-related>
+      <reverse-related>Breach of Malice</reverse-related>
+      <reverse-related>Breach of Mortality</reverse-related>
+      <reverse-related>Breach of Nature</reverse-related>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Breach of Sanity</reverse-related>
+      <reverse-related>Breach of the Unknown</reverse-related>
+      <reverse-related>Crumbling Forest</reverse-related>
+      <reverse-related>Crumbling Island</reverse-related>
+      <reverse-related>Crumbling Mountain</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Crumbling Swamp</reverse-related>
+      <reverse-related>Dusted Spire</reverse-related>
+      <reverse-related>Eternities Weaver</reverse-related>
+      <reverse-related>Fadove Pathwarden</reverse-related>
+      <reverse-related>Fadove Reinforcement</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Keeper of Faloden Woods</reverse-related>
+      <reverse-related>Mordel Combatant</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Mordel Reinforcement</reverse-related>
+      <reverse-related>Outlands Guardian</reverse-related>
+      <reverse-related>Outlands Pathwarden</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Path of Insight</reverse-related>
+      <reverse-related>Path of Revival</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+      <reverse-related>Path of the Grove</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+      <reverse-related>Path to Ages</reverse-related>
+      <reverse-related>Path to Restoration</reverse-related>
+      <reverse-related>Pathborn Aggression</reverse-related>
+      <reverse-related>Pathborn Drake</reverse-related>
+      <reverse-related>Pathbound Bloom</reverse-related>
+      <reverse-related>Pathbound Drake</reverse-related>
+      <reverse-related>Paths Strider</reverse-related>
+      <reverse-related>Restored Forest</reverse-related>
+      <reverse-related>Restored Island</reverse-related>
+      <reverse-related>Restored Mountain</reverse-related>
+      <reverse-related>Restored Plains</reverse-related>
+      <reverse-related>Restored Swamp</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Unstable Rift</reverse-related>
+      <reverse-related>Verem-Volcano Keeper</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Fault-Conjure</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {I}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Icon</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Splendid Genesis</reverse-related>
+    </card>
+    <card>
+      <name>Multaph&apos;s Respite&apos;s Spellbook</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WUR</colors>
+        <type>Spellbook</type>
+        <maintype>Spellbook</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Subdued Rift {W/B}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+Warped Exploration {2}| Skill Sorcery
+Create a trace of a basic land of any type into your hand.
+Cut from Void 2U| Skill Instant
+Scry 1, then draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Black Wurm Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+      <token>1</token>
+      <reverse-related>Conflict Mentor</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+    </card>
+    <card>
+      <name>Green Wurm Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+      <token>1</token>
+      <reverse-related>Bruin Clankeeper</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Bulwark of the Thicket</reverse-related>
+      <reverse-related>Bruin Wanderer</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+    </card>
+    <card>
+      <name>Red Wurm Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+      <reverse-related count="2">Unexpected Discovery</reverse-related>
+      <reverse-related>Conflict Mentor</reverse-related>
+      <reverse-related>Brood Protector</reverse-related>
+      <reverse-related>Bulwark of the Thicket</reverse-related>
+      <reverse-related>Passage Patroller</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+    </card>
+    <card>
+      <name>White Wurm Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Bruin Wanderer</reverse-related>
+      <reverse-related count="2">Will of Roduth</reverse-related>
+      <reverse-related count="2">Oathkeep Wurm</reverse-related>
+      <reverse-related>Khestri, Fadove Clanleader</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related count="2">Triumphant Entrance</reverse-related>
+    </card>
+    <card>
+      <name>Trace Reminder</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Traces are copies of the spell that they traced in a non-public zone (Hand, Library, and Sanctum). When played or cast, they become tokens.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Icon Token</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

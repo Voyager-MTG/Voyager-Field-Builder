@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Intisuyus Armies</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a 1/1 white Soldier creature token for each creature you control.</text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Suyay&apos;s Soldier</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+      <reverse-related> Intisuyu&apos;s Armies</reverse-related>
+    </card>
+    <card>
+      <name>The Sword of Perle</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Orc Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Sword of Perle has first strike as long as it is attacking.</text>
+      <token>1</token>
+      <reverse-related>Overzealous Page</reverse-related>
+      <reverse-related> Kirsa&apos;s Page</reverse-related>
+      <reverse-related>Beacon of Greatness</reverse-related>
+    </card>
+    <card>
+      <name>Scout</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The Gentle Giant</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Legendary Creature - Azra Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+      <reverse-related>House Negotiations</reverse-related>
+    </card>
+    <card>
+      <name>Vances Claw</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Legendary Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink</text>
+      <token>1</token>
+      <reverse-related>Blessing at Graven Laughs</reverse-related>
+    </card>
+    <card>
+      <name>Lover to All</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Beckon Greatness</reverse-related>
+      <reverse-related>Call of the Rose</reverse-related>
+    </card>
+    <card>
+      <name>The Diamond of the Nye</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Legendary Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Diamond of the Nye can’t be blocked.</text>
+      <token>1</token>
+      <reverse-related>Dealings at the Delta</reverse-related>
+    </card>
+    <card>
+      <name>The Occultist</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related>Overzealous Page</reverse-related>
+    </card>
+    <card>
+      <name>Horror</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gosfridus Turnberry</reverse-related>
+      <reverse-related>One with the Geistwald</reverse-related>
+      <reverse-related>Mirrorkin&apos;s Bargain</reverse-related>
+    </card>
+    <card>
+      <name>Dewold Army</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Army </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Left to Wander</reverse-related>
+    </card>
+    <card>
+      <name>Young Soldier</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Whitaker Captain</reverse-related>
+      <reverse-related count="2"> Turnberry Scout </reverse-related>
+      <reverse-related> Patrol the Geistwald</reverse-related>
+      <reverse-related> Leon&apos;s Claim</reverse-related>
+      <reverse-related> Hulking Vessel</reverse-related>
+    </card>
+    <card>
+      <name>Reserves</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You put tokens that you create in your reserves here. They are not on the battlefield and don’t trigger enter the battlefield abilities.
+{3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Destroyed-Knight</name>
+      <set>HOD</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Knight is all colors.</text>
+      <token>1</token>
+      <reverse-related>Meeting of Powers</reverse-related>
+      <reverse-related>Roul Banefort, the Stern</reverse-related>
+      <reverse-related>Sapner Decree</reverse-related>
+      <reverse-related>Lucky Break</reverse-related>
+      <reverse-related>Grasp of the Mirrorkin</reverse-related>
+      <reverse-related>Gleaming Courage</reverse-related>
+      <reverse-related>Replenishing Camp</reverse-related>
+      <reverse-related>Standing Army</reverse-related>
+      <reverse-related>Long Night&apos;s Rest</reverse-related>
+      <reverse-related>Leon&apos;s Claim</reverse-related>
+      <reverse-related>Dirt to Flesh</reverse-related>
+      <reverse-related>Call of the King</reverse-related>
+      <reverse-related>Turnberry Overseer</reverse-related>
+      <reverse-related>Geistwald Abomination</reverse-related>
+      <reverse-related>Sandrock Infantry</reverse-related>
+      <reverse-related>Hopeful Spouse</reverse-related>
+      <reverse-related>Knight of Skyspire</reverse-related>
+      <reverse-related>Fleshborne Horror</reverse-related>
+      <reverse-related>Terrel Battlemage</reverse-related>
+      <reverse-related>Resolute Elk</reverse-related>
+      <reverse-related>Glory on Bloodied Wings</reverse-related>
+    </card>
+    <card>
+      <name>Soldier</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Knight</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The True Heir</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Bounty Collectors</reverse-related>
+      <reverse-related count="2">Cautious Seadog</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Weapon</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+      <reverse-related>Camp Supplier</reverse-related>
+      <reverse-related>Sandrock Blacksmith</reverse-related>
+      <reverse-related>Weapons Holder</reverse-related>
+      <reverse-related>Heirloom Sword</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+    </card>
+    <card>
+      <name>Food</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Orcish Shepherd</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Clue</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Overt Warning</reverse-related>
+      <reverse-related> Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Spirit</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

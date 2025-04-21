@@ -1,0 +1,2725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+
+    <card>
+      <name>Liberated Dragon AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can’t be transformed.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect Advisor AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Insect Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Embraced Cards AKT</name>
+      <reverse-related>Eschewer of Form</reverse-related>
+      <reverse-related>Callwolf Replica</reverse-related>
+      <reverse-related>Platinum's Spymaster</reverse-related>
+      <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
+      <reverse-related>Disaster Responder</reverse-related>
+      <reverse-related>Steal the Ur-Gift</reverse-related>
+      <reverse-related>Bisapience Studies</reverse-related>
+      <reverse-related>Identity Connoisseur</reverse-related>
+      <reverse-related>Abiogenesis</reverse-related>
+      <reverse-related>Suppressive Fire</reverse-related>
+      <reverse-related>Therian Whispers</reverse-related>
+      <reverse-related>Hazenwyld Totem</reverse-related>
+      <reverse-related>The Urveil</reverse-related>
+      <reverse-related>Eusocial Signal</reverse-related>
+      <reverse-related>Waste Management</reverse-related>
+      <reverse-related>Jobseeker's Allowance</reverse-related>
+      <reverse-related>Percival's Chosen</reverse-related>
+      <reverse-related>Saviour of the Disfigured</reverse-related>
+      <reverse-related>Found Family</reverse-related>
+      <reverse-related>Memorial Service</reverse-related>
+      <reverse-related>God-Worm Bulwark</reverse-related>
+      <reverse-related>Vrataport, Failed Capital</reverse-related>
+      <reverse-related>Phterajex, Chancellor's Outpost</reverse-related>
+      <reverse-related>Odajex, Omnisonder's Source</reverse-related>
+      <reverse-related>Disregard, Universal Workhouse</reverse-related>
+      <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
+      <reverse-related>Ith, Entrance to the Heavens</reverse-related>
+      <reverse-related>Hyeth, Ithian Imperial Academy</reverse-related>
+      <reverse-related>Hazenwyld, Callwolf Citadel</reverse-related>
+      <reverse-related>Gatrix, Nursery of the Artificial</reverse-related>
+      <reverse-related>Atir, Heart of the Argent Court</reverse-related>
+      <reverse-related>Grand Breakthrough</reverse-related>
+      <reverse-related>Consult the Cosmos</reverse-related>
+      <reverse-related>Vrataport Mural</reverse-related>
+      <reverse-related>Northern Tactics</reverse-related>
+      <reverse-related>Zeitgeist's Judgment</reverse-related>
+      <reverse-related>Regeneration Programme</reverse-related>
+      <reverse-related>Scathing Critique</reverse-related>
+      <reverse-related>Propaganda Spreading</reverse-related>
+      <reverse-related>Survey New Lands</reverse-related>
+      <reverse-related>Partner's Tax Returns</reverse-related>
+      <reverse-related>Wanderlusted Urdon</reverse-related>
+      <reverse-related>Infuse with Identity</reverse-related>
+      <reverse-related>Rapid Response</reverse-related>
+      <reverse-related>Deliver Omen</reverse-related>
+      <reverse-related>Wind Tunnels</reverse-related>
+      <reverse-related>Unbending Will </reverse-related>
+      <reverse-related>Old Guard Guru</reverse-related>
+      <reverse-related>Invoke Martial Law</reverse-related>
+      <reverse-related>Protect the Uninjected</reverse-related>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Put your embraced cards here. They’re in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Recruit AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This is the creature type chosen as it was created.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hex Citizen AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Hex Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Werewolf Citizen AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Werewolf Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation Soldier AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>House AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip creature of the chosen type {1}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>Icon Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Soul Splintering</reverse-related>
+    </card>
+    <card>
+      <name>Horror EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Sundown</reverse-related>
+    </card>
+    <card>
+      <name>Distant Vulture Astral EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Creature - Bird Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Distant Vulture has lifelink as long as it’s a token.</text>
+      <token>1</token>
+      <reverse-related>Distant Vulture</reverse-related>
+    </card>
+    <card>
+      <name>Insect Plant Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wall Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Robot Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Extant Surveyor</reverse-related>
+    </card>
+    <card>
+      <name>Can Be Cast From Exile EXPT</name>
+      <reverse-related>Sunset Study</reverse-related>
+      <reverse-related>Ritz, Queen of Thieves</reverse-related>
+      <reverse-related>Manuela, the Known</reverse-related>
+      <reverse-related>Scrappy Wisp-Speaker</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Pinnacle of Vinimroth</reverse-related>
+      <reverse-related>Mordel Excursionist</reverse-related>
+      <reverse-related>Unexpected Discovery</reverse-related>
+      <reverse-related>Mordel Drillmaster</reverse-related>
+      <reverse-related>Aspiring Mount</reverse-related>
+      <reverse-related>Outcast Mentor</reverse-related>
+      <reverse-related>Ray Tracing</reverse-related>
+      <reverse-related>Forces of Opening</reverse-related>
+      <reverse-related>Apostle Entheate</reverse-related>
+      <reverse-related>Forged Conflagration</reverse-related>
+      <reverse-related>Reshaping Phoenix</reverse-related>
+      <reverse-related>True Blood of Saint Janus</reverse-related>
+      <reverse-related>Unlucky Witness</reverse-related>
+      <reverse-related>Ignus Rites</reverse-related>
+      <reverse-related>Glassgarden Prophet</reverse-related>
+      <reverse-related>Reflective Savannah</reverse-related>
+      <reverse-related>Phantom City</reverse-related>
+      <reverse-related>Ever-Burning Soul</reverse-related>
+      <reverse-related>Celestial Realm</reverse-related>
+      <reverse-related>Gravewalking</reverse-related>
+      <reverse-related>Living Bog</reverse-related>
+      <reverse-related>Forlorn Battlefield</reverse-related>
+      <reverse-related>Embryonic Mound</reverse-related>
+      <reverse-related>Desolate Expanse</reverse-related>
+      <reverse-related>Cursed Range</reverse-related>
+      <reverse-related>Stretching Tangle</reverse-related>
+      <reverse-related>Ashiok, Dream Feaster</reverse-related>
+      <reverse-related>Volcanic Steambed</reverse-related>
+      <reverse-related>Foreboding Monolith</reverse-related>
+      <reverse-related>Thought-Theft</reverse-related>
+      <reverse-related>Eyes Scorched from Divinity</reverse-related>
+      <reverse-related>Doorwarden</reverse-related>
+      <reverse-related>Far-Off Factory</reverse-related>
+      <reverse-related>Truetower Lookout</reverse-related>
+      <reverse-related>Innocent Rendezvous</reverse-related>
+      <reverse-related>Death's Sting Captain </reverse-related>
+      <reverse-related>Daring General</reverse-related>
+      <reverse-related>Minna Radcliff, the Swift</reverse-related>
+      <reverse-related>William's Epiphany</reverse-related>
+      <reverse-related>Fervent Demagogue</reverse-related>
+      <reverse-related>Plaskett Trickster</reverse-related>
+      <reverse-related>Marilye, Heirloom Pilferer</reverse-related>
+      <reverse-related>Spitting Hellfire</reverse-related>
+      <reverse-related>Unhinged Giant</reverse-related>
+      <reverse-related>Aggravator of Herds</reverse-related>
+      <reverse-related>Rattler's Crusade</reverse-related>
+      <reverse-related>Davriel's Dealbroker</reverse-related>
+      <reverse-related>Overwhelming Consumption</reverse-related>
+      <reverse-related>Mad Summoner</reverse-related>
+      <reverse-related>Dreaded Clearing</reverse-related>
+      <reverse-related>Suffocating Path</reverse-related>
+      <reverse-related>Forbidding Spires</reverse-related>
+      <reverse-related>Foreboding Falls</reverse-related>
+      <reverse-related>Bygone Monoliths</reverse-related>
+      <reverse-related>Warping Wolf</reverse-related>
+      <reverse-related>Shrouded Pathcensor</reverse-related>
+      <reverse-related>Swiftpaw Striker</reverse-related>
+      <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
+      <reverse-related>Cunning Thoughtlich</reverse-related>
+      <reverse-related>Feral Communion</reverse-related>
+      <reverse-related>Callwolf Chanter</reverse-related>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(These cards can be cast from exile.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>The Demon Within</reverse-related>
+    </card>
+    <card>
+      <name>Drake Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Cerise, Augur of Flow</reverse-related>
+      <reverse-related>Tepid Tamer</reverse-related>
+      <reverse-related>Meirel Drifter</reverse-related>
+      <reverse-related>Adventurous Pair</reverse-related>
+      <reverse-related>Ignelscor Witch</reverse-related>
+      <reverse-related>Kindred Spirits</reverse-related>
+    </card>
+    <card>
+      <name>Fox Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Fox </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Kindred Spirits</reverse-related>
+    </card>
+    <card>
+      <name>Wurm Dragon Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Kindred Enchantment - Wurm Dragon </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This enchantment is also a creature if you’ve illuminated silver.</text>
+      <token>1</token>
+      <reverse-related>Homestead Pair</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Token 2 EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Unveiling</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Token 3 EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related>Unveiling</reverse-related>
+    </card>
+    <card>
+      <name>Dragon Eye Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Dragon Eye </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+      <reverse-related>Promise of Hunger</reverse-related>
+    </card>
+    <card>
+      <name>Aubrey EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Legendary Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste</text>
+      <token>1</token>
+      <reverse-related>Chirps, Spice Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Orb Wizard EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Orb Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+      <token>1</token>
+      <reverse-related>Wandering Travelers</reverse-related>
+    </card>
+    <card>
+      <name>Treasure Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Treasure </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice this creature: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Inkblot Artist</reverse-related>
+      <reverse-related>Bastien Chapitaux</reverse-related>
+    </card>
+
+  
+
+    <card>
+      <name>Zombie HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Merfolk Horror HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Hydra HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Horse HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Horse </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vampire Soldier HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Vampire Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>Intisuyus Armies HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a 1/1 white Soldier creature token for each creature you control.</text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Suyay&apos;s Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+      <reverse-related> Intisuyu&apos;s Armies</reverse-related>
+    </card>
+    <card>
+      <name>The Sword of Perle HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Orc Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Sword of Perle has first strike as long as it is attacking.</text>
+      <token>1</token>
+      <reverse-related>Overzealous Page</reverse-related>
+      <reverse-related> Kirsa&apos;s Page</reverse-related>
+      <reverse-related>Beacon of Greatness</reverse-related>
+    </card>
+    <card>
+      <name>Scout HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The Gentle Giant HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Legendary Creature - Azra Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+      <reverse-related>House Negotiations</reverse-related>
+    </card>
+    <card>
+      <name>Vances Claw HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Legendary Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink</text>
+      <token>1</token>
+      <reverse-related>Blessing at Graven Laughs</reverse-related>
+    </card>
+    <card>
+      <name>Lover to All HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Beckon Greatness</reverse-related>
+      <reverse-related>Call of the Rose</reverse-related>
+    </card>
+    <card>
+      <name>The Diamond of the Nye HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Legendary Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Diamond of the Nye can’t be blocked.</text>
+      <token>1</token>
+      <reverse-related>Dealings at the Delta</reverse-related>
+    </card>
+    <card>
+      <name>The Occultist HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related>Overzealous Page</reverse-related>
+    </card>
+    <card>
+      <name>Horror HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gosfridus Turnberry</reverse-related>
+      <reverse-related>One with the Geistwald</reverse-related>
+      <reverse-related>Mirrorkin&apos;s Bargain</reverse-related>
+    </card>
+    <card>
+      <name>Dewold Army HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Army </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Left to Wander</reverse-related>
+    </card>
+    <card>
+      <name>Young Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Whitaker Captain</reverse-related>
+      <reverse-related count="2"> Turnberry Scout </reverse-related>
+      <reverse-related> Patrol the Geistwald</reverse-related>
+      <reverse-related> Leon&apos;s Claim</reverse-related>
+      <reverse-related> Hulking Vessel</reverse-related>
+    </card>
+    <card>
+      <name>Reserves HOD</name>
+      <reverse-related>Hexer's Cave</reverse-related>
+      <reverse-related>Long Night's Rest</reverse-related>
+      <reverse-related>Gaze Upon Greatness</reverse-related>
+      <reverse-related>Bounty Collector</reverse-related>
+      <reverse-related>Read the Wingbeats</reverse-related>
+      <reverse-related>Approach of the Newly Crowned</reverse-related>
+      <reverse-related>Death's Sting Diplomacy</reverse-related>
+      <reverse-related>Brotherly Comradery</reverse-related>
+      <reverse-related>Expendable Army</reverse-related>
+      <reverse-related>Hopeful Spouse</reverse-related>
+      <reverse-related>Fleshborne Horror</reverse-related>
+      <reverse-related>Replenishing Camp</reverse-related>
+      <reverse-related>Overzealous Page</reverse-related>
+      <reverse-related>Gleaming Courage</reverse-related>
+      <reverse-related>Thugs at the Shrouded Coast</reverse-related>
+      <reverse-related>Call of the Rose</reverse-related>
+      <reverse-related>Instill with Integrity</reverse-related>
+      <reverse-related>Sandrock Infantry</reverse-related>
+      <reverse-related>Naval Diplomacy</reverse-related>
+      <reverse-related>Lucky Break</reverse-related>
+      <reverse-related>Bounty Setter</reverse-related>
+      <reverse-related>Resolute Elk</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+      <reverse-related>Dirt to Flesh</reverse-related>
+      <reverse-related>Standing Army</reverse-related>
+      <reverse-related>Turnberry Overseer</reverse-related>
+      <reverse-related>Encroach Upon </reverse-related>
+      <reverse-related>Foilage Decoy</reverse-related>
+      <reverse-related>Fueled by Vengeance</reverse-related>
+      <reverse-related>Reaper of Graven Laughs</reverse-related>
+      <reverse-related>Attwater Drakerider</reverse-related>
+      <reverse-related>Lost at Sea</reverse-related>
+      <reverse-related>Noble Griffin</reverse-related>
+      <reverse-related>Imani Whitaker</reverse-related>
+      <reverse-related>Travelcart's Care</reverse-related>
+      <reverse-related>Gosfridus Turnberry</reverse-related>
+      <reverse-related>Conrad Whitaker, Protector</reverse-related>
+      <reverse-related>Roul Banefort, the Stern</reverse-related>
+      <reverse-related>Capac Suyay, Grim Seeker</reverse-related>
+      <reverse-related>Geistwald Abomination</reverse-related>
+      <reverse-related>House Negotiations</reverse-related>
+      <reverse-related>Ardleby Gatekeeper</reverse-related>
+      <reverse-related>Knight of the Endless War</reverse-related>
+      <reverse-related>Unending Malice</reverse-related>
+      <reverse-related>Domineering Mirrorkin</reverse-related>
+      <reverse-related>Sovereign Echomage</reverse-related>
+      <reverse-related>Sandrock Blacksmith</reverse-related>
+      <reverse-related>Arbiter of the Meek</reverse-related>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You put tokens that you create in your reserves here. They are not on the battlefield and don’t trigger enter the battlefield abilities.
+{3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Destroyed-Knight HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Knight is all colors.</text>
+      <token>1</token>
+      <reverse-related>Meeting of Powers</reverse-related>
+      <reverse-related>Roul Banefort, the Stern</reverse-related>
+      <reverse-related>Sapner Decree</reverse-related>
+      <reverse-related>Lucky Break</reverse-related>
+      <reverse-related>Grasp of the Mirrorkin</reverse-related>
+      <reverse-related>Gleaming Courage</reverse-related>
+      <reverse-related>Replenishing Camp</reverse-related>
+      <reverse-related>Standing Army</reverse-related>
+      <reverse-related>Long Night&apos;s Rest</reverse-related>
+      <reverse-related>Leon&apos;s Claim</reverse-related>
+      <reverse-related>Dirt to Flesh</reverse-related>
+      <reverse-related>Call of the King</reverse-related>
+      <reverse-related>Turnberry Overseer</reverse-related>
+      <reverse-related>Geistwald Abomination</reverse-related>
+      <reverse-related>Sandrock Infantry</reverse-related>
+      <reverse-related>Hopeful Spouse</reverse-related>
+      <reverse-related>Knight of Skyspire</reverse-related>
+      <reverse-related>Fleshborne Horror</reverse-related>
+      <reverse-related>Terrel Battlemage</reverse-related>
+      <reverse-related>Resolute Elk</reverse-related>
+      <reverse-related>Glory on Bloodied Wings</reverse-related>
+    </card>
+    <card>
+      <name>Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Knight HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The True Heir HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Bounty Collectors</reverse-related>
+      <reverse-related count="2">Cautious Seadog</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Weapon HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+      <reverse-related>Camp Supplier</reverse-related>
+      <reverse-related>Sandrock Blacksmith</reverse-related>
+      <reverse-related>Weapons Holder</reverse-related>
+      <reverse-related>Heirloom Sword</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+    </card>
+    <card>
+      <name>Food HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Orcish Shepherd</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Clue HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Overt Warning</reverse-related>
+      <reverse-related> Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Spirit HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>Faerie Horror ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Faerie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Ringing Noise ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Illusion ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Nightmare ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Everywhere ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land has every basic land type.</text>
+      <token>1</token>
+      <reverse-related>Strange Wayfarer</reverse-related>
+    </card>
+    <card>
+      <name>Echo ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Planeswalker - Echo </type>
+        <maintype>Planeswalker</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>The Eternal Echo</reverse-related>
+    </card>
+    <card>
+      <name>Ancient Forerunner ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ancient Forerunner has first strike during your turn.
+When this creature enters, it deals damage equal to its power to each opponent.</text>
+      <token>1</token>
+      <reverse-related>Ancient Forerunner</reverse-related>
+    </card>
+    <card>
+      <name>Cloudscape Observer ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.</text>
+      <token>1</token>
+      <reverse-related>Cloudscape Observer</reverse-related>
+    </card>
+    <card>
+      <name>Deepmind Oracle ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, surveil X, where X is its power.</text>
+      <token>1</token>
+      <reverse-related>Deepmind Oracle</reverse-related>
+    </card>
+    <card>
+      <name>Emergent Anomaly ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever this creature attacks, tap up to one target creature.</text>
+      <token>1</token>
+      <reverse-related>Emergent Anomaly</reverse-related>
+    </card>
+    <card>
+      <name>Fracture of Divinity ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Demigod Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.</text>
+      <token>1</token>
+      <reverse-related>Fracture of Divinity</reverse-related>
+    </card>
+    <card>
+      <name>Lammasu, Dream-Stilled ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Artifact Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, return target instant or sorcery card from your graveyard to your hand.</text>
+      <token>1</token>
+      <reverse-related>Lammasu, Dream-Stilled</reverse-related>
+    </card>
+    <card>
+      <name>Mechanised Hunter ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. </text>
+      <token>1</token>
+      <reverse-related>Mechanised Hunter</reverse-related>
+    </card>
+    <card>
+      <name>New-Life Acolyte ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. </text>
+      <token>1</token>
+      <reverse-related>New-Life Acolyte</reverse-related>
+    </card>
+    <card>
+      <name>Priest of Perfection ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
+      <token>1</token>
+      <reverse-related>Priest of Perfection</reverse-related>
+    </card>
+    <card>
+      <name>Shifting Silverscape ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}</text>
+      <token>1</token>
+      <reverse-related>Shifting Silverscape</reverse-related>
+    </card>
+    <card>
+      <name>Insect ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>PTN Foretell PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When a card becomes foretold its foretell cost is its mana cost if it doesn’t have one. 
+Lands can’t have a cost and are played normally.</text>
+      <token>1</token>
+      <reverse-related>Apostle Entheate</reverse-related>
+      <reverse-related>Extract Secrets</reverse-related>
+      <reverse-related>Glass Guardian</reverse-related>
+      <reverse-related>Guided Crusader</reverse-related>
+      <reverse-related>Iron Verdict</reverse-related>
+      <reverse-related>Legacy of Amber</reverse-related>
+      <reverse-related>Merciless Illumination</reverse-related>
+      <reverse-related>Rarefied Illuminator</reverse-related>
+      <reverse-related>Sun-Scorched Tempering</reverse-related>
+      <reverse-related>Fucine Translator</reverse-related>
+      <reverse-related>Augury Raven</reverse-related>
+      <reverse-related>Forgotten Tongues</reverse-related>
+      <reverse-related>Greater Deceiver</reverse-related>
+      <reverse-related>Mirrorwing Sphinx</reverse-related>
+      <reverse-related>Moonlit Deceiver</reverse-related>
+      <reverse-related>Rite of Twins&apos; Union</reverse-related>
+      <reverse-related>Skin&apos;s Division</reverse-related>
+      <reverse-related>Cindered Tally</reverse-related>
+      <reverse-related>The Crowned Growth</reverse-related>
+      <reverse-related>Dream Whisperer</reverse-related>
+      <reverse-related>Enflamed Caligine</reverse-related>
+      <reverse-related>Malleary Smelter</reverse-related>
+      <reverse-related>Subvert the Light</reverse-related>
+      <reverse-related>Seven-Coiled Strength</reverse-related>
+      <reverse-related>The Allure&apos;s Light</reverse-related>
+      <reverse-related>Roost Augur</reverse-related>
+      <reverse-related>The Watchman</reverse-related>
+      <reverse-related>Noonstone Amulet</reverse-related>
+      <reverse-related>True Blood of Saint Janus</reverse-related>
+    </card>
+    <card>
+      <name>Scar Boon PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors></colors>
+        <type>Boon</type>
+        <maintype>Boon</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(When this boon triggers, it disappears. Even if you didn’t pay the {1}.)
+When a creature you control dies, you may pay {1}. If you do, draw a card.</text>
+      <token>1</token>
+      <reverse-related>Broken Sun-Servent</reverse-related>
+      <reverse-related>Ragged Sun&apos;s Angel</reverse-related>
+      <reverse-related>Root of Mercy</reverse-related>
+      <reverse-related>Expose Mortality</reverse-related>
+      <reverse-related>Opener of Realities</reverse-related>
+      <reverse-related>Perfect Stillness</reverse-related>
+      <reverse-related>Seven-Coil&apos;s Scion</reverse-related>
+      <reverse-related>Implant the Seeds</reverse-related>
+      <reverse-related>Nowhere Stygian</reverse-related>
+      <reverse-related>Sky-Scar Angel</reverse-related>
+      <reverse-related>Open the Self</reverse-related>
+      <reverse-related>Stained Silver</reverse-related>
+      <reverse-related>Tattered Cyprian</reverse-related>
+      <reverse-related>Carapace Disciple</reverse-related>
+      <reverse-related>Debilitated Tragulari</reverse-related>
+      <reverse-related>The Old Forms</reverse-related>
+      <reverse-related>Ravenous Unmaker</reverse-related>
+      <reverse-related>Wolven Hatred</reverse-related>
+      <reverse-related>Flames of Emnity</reverse-related>
+      <reverse-related>Horomachist Ending</reverse-related>
+      <reverse-related>Nowhere Deathlord</reverse-related>
+      <reverse-related>The Frangiclave</reverse-related>
+      <reverse-related>Ritual Daggar</reverse-related>
+    </card>
+    <card>
+      <name>PTN Worm Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
+      <token>1</token>
+      <reverse-related count="x">The Museum of Worms</reverse-related>
+    </card>
+    <card>
+      <name>PTN Wolf Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Smoldering Pack</reverse-related>
+      <reverse-related>Wolf-Splinter</reverse-related>
+      <reverse-related>Flames of Emnity</reverse-related>
+    </card>
+    <card>
+      <name>PTN Angel Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Guided Crusader</reverse-related>
+    </card>
+    <card>
+      <name>PTN Cleric Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice two other Clerics: Transform this creature. Activate only as a sorcery.</text>
+      <token>1</token>
+      <reverse-related>Burgeoning Risen</reverse-related>
+      <reverse-related>Bringer of Glory</reverse-related>
+      <reverse-related>Defacement</reverse-related>
+      <reverse-related>Glassgarden Elder</reverse-related>
+      <reverse-related>Glassgarden Watcheye</reverse-related>
+      <reverse-related>Ignite Fervor</reverse-related>
+      <reverse-related count="2">Ignite Fervor</reverse-related>
+      <reverse-related>Mystical Trail</reverse-related>
+      <reverse-related>The Sky, The Soul</reverse-related>
+      <reverse-related>Moonlit Augury</reverse-related>
+      <reverse-related>Seaside Smuggler</reverse-related>
+      <reverse-related>Take Prisoners</reverse-related>
+      <reverse-related>Twins&apos; Guardian</reverse-related>
+      <reverse-related>Veil of Dreams</reverse-related>
+      <reverse-related>Carapace Ancestor</reverse-related>
+      <reverse-related>Escape into the Night</reverse-related>
+      <reverse-related>Indulgent Cyprian</reverse-related>
+      <reverse-related>Scarring Servitude</reverse-related>
+      <reverse-related>Callidate Invocation</reverse-related>
+      <reverse-related>Corrivality</reverse-related>
+      <reverse-related>High Cyprian</reverse-related>
+      <reverse-related>Rite Flamecaller</reverse-related>
+      <reverse-related>Carapace Threadbearer</reverse-related>
+      <reverse-related>Cartographed Risen</reverse-related>
+      <reverse-related>Discover the Stone Gods</reverse-related>
+      <reverse-related>Flesh Weaver</reverse-related>
+      <reverse-related>Ring-Yew&apos;s Chosen</reverse-related>
+      <reverse-related>Student of Defiance</reverse-related>
+      <reverse-related>Tireless Recruiter</reverse-related>
+      <reverse-related>Unceasing Initiation</reverse-related>
+      <reverse-related>The Allure&apos;s Light</reverse-related>
+      <reverse-related>Covert Cloak</reverse-related>
+      <reverse-related>The Geminiad</reverse-related>
+      <reverse-related>Society Headquarters</reverse-related>
+    </card>
+    <card>
+      <name>God Horror Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - God Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+      <reverse-related>Monument of Rags</reverse-related>
+      <reverse-related>The Red Grail</reverse-related>
+    </card>
+
+  
+
+    <card>
+      <name>Bird PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Artifact Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dinosaur PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Fractal Horror PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Fractal Horror </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Fractal Reflection PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Fractal Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G} or {U}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Nilvoid PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Hexproof
+{T}: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>Voidstone Shard VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, scry 2.</text>
+      <token>1</token>
+      <reverse-related count="2">Blessing of Faloden Woods</reverse-related>
+      <reverse-related>Breaking the Mold</reverse-related>
+      <reverse-related>Dromencal&apos;s Respite</reverse-related>
+      <reverse-related>Due Dismissal</reverse-related>
+      <reverse-related>Dust to Life</reverse-related>
+      <reverse-related>Eternity Siphon</reverse-related>
+      <reverse-related>Mordel Patrol</reverse-related>
+      <reverse-related>Multaph&apos;s Riftwarden</reverse-related>
+      <reverse-related>Outlands Respite</reverse-related>
+      <reverse-related count="2">Powerstone Claw</reverse-related>
+      <reverse-related>Prismatism</reverse-related>
+      <reverse-related>Purge the Clanless</reverse-related>
+      <reverse-related>Razorshell Drake</reverse-related>
+      <reverse-related>Rift Burn</reverse-related>
+      <reverse-related>Riftborn Flames</reverse-related>
+      <reverse-related>Riftborn Paradise</reverse-related>
+      <reverse-related>Rip to Yesterday</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Rip to Tomorrow</reverse-related>
+      <reverse-related count="2">Ripped into Eternity</reverse-related>
+      <reverse-related>Rush Down</reverse-related>
+      <reverse-related>Suffused Memories</reverse-related>
+      <reverse-related>Triumphant Riftcaller</reverse-related>
+      <reverse-related>Waterspout</reverse-related>
+    </card>
+    <card>
+      <name>Reformed Rift VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>(Created by Raze the Clanless.)
+{T}: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Mountain VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+      <token>1</token>
+      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related>Warped Exploration</reverse-related>
+    </card>
+    <card>
+      <name>Subdued Rift VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 black and white Cat enchantment creature token. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Rift Tender</reverse-related>
+      <reverse-related>Avlod Mistshaper</reverse-related>
+      <reverse-related>Giants Blade</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related>Avlod Watchers</reverse-related>
+      <reverse-related>Outlands Riftbearer</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Hollow Graze VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UB</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Malevolent Naginata</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Ever Vigilant VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains vigilance and can’t be blocked by creatures with power 2 or less until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Outlands Diviner</reverse-related>
+      <reverse-related>Outlands Protector</reverse-related>
+      <reverse-related>Outlands Wanderer</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Steady Growth VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>BG</colors>
+        <type>Trace Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Add one mana of any color.”</text>
+      <token>1</token>
+      <reverse-related>Keeper of Calm</reverse-related>
+      <reverse-related>Scout&apos;s Bow</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Prepared Strike VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and gains first strike until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Frontline Assaulter</reverse-related>
+      <reverse-related>Flaming Iron</reverse-related>
+      <reverse-related>Minotaur Outlander</reverse-related>
+    </card>
+    <card>
+      <name>In the Moment VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your library. You may play it this turn. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Mordel Drillmaster</reverse-related>
+      <reverse-related>Pinnacle of Vinimroth</reverse-related>
+      <reverse-related>Mordel Excursionist</reverse-related>
+    </card>
+    <card>
+      <name>Reshape Will VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WU</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Willshaper</reverse-related>
+      <reverse-related>Avakin Watcher</reverse-related>
+      <reverse-related>Skillful Blade</reverse-related>
+      <reverse-related>Windshaper Drake</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Readied Assault VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WR</colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, creatures you control get +1/+1 and can attack as though they didn’t have defender. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Tracker</reverse-related>
+      <reverse-related>Warforged Herald</reverse-related>
+      <reverse-related>Chromaboon Blade</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Military Training VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Fadove Trainer</reverse-related>
+      <reverse-related>Fadove Drillmaster</reverse-related>
+      <reverse-related>Bruin Challenger</reverse-related>
+      <reverse-related>Bruin Mentor</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>White Drake Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Drake Rider</reverse-related>
+    </card>
+    <card>
+      <name>Icebound Reinforcements Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <type>Token Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
+      <token>1</token>
+      <reverse-related>Icebound Reinforcements</reverse-related>
+    </card>
+    <card>
+      <name>Luminous VNM</name>
+      <reverse-related>Weavehorn Chimera</reverse-related>
+      <reverse-related>Urkial Outlands Clanleader</reverse-related>
+      <reverse-related>Prismatic Powerstone</reverse-related>
+      <reverse-related>Sublime Liquidation</reverse-related>
+      <reverse-related>Evanescent Impasse</reverse-related>
+      <reverse-related>Transitory Refuge</reverse-related>
+      <reverse-related>Cursory Casualty</reverse-related>
+      <reverse-related>Vanishing Resolve</reverse-related>
+      <reverse-related>Ephemeral Ordinance</reverse-related>
+      <reverse-related>Impetuous Eradication</reverse-related>
+      <reverse-related>Fleeting Ruin</reverse-related>
+      <reverse-related>Abrupt Death</reverse-related>
+      <reverse-related>Transient Eternity</reverse-related>
+      <reverse-related>Search For Wisdom</reverse-related>
+      <reverse-related>Avakin Opportunist</reverse-related>
+      <reverse-related>Study the Rifts</reverse-related>
+      <reverse-related>Stalwart Resolution</reverse-related>
+      <reverse-related>Rifttouched Ursine</reverse-related>
+      <reverse-related>Boon of Roduth</reverse-related>
+      <reverse-related>Burnout</reverse-related>
+      <reverse-related>Conscripted by the Clanless</reverse-related>
+      <reverse-related>Verem-Volcano Rumbler</reverse-related>
+      <reverse-related>Avakin Hireblade</reverse-related>
+      <reverse-related>Weight of Betrayal</reverse-related>
+      <reverse-related>Avakin Riftwalker</reverse-related>
+      <reverse-related>Rebuke the Foul</reverse-related>
+      <reverse-related>Fadove Initiate</reverse-related>
+      <reverse-related>Aeon Awakener</reverse-related>
+      <reverse-related>Untamed Drake</reverse-related>
+      <reverse-related>Drake Wrangler</reverse-related>
+      <reverse-related>Era, Hymn to Creation</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Homestead Pair</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Meirel Drifter</reverse-related>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four permanents of the same color, you’ve illuminated that color for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Abrupt Death</reverse-related>
+      <reverse-related>Aeon Awakener</reverse-related>
+      <reverse-related>Avakin Opportunist</reverse-related>
+      <reverse-related>Avakin Riftwalker</reverse-related>
+      <reverse-related>Avakin Shaman</reverse-related>
+      <reverse-related>Boon of Roduth</reverse-related>
+      <reverse-related>Conscripted by the Clanless</reverse-related>
+      <reverse-related>Cursory Casualty</reverse-related>
+      <reverse-related>Drake Wrangler</reverse-related>
+      <reverse-related>Ephemeral Ordinance</reverse-related>
+      <reverse-related>Evanescent Impasse</reverse-related>
+      <reverse-related>Fadove Initiate</reverse-related>
+      <reverse-related>Fleeting Ruin</reverse-related>
+      <reverse-related>Impetuous Eradication</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Prismatic Powerstone</reverse-related>
+      <reverse-related>Rebuke the Foul</reverse-related>
+      <reverse-related>Rifttouched Ursine</reverse-related>
+      <reverse-related>Search For Wisdom</reverse-related>
+      <reverse-related>Stalwart Resolution</reverse-related>
+      <reverse-related>Study the Rifts</reverse-related>
+      <reverse-related>Sublime Liquidation</reverse-related>
+      <reverse-related>Torch</reverse-related>
+      <reverse-related>Transient Eternity</reverse-related>
+      <reverse-related>Transitory Refuge</reverse-related>
+      <reverse-related>Untamed Drake</reverse-related>
+      <reverse-related>Urkial, Outlands Clanleader</reverse-related>
+      <reverse-related>Vanishing Resolve</reverse-related>
+      <reverse-related>Verem-Volcano Rumbler</reverse-related>
+      <reverse-related>Weight of Betrayal</reverse-related>
+    </card>
+    <card>
+      <name>Cat Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Subdued Rift VNM</reverse-related>
+      <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+    </card>
+    <card>
+      <name>Warped Exploration VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Trace Skill Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a trace of a basic land of any type into your hand. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Explorers Compass</reverse-related>
+      <reverse-related>Wings of New Horizons</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related></reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Blue Drake Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This can’t block.</text>
+      <token>1</token>
+      <reverse-related count="2">Aerial Roost</reverse-related>
+      <reverse-related>Drake Wrangler</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Plains VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Island VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Swamp VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Forest VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Harsh Reprise VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent loses 2 life. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Avakin Avenger</reverse-related>
+      <reverse-related>Avakin Mentor</reverse-related>
+      <reverse-related></reverse-related>
+    </card>
+    <card>
+      <name>Cut from Void VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Trace Skill Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card. (Traces are cards that become copies when they enter a public zone.)</text>
+      <token>1</token>
+      <reverse-related>Kaln-Ocean Cloak</reverse-related>
+      <reverse-related>Multaphs Respites Spellbook</reverse-related>
+      <reverse-related>Sage of Truths</reverse-related>
+      <reverse-related>Storm Bearer</reverse-related>
+    </card>
+    <card>
+      <name>Sanctum Reminder VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Before the game starts, place your sanctum here face down. This is not an ordered deck. You can look at your sanctum at any time.
+Your sanctum consists of up to seven basic land cards and unique nonbasic cards that can start in the sanctum.
+You can move cards in and out of your sanctum in sideboarding, provided that all the cards in it can start there.</text>
+      <token>1</token>
+      <reverse-related>Avlod Pathshaper</reverse-related>
+      <reverse-related>Bearer of Change</reverse-related>
+      <reverse-related>Breach of Malice</reverse-related>
+      <reverse-related>Breach of Mortality</reverse-related>
+      <reverse-related>Breach of Nature</reverse-related>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Breach of Sanity</reverse-related>
+      <reverse-related>Breach of the Unknown</reverse-related>
+      <reverse-related>Crumbling Forest</reverse-related>
+      <reverse-related>Crumbling Island</reverse-related>
+      <reverse-related>Crumbling Mountain</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Crumbling Swamp</reverse-related>
+      <reverse-related>Dusted Spire</reverse-related>
+      <reverse-related>Eternities Weaver</reverse-related>
+      <reverse-related>Fadove Pathwarden</reverse-related>
+      <reverse-related>Fadove Reinforcement</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Keeper of Faloden Woods</reverse-related>
+      <reverse-related>Mordel Combatant</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Mordel Reinforcement</reverse-related>
+      <reverse-related>Outlands Guardian</reverse-related>
+      <reverse-related>Outlands Pathwarden</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Path of Insight</reverse-related>
+      <reverse-related>Path of Revival</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+      <reverse-related>Path of the Grove</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+      <reverse-related>Path to Ages</reverse-related>
+      <reverse-related>Path to Restoration</reverse-related>
+      <reverse-related>Pathborn Aggression</reverse-related>
+      <reverse-related>Pathborn Drake</reverse-related>
+      <reverse-related>Pathbound Bloom</reverse-related>
+      <reverse-related>Pathbound Drake</reverse-related>
+      <reverse-related>Paths Strider</reverse-related>
+      <reverse-related>Restored Forest</reverse-related>
+      <reverse-related>Restored Island</reverse-related>
+      <reverse-related>Restored Mountain</reverse-related>
+      <reverse-related>Restored Plains</reverse-related>
+      <reverse-related>Restored Swamp</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Unstable Rift</reverse-related>
+      <reverse-related>Verem-Volcano Keeper</reverse-related>
+      <reverse-related>Flashing Path</reverse-related>
+      <reverse-related>Shimmering Path</reverse-related>
+    </card>
+    <card>
+      <name>Pathbound VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pathbound cards in your sanctum count towards deck building costs when creating a starting deck.
+Each pathbound card in your sanctum must be unique. You may have only five pathbound cards in your sanctum at the beginning of the game.</text>
+      <token>1</token>
+      <reverse-related>Avlod Pathshaper</reverse-related>
+      <reverse-related>Bearer of Change</reverse-related>
+      <reverse-related>Breach of Malice</reverse-related>
+      <reverse-related>Breach of Mortality</reverse-related>
+      <reverse-related>Breach of Nature</reverse-related>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Breach of Sanity</reverse-related>
+      <reverse-related>Breach of the Unknown</reverse-related>
+      <reverse-related>Crumbling Forest</reverse-related>
+      <reverse-related>Crumbling Island</reverse-related>
+      <reverse-related>Crumbling Mountain</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Crumbling Swamp</reverse-related>
+      <reverse-related>Dusted Spire</reverse-related>
+      <reverse-related>Eternities Weaver</reverse-related>
+      <reverse-related>Fadove Pathwarden</reverse-related>
+      <reverse-related>Fadove Reinforcement</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Keeper of Faloden Woods</reverse-related>
+      <reverse-related>Mordel Combatant</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Mordel Reinforcement</reverse-related>
+      <reverse-related>Outlands Guardian</reverse-related>
+      <reverse-related>Outlands Pathwarden</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Path of Insight</reverse-related>
+      <reverse-related>Path of Revival</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+      <reverse-related>Path of the Grove</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+      <reverse-related>Path to Ages</reverse-related>
+      <reverse-related>Path to Restoration</reverse-related>
+      <reverse-related>Pathborn Aggression</reverse-related>
+      <reverse-related>Pathborn Drake</reverse-related>
+      <reverse-related>Pathbound Bloom</reverse-related>
+      <reverse-related>Pathbound Drake</reverse-related>
+      <reverse-related>Paths Strider</reverse-related>
+      <reverse-related>Restored Forest</reverse-related>
+      <reverse-related>Restored Island</reverse-related>
+      <reverse-related>Restored Mountain</reverse-related>
+      <reverse-related>Restored Plains</reverse-related>
+      <reverse-related>Restored Swamp</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Unstable Rift</reverse-related>
+      <reverse-related>Verem-Volcano Keeper</reverse-related>
+    </card>
+    <card>
+      <name>Vin-Fault-Conjure VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {I}.)</text>
+      <token>1</token>
+      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related>Raze the Clanless</reverse-related>
+    </card>
+    <card>
+      <name>Icon VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Splendid Genesis</reverse-related>
+    </card>
+    <card>
+      <name>Multaph&apos;s Respite&apos;s Spellbook VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>WUR</colors>
+        <type>Spellbook</type>
+        <maintype>Spellbook</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Subdued Rift {W/B}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+Warped Exploration {2}| Skill Sorcery
+Create a trace of a basic land of any type into your hand.
+Cut from Void 2U| Skill Instant
+Scry 1, then draw a card.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Black Wurm Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+      <token>1</token>
+      <reverse-related>Conflict Mentor</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+    </card>
+    <card>
+      <name>Green Wurm Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+      <token>1</token>
+      <reverse-related>Bruin Clankeeper</reverse-related>
+      <reverse-related>Outlands Bulwark</reverse-related>
+      <reverse-related>Bulwark of the Thicket</reverse-related>
+      <reverse-related>Bruin Wanderer</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+    </card>
+    <card>
+      <name>Red Wurm Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+      <reverse-related count="2">Unexpected Discovery</reverse-related>
+      <reverse-related>Conflict Mentor</reverse-related>
+      <reverse-related>Brood Protector</reverse-related>
+      <reverse-related>Bulwark of the Thicket</reverse-related>
+      <reverse-related>Passage Patroller</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+    </card>
+    <card>
+      <name>White Wurm Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Bruin Wanderer</reverse-related>
+      <reverse-related count="2">Will of Roduth</reverse-related>
+      <reverse-related count="2">Oathkeep Wurm</reverse-related>
+      <reverse-related>Khestri, Fadove Clanleader</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related count="2">Triumphant Entrance</reverse-related>
+    </card>
+    <card>
+      <name>Trace Reminder VNM</name>
+      <reverse-related>Scouts Bow</reverse-related>
+      <reverse-related>Avakin Hazeweaver</reverse-related>
+      <reverse-related>Eternity Siphon</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Pinnacle of Vinimroth</reverse-related>
+      <reverse-related>Bruin Mentor</reverse-related>
+      <reverse-related>Khestri Fadove Clanleader</reverse-related>
+      <reverse-related>Kier Acolyte of Avlod Respite</reverse-related>
+      <reverse-related>Outlands Respite</reverse-related>
+      <reverse-related>Dromencals Respite</reverse-related>
+      <reverse-related>Multaph's Respite</reverse-related>
+      <reverse-related>Multaph Riftborn God</reverse-related>
+      <reverse-related>Breaking the Mold</reverse-related>
+      <reverse-related>Flaming Iron</reverse-related>
+      <reverse-related>Malevolent Naginata</reverse-related>
+      <reverse-related>Waterspout</reverse-related>
+      <reverse-related>Remnant Awakener</reverse-related>
+      <reverse-related>Avlod Bulwark</reverse-related>
+      <reverse-related>Keeper of Calm</reverse-related>
+      <reverse-related>Mordel Warrior</reverse-related>
+      <reverse-related>Warforged Herald</reverse-related>
+      <reverse-related>Outlands Riftbearer</reverse-related>
+      <reverse-related>Riftborn Flames</reverse-related>
+      <reverse-related>Giants Blade</reverse-related>
+      <reverse-related>Outlands Protector</reverse-related>
+      <reverse-related>Razorshell Drake</reverse-related>
+      <reverse-related>Avakin Watcher</reverse-related>
+      <reverse-related>Suffused Memories</reverse-related>
+      <reverse-related>Kaln-Ocean Cloak</reverse-related>
+      <reverse-related>Outlands Wanderer</reverse-related>
+      <reverse-related>Sage of Truths</reverse-related>
+      <reverse-related>Chromaboon Blade</reverse-related>
+      <reverse-related>Windshaper Drake</reverse-related>
+      <reverse-related>Rift Burn</reverse-related>
+      <reverse-related>Fadove Willshaper</reverse-related>
+      <reverse-related>Explorers Compass</reverse-related>
+      <reverse-related>Powerstone Claw</reverse-related>
+      <reverse-related>Rip to Tomorrow</reverse-related>
+      <reverse-related>Wings of New Horizons</reverse-related>
+      <reverse-related>Rippling Crustacean</reverse-related>
+      <reverse-related>Triumphant Riftcaller</reverse-related>
+      <reverse-related>Ripped into Eternity</reverse-related>
+      <reverse-related>Outlands Diviner</reverse-related>
+      <reverse-related>Mordel Excursionist</reverse-related>
+      <reverse-related>Minotaur Outlander</reverse-related>
+      <reverse-related>Mordel Drillmaster</reverse-related>
+      <reverse-related>Mordel Patrol</reverse-related>
+      <reverse-related>Frontline Assaulter</reverse-related>
+      <reverse-related>Avakin Mentor</reverse-related>
+      <reverse-related>Rift Tender</reverse-related>
+      <reverse-related>Gateway Guardian</reverse-related>
+      <reverse-related>Avakin Avenger</reverse-related>
+      <reverse-related>Storm Bearer</reverse-related>
+      <reverse-related>Due Dismissal</reverse-related>
+      <reverse-related>Fadove Drillmaster</reverse-related>
+      <reverse-related>Fadove Tracker</reverse-related>
+      <reverse-related>Fadove Trainer</reverse-related>
+      <reverse-related>Dust to Life</reverse-related>
+      <reverse-related>Prismatism</reverse-related>
+      <reverse-related>Purge the Clanless</reverse-related>
+      <reverse-related>Rush Down</reverse-related>
+      <reverse-related>Multaphs Riftwarden</reverse-related>
+      <reverse-related>Tofnet Riftstalker</reverse-related>
+      <reverse-related>Canyon Crustacean</reverse-related>
+      <reverse-related>Iridescent Summit</reverse-related>
+      <reverse-related>Unbothered Alchemist</reverse-related>
+      <set>VNM</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Traces are copies of the spell that they traced in a non-public zone (Hand, Library, and Sanctum). When played or cast, they become tokens.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Icon Token VNM</name>
+      <set>VNM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Enchantment Creature - Icon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
+      <name>Dragon Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Memory of Home WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spirit Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Story of a Dead Plane WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This enchantment is all colors.
+Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wonder Archon Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Wonder Archon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature is all colors.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>New Tensuo Luminary Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wonder Elf Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+(This token’s mana value is {W}.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Lakebed Wrudge Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>U</colors>
+        <type>Creature - Wonder Fish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
+{T}: Mill a card.
+(This token’s mana cost is 1U.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Beast Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Cloudeater Drake token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Wonder Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, draw a card.
+(This token’s mana cost is 2U.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Copy WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(This token can be used to represent a token that’s a copy of a permanent.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Demon Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Flowering Germinus Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>WG</colors>
+        <type>Token Creature - Wonder  </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain vigilance until end of turn.
+(This token’s mana cost is 1G/WG/W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Gilded Ancient Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wonder Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+(This token’s mana cost is 5G.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Ilcan Keyseeker WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wonder Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
+(This token’s mana cost is 1W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Kindly Skywinder Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wonder Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, target creature you control gains flying until end of turn.
+(This token’s mana cost is 3W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Music of the Deepholt Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Enchantment Creature - Wonder </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
+(This token’s mana cost is 2U.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>New Tensuo Clergy Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Wonder Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
+(This token’s mana cost is 2B.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>New Tensuo Vanguard Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wonder Elf Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, creatures you control get +1/+0 and gain first strike until end of turn.
+(This token’s mana cost is 4W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wonder Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Wonder  </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature is all colors.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Redefinition WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Wonder Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, up to one target creature’s power and toughness each become equal to this creature’s power and toughness until this creature leaves the battlefield.
+(This token’s mana cost is 3U.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Stardust Haze Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment Creature - Wonder </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this enchantment enters, exile target nonland permanent you don’t control until this enchantment leaves the battlefield.
+(This token’s mana cost is 3W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Ageless Caretaker Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wonder Demigod Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, this creature has indestructible and vigilance.
+This creature gets +1/+0 for each other creature you control.
+(This token’s mana cost is 4W.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>New Tensuo Physician Token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wonder Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
+(This token’s mana cost is 4G.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vrep token WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wonder Salamander </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t be blocked by more than one creature.
+Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to this creature’s power.
+(This token’s mana cost is 4G.)</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
