@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Bird</name>
+      <name>Bird PVR</name>
       <set>PVR</set>
       <prop>
         <colors>U</colors>
@@ -16,7 +16,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure PVR</name>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -28,7 +28,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Dinosaur</name>
+      <name>Dinosaur PVR</name>
       <set>PVR</set>
       <prop>
         <colors>G</colors>
@@ -41,7 +41,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Fractal Horror</name>
+      <name>Fractal Horror PVR</name>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -54,7 +54,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Fractal Reflection</name>
+      <name>Fractal Reflection PVR</name>
       <set>PVR</set>
       <prop>
         <colors></colors>
@@ -67,7 +67,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Horror</name>
+      <name>Horror PVR</name>
       <set>PVR</set>
       <prop>
         <colors>B</colors>
@@ -80,7 +80,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Human</name>
+      <name>Human PVR</name>
       <set>PVR</set>
       <prop>
         <colors>W</colors>
@@ -93,7 +93,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Nilvoid</name>
+      <name>Nilvoid PVR</name>
       <set>PVR</set>
       <prop>
         <colors></colors>

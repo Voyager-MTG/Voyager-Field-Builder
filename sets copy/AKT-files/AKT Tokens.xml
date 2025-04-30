@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Liberated Dragon</name>
+      <name>Liberated Dragon AKT</name>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -16,7 +16,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Insect Advisor</name>
+      <name>Insect Advisor AKT</name>
       <set>AKT</set>
       <prop>
         <colors>W</colors>
@@ -29,7 +29,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Embraced Cards</name>
+      <name>Embraced Cards AKT</name>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -41,7 +41,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Recruit</name>
+      <name>Recruit AKT</name>
       <set>AKT</set>
       <prop>
         <colors>R</colors>
@@ -54,7 +54,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure AKT</name>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -66,7 +66,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Human</name>
+      <name>Human AKT</name>
       <set>AKT</set>
       <prop>
         <colors>B</colors>
@@ -79,7 +79,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Incarnation</name>
+      <name>Incarnation AKT</name>
       <set>AKT</set>
       <prop>
         <colors>R</colors>
@@ -92,7 +92,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Hex Citizen</name>
+      <name>Hex Citizen AKT</name>
       <set>AKT</set>
       <prop>
         <colors>G</colors>
@@ -105,7 +105,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Werewolf Citizen</name>
+      <name>Werewolf Citizen AKT</name>
       <set>AKT</set>
       <prop>
         <colors>G</colors>
@@ -118,7 +118,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Incarnation Soldier</name>
+      <name>Incarnation Soldier AKT</name>
       <set>AKT</set>
       <prop>
         <colors>R</colors>
@@ -131,7 +131,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Soldier</name>
+      <name>Soldier AKT</name>
       <set>AKT</set>
       <prop>
         <colors>W</colors>
@@ -144,7 +144,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>House</name>
+      <name>House AKT</name>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -157,7 +157,7 @@ Equip creature of the chosen type {1}</text>
       <token>1</token>
     </card>
     <card>
-      <name>Dragon</name>
+      <name>Dragon AKT</name>
       <set>AKT</set>
       <prop>
         <colors></colors>

@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Zombie</name>
+      <name>Zombie HEL</name>
       <set>HEL</set>
       <prop>
         <colors>W</colors>
@@ -17,7 +17,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Merfolk Horror</name>
+      <name>Merfolk Horror HEL</name>
       <set>HEL</set>
       <prop>
         <colors>U</colors>
@@ -30,7 +30,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Skeleton</name>
+      <name>Skeleton HEL</name>
       <set>HEL</set>
       <prop>
         <colors>B</colors>
@@ -43,7 +43,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Spider</name>
+      <name>Spider HEL</name>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -56,7 +56,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Skeleton Hydra</name>
+      <name>Skeleton Hydra HEL</name>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -69,7 +69,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Skeleton Horse</name>
+      <name>Skeleton Horse HEL</name>
       <set>HEL</set>
       <prop>
         <colors>G</colors>
@@ -82,7 +82,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <token>1</token>
     </card>
     <card>
-      <name>Vampire Soldier</name>
+      <name>Vampire Soldier HEL</name>
       <set>HEL</set>
       <prop>
         <colors>W</colors>

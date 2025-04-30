@@ -227,7 +227,7 @@ Equip creature of the chosen type {1}</text>
       <name>Icon Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors>W</colors>
+        <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
@@ -241,7 +241,7 @@ Equip creature of the chosen type {1}</text>
       <name>Horror EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -268,7 +268,7 @@ Equip creature of the chosen type {1}</text>
       <name>Distant Vulture Astral EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -283,7 +283,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <name>Insect Plant Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Insect Plant </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -428,7 +428,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <name>Drake Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -474,7 +474,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <name>Elemental Token 2 EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -488,7 +488,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <name>Elemental Token 3 EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -516,7 +516,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <name>Aubrey EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors>R</colors>
+        <colors>RI</colors>
         <type>Legendary Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
@@ -828,6 +828,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <reverse-related> Patrol the Geistwald</reverse-related>
       <reverse-related> Leon&apos;s Claim</reverse-related>
       <reverse-related> Hulking Vessel</reverse-related>
+      <reverse-related> Hopeful Spouse</reverse-related>
     </card>
     <card>
       <name>Reserves HOD</name>
@@ -840,7 +841,6 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
       <reverse-related>Death's Sting Diplomacy</reverse-related>
       <reverse-related>Brotherly Comradery</reverse-related>
       <reverse-related>Expendable Army</reverse-related>
-      <reverse-related>Hopeful Spouse</reverse-related>
       <reverse-related>Fleshborne Horror</reverse-related>
       <reverse-related>Replenishing Camp</reverse-related>
       <reverse-related>Overzealous Page</reverse-related>
@@ -1134,7 +1134,7 @@ This creature can’t block.</text>
       <reverse-related>The Eternal Echo</reverse-related>
     </card>
     <card>
-      <name>Ancient Forerunner ITD</name>
+      <name>Ancient Forerunner ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1143,13 +1143,13 @@ This creature can’t block.</text>
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ancient Forerunner has first strike during your turn.
+      <text>Ancient Forerunner ITD has first strike during your turn.
 When this creature enters, it deals damage equal to its power to each opponent.</text>
       <token>1</token>
       <reverse-related>Ancient Forerunner</reverse-related>
     </card>
     <card>
-      <name>Cloudscape Observer ITD</name>
+      <name>Cloudscape Observer ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1163,7 +1163,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <reverse-related>Cloudscape Observer</reverse-related>
     </card>
     <card>
-      <name>Deepmind Oracle ITD</name>
+      <name>Deepmind Oracle ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1178,7 +1178,7 @@ When this creature enters, surveil X, where X is its power.</text>
       <reverse-related>Deepmind Oracle</reverse-related>
     </card>
     <card>
-      <name>Emergent Anomaly ITD</name>
+      <name>Emergent Anomaly ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1193,7 +1193,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
       <reverse-related>Emergent Anomaly</reverse-related>
     </card>
     <card>
-      <name>Fracture of Divinity ITD</name>
+      <name>Fracture of Divinity ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1208,7 +1208,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
       <reverse-related>Fracture of Divinity</reverse-related>
     </card>
     <card>
-      <name>Lammasu, Dream-Stilled ITD</name>
+      <name>Lammasu, Dream-Stilled ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1223,7 +1223,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Lammasu, Dream-Stilled</reverse-related>
     </card>
     <card>
-      <name>Mechanised Hunter ITD</name>
+      <name>Mechanised Hunter ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1237,7 +1237,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Mechanised Hunter</reverse-related>
     </card>
     <card>
-      <name>New-Life Acolyte ITD</name>
+      <name>New-Life Acolyte ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1251,7 +1251,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>New-Life Acolyte</reverse-related>
     </card>
     <card>
-      <name>Priest of Perfection ITD</name>
+      <name>Priest of Perfection ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -1265,7 +1265,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Priest of Perfection</reverse-related>
     </card>
     <card>
-      <name>Shifting Silverscape ITD</name>
+      <name>Shifting Silverscape ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>

@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>PTN Foretell</name>
+      <name>PTN Foretell PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -45,7 +45,7 @@ Lands can’t have a cost and are played normally.</text>
       <reverse-related>True Blood of Saint Janus</reverse-related>
     </card>
     <card>
-      <name>Scar Boon</name>
+      <name>Scar Boon PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -81,7 +81,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Ritual Daggar</reverse-related>
     </card>
     <card>
-      <name>PTN Worm Token</name>
+      <name>PTN Worm Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors>B</colors>
@@ -95,7 +95,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related count="x">The Museum of Worms</reverse-related>
     </card>
     <card>
-      <name>PTN Wolf Token</name>
+      <name>PTN Wolf Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors>G</colors>
@@ -111,7 +111,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Flames of Emnity</reverse-related>
     </card>
     <card>
-      <name>PTN Angel Token</name>
+      <name>PTN Angel Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors>W</colors>
@@ -125,7 +125,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Guided Crusader</reverse-related>
     </card>
     <card>
-      <name>PTN Cleric Token</name>
+      <name>PTN Cleric Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -172,7 +172,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Society Headquarters</reverse-related>
     </card>
     <card>
-      <name>God Horror Token</name>
+      <name>God Horror Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>

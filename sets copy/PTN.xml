@@ -3935,5 +3935,5 @@ Whenever Tenacious Illuminator or another Angel you control dies, each opponent 
       <tablerow>2</tablerow>
       <text>Haste
 Musician’s Remnant can’t block.
-When you draw your third card in a turn, you may discard a card. If you do, return Musician’s Remnant from your graveyard to the battlefield.</text>
+{G}, Shuffle Musician’s Remnant from your graveyard into your library: Create a token that’s a copy of Musician’s Remnant. Activate only if you’ve drawn three or more cards this turn.</text>
     </card>

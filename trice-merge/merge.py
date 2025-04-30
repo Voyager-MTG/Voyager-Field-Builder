@@ -9,6 +9,12 @@ TOKENMATCHES = {
     "Reserves HOD": "(I|i)n your reserves"
 }
 
+def liststr(l):
+    s = ""
+    for i in l:
+        s += i
+    return s
+
 
 try:
     shutil.rmtree("export")
@@ -31,6 +37,7 @@ cards_text = ""
 tokens_text = ""
 out_text_cards = ""
 out_text_tokens = ""
+uuid = 0
 
 for set_file_path in os.listdir('sets'): # Loop through the sets folder
     # Initialize variables
@@ -48,28 +55,31 @@ for set_file_path in os.listdir('sets'): # Loop through the sets folder
         with open(f"sets/{set_file_path}", "r", encoding="utf-8") as f: # open up the xml and read the text
             xml_text = f.read()
         
+        set_card_text = "<cards>" + (xml_text.split("<cards>"))[1].split("</cards>")[0] + "</cards>"
+
+        root = XET.fromstring(set_card_text)
+        for card in root:
+            name = card[0].text
+            set = card[1].text
+            rar = card[1].attrib["rarity"]
+            # print(f'<name>{name}</name><set rarity="{rar}">{set}</set>')
+            set_card_text = set_card_text.replace(f'<name>{name}</name>\n      <set rarity="{rar}">{set}</set>', f'<name>{name}</name>\n      <set rarity="{rar}" uuid="{uuid}">{set}</set>')
+            uuid += 1
+
+        set_card_text = set_card_text.replace("<cards>", "").replace("</cards>", "")
+
         sets_text += (xml_text.split("<sets>"))[1].split("</sets>")[0]  # add the sets to sets_text
-        cards_text += (xml_text.split("<cards>"))[1].split("</cards>")[0]  # add the cards to cards_text
+        cards_text += set_card_text  # add the cards to cards_text
     else: # If we're in a folder
         with open(f"sets/{set_file_path}/{set_name} Tokens.xml", "r", encoding="utf-8") as f:
             xml_text = f.read()  # open up the tokens xml and read the text
         
-        root = XET.fromstring(xml_text)
-
-        for card in root[0]:
-            card_name = card[0].text
-            card_rules_text = card[4].text
-            try:
-                os.rename(f"sets/{set_name}-files/{card_name}.jpg", f"export/pics/tokens/{card_name} {set_name}.jpg")
-            except:
-                print(f"token not found (sets/{set_name}-files/{card_name}.jpg)")
-        
-        xml_text = xml_text.replace("</name>", f" {set_name}</name>") # add the set name suffix to the end of each token
         tokens_text += (xml_text.split("<cards>"))[1].split("</cards>")[0] # get the card text and put it into tokens_text
         
         os.rename(f"sets/{set_file_path}", f"export/pics/{set_name}")
 
     print(f"Parsed {set_file_path}")
+
 
 cards_xml = open('export/cards.xml', 'w+', encoding = "utf-8")
 tokens_xml = open('export/tokens.xml', 'w+', encoding = "utf-8")

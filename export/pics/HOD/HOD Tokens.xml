@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Intisuyus Armies</name>
+      <name>Intisuyus Armies HOD</name>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -16,7 +16,7 @@
       <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
     </card>
     <card>
-      <name>Suyay&apos;s Soldier</name>
+      <name>Suyay&apos;s Soldier HOD</name>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -31,7 +31,7 @@
       <reverse-related> Intisuyu&apos;s Armies</reverse-related>
     </card>
     <card>
-      <name>The Sword of Perle</name>
+      <name>The Sword of Perle HOD</name>
       <set>HOD</set>
       <prop>
         <colors>R</colors>
@@ -47,7 +47,7 @@
       <reverse-related>Beacon of Greatness</reverse-related>
     </card>
     <card>
-      <name>Scout</name>
+      <name>Scout HOD</name>
       <set>HOD</set>
       <prop>
         <colors>U</colors>
@@ -60,7 +60,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>The Gentle Giant</name>
+      <name>The Gentle Giant HOD</name>
       <set>HOD</set>
       <prop>
         <colors>G</colors>
@@ -74,7 +74,7 @@
       <reverse-related>House Negotiations</reverse-related>
     </card>
     <card>
-      <name>Vances Claw</name>
+      <name>Vances Claw HOD</name>
       <set>HOD</set>
       <prop>
         <colors>B</colors>
@@ -88,7 +88,7 @@
       <reverse-related>Blessing at Graven Laughs</reverse-related>
     </card>
     <card>
-      <name>Lover to All</name>
+      <name>Lover to All HOD</name>
       <set>HOD</set>
       <prop>
         <colors>R</colors>
@@ -103,7 +103,7 @@
       <reverse-related>Call of the Rose</reverse-related>
     </card>
     <card>
-      <name>The Diamond of the Nye</name>
+      <name>The Diamond of the Nye HOD</name>
       <set>HOD</set>
       <prop>
         <colors>U</colors>
@@ -117,7 +117,7 @@
       <reverse-related>Dealings at the Delta</reverse-related>
     </card>
     <card>
-      <name>The Occultist</name>
+      <name>The Occultist HOD</name>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -131,7 +131,7 @@
       <reverse-related>Overzealous Page</reverse-related>
     </card>
     <card>
-      <name>Horror</name>
+      <name>Horror HOD</name>
       <set>HOD</set>
       <prop>
         <colors>B</colors>
@@ -147,7 +147,7 @@
       <reverse-related>Mirrorkin&apos;s Bargain</reverse-related>
     </card>
     <card>
-      <name>Dewold Army</name>
+      <name>Dewold Army HOD</name>
       <set>HOD</set>
       <prop>
         <colors>B</colors>
@@ -161,7 +161,7 @@
       <reverse-related>Left to Wander</reverse-related>
     </card>
     <card>
-      <name>Young Soldier</name>
+      <name>Young Soldier HOD</name>
       <set>HOD</set>
       <prop>
         <colors>R</colors>
@@ -179,7 +179,7 @@
       <reverse-related> Hulking Vessel</reverse-related>
     </card>
     <card>
-      <name>Reserves</name>
+      <name>Reserves HOD</name>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -192,7 +192,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Destroyed-Knight</name>
+      <name>Destroyed-Knight HOD</name>
       <set>HOD</set>
       <prop>
         <colors>WUBRG</colors>
@@ -226,7 +226,7 @@
       <reverse-related>Glory on Bloodied Wings</reverse-related>
     </card>
     <card>
-      <name>Soldier</name>
+      <name>Soldier HOD</name>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -239,7 +239,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Knight</name>
+      <name>Knight HOD</name>
       <set>HOD</set>
       <prop>
         <colors>G</colors>
@@ -252,7 +252,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>The True Heir</name>
+      <name>The True Heir HOD</name>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -265,7 +265,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Treasure</name>
+      <name>Treasure HOD</name>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -281,7 +281,7 @@
       <reverse-related>Writ of Supplies</reverse-related>
     </card>
     <card>
-      <name>Weapon</name>
+      <name>Weapon HOD</name>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -299,7 +299,7 @@ Equip {2}</text>
       <reverse-related>Wealthy Slabman</reverse-related>
     </card>
     <card>
-      <name>Food</name>
+      <name>Food HOD</name>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -313,7 +313,7 @@ Equip {2}</text>
       <reverse-related>Writ of Supplies</reverse-related>
     </card>
     <card>
-      <name>Clue</name>
+      <name>Clue HOD</name>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -327,7 +327,7 @@ Equip {2}</text>
       <reverse-related> Writ of Supplies</reverse-related>
     </card>
     <card>
-      <name>Spirit</name>
+      <name>Spirit HOD</name>
       <set>HOD</set>
       <prop>
         <colors>R</colors>

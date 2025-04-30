@@ -4668,7 +4668,7 @@ Draw a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, draw two cards, then discard a card.
-The first time each turn you discard a card, you may mill two cards. If you do, put up to two cards in your graveyard into your sanctum.</text>
+The first time each turn you discard a card, you may mill a card. If you do, put up to two cards in your graveyard into your sanctum.</text>
     </card>
     <card>
       <name>Splendid Genesis</name>

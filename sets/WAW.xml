@@ -420,7 +420,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       </prop>
       <tablerow>0</tablerow>
       <text>When The Heart of Ischav enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
-{T}: Add one mana of any color lands you control could produce.
+{T}: Add one mana of any color basic lands you control could produce.
 {T}, Pay 1 life: Return a basic land card exiled with The Heart of Ischav to your hand.</text>
     </card>
     <card>
@@ -537,7 +537,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Chitterbit enters, you may reveal a basic land card you your sanctum. If a Plains or Mountain card was revealed, put a +1/+1 counter on target creature. If an Island or Swamp card was revealed, surveil 2. If a Forest card was revealed, you may put a land card from your hand onto the battlefield tapped.                      </text>
+      <text>When Chitterbit enters, you may reveal a basic land card you your sanctum. If a Plains or Mountain card was revealed, put a +1/+1 counter on target creature. If an Island or Swamp card was revealed, surveil 2. If a Forest card was revealed, you gain 3 life.                      </text>
     </card>
     <card>
       <name>Cryptic Columns</name>

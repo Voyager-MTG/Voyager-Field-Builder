@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Faerie Horror</name>
+      <name>Faerie Horror ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -17,7 +17,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Horror</name>
+      <name>Horror ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -30,7 +30,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Ringing Noise</name>
+      <name>Ringing Noise ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -42,7 +42,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Illusion</name>
+      <name>Illusion ITD</name>
       <set>ITD</set>
       <prop>
         <colors>W</colors>
@@ -55,7 +55,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Nightmare</name>
+      <name>Nightmare ITD</name>
       <set>ITD</set>
       <prop>
         <colors>W</colors>
@@ -69,7 +69,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Everywhere</name>
+      <name>Everywhere ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -82,7 +82,7 @@ This creature can’t block.</text>
       <reverse-related>Strange Wayfarer</reverse-related>
     </card>
     <card>
-      <name>Echo</name>
+      <name>Echo ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -95,7 +95,7 @@ This creature can’t block.</text>
       <reverse-related>The Eternal Echo</reverse-related>
     </card>
     <card>
-      <name>Ancient Forerunner</name>
+      <name>Ancient Forerunner ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -104,13 +104,13 @@ This creature can’t block.</text>
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ancient Forerunner has first strike during your turn.
+      <text>Ancient Forerunner ITD has first strike during your turn.
 When this creature enters, it deals damage equal to its power to each opponent.</text>
       <token>1</token>
       <reverse-related>Ancient Forerunner</reverse-related>
     </card>
     <card>
-      <name>Cloudscape Observer</name>
+      <name>Cloudscape Observer ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -124,7 +124,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <reverse-related>Cloudscape Observer</reverse-related>
     </card>
     <card>
-      <name>Deepmind Oracle</name>
+      <name>Deepmind Oracle ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -139,7 +139,7 @@ When this creature enters, surveil X, where X is its power.</text>
       <reverse-related>Deepmind Oracle</reverse-related>
     </card>
     <card>
-      <name>Emergent Anomaly</name>
+      <name>Emergent Anomaly ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -154,7 +154,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
       <reverse-related>Emergent Anomaly</reverse-related>
     </card>
     <card>
-      <name>Fracture of Divinity</name>
+      <name>Fracture of Divinity ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -169,7 +169,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
       <reverse-related>Fracture of Divinity</reverse-related>
     </card>
     <card>
-      <name>Lammasu, Dream-Stilled</name>
+      <name>Lammasu, Dream-Stilled ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -184,7 +184,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Lammasu, Dream-Stilled</reverse-related>
     </card>
     <card>
-      <name>Mechanised Hunter</name>
+      <name>Mechanised Hunter ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -198,7 +198,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Mechanised Hunter</reverse-related>
     </card>
     <card>
-      <name>New-Life Acolyte</name>
+      <name>New-Life Acolyte ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -212,7 +212,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>New-Life Acolyte</reverse-related>
     </card>
     <card>
-      <name>Priest of Perfection</name>
+      <name>Priest of Perfection ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -226,7 +226,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Priest of Perfection</reverse-related>
     </card>
     <card>
-      <name>Shifting Silverscape</name>
+      <name>Shifting Silverscape ITD ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>
@@ -240,7 +240,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related>Shifting Silverscape</reverse-related>
     </card>
     <card>
-      <name>Insect</name>
+      <name>Insect ITD</name>
       <set>ITD</set>
       <prop>
         <colors></colors>

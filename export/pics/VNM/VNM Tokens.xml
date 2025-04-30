@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Voidstone Shard</name>
+      <name>Voidstone Shard VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -39,7 +39,7 @@
       <reverse-related>Waterspout</reverse-related>
     </card>
     <card>
-      <name>Reformed Rift</name>
+      <name>Reformed Rift VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -53,7 +53,7 @@
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Vin-Mountain</name>
+      <name>Vin-Mountain VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -67,7 +67,7 @@
       <reverse-related>Warped Exploration</reverse-related>
     </card>
     <card>
-      <name>Subdued Rift</name>
+      <name>Subdued Rift VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WB</colors>
@@ -87,7 +87,7 @@
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Hollow Graze</name>
+      <name>Hollow Graze VNM</name>
       <set>VNM</set>
       <prop>
         <colors>UB</colors>
@@ -102,7 +102,7 @@
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Ever Vigilant</name>
+      <name>Ever Vigilant VNM</name>
       <set>VNM</set>
       <prop>
         <colors>UG</colors>
@@ -119,7 +119,7 @@
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Steady Growth</name>
+      <name>Steady Growth VNM</name>
       <set>VNM</set>
       <prop>
         <colors>BG</colors>
@@ -136,7 +136,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Prepared Strike</name>
+      <name>Prepared Strike VNM</name>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
@@ -151,7 +151,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Minotaur Outlander</reverse-related>
     </card>
     <card>
-      <name>In the Moment</name>
+      <name>In the Moment VNM</name>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
@@ -166,7 +166,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Mordel Excursionist</reverse-related>
     </card>
     <card>
-      <name>Reshape Will</name>
+      <name>Reshape Will VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WU</colors>
@@ -184,7 +184,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Readied Assault</name>
+      <name>Readied Assault VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WR</colors>
@@ -201,7 +201,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Military Training</name>
+      <name>Military Training VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WG</colors>
@@ -219,7 +219,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>White Drake Token</name>
+      <name>White Drake Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>W</colors>
@@ -235,7 +235,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Drake Rider</reverse-related>
     </card>
     <card>
-      <name>Icebound Reinforcements Token</name>
+      <name>Icebound Reinforcements Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>UG</colors>
@@ -250,7 +250,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Icebound Reinforcements</reverse-related>
     </card>
     <card>
-      <name>Luminous</name>
+      <name>Luminous VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -292,7 +292,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Weight of Betrayal</reverse-related>
     </card>
     <card>
-      <name>Cat Token</name>
+      <name>Cat Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WB</colors>
@@ -308,7 +308,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Path of the Rift</reverse-related>
     </card>
     <card>
-      <name>Warped Exploration</name>
+      <name>Warped Exploration VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -325,7 +325,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Blue Drake Token</name>
+      <name>Blue Drake Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>U</colors>
@@ -343,7 +343,7 @@ This can’t block.</text>
       <reverse-related>Path of the Roost</reverse-related>
     </card>
     <card>
-      <name>Vin-Plains</name>
+      <name>Vin-Plains VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -357,7 +357,7 @@ This can’t block.</text>
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Vin-Island</name>
+      <name>Vin-Island VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -371,7 +371,7 @@ This can’t block.</text>
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Vin-Swamp</name>
+      <name>Vin-Swamp VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -385,7 +385,7 @@ This can’t block.</text>
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Vin-Forest</name>
+      <name>Vin-Forest VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -399,7 +399,7 @@ This can’t block.</text>
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Harsh Reprise</name>
+      <name>Harsh Reprise VNM</name>
       <set>VNM</set>
       <prop>
         <colors>B</colors>
@@ -414,7 +414,7 @@ This can’t block.</text>
       <reverse-related></reverse-related>
     </card>
     <card>
-      <name>Cut from Void</name>
+      <name>Cut from Void VNM</name>
       <set>VNM</set>
       <prop>
         <colors>U</colors>
@@ -430,7 +430,7 @@ This can’t block.</text>
       <reverse-related>Storm Bearer</reverse-related>
     </card>
     <card>
-      <name>Sanctum Reminder</name>
+      <name>Sanctum Reminder VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -494,7 +494,7 @@ You can move cards in and out of your sanctum in sideboarding, provided that all
       <reverse-related>Shimmering Path</reverse-related>
     </card>
     <card>
-      <name>Pathbound</name>
+      <name>Pathbound VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -555,7 +555,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <reverse-related>Verem-Volcano Keeper</reverse-related>
     </card>
     <card>
-      <name>Vin-Fault-Conjure</name>
+      <name>Vin-Fault-Conjure VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -569,7 +569,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <reverse-related>Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Icon</name>
+      <name>Icon VNM</name>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -583,7 +583,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <reverse-related>Splendid Genesis</reverse-related>
     </card>
     <card>
-      <name>Multaph&apos;s Respite&apos;s Spellbook</name>
+      <name>Multaph&apos;s Respite&apos;s Spellbook VNM</name>
       <set>VNM</set>
       <prop>
         <colors>WUR</colors>
@@ -600,7 +600,7 @@ Scry 1, then draw a card.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Black Wurm Token</name>
+      <name>Black Wurm Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>B</colors>
@@ -616,7 +616,7 @@ Scry 1, then draw a card.</text>
       <reverse-related>Path of the Rift</reverse-related>
     </card>
     <card>
-      <name>Green Wurm Token</name>
+      <name>Green Wurm Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -634,7 +634,7 @@ Scry 1, then draw a card.</text>
       <reverse-related>Path of the Mighty</reverse-related>
     </card>
     <card>
-      <name>Red Wurm Token</name>
+      <name>Red Wurm Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
@@ -653,7 +653,7 @@ Scry 1, then draw a card.</text>
       <reverse-related>Path of the Brood</reverse-related>
     </card>
     <card>
-      <name>White Wurm Token</name>
+      <name>White Wurm Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>W</colors>
@@ -672,7 +672,7 @@ Scry 1, then draw a card.</text>
       <reverse-related count="2">Triumphant Entrance</reverse-related>
     </card>
     <card>
-      <name>Trace Reminder</name>
+      <name>Trace Reminder VNM</name>
       <set>VNM</set>
       <prop>
         <colors></colors>
@@ -684,7 +684,7 @@ Scry 1, then draw a card.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Icon Token</name>
+      <name>Icon Token VNM</name>
       <set>VNM</set>
       <prop>
         <colors>G</colors>

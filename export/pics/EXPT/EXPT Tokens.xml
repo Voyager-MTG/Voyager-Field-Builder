@@ -3,10 +3,10 @@
   <cards>
 
     <card>
-      <name>Icon Token</name>
+      <name>Icon Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors>W</colors>
+        <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
@@ -17,10 +17,10 @@
       <reverse-related>Soul Splintering</reverse-related>
     </card>
     <card>
-      <name>Horror</name>
+      <name>Horror EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -30,7 +30,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Elemental</name>
+      <name>Elemental EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors>R</colors>
@@ -44,10 +44,10 @@
       <reverse-related>Sundown</reverse-related>
     </card>
     <card>
-      <name>Distant Vulture Astral</name>
+      <name>Distant Vulture Astral EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -59,10 +59,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Distant Vulture</reverse-related>
     </card>
     <card>
-      <name>Insect Plant Token</name>
+      <name>Insect Plant Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Insect Plant </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
@@ -72,7 +72,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Wall Token</name>
+      <name>Wall Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -85,7 +85,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Shapeshifter Token</name>
+      <name>Shapeshifter Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -98,7 +98,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Robot Token</name>
+      <name>Robot Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -112,7 +112,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Extant Surveyor</reverse-related>
     </card>
     <card>
-      <name>Can Be Cast From Exile</name>
+      <name>Can Be Cast From Exile EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -124,7 +124,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Demon</name>
+      <name>Demon EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors>B</colors>
@@ -138,10 +138,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>The Demon Within</reverse-related>
     </card>
     <card>
-      <name>Drake Token</name>
+      <name>Drake Token EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -157,7 +157,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Kindred Spirits</reverse-related>
     </card>
     <card>
-      <name>Fox Token</name>
+      <name>Fox Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors>W</colors>
@@ -171,7 +171,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Kindred Spirits</reverse-related>
     </card>
     <card>
-      <name>Wurm Dragon Token</name>
+      <name>Wurm Dragon Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -184,10 +184,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Homestead Pair</reverse-related>
     </card>
     <card>
-      <name>Elemental Token 2</name>
+      <name>Elemental Token 2 EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -198,10 +198,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Unveiling</reverse-related>
     </card>
     <card>
-      <name>Elemental Token 3</name>
+      <name>Elemental Token 3 EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
@@ -212,7 +212,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Unveiling</reverse-related>
     </card>
     <card>
-      <name>Dragon Eye Token</name>
+      <name>Dragon Eye Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors>U</colors>
@@ -226,10 +226,10 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Promise of Hunger</reverse-related>
     </card>
     <card>
-      <name>Aubrey</name>
+      <name>Aubrey EXPT</name>
       <set>EXPT</set>
       <prop>
-        <colors>R</colors>
+        <colors>RI</colors>
         <type>Legendary Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
@@ -240,7 +240,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Chirps, Spice Seeker</reverse-related>
     </card>
     <card>
-      <name>Orb Wizard</name>
+      <name>Orb Wizard EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -254,7 +254,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Wandering Travelers</reverse-related>
     </card>
     <card>
-      <name>Treasure Token</name>
+      <name>Treasure Token EXPT</name>
       <set>EXPT</set>
       <prop>
         <colors></colors>

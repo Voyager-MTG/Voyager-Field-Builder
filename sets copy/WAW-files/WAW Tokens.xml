@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Dragon Token</name>
+      <name>Dragon Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>R</colors>
@@ -16,7 +16,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Memory of Home</name>
+      <name>Memory of Home WAW</name>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -28,7 +28,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Spirit Token</name>
+      <name>Spirit Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -41,7 +41,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Story of a Dead Plane</name>
+      <name>Story of a Dead Plane WAW</name>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -54,7 +54,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <token>1</token>
     </card>
     <card>
-      <name>Wonder Archon Token</name>
+      <name>Wonder Archon Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -67,7 +67,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <token>1</token>
     </card>
     <card>
-      <name>New Tensuo Luminary Token</name>
+      <name>New Tensuo Luminary Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -81,7 +81,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <token>1</token>
     </card>
     <card>
-      <name>Lakebed Wrudge Token</name>
+      <name>Lakebed Wrudge Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>U</colors>
@@ -96,7 +96,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <token>1</token>
     </card>
     <card>
-      <name>Beast Token</name>
+      <name>Beast Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
@@ -109,7 +109,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <token>1</token>
     </card>
     <card>
-      <name>Cloudeater Drake token</name>
+      <name>Cloudeater Drake token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>U</colors>
@@ -124,7 +124,7 @@ When this creature enters, draw a card.
       <token>1</token>
     </card>
     <card>
-      <name>Copy</name>
+      <name>Copy WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -136,7 +136,7 @@ When this creature enters, draw a card.
       <token>1</token>
     </card>
     <card>
-      <name>Demon Token</name>
+      <name>Demon Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -150,7 +150,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Flowering Germinus Token</name>
+      <name>Flowering Germinus Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>WG</colors>
@@ -164,7 +164,7 @@ This creature can’t block.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Gilded Ancient Token</name>
+      <name>Gilded Ancient Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
@@ -179,7 +179,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Ilcan Keyseeker</name>
+      <name>Ilcan Keyseeker WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -193,7 +193,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Kindly Skywinder Token</name>
+      <name>Kindly Skywinder Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -207,7 +207,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Music of the Deepholt Token</name>
+      <name>Music of the Deepholt Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>U</colors>
@@ -221,7 +221,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>New Tensuo Clergy Token</name>
+      <name>New Tensuo Clergy Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>B</colors>
@@ -235,7 +235,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>New Tensuo Vanguard Token</name>
+      <name>New Tensuo Vanguard Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -249,7 +249,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Wonder Token</name>
+      <name>Wonder Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors></colors>
@@ -262,7 +262,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Redefinition</name>
+      <name>Redefinition WAW</name>
       <set>WAW</set>
       <prop>
         <colors>U</colors>
@@ -276,7 +276,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Stardust Haze Token</name>
+      <name>Stardust Haze Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -291,7 +291,7 @@ When this enchantment enters, exile target nonland permanent you don’t control
       <token>1</token>
     </card>
     <card>
-      <name>Ageless Caretaker Token</name>
+      <name>Ageless Caretaker Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>W</colors>
@@ -306,7 +306,7 @@ This creature gets +1/+0 for each other creature you control.
       <token>1</token>
     </card>
     <card>
-      <name>New Tensuo Physician Token</name>
+      <name>New Tensuo Physician Token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
@@ -320,7 +320,7 @@ This creature gets +1/+0 for each other creature you control.
       <token>1</token>
     </card>
     <card>
-      <name>Vrep token</name>
+      <name>Vrep token WAW</name>
       <set>WAW</set>
       <prop>
         <colors>G</colors>
