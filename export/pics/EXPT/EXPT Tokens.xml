@@ -268,6 +268,21 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Inkblot Artist</reverse-related>
       <reverse-related>Bastien Chapitaux</reverse-related>
     </card>
+    <card>
+      <name>Fish Token EXPT</name>
+      <set>EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Kaiju Sighting</reverse-related>
+      <reverse-related>https//wwwdeviantartcom/mocaran/art/The-journey-and-the-big-fish-603435678</reverse-related>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>
