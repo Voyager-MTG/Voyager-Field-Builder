@@ -382,12 +382,12 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <reverse-related>Fervent Demagogue</reverse-related>
       <reverse-related>Plaskett Trickster</reverse-related>
       <reverse-related>Marilye, Heirloom Pilferer</reverse-related>
-      <reverse-related>Aggravator of Herds</reverse-related>
+      <reverse-related>Spitting Hellfire</reverse-related>
       <reverse-related>Unhinged Giant</reverse-related>
-      <reverse-related>Overwhelming Consumption</reverse-related>
+      <reverse-related>Aggravator of Herds</reverse-related>
       <reverse-related>Rattler's Crusade</reverse-related>
       <reverse-related>Davriel's Dealbroker</reverse-related>
-      <reverse-related>Spitting Hellfire</reverse-related>
+      <reverse-related>Overwhelming Consumption</reverse-related>
       <reverse-related>Mad Summoner</reverse-related>
       <reverse-related>Dreaded Clearing</reverse-related>
       <reverse-related>Suffocating Path</reverse-related>
@@ -575,16 +575,17 @@ Distant Vulture has lifelink as long as it’s a token.</text>
   
 
     <card>
-      <name>Spider HEL</name>
+      <name>Zombie HEL</name>
       <set>HEL</set>
       <prop>
-        <colors>G</colors>
-        <type>Token Creature - Spider </type>
+        <colors>W</colors>
+        <type>Token Creature - Zombie </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Reach</text>
+      <text>Lifelink
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
     </card>
     <card>
@@ -611,6 +612,19 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
       <token>1</token>
     </card>
     <card>
@@ -650,20 +664,6 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Zombie HEL</name>
-      <set>HEL</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
     </card>
 
