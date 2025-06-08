@@ -583,7 +583,6 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
       </prop>
       <tablerow>2</tablerow>
       <text>When Dhere enters, create an enchantment token named Story of a Dead Plane that’s all colors with “Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.””</text>
-      <related>Story of a Dead Plane</related>
     </card>
     <card>
       <name>Dissolution Specimen</name>
@@ -730,7 +729,6 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New Tensuo Luminary. This ability triggers only once each turn.
 Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>New Tensuo Luminary Token</related>
     </card>
     <card>
       <name>Prismatic Armor</name>
@@ -778,7 +776,6 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, choose one.
       <tablerow>2</tablerow>
       <text>Ploy — Exile the top card of your library. You may play it this turn. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)
 When Scrappy Wisp-Speaker dies, if there is a card exiled with it, create a 1/1 Wonder creature token that’s all colors.      </text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Shapes in the Pools</name>
@@ -837,7 +834,6 @@ Impetus {B} (You may cast this from your graveyard as a sorcery with only the te
       <tablerow>2</tablerow>
       <text>Ploy—Add one mana of any color. You don’t lose this mana as steps and phases end this turn. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)
 Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast spells this turn, create a 5/5 red Dragon creature token with flying. </text>
-      <related>Dragon Token</related>
     </card>
     <card>
       <name>Subsume</name>
@@ -941,7 +937,6 @@ You may cast Worldsoul Wanderer from your graveyard by paying WUBRG rather than 
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Create two 1/1 Wonder creature tokens that are all colors, tapped, and attacking. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Ageless Wayfarer</name>
@@ -985,7 +980,6 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {2}. If they do, [create a 1/1 Wonder creature token that’s all colors.]
 Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Blossoming Dissenter</name>
@@ -1001,7 +995,6 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       <tablerow>2</tablerow>
       <text>When Blossoming Dissenter dies, [create a 1/1 Wonder creature token that’s all colors.]
 Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Calculated Risk</name>
@@ -1152,7 +1145,6 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       <tablerow>2</tablerow>
       <text>When Ilcan Keyseeker enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
 Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Ilcan Keyseeker Token</related>
     </card>
     <card>
       <name>Ilcan Resilience</name>
@@ -1197,7 +1189,6 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
 {T}: Mill a card.
 Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Lakebed Wrudge Token</related>
     </card>
     <card>
       <name>Liberators of the Soul</name>
@@ -1242,7 +1233,6 @@ Impetus {W} (You may cast this from your graveyard as a sorcery with only the te
       <tablerow>1</tablerow>
       <text>When Memory Lane enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
 {3}, Shuffle seven cards from your graveyard into your library, Exile Memory Lane: Create a 5/5 Wonder Archon creature token that’s all colors. Activate only as a sorcery.</text>
-      <related>Wonder Archon Token</related>
     </card>
     <card>
       <name>New Tensuo Spy</name>
@@ -1464,8 +1454,8 @@ Counter target spell with a creature type.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
         <type>Creature - Elf Rogue </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
@@ -1560,7 +1550,6 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       </prop>
       <tablerow>2</tablerow>
       <text>When Antlerweaver enters, mill four cards. Then you may put a creature card with mana value 1 from your hand or graveyard onto the battlefield, or create a 1/1 Wonder creature token that’s all colors. That creature gains haste until end of turn.</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Anything and Everything</name>
@@ -1592,7 +1581,6 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 Wonder creature tokens that are all colors. When you do, up to one target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
-      <related count="2">Wonder Token</related>
     </card>
     <card>
       <name>Blossoming Conscience</name>
@@ -1607,7 +1595,6 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
       <tablerow>3</tablerow>
       <text>Destroy target creature or enchantment. Its controller may [create a 1/1 Wonder creature token that’s all colors.]
 Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Brazen Confidence</name>
@@ -1665,7 +1652,6 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
       <tablerow>1</tablerow>
       <text>When Citadel Repository enters and whenever you cast a spell with mana value 5 or greater, create a 1/1 Wonder creature token that’s all colors.
 WB, Pay 2 life: Create a token that’s a copy of target token you control. Activate only as a sorcery.</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Crafty Cutthroat</name>
@@ -1922,7 +1908,6 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
 Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Wonder creature in addition to its other types. They both lose reflect. Reflect only as a sorcery.)</text>
-      <related>Music of the Deepholt Token</related>
     </card>
     <card>
       <name>New Tensuo Clergy</name>
@@ -1938,7 +1923,6 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
       <tablerow>2</tablerow>
       <text>Whenever New Tensuo Clergy or another creature you control dies, each opponent loses 1 life and you gain 1 life.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>New Tensuo Clergy Token</related>
     </card>
     <card>
       <name>Out of Options</name>
@@ -2455,7 +2439,6 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <text>Flying
 When Cloudeater Drake enters, draw a card.
 Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Cloudeater Drake token</related>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -2644,7 +2627,6 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
 Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Kindly Skywinder Token</related>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -2702,7 +2684,6 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
       </prop>
       <tablerow>2</tablerow>
       <text>When Norr enters, create a black enchantment token named Memory of Home with “Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.”      </text>
-      <related>Memory of Home</related>
     </card>
     <card>
       <name>Numberless Procession</name>
@@ -2776,7 +2757,6 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Redefinition Token</related>
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
@@ -2838,7 +2818,6 @@ Skyscrape can block only creatures with flying.</text>
       <text>Flash
 When Stardust Haze enters, exile target nonland permanent you don’t control until Stardust Haze leaves the battlefield.
 Reflect 2W (2W: Create a token copy of this enchantment, except it’s a 1/1 Wonder creature in addition to its other types. They both lose reflect. Reflect only as a sorcery.)</text>
-      <related>Stardust Haze Token</related>
     </card>
     <card>
       <name>Sunset Study</name>
@@ -2867,7 +2846,6 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy—Create a 4/4 black Demon creature token with flying and “This creature can’t block.” (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
-      <related>Demon Token</related>
     </card>
     <card>
       <name>The Borderholt Obelisks</name>
@@ -3047,7 +3025,6 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
 Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Ageless Caretaker Token</related>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -3079,7 +3056,6 @@ Impetus 4R (You may cast this from your graveyard as a sorcery with only the tex
       <text>Cathexis, Soul Aspect enters with an additional loyalty counter on it for each unique name among other permanents you control.
 [-1]: You may sacrifice a permanent. If you do, create a 5/5 Wonder Archon creature token that’s all colors. If you don’t, create two 1/1 Wonder creature tokens that are all colors.
 [-4]: Draw a card for each permanent you control that’s two or more colors.</text>
-      <related>Wonder Archon Token</related>
     </card>
     <card>
       <name>Curious Observer</name>
@@ -3404,7 +3380,6 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
       <tablerow>2</tablerow>
       <text>When New Tensuo Physician enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>New Tensuo Physician Token</related>
     </card>
     <card>
       <name>New Tensuo Vanguard</name>
@@ -3420,7 +3395,6 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>When New Tensuo Vanguard enters, creatures you control get +1/+0 and gain first strike until end of turn.
 Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>New Tensuo Vanguard Token</related>
     </card>
     <card>
       <name>Perceptual Distortion</name>
@@ -3499,7 +3473,6 @@ Whenever you cast a green or red spell, untap up to two target permanents.</text
       <text>Starsea Slayer enters tapped and doesn’t untap during your untap step.
 Sacrifice a creature: Untap Starsea Slayer.
 Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast spells this turn, create three 1/1 Wonder creature tokens that are all colors.</text>
-      <related>Wonder Token</related>
     </card>
     <card>
       <name>Starseeker Deva</name>
@@ -3516,7 +3489,6 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
 Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Starseeker Deva Token</related>
     </card>
     <card>
       <name>Territorial Wanderer</name>
@@ -3576,7 +3548,6 @@ At the beginning of your first main phase, return target card from your graveyar
       <text>Vrep can’t be blocked by more than one creature.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to Vrep’s power.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Vrep token</related>
     </card>
     <card>
       <name>Wish for Death</name>
@@ -3714,7 +3685,6 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
       <text>Vigilance
 When Gilded Ancient enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
 Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder Cat without reflect. Reflect only as a sorcery, and only once.)</text>
-      <related>Gilded Ancient Token</related>
     </card>
     <card>
       <name>Ilcan Szcygite</name>
@@ -3746,7 +3716,6 @@ When Ilcan Szcygite enters and at the beginning of your upkeep, put a +1/+1 coun
       <tablerow>2</tablerow>
       <text>Vigilance, lifelink
 When New Tensuo Calmkeeper enters, create a 3/3 green Beast creature token and a 1/1 Wonder creature token that’s all colors.</text>
-      <related>Beast Token</related>
     </card>
     <card>
       <name>Polymorphic Wispweaver</name>
