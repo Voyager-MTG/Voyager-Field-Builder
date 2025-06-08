@@ -8375,7 +8375,7 @@ Trample, haste</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
-Whenever a creature you control with a pact counter on it dies, draw a card.
+Whenever a creature you control with a pact counter on it dies, draw a card for each pact counter on it.
 {U}, Sacrifice this enchantment: Surveil 3. Activate only as a sorcery.</text>
     </card>
     <card>
