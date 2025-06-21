@@ -2428,7 +2428,7 @@ When this creature dies, create two 1/1 black Skeleton creature tokens.</text>
       <tablerow>1</tablerow>
       <text>[+1]: Surveil 2. You gain 2 life.
 [-2]: Exile target nonland permanent with mana value 2 or less.
-[-3]: Create a */* green Skeleton Horse creature token with “this creature’s power and toughness are each equal to the number of creature cards and planeswalker cards in your graveyard”.</text>
+[-3]: Create a green Skeleton Horse creature token. It has “This creature’s power and toughness are each equal to the number of creature or planeswalker cards in your graveyard.”</text>
     </card>
     <card>
       <name>Imposing Asylum</name>

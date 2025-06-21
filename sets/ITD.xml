@@ -293,7 +293,8 @@ You may return an untapped Island you control to its owner’s hand rather than 
       <tablerow>0</tablerow>
       <text>His roots twist and twist and reach deeper and deeper.
 I, II — This land gains “{T}:  Add {C}.” until your next turn.
-III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.</text>
+III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
+​</text>
     </card>
     <card>
       <name>Binding Decision</name>
@@ -581,7 +582,8 @@ Exile target creature if it’s attacking or if you paid this spell’s addition
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target creature you control gains trample and must be blocked if able until end of turn. You may have target creature you don’t control fight it. (Each deals damage equal to its power to the other.)</text>
+      <text>Target creature you control gains trample and must be blocked if able until end of turn. 
+Draw a card.</text>
     </card>
     <card>
       <name>Somnonaut Drone</name>
@@ -641,7 +643,7 @@ Whenever this creature attacks, you may create a tapped and attacking token copy
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U} or {R}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -931,7 +933,7 @@ Whenever Warden of Scorching Days enters or attacks, discard a card, then draw a
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B} or {G}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1053,8 +1055,8 @@ At the beginning of your end step, if a creature you control died this turn, you
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell you may remove a loyalty counter from a permanent you control. If you do, it costs {1} less to cast.
-Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+      <text>As an additional cost to cast this spell you may remove a loyalty counter from a permanent you control.
+Search your library for a basic land card and put it onto the battlefield tapped, then shuffle. If you paid this spell’s additional cost, search your library for a land card instead.</text>
     </card>
     <card>
       <name>Ajaxala, Cunning Puppeteer</name>
@@ -1065,7 +1067,7 @@ Search your library for a basic land card and put it onto the battlefield tapped
         <cmc>3</cmc>
         <type>Legendary Creature - Isopod Horror </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>If you would draw a card, instead look at the top three cards of your library, put two of them into your graveyard, then draw a card.
@@ -1101,7 +1103,7 @@ Whenever this creature attacks, put a loyalty counter on it and mill a card.
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Impending 3—4U (If this spell was impending, it enters with three time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
+      <text>Impending 4—3U (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
 Flying
 Whenever a time counter is removed from Firmament Sculptor, create a token copy of it.</text>
     </card>
@@ -1238,7 +1240,7 @@ When this creature attacks, you may put a loyalty counter on each permanent you 
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, haste
-You may cast 001, Errant Spark-Engine from your graveyard by removing three loyalty counters from among permanents you control in addition to paying its other costs.</text>
+You may cast 001, Errant Spark-Engine from your graveyard by removing two loyalty counters from among permanents you control in addition to paying its other costs.</text>
     </card>
     <card>
       <name>Star-Binding Command</name>
@@ -1252,7 +1254,7 @@ You may cast 001, Errant Spark-Engine from your graveyard by removing three loya
       </prop>
       <tablerow>3</tablerow>
       <text>Choose two—
-• Players can’t cast noncreature spells until end of turn.
+• Players can’t cast noncreature spells until your next turn.
 • You gain 3 life.
 • Prevent all damage target creature would deal until end of turn.
 • Return target creature you control to its owner’s hand and draw a card.</text>
@@ -1443,7 +1445,7 @@ Whenever Tithetaker Angel enters or attacks, choose creature, artifact, enchantm
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B} or {R}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1458,7 +1460,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W} or {B}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1591,9 +1593,9 @@ You may cast this creature from your graveyard by exiling four land cards from y
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
-I — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-II, III — You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
 ​</text>
     </card>
     <card>
@@ -1607,7 +1609,7 @@ II, III — You may put a nonland permanent card with mana value 2 or less from 
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You may mill five cards.
 II — Return a permanent card from your graveyard to your hand.
 III — You may put a permanent card from your hand onto the battlefield.</text>
@@ -1654,7 +1656,7 @@ When Corvid Defacer dies, if it wasn’t the target of a spell this turn, return
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R} or {G}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1669,7 +1671,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R} or {W}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1729,7 +1731,7 @@ Once each turn, whenever this creature or another creature you control enters, y
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G} or {U}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -1758,9 +1760,10 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Draw a card.
-III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.</text>
+III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.
+​</text>
     </card>
     <card>
       <name>Longlegs</name>
@@ -1981,7 +1984,7 @@ When this creature enters or dies, create a tapped colorless land token named Ev
       </prop>
       <tablerow>3</tablerow>
       <text>You may cast a spell with mana value 7 or less from your hand without paying its mana cost.
-Take an extra turn after this one.</text>
+If it isn’t an extra turn, take an extra turn after this one.</text>
     </card>
     <card>
       <name>Figure of Some Importance</name>
@@ -2071,7 +2074,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W} or {U}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2083,7 +2086,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <cmc>2</cmc>
         <type>Legendary Planeswalker - Arachne </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>2</loyalty>
+      <loyalty>1</loyalty>
       </prop>
       <tablerow>1</tablerow>
       <text>[+1]: You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with flying and “This creature can’t block.”
@@ -2148,7 +2151,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U} or {B}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2297,7 +2300,7 @@ Whenever one or more creatures you control deal combat damage to a player, that 
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G} or {W}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2600,7 +2603,7 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value lesser than 5, mill a number of cards equal to twice the difference.</text>
+      <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value lesser than 5, mill a number of cards equal to the difference.</text>
     </card>
     <card>
       <name>Devoted Numena</name>

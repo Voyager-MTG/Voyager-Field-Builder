@@ -30,20 +30,6 @@
       <token>1</token>
     </card>
     <card>
-      <name>Elemental EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Elemental </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Sundown</reverse-related>
-    </card>
-    <card>
       <name>Distant Vulture Astral EXPT</name>
       <set>EXPT</set>
       <prop>

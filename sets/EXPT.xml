@@ -1058,7 +1058,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one, then choose another for each card named Unveiling in your graveyard.
-• Blank up to one target nonland permanent your next turn. (It loses all abilities.)
+• Blank up to one target nonland permanent until your next turn. (It loses all abilities until your next turn.)
 • Draw a card from your sanctum or library.
 • Counter up to one target activated or triggered ability.
 • Create a 1/1 silver Elemental creature token with flying and another with lifelink.</text>
@@ -1271,15 +1271,15 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
       <name>Sundown</name>
       <set rarity="mythic">EXPT</set>
       <prop>
-        <colors>RI</colors>
-        <manacost>1IRR</manacost>
-        <cmc>4</cmc>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound—Exile all other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Discard your hand, then draw three cards. If you have no cards in exile, draw five cards instead.</text>
+      <text>Pathbound—{2}. Activate only if there are no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Against the Night</name>
@@ -2193,7 +2193,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <tablerow>0</tablerow>
       <cipt>1</cipt>
       <text>({T}: Add {W} or {I}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2209,7 +2209,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>0</tablerow>
       <cipt>1</cipt>
       <text>({T}: Add {I} or {U}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2225,7 +2225,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>0</tablerow>
       <cipt>1</cipt>
       <text>({T}: Add {I} or {B}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2241,7 +2241,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>0</tablerow>
       <cipt>1</cipt>
       <text>({T}: Add {I} or {R}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
@@ -2257,7 +2257,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>0</tablerow>
       <cipt>1</cipt>
       <text>({T}: Add {I} or {G}.)
-This land enters tapped.
+This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
     </card>
     <card>
