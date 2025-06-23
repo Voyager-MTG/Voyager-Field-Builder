@@ -14,10 +14,16 @@
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>REDCOMMON
+CR16</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>This spell costs {3} less to cast if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
@@ -29,11 +35,17 @@ Enchanted creature gets +3/+2 and has haste.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Zombie Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITEUNCOMMON
+UW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from multicolored
@@ -44,10 +56,16 @@ Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>WHITEMYTHIC13
+WHITERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
@@ -58,11 +76,17 @@ Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and pay
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>GREENUNCOMMON
+UG07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Gathering Olorosaurs enters with two +1/+1 counters on it if no mana from land sources were spent to cast it.
@@ -73,10 +97,16 @@ Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSCOMMON
+CA01</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Heirloom of the Obsolete enters, create a tapped Treasure token.
@@ -88,11 +118,16 @@ Equip {4}</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a permanent you control enters tapped, untap it and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -102,11 +137,17 @@ Equip {4}</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>COLOURLESSCOMMON
+CA03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Retopology {6} (Cast a copy of this from your graveyard by exiling it and paying {6}. Spend only mana from differently named sources this way.)</text>
@@ -116,10 +157,15 @@ Equip {4}</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Prophetic Prism enters, draw a card.
@@ -130,10 +176,15 @@ Equip {4}</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -145,10 +196,15 @@ Equip {4}</text>
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
+        <cost>2GU</cost>
+        <mana>2GU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Anivir </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes>SPOTLIGHT
+OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever your complexity is three or greater, put two loyalty counters on Anivir. This ability triggers only once each turn.
@@ -161,10 +217,16 @@ Equip {4}</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSCOMMON
+UA04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -176,10 +238,16 @@ Equip {4}</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>XU</manacost>
+        <cost>XU</cost>
+        <mana>XU</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUECOMMON
+CU12</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter up to one target spell unless its controller pays {X}.
@@ -190,11 +258,17 @@ Draw a card, then discard a card.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Zombie Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>BLACKUNCOMMON
+UB01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -205,10 +279,15 @@ Whenever another artifact you control enters, put a +1/+1 counter on Awakened Ma
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield.
@@ -219,11 +298,17 @@ Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur Crocodile </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>REDCOMMON
+CR02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, {T}: Sun Pouncer deals 1 damage to each opponent.
@@ -234,11 +319,17 @@ Whenever your complexity is three or greater, untap Sun Pouncer. This ability tr
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Pangolin </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>REDCOMMON
+CR03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Tatu-Peba attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +2/+2 until end of turn.</text>
@@ -248,11 +339,17 @@ Whenever your complexity is three or greater, untap Sun Pouncer. This ability tr
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>REDCOMMON
+CR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Graceful Coelurosaur gets +2/+2 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -262,11 +359,17 @@ Whenever your complexity is three or greater, untap Sun Pouncer. This ability tr
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Fractal Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>REDCOMMON
+CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
@@ -277,11 +380,17 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dinosaur Dog </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>REDCOMMON
+CR06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Harsurfir Scavenger enters, you may sacrifice a land or exile a land card from your graveyard. If you do, it gains haste until end of turn and you get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -291,11 +400,17 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Fractal Horror </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>REDCOMMON
+CR07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hellish Inferngon enters, add three mana in any combination of colors and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -305,11 +420,17 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Cat </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>REDUNCOMMON
+UR07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice a land or exile a land card from your graveyard: Swiftfoot Striker gains your choice of haste or menace until end of turn. </text>
@@ -319,11 +440,16 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>REDCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Maeverano Herdmate has double strike if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -333,11 +459,17 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>5R</manacost>
+        <cost>5R</cost>
+        <mana>5R</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>REDCOMMON
+CR10</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Stonehewn Colossus enters, you may sacrifice a land or exile a land card from your graveyard. If you do, Stonehewn Colossus deals 2 damage to any target.</text>
@@ -347,10 +479,15 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Coordinated Hunt deals 3 damage to any target. If your complexity is three or greater, Coordinated Hunt deals 4 damage to that target instead. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -360,10 +497,16 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON
+CR13</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose two—
@@ -376,10 +519,16 @@ Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON
+CR14</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Nilshroud Conflagration deals 5 damage to target creature.
@@ -390,10 +539,15 @@ You may sacrifice a land. If you do, search your library for a basic land card o
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Add two mana in any combination of colors.
@@ -404,10 +558,16 @@ Draw a card if this is the only noncreature spell you’ve cast this turn.</text
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON
+CR15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Discard a card, then draw two cards.
@@ -418,10 +578,16 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDCOMMON
+CR17</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target artifact or land.
@@ -432,10 +598,16 @@ Creatures you control get +2/+0 until end of turn.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDCOMMON
+CR18</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -447,10 +619,17 @@ Creatures you control get +2/+0 until end of turn.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>REDCOMMON
+CR19
+LANDCYCLECOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Bevelled Cliffs enters tapped. When it does, up to one target creature gains trample and haste until end of turn.
@@ -461,10 +640,16 @@ Creatures you control get +2/+0 until end of turn.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDUNCOMMON
+UR09</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, whenever a creature dies, you get {V}. (Spend {V} to cast copies of Vertex spells.)
@@ -475,11 +660,16 @@ Cubic Flames deals 2 damage to each creature.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>GREENCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -490,11 +680,17 @@ Whenever you cast an Aura or Equipment spell, you get {V}. (Spend {V} to cast co
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>GREENCOMMON
+CG04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever your complexity is three or greater, put a +1/+1 counter on Charging Argosaur. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -504,11 +700,16 @@ Whenever you cast an Aura or Equipment spell, you get {V}. (Spend {V} to cast co
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Fractal Plant </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>GREENCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Lush Stamengon dies, you get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -518,11 +719,17 @@ Whenever you cast an Aura or Equipment spell, you get {V}. (Spend {V} to cast co
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>GREENCOMMON
+CG06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Humongous Detritivore enters, mill three cards.
@@ -533,11 +740,17 @@ Humongous Detritivore gets +2/+1 if there are eight or more cards in your gravey
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Elk </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>GREENCOMMON
+CG09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance</text>
@@ -547,11 +760,17 @@ Humongous Detritivore gets +2/+1 if there are eight or more cards in your gravey
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes>GREENCOMMON
+CG10</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Apex of Antiquity enters, put a +1/+1 counter on another target Dinosaur you control.</text>
@@ -561,10 +780,16 @@ Humongous Detritivore gets +2/+1 if there are eight or more cards in your gravey
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>GREENCOMMON
+CG12</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature you control
@@ -576,10 +801,16 @@ Enchanted creature has trample.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>GREENCOMMON
+CG13</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -591,10 +822,16 @@ You may cast Primal Power from your graveyard if your complexity is three or gre
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>GREENCOMMON
+CG14</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Untap up to one target creature and put a +1/+1 counter on it.
@@ -605,10 +842,16 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1GG</manacost>
+        <cost>1GG</cost>
+        <mana>1GG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENCOMMON
+CG15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target card from your graveyard to your hand.
@@ -619,10 +862,16 @@ Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>GREENCOMMON
+CG16</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant land
@@ -633,10 +882,15 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>GREENCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -649,10 +903,15 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>GREENCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Mesh Rot enters, exile up to one target enchantment or card in a graveyard.
@@ -663,10 +922,17 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>GREENCOMMON
+CG19
+LANDCYCLECOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Specular Shack enters the battlefield tapped. When it does, look at the top two cards of your library, put them back in any order, then mill a card.
@@ -677,10 +943,16 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENUNCOMMON
+UG09</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for up to two basic land cards and/or Texture cards, put them onto the battlefield tapped, then shuffle.</text>
@@ -690,11 +962,17 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Rabbit </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>GREENCOMMON
+CG01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, {T}: Add one mana of any color.</text>
@@ -704,10 +982,16 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSUNCOMMON
+UA06</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Polystone Quarry enters, you get {V/U}. (Spend {V} to cast copies of Vertex spells.)
@@ -718,11 +1002,17 @@ The first Vertex spell you cast each turn has “Add two mana in any combination
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Fox </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>REDUNCOMMON
+UR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, menace
@@ -733,11 +1023,16 @@ Blazefoxes of Moz gets +2/+0 if your complexity is three or greater. (Your compl
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>1RW</manacost>
+        <cost>1RW</cost>
+        <mana>1RW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -766,10 +1061,15 @@ Melt deals 3 damage to any target.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>XR</manacost>
+        <cost>XR</cost>
+        <mana>XR</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDRARE11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Geometric Singularity deals X damage to any target.
@@ -780,10 +1080,15 @@ Retopology XR (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>REDRARE10</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>A player losing unspent mana causes that player to lose that much life.
@@ -794,11 +1099,18 @@ You may tap lands you don’t control for mana. Activate abilities this way only
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>GREENCOMMON
+CG02
+DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Emerging Wildlife enters, put a +1/+1 counter on target creature.
@@ -809,11 +1121,17 @@ Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Ape </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>CG08
+GREENCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Elder Gigantops gets +2/+2 if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -823,11 +1141,17 @@ Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Elephant </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>GREENCOMMON
+CG11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -838,11 +1162,16 @@ When Stampeding Goliath enters, you get {V/U}. (Spend {V} to cast copies of Vert
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Cat </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>GREENRARE3</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may play lands during your turn at any time you could cast an instant.
@@ -871,11 +1200,17 @@ Target creature loses all abilities until end of turn.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Artifact Creature - Zombie Angel </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>WHITERARE
+WHITERARE6</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, first strike, vigilance
@@ -886,10 +1221,15 @@ At the beginning of your upkeep, if Armament of Armageddon was cast from your ha
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE7</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a nonland card, exile it, then shuffle. For as long as that card remains exiled, you may cast that card, and at least one mana from a source that shares a card type with it must be used to cast that spell.</text>
@@ -899,10 +1239,16 @@ At the beginning of your upkeep, if Armament of Armageddon was cast from your ha
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDUNCOMMON
+UR10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile the top two cards of your library and choose one of them. You may play that card this turn.
@@ -913,11 +1259,17 @@ At the beginning of your upkeep, if Armament of Armageddon was cast from your ha
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Monkey </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>WHITEUNCOMMON
+UW02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Felygon Sentinel enters, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
@@ -928,11 +1280,16 @@ Activated abilities of nonland permanents cost {1} more to activate.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Fractal Beast </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>GREENRARE13</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library at any time.
@@ -944,11 +1301,17 @@ Sacrifice a land: Mill a card. If the milled card is a creature card, you may ca
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Fox </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>REDCOMMON
+CR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice Orchard Vixen, discard a card: Draw a card.
@@ -959,10 +1322,15 @@ Retopology RR (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>WHITERARE10</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When The Downscaling enters, for each player, you choose from among the permanents that player controls another enchantment, an artifact, a creature, a planeswalker, and a land. Exile those permanents until The Downscaling leaves the battlefield.</text>
@@ -972,10 +1340,16 @@ Retopology RR (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Token Reminder</type>
         <maintype>Reminder</maintype>
+        <notes>I’M SORRY CAJUN 
+!token</notes>
       </prop>
       <tablerow>1</tablerow>
       <text></text>
@@ -985,11 +1359,16 @@ Retopology RR (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Advisor </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>WHITERARE5</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Sacrifice a land.
@@ -1001,10 +1380,15 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
       <prop>
         <colors>UB</colors>
         <manacost>3UB</manacost>
+        <cost>3UB</cost>
+        <mana>3UB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Planeswalker - Prawth </type>
         <maintype>Planeswalker</maintype>
       <loyalty>6</loyalty>
+        <notes>SPOTLIGHT
+OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may remove loyalty counters from Prawth rather than pay that amount of V.
@@ -1016,11 +1400,16 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Skeleton Warlock </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>BLACKRARE2</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, {T}: Exile target card from a graveyard. If you do, add one mana of any color. Then if there are four or more card types among cards exiled with Cache Dredger, each opponent loses 2 life and you gain 2 life.</text>
@@ -1030,11 +1419,16 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Druid </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>COLOURLESSCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Horizon Collector has all activated and triggered abilities of each land you control.</text>
@@ -1044,10 +1438,15 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>GREENRARE10</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Nonland permanent cards in your graveyard with mana value 3 or greater have retopology. The retopology cost is an amount of {G} equal to its mana value. (Cast a copy of it by exiling it from your graveyard and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
@@ -1057,11 +1456,17 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>2WB</manacost>
+        <cost>2WB</cost>
+        <mana>2WB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Noble </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>UM05
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -1072,11 +1477,17 @@ Sacrifice a nonartifact permanent, Exile an artifact card from your graveyard an
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>1GU</manacost>
+        <cost>1GU</cost>
+        <mana>1GU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>UM07
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Revitalised Cryptid enters, for each card type among sources of mana spent to cast it, you may draw a card or put two +1/+1 counters on it.</text>
@@ -1086,11 +1497,17 @@ Sacrifice a nonartifact permanent, Exile an artifact card from your graveyard an
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>4BG</manacost>
+        <cost>4BG</cost>
+        <mana>4BG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Monkey </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>UM09
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Stick Retriever enters, create a 1/1 white Human creature token for each creature card in your graveyard.
@@ -1101,11 +1518,17 @@ Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>1BR</manacost>
+        <cost>1BR</cost>
+        <mana>1BR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dinosaur Horror </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>UM08
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Nilshroud Predator or another Horror you control attacks, you may pay {1}. If you do, that Horror gains double strike until end of turn.</text>
@@ -1115,11 +1538,17 @@ Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>4RG</manacost>
+        <cost>4RG</cost>
+        <mana>4RG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>UM10
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Other Dinosaurs you control get +1/+1.
@@ -1130,11 +1559,17 @@ Whenever your complexity is three or greater, create a 3/3 green Dinosaur creatu
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>1WU</manacost>
+        <cost>1WU</cost>
+        <mana>1WU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>UM01
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1145,11 +1580,17 @@ Uverngon’s Messenger gets +1/+1 and has hexproof if a spell or ability put a n
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>1UR</manacost>
+        <cost>1UR</cost>
+        <mana>1UR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Shark </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>UM06
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever your complexity is five or greater, draw two cards. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -1159,11 +1600,16 @@ Uverngon’s Messenger gets +1/+1 and has hexproof if a spell or ability put a n
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1RR</manacost>
+        <cost>1RR</cost>
+        <mana>1RR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Citizen </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>REDRARE8</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Extinct Rebel attacks, return up to one target permanent card with mana value 2 or less from your graveyard to the battlefield, except it’s not a creature. If you do, exile it at the beginning of the next end step.</text>
@@ -1173,10 +1619,16 @@ Uverngon’s Messenger gets +1/+1 and has hexproof if a spell or ability put a n
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
+        <cost>UB</cost>
+        <mana>UB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>UM15
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -1188,10 +1640,16 @@ This permanent is a 3/3 Zombie Soldier artifact creature if an artifact entered 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>2BR</manacost>
+        <cost>2BR</cost>
+        <mana>2BR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>UM18
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Nightmarish Terrain enters, you get {V/R}. (Spend {V} to cast copies of Vertex spells.)
@@ -1202,10 +1660,16 @@ Whenever a creature token you control enters, it deals damage equal to its power
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>RG</manacost>
+        <cost>RG</cost>
+        <mana>RG</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>UM20
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +2/+2.
@@ -1217,10 +1681,15 @@ Equip {2}, {T}</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Other nonland permanents you control have bake. (When that permanent enters, up to one other target permanent gains its abilities until end of turn. Multiple instances of Bake trigger simultaneously.)</text>
@@ -1230,10 +1699,15 @@ Equip {2}, {T}</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>2UR</manacost>
+        <cost>2UR</cost>
+        <mana>2UR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, if your complexity is twice its mana value or greater, copy that spell. You may choose new targets for it. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -1243,10 +1717,16 @@ Equip {2}, {T}</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>4WB</manacost>
+        <cost>4WB</cost>
+        <mana>4WB</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>UM12
+ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return up to two artifact cards from your graveyard to the battlefield.</text>
@@ -1256,10 +1736,16 @@ Equip {2}, {T}</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>GW</manacost>
+        <cost>GW</cost>
+        <mana>GW</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>UM14
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant permanent
@@ -1271,10 +1757,16 @@ You may cast Aura spells from your graveyard if they target enchanted permanent.
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>1RW</manacost>
+        <cost>1RW</cost>
+        <mana>1RW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>UM13
+ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a land.
@@ -1285,10 +1777,16 @@ Burn Barren deals 4 damage to any target and you gain 4 life.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>1WU</manacost>
+        <cost>1WU</cost>
+        <mana>1WU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>UM11
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Create a 1/1 white Human creature token. Activate only if a spell or ability put a nontoken card into your hand this turn.
@@ -1299,10 +1797,16 @@ Burn Barren deals 4 damage to any target and you gain 4 life.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>1GU</manacost>
+        <cost>1GU</cost>
+        <mana>1GU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>UM17
+ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards. You may play an additional land this turn.
@@ -1313,11 +1817,17 @@ Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>2GW</manacost>
+        <cost>2GW</cost>
+        <mana>2GW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>UM04
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast an Aura or Equipment spell, draw a card.</text>
@@ -1327,11 +1837,17 @@ Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Unicorn </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>WHITECOMMON
+CW10</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Witness of the Obsolete has lifelink if you control an Aura or an Equipment.</text>
@@ -1341,11 +1857,17 @@ Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Scout </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>WHITECOMMON
+CW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Asset Manager enters, create a 1/1 white Human creature token.
@@ -1356,11 +1878,17 @@ Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Mystic </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>WHITECOMMON
+CW07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Chronicler of the Obsolete enters, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
@@ -1370,10 +1898,16 @@ Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>WHITECOMMON
+CW02</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant permanent
@@ -1385,11 +1919,17 @@ Enchanted permanent has ward {2}.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Advisor </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>WHITECOMMON
+CW06 </notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Tainted Bureaucrat attacks, you may sacrifice a land or exile a land card from your graveyard. If you do, it gets +1/+1 and gains first strike until end of turn.</text>
@@ -1399,10 +1939,16 @@ Enchanted permanent has ward {2}.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>WHITECOMMON
+CR11</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -1414,11 +1960,17 @@ Retopology WW (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITECOMMON
+CW05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1429,10 +1981,16 @@ Creatures can’t block this permanent unless their controller pays {1} for each
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITECOMMON
+CW18</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {1}.</text>
@@ -1442,11 +2000,17 @@ Creatures can’t block this permanent unless their controller pays {1} for each
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>WHITECOMMON
+CW04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -1457,10 +2021,16 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITECOMMON
+CW15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target tapped creature.</text>
@@ -1470,10 +2040,16 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITECOMMON
+CW18</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1485,11 +2061,17 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Pilot </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITECOMMON
+CW08</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1500,11 +2082,17 @@ When Erfex Cartographer enters, you may discard a card. If you do, search your l
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>WHITECOMMON
+CW12</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1515,10 +2103,16 @@ This permanent has double strike if it’s attacking.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITECOMMON
+CW13</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose target card in your graveyard that was put there from the battlefield this turn. If it isn’t a land card with no mana abilities, return it to the battlefield tapped.</text>
@@ -1528,11 +2122,17 @@ This permanent has double strike if it’s attacking.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>WHITECOMMON
+CW03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir Ferrier enters, you may sacrifice a land. If you do, draw a card and you may play an additional land this turn.</text>
@@ -1542,10 +2142,16 @@ This permanent has double strike if it’s attacking.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>5W</manacost>
+        <cost>5W</cost>
+        <mana>5W</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>WHITECOMMON
+CW14</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target permanent.
@@ -1556,11 +2162,17 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>WHITECOMMON
+CW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1571,10 +2183,17 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>WHITECOMMON
+CW19
+LANDCYCLECOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Saturated Savannah enters tapped. When it does, put a +1/+1 counter on up to one target creature.
@@ -1585,10 +2204,16 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>UU</manacost>
+        <cost>UU</cost>
+        <mana>UU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUEUNCOMMON
+UU09</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell if you have equal or greater complexity than its controller. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -1598,10 +2223,17 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>BLACKCOMMON
+CB19
+LANDCYCLECOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Occluded Bog enters tapped.
@@ -1613,10 +2245,16 @@ When Occluded Bog enters, exile up to one target card from a graveyard.
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLACKCOMMON
+CB12</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature with power or toughness 2 or less.</text>
@@ -1626,11 +2264,16 @@ When Occluded Bog enters, exile up to one target card from a graveyard.
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Snake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>BLACKCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -1641,10 +2284,16 @@ When Kinematic Constrictor dies, put a +1/+1 counter on up to one target artifac
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>CB18
+BLACKCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Up to one target creature gains lifelink and deathtouch until end of turn. 
@@ -1655,10 +2304,15 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a noncreature permanent.
@@ -1669,10 +2323,16 @@ Exile target creature or planeswalker.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLACKCOMMON
+CB15</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -1684,10 +2344,15 @@ Sacrifice this permanent: Draw a card.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
@@ -1698,11 +2363,17 @@ Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLACKCOMMON
+CB02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Bog Snapper dies, up to one target creature gets -1/-1 until end of turn.
@@ -1713,11 +2384,17 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Fractal Snake </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>BLACKCOMMON
+CB01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Conscripted Serpengon attacks, exile up to one target card in a graveyard and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -1727,10 +2404,16 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKCOMMON
+CB17</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player reveals their hand. You may exile a noncreature, nonland card from it. If you don’t, you get {V/U}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -1740,11 +2423,17 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Wall </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
+        <notes>BLACKCOMMON
+CB14</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -1755,10 +2444,15 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLACKCOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature or planeswalker.</text>
@@ -1768,11 +2462,17 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLACKCOMMON
+CB06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1783,11 +2483,17 @@ When Nilshroud Mulcher enters or dies, target player mills two cards.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>BLACKCOMMON
+CB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1798,11 +2504,17 @@ Menace</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Dinosaur Bird </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>BLACKCOMMON
+CB08</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1813,11 +2525,17 @@ When this permanent leaves the battlefield, you get {V/W}. (Spend {V} to cast co
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>BLACKCOMMON
+CB07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another you control enters, put a +1/+1 counter on Planetary Harvester.</text>
@@ -1827,11 +2545,17 @@ When this permanent leaves the battlefield, you get {V/W}. (Spend {V} to cast co
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Fractal Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>BLACKCOMMON
+CB09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1842,11 +2566,17 @@ Whenever you spend four or more mana to cast a spell or activate an ability, eac
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5B</manacost>
+        <cost>5B</cost>
+        <mana>5B</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Fractal Horror </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes>BLACKCOMMON
+CB10</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -1857,11 +2587,16 @@ Whenever this permanent deals damage to a player, target player mills that many 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Creature - Fractal Human </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>WHITERARE3</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever an opponent’s complexity is three or greater, you gain 2 life and draw a card. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
@@ -1872,11 +2607,16 @@ An opponent with complexity three or greater can’t cast spells or activate abi
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>GREENRARE5</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lands you control have bake. (When they enter, up to one other target permanent gains its abilities until end of turn.)</text>
@@ -1886,10 +2626,16 @@ An opponent with complexity three or greater can’t cast spells or activate abi
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITEUNCOMMON
+UW10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target permanent, then return it to the battlefield under its owner’s control. As it enters the battlefield this way, it gains bake until end of turn. (When it enters, up to one target permanent gains its abilities until end of turn.)</text>
@@ -1899,10 +2645,15 @@ An opponent with complexity three or greater can’t cast spells or activate abi
       <set rarity="rare">PVR</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>BG</manacost>
+        <cost>BG</cost>
+        <mana>BG</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target nonland permanent with mana value 3 or less.
@@ -1913,10 +2664,15 @@ Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLUERARE6</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Ward {3}
@@ -1927,10 +2683,15 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
       <set rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>BLACKCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Erfex Cemetery enters, each opponent sacrifices a creature.
@@ -1941,10 +2702,15 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{1}, Sacrifice Rasteriser: Choose two—
@@ -1958,10 +2724,17 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>WHITEUNCOMMON
+UW13
+LANDCYCLEUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Recursive Steppe enters tapped.
@@ -1973,11 +2746,17 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>2RW</manacost>
+        <cost>2RW</cost>
+        <mana>2RW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Mystic </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>UM03
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -1988,10 +2767,17 @@ Whenever Felygon Reclaimer attacks, you may sacrifice a land or exile a land car
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>SPOTLIGHT
+BLACKUNCOMMON
+UB11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You draw two cards and you lose 2 life.
@@ -2002,10 +2788,16 @@ If a library has twenty or fewer cards in it, add BBB.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5BB</manacost>
+        <cost>5BB</cost>
+        <mana>5BB</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>SPOTLIGHT
+BLACKRARE8</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each player’s upkeep, that player exiles a card in their hand or a permanent they control four times. If they can’t, they lose 100 life.</text>
@@ -2015,10 +2807,16 @@ If a library has twenty or fewer cards in it, add BBB.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>SPOTLIGHT
+REDRARE13</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a spell from a zone not noted by Anivir’s Warning, note that zone. When you do, Anivir’s Warning deals damage to any target equal to the number of zones noted for it. (The zones are battlefield, hand, graveyard, exile, library, stack, and command.)</text>
@@ -2028,10 +2826,16 @@ If a library has twenty or fewer cards in it, add BBB.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLACKUNCOMMON
+UB08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {X} less to cast, where X is your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
@@ -2042,11 +2846,17 @@ Exile target creature or planeswalker. Scry 2.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Elk </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes>GREENCOMMON
+CG07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Normal Mapper enters, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.</text>
@@ -2056,10 +2866,15 @@ Exile target creature or planeswalker. Scry 2.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2071,10 +2886,16 @@ Exile target creature or planeswalker. Scry 2.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>SPOTLIGHT
+BLUERARE10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You get nine {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -2084,10 +2905,16 @@ Exile target creature or planeswalker. Scry 2.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>1BG</manacost>
+        <cost>1BG</cost>
+        <mana>1BG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>UM19
+ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may cast copies of spells from your graveyard with mana value equal to your complexity. As an additional cost to cast spells this way, exile that card from your graveyard.  (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -2097,10 +2924,17 @@ Exile target creature or planeswalker. Scry 2.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>BLUEUNCOMMON
+UU13
+LANDCYCLEUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Boolean Lake enters tapped.
@@ -2112,10 +2946,17 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>BLACKUNCOMMON
+UB13
+LANDCYCLEUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Obfuscated Pier enters the battlefield tapped.
@@ -2127,10 +2968,17 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>REDUNCOMMON
+UR13
+LANDCYCLEUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Origin Point enters the battlefield tapped.
@@ -2142,10 +2990,17 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>GREENUNCOMMON
+UG13
+LANDCYCLEUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Garden of Nurbs enters the battlefield tapped.
@@ -2157,10 +3012,15 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
+        <notes>BASICLAND</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2170,10 +3030,15 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
+        <notes>BASICLAND</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2183,10 +3048,15 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
+        <notes>BASICLAND</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2196,10 +3066,15 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
+        <notes>BASICLAND</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2209,11 +3084,17 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>REDUNCOMMON
+UR02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Wrecking Rover enters, search your library for a basic land card or a Texture card, put it onto the battlefield tapped, then shuffle.
@@ -2225,11 +3106,17 @@ When Wrecking Rover leaves the battlefield, sacrifice a land.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>REDUNCOMMON
+UR03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -2240,11 +3127,17 @@ Whenever Burning Devastatasaur attacks, you may sacrifice a land or exile a land
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Hellion </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>REDUNCOMMON
+UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
@@ -2255,11 +3148,17 @@ Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>5RR</manacost>
+        <cost>5RR</cost>
+        <mana>5RR</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>7/6</pt>
+        <notes>REDUNCOMMON
+UR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {X} less to cast, where X is your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -2269,11 +3168,18 @@ Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Dinosaur Horror </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>REDUNCOMMON
+UR06
+DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -2284,10 +3190,16 @@ Whenever Terror of Harsurfir deals combat damage to a player, you get an amount 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4RR</manacost>
+        <cost>4RR</cost>
+        <mana>4RR</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDUNCOMMON
+UR08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target land. 
@@ -2298,10 +3210,16 @@ Spawn Volcano deals 6 damage to any target.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>REDUNCOMMON
+UR11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose target creature you control. Whenever that creature is dealt damage this turn, it deals that much damage to any other target and you get that much {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -2311,10 +3229,16 @@ Spawn Volcano deals 6 damage to any target.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>REDUNCOMMON
+UR12</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{3}, {T}: Exile the top card of your library. You may play that card until you exile another card with Heart of Harsurfir. This ability costs {3} less to activate if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -2324,11 +3248,17 @@ Spawn Volcano deals 6 damage to any target.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
+        <notes>REDCOMMON
+CR08</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -2339,10 +3269,16 @@ Whenever Leaping Carnosaur attacks, it gets +1/+0 until end of turn for each Din
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>XG</manacost>
+        <cost>XG</cost>
+        <mana>XG</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENUNCOMMON
+UG08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.
@@ -2353,10 +3289,16 @@ Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>XU</manacost>
+        <cost>XU</cost>
+        <mana>XU</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUEUNCOMMON
+UU07</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player mills twice X cards.
@@ -2367,10 +3309,15 @@ Retopology XU (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1WW</manacost>
+        <cost>1WW</cost>
+        <mana>1WW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITERARE11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose up to three target permanent cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield tapped.</text>
@@ -2380,10 +3327,16 @@ Retopology XU (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>BLACKUNCOMMON
+UB09</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2395,11 +3348,16 @@ Equip {1}, {T}</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>5GGG</manacost>
+        <cost>5GGG</cost>
+        <mana>5GGG</mana>
         <cmc>8</cmc>
+        <mv>8</mv>
         <type>Creature - Fractal Elk </type>
         <maintype>Creature</maintype>
         <pt>6/7</pt>
+        <notes>GREENRARE7</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell can’t be countered.
@@ -2429,11 +3387,17 @@ Search your library for a creature card, reveal it, put it into your hand, then 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bear </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>GREENUNCOMMON
+UG03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may have Guardian of Erfex Fens assign combat damage as though it weren’t blocked.</text>
@@ -2443,10 +3407,16 @@ Search your library for a creature card, reveal it, put it into your hand, then 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLUEUNCOMMON
+UU08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw X cards, where X is the amount of mana spent to cast this spell, then discard a card.
@@ -2457,11 +3427,16 @@ Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and payi
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Artifact Creature - Survivor </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>BLACKRARE3</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -2472,11 +3447,17 @@ Whenever a spell or ability puts a nontoken card into a player’s hand, if that
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Bard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>BLUEUNCOMMON
+UU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Texturewalk (This creature can’t be blocked as long as defending player controls a Texture.)
@@ -2487,10 +3468,15 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>XGG</manacost>
+        <cost>XGG</cost>
+        <mana>XGG</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENRARE11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library or graveyard for a green creature card with mana value X or less and put it onto the battlefield. If your complexity is three or greater, repeat this process once. If you’ve searched your library this way, shuffle. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -2500,11 +3486,17 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>BLUECOMMON
+CU03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2515,10 +3507,16 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
+        <cost>UB</cost>
+        <mana>UB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERMYTHIC
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{1}, Tap three untapped non-Bird permanents you control: Create a 1/1 blue Fractal Bird creature token with flying and “This creature can’t block.”
@@ -2529,11 +3527,17 @@ Whenever three or more creatures you control deal combat damage to a player, cre
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Elephant Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>BLUEUNCOMMON
+UU03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2544,11 +3548,17 @@ Whenever three or more creatures you control deal combat damage to a player, cre
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Human Ranger </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>BLUEUNCOMMON
+UU05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess, vigilance
@@ -2559,11 +3569,17 @@ Whenever Rastira Trawler attacks, exile target noncreature, nonland card in your
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes>BLUEUNCOMMON
+UU06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Rastira Reconstructor enters, search your library for a card, put that card into your graveyard, then shuffle.
@@ -2574,11 +3590,17 @@ Whenever Rastira Trawler attacks, exile target noncreature, nonland card in your
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Citizen Nightmare </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>WHITEUNCOMMON
+UW04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Productive Throng attacks, it can’t be blocked this turn unless an opponent pays {1}.
@@ -2589,11 +3611,17 @@ At the beginning of your end step, put a +1/+1 counter on target creature unless
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Horror </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLACKUNCOMMON
+UB02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2604,11 +3632,17 @@ Deathtouch, lifelink</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bear </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>BLACKUNCOMMON
+UB03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2619,11 +3653,17 @@ Deathtouch, lifelink</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>BLACKUNCOMMON
+UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
@@ -2634,11 +3674,17 @@ Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Plant Horror </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>BLACKUNCOMMON
+UB05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, lifelink
@@ -2649,11 +3695,17 @@ Hatebloom Titangon gets +3/+3 if a library has twenty or fewer cards in it.</tex
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>BB</manacost>
+        <cost>BB</cost>
+        <mana>BB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>BLACKUNCOMMON
+UB06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ego Eroder enters, look at target player’s hand. You may choose a noncreature, nonland card from it. Exile that card until Ego Eroder leaves the battlefield.
@@ -2664,11 +3716,17 @@ Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLACKUNCOMMON
+UB07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2679,11 +3737,17 @@ Whenever one or more creatures you control die, each opponent loses 1 life and y
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>WHITEUNCOMMON
+UW07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -2694,10 +3758,16 @@ When Oblivion Zealot enters, search your library for up to three basic Plains ca
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENUNCOMMON
+UG10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a basic land card or a Texture card, reveal it, put it into your hand, then shuffle.
@@ -2708,10 +3778,16 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>LANDCYCLERARE
+BLACKRARE12</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Erfex enters tapped.
@@ -2723,10 +3799,16 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>BLUERARE12
+LANDCYCLERARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>When Rastira, the World Moat enters, target player mills three cards.
@@ -2737,10 +3819,16 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>REDRARE12
+LANDCYCLERARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Harsurfir enters tapped.
@@ -2752,10 +3840,16 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>GREENRARE12
+LANDCYCLERARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Urwrapir enters tapped.
@@ -2767,10 +3861,16 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSRARE
+LANDCYCLERARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -2781,11 +3881,17 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5BB</manacost>
+        <cost>5BB</cost>
+        <mana>5BB</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Artifact Creature - Zombie Demon </type>
         <maintype>Creature</maintype>
         <pt>7/5</pt>
+        <notes>BLACKUNCOMMON
+UB10</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Advocate of Heresy enters, destroy up to one target creature. You get an amount of {V} equal to that creature’s mana value. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -2795,10 +3901,15 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLACKUNCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, each opponent loses 1 life. You gain 1 life and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -2808,11 +3919,16 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Zombie Soldier </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes>WHITEUNCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -2823,11 +3939,17 @@ Whenever Catechesis Engine attacks, you may sacrifice a land or exile a land car
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITEUNCOMMON
+UW03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Hierarch of Exultation or another permanent you control leaves the battlefield, you gain 1 life.
@@ -2838,11 +3960,17 @@ Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Artifact Creature - Zombie Angel </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>WHITEUNCOMMON
+UW06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2853,10 +3981,16 @@ Flying, vigilance</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>WHITEUNCOMMON
+UW11</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -2867,10 +4001,16 @@ Enchanted creature has double strike.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>WHITEUNCOMMON
+UW12</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Spells cost {1} more to cast.
@@ -2881,11 +4021,17 @@ At the beginning of each end step, if no spells were cast this turn, sacrifice T
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Cleric </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>WHITEUNCOMMON
+UW05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Erfex Reclaimer enters, create a token that’s a copy of an Aura or Equipment you control attached to target permanent or player it could attach to.</text>
@@ -2895,10 +4041,16 @@ At the beginning of each end step, if no spells were cast this turn, sacrifice T
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>LANDCYCLERARE
+WHITERARE12</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Spells you cast cost {1} more to cast.
@@ -2909,11 +4061,17 @@ At the beginning of each end step, if no spells were cast this turn, sacrifice T
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>GREENUNCOMMON
+UG01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Mill a card. Then put a +1/+1 counter on Maturing Ankylosaur if there are eight or more cards in your graveyard.</text>
@@ -2923,11 +4081,16 @@ At the beginning of each end step, if no spells were cast this turn, sacrifice T
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>GREENUNCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -2938,11 +4101,17 @@ Whenever you cast a Dinosaur spell, draw a card.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>5GG</manacost>
+        <cost>5GG</cost>
+        <mana>5GG</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Wurm </type>
         <maintype>Creature</maintype>
         <pt>7/7</pt>
+        <notes>GREENUNCOMMON
+UG06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -2953,10 +4122,16 @@ When Sifter Wurm enters, scry 3, then reveal the top card of your library. You g
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>GREENUNCOMMON
+UG12</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Prevent all damage that would be dealt by non-Fractal sources this turn.
@@ -2967,10 +4142,15 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, you may pay {1}. If you don’t, sacrifice Self-Intersector and it deals 3 damage to you.
@@ -2981,11 +4161,16 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Phoenix </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>REDRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -2996,10 +4181,15 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>9UU</manacost>
+        <cost>9UU</cost>
+        <mana>9UU</mana>
         <cmc>11</cmc>
+        <mv>11</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUERARE9</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {X} less to cast, where X is the total complexity of each player.
@@ -3010,10 +4200,16 @@ End the turn. (Exile all spells and abilities from the stack, including this car
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUEUNCOMMON
+UU10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell. 
@@ -3058,10 +4254,15 @@ Return target creature card with mana value 3 or less from your graveyard to the
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature doesn’t untap during its controller’s untap step.
@@ -3073,10 +4274,15 @@ Equip {3}, {T}</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land  - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -3087,11 +4293,16 @@ Equip {3}, {T}</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Vehicle </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color.
@@ -3102,10 +4313,15 @@ Crew 3 (Tap any number of other creatures you control with total power 3 or grea
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{5}, {T}: Shuffle your library, then exile the top card of it. You may cast that card without paying its mana cost.</text>
@@ -3115,10 +4331,17 @@ Crew 3 (Tap any number of other creatures you control with total power 3 or grea
       <set rarity="common">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>BLUECOMMON
+CU19
+LANDCYCLECOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Boundless Ocean enters tapped. When it does, you may tap or untap target creature.
@@ -3129,10 +4352,16 @@ Crew 3 (Tap any number of other creatures you control with total power 3 or grea
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>CU17
+BLUECOMMON</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You may tap or untap target permanent.
@@ -3143,10 +4372,16 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUECOMMON
+CU15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.
@@ -3157,11 +4392,17 @@ Retopology UU (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Wall </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
+        <notes>BLUECOMMON
+CU14</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -3173,11 +4414,17 @@ Retopology UU (Cast a copy of this from your graveyard by exiling it and paying 
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Fractal Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>CU01
+BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3188,10 +4435,16 @@ Whenever Migrating Songon deals combat damage to a player, you get {V}. (Spend {
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUECOMMON
+CU16</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target nonland permanent gains “{T}: Return target nonland permanent to its owner’s hand.”</text>
@@ -3201,11 +4454,17 @@ Whenever Migrating Songon deals combat damage to a player, you get {V}. (Spend {
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Frog </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLUEUNCOMMON
+UU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -3217,11 +4476,17 @@ If you’ve cast a spell this turn and it wasn’t your main phase, this permane
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Crab </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>BLUECOMMON
+CU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a spell, untap Raving Crab.</text>
@@ -3231,11 +4496,17 @@ If you’ve cast a spell this turn and it wasn’t your main phase, this permane
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Crocodile </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLUECOMMON
+CU04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Urwrapir Ambusher can’t be blocked if your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -3245,11 +4516,17 @@ If you’ve cast a spell this turn and it wasn’t your main phase, this permane
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Trilobite </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>CU18
+BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Seafloor Scrounger gets +1/+1 if a spell or ability put a nontoken card into your hand this turn.
@@ -3260,10 +4537,16 @@ Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUECOMMON
+CU11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs 1U less to cast if its target wasn’t cast from a hand.
@@ -3274,11 +4557,17 @@ Counter target spell.</text>
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>CU05
+BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -3289,11 +4578,17 @@ Whenever this permanent deals damage to a player or planeswalker, draw a card.</
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Squid </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>BLUECOMMON
+CU06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -3304,11 +4599,17 @@ Whenever your complexity is three or greater, you may tap or untap target perman
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Dinosaur Drake </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>CU07
+BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3319,11 +4620,17 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Ranger </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes>BLUECOMMON
+CU08</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -3335,11 +4642,16 @@ Vigilance
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>BLUERARE5</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from opponents with complexity two or fewer (A player’s complexity is the number of spells they’ve cast and nonland abilities they’ve activated this turn.)
@@ -3350,11 +4662,17 @@ Discard a card: Untap Mesh Warper. Then if your complexity is three or greater, 
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Bear Mutant </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>CU09
+BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}: Untap target permanent. Activate only as a sorcery and only once each turn.</text>
@@ -3364,10 +4682,16 @@ Discard a card: Untap Mesh Warper. Then if your complexity is three or greater, 
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUECOMMON
+CU18</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put target permanent on top of its owner’s library.
@@ -3378,11 +4702,17 @@ If your complexity is three or greater, draw a card. (Your complexity is the num
       <set rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>5U</manacost>
+        <cost>5U</cost>
+        <mana>5U</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Shark </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes>BLUECOMMON
+CU09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {3}
@@ -3393,10 +4723,16 @@ If your complexity is three or greater, draw a card. (Your complexity is the num
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>2UR</manacost>
+        <cost>2UR</cost>
+        <mana>2UR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>UM16
+ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>For each nonland permanent you control, create a token that’s a copy of that permanent, except it has haste and defender. Exile those tokens at the beginning of the next end step.
@@ -3407,10 +4743,15 @@ Exile Procedural Generation.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As Pool of Becoming enters the battlefield, choose a basic land type.
@@ -3422,10 +4763,15 @@ Basic lands you control are the chosen land type in addition to their other type
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>3WUU</manacost>
+        <cost>3WUU</cost>
+        <mana>3WUU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell can’t be countered except by spells with mana value 4 or greater.
@@ -3436,11 +4782,16 @@ Target player draws four cards, gains 4 life and gets {V/B}. (Spend {V} to cast 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>BLUEUNCOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3451,11 +4802,16 @@ Whenever Turbulence Algorithm attacks, you may put the cards in your hand on the
       <set rarity="rare">PVR</set>
       <prop>
         <colors>URG</colors>
+        <color>URG</color>
         <manacost>GUR</manacost>
+        <cost>GUR</cost>
+        <mana>GUR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Troll Demigod </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>MONARCHCYCLE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>As long as your complexity is three or greater, permanents you control have the activated abilities of Nurbs, the Wild King.
@@ -3468,11 +4824,16 @@ Whenever Turbulence Algorithm attacks, you may put the cards in your hand on the
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WUR</colors>
+        <color>WUR</color>
         <manacost>1URW</manacost>
+        <cost>1URW</cost>
+        <mana>1URW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Human Demigod </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes>MONARCHCYCLE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess
@@ -3483,11 +4844,16 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WBR</colors>
+        <color>WBR</color>
         <manacost>2RWB</manacost>
+        <cost>2RWB</cost>
+        <mana>2RWB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Cyclops Demigod </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>MONARCHCYCLE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{R}, Discard a land card: Cruelean, Ruler of None deals 3 damage to target creature.
@@ -3499,11 +4865,16 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Nightmare Horse </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>BLACKRARE6</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Abandonmare enters, each player discards two cards.
@@ -3514,11 +4885,16 @@ Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of th
       <set rarity="rare">PVR</set>
       <prop>
         <colors>UBG</colors>
+        <color>UBG</color>
         <manacost>BGU</manacost>
+        <cost>BGU</cost>
+        <mana>BGU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Demon Demigod </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>MONARCHCYCLE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, deathtouch
@@ -3529,10 +4905,15 @@ Pay 1 life: Untap target nonland permanent you control without a stun counter on
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE13</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -3546,11 +4927,16 @@ Pay 1 life: Untap target nonland permanent you control without a stun counter on
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Zombie Advisor </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>BLUERARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Middleware Distributor has hexproof as long as you’ve put a nontoken card into your hand this turn and it wasn’t drawn.
@@ -3561,10 +4947,16 @@ Middleware Distributor gets +1/+1 for each nontoken card a spell or ability has 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>WHITEUNCOMMON
+UW09</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature or planeswalker. Its controller gets an amount of {V} equal to that creature’s mana value. (They can spend {V} to cast Vertex spells.)</text>
@@ -3574,11 +4966,16 @@ Middleware Distributor gets +1/+1 for each nontoken card a spell or ability has 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITERARE2</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{X}, {T}, Sacrifice an Aura: You may search your hand or library for an Aura card with mana value X or less and cast it without paying its mana cost. If you searched your library this way, shuffle. Activate only during your turn.</text>
@@ -3588,11 +4985,16 @@ Middleware Distributor gets +1/+1 for each nontoken card a spell or ability has 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>WWW</manacost>
+        <cost>WWW</cost>
+        <mana>WWW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Monk </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>WHITERARE4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Irticull’s Vanguard enters, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.
@@ -3603,10 +5005,15 @@ Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>WHITERARE7</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy all nonland permanents. You get {V} for each permanent destroyed this way. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -3616,10 +5023,15 @@ Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and payin
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1WW</manacost>
+        <cost>1WW</cost>
+        <mana>1WW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>WHITERARE8</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.
@@ -3630,10 +5042,15 @@ Whenever you cast a spell spending an amount of mana greater than its mana value
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>3GW</manacost>
+        <cost>3GW</cost>
+        <mana>3GW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -3645,11 +5062,16 @@ When enchanted creature dies, create five 1/1 white Human creature tokens.</text
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Whale </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>BLUERARE2</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -3661,11 +5083,16 @@ Whenever this permanent becomes tapped, scry X, where X is this permanent’s ma
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Frog </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes>BLUERARE3</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -3676,11 +5103,16 @@ Whenever this permanent deals damage to a player or planeswalker, create a token
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>BLUERARE4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -3691,11 +5123,16 @@ When Luddite Infiltrator enters, return target instant or sorcery card from your
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>BLACKRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -3707,11 +5144,16 @@ Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.</
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>7B</manacost>
+        <cost>7B</cost>
+        <mana>7B</mana>
         <cmc>8</cmc>
+        <mv>8</mv>
         <type>Artifact Creature - Zombie Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>BLACKRARE5</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
@@ -3722,11 +5164,18 @@ When Flesh Centrifuge enters, it deals 3 damage to any target and you gain 3 lif
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>REDRARE2
+
+DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Thassaraptor enters with a double strike counter on it if mana from a nonland source was spent to cast it.</text>
@@ -3736,11 +5185,16 @@ When Flesh Centrifuge enters, it deals 3 damage to any target and you gain 3 lif
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Artificer </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>REDRARE3</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>The first instant or sorcery spell you cast each turn costs {1} and {V} less to cast. (This can reduce {V} costs to nothing.)</text>
@@ -3750,10 +5204,15 @@ When Flesh Centrifuge enters, it deals 3 damage to any target and you gain 3 lif
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>RR</manacost>
+        <cost>RR</cost>
+        <mana>RR</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDRARE8</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>X is your complexity. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn, including this one.)
@@ -3767,10 +5226,15 @@ If X is 4 or greater, do all of the above.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>REDRARE9</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Gain control of up to X target nonland permanents, where X is your complexity. Untap those permanents. They gain haste until end of turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -3780,10 +5244,15 @@ If X is 4 or greater, do all of the above.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>GREENRARE6</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}, Tap an untapped creature you control: Add one mana of any color.
@@ -3794,10 +5263,15 @@ Whenever your complexity is three or greater, untap up to one target creature an
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>GG</manacost>
+        <cost>GG</cost>
+        <mana>GG</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>GREENRARE8</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target artifact, enchantment, or planeswalker. Counter all abilities that it was the source of. (Mana abilities can’t be countered.)</text>
@@ -3807,10 +5281,16 @@ Whenever your complexity is three or greater, untap up to one target creature an
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>GREENRARE
+ASSIGN</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, mill a card. If it doesn’t share a name with another card in your graveyard, you get {V}. Then if there are fifteen or more cards in your graveyard with different names, you get that many {V}. (Spend {V} to cast copies of Vertex spells.)</text>
@@ -3820,11 +5300,17 @@ Whenever your complexity is three or greater, untap up to one target creature an
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3GG</manacost>
+        <cost>3GG</cost>
+        <mana>3GG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Cat </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>GREENUNCOMMON
+UG05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever your complexity is three or greater, Rastira Mauler fights up to one target creature you don’t control. This ability triggers only once each turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -3853,10 +5339,15 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLACKRARE10</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}, Pay 2 life: You get {V/U}. (Spend {V} to cast copies of Vertex spells.)
@@ -3867,10 +5358,15 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <set rarity="">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
+        <notes>BASICLAND</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -3880,11 +5376,16 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>GGG</manacost>
+        <cost>GGG</cost>
+        <mana>GGG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Scorpion </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>GREENRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Retopology GGGG (Cast a copy of this from your graveyard by exiling it and paying GGGG. Spend only mana from differently named sources this way.)</text>
@@ -3895,10 +5396,14 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <prop>
         <colors>BR</colors>
         <manacost>2BR</manacost>
+        <cost>2BR</cost>
+        <mana>2BR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Bitrot </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Bitrot enters or at the beginning of your upkeep, up to one target nonland permanent gains Bitrot’s abilities until end of turn.
@@ -3911,11 +5416,16 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Legendary Creature - Orb Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>GREENRARE2</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}, Tap X Equipment and/or Auras you control: Add X mana in any combination of colors. </text>
@@ -3925,11 +5435,17 @@ Exile each creature card in your graveyard with mana value X or less. For each c
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Fractal Elk </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>GREENUNCOMMON
+UG02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color. 
@@ -3940,11 +5456,17 @@ Whenever your complexity is three or greater, create a 1/1 white Human creature 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>RGG</manacost>
+        <cost>RGG</cost>
+        <mana>RGG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>OTHERRARE
+DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Deified Dicraeosaur enters, choose one—
@@ -3956,10 +5478,15 @@ Whenever your complexity is three or greater, create a 1/1 white Human creature 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE9</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent chooses a number. You may get that many {V}. If you don’t, that player sacrifices all but that many permanents. (Spend {V} to cast vertex spells.)</text>
@@ -3969,11 +5496,17 @@ Whenever your complexity is three or greater, create a 1/1 white Human creature 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>1UB</manacost>
+        <cost>1UB</cost>
+        <mana>1UB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>UM05
+ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -3984,10 +5517,16 @@ Whenever one or more cards are put into an opponent’s graveyard from anywhere,
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLUEUNCOMMON
+UU11</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Novel Perspectives enters, you get {V/W}. (Spend {V} to cast copies of Vertex spells.)
@@ -3998,11 +5537,17 @@ Whenever a nontoken card is put into your hand and wasn’t drawn, you may tap N
       <set rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Dinosaur Drake </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>WHITECOMMON
+CW11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -4013,11 +5558,16 @@ Whenever a spell or ability puts one or more nontokencards into your hand, tap u
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1RR</manacost>
+        <cost>1RR</cost>
+        <mana>1RR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>REDRARE7</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -4028,11 +5578,16 @@ Whenever Dynotopic Stampede enters or attacks, destroy up to one target land. It
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Artifact Creature - Zombie Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>12/12</pt>
+        <notes>REDRARE6</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Cadix, the Raze-Rager has flash as long as it’s your turn.
@@ -4045,10 +5600,15 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>BLUERARE13</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Untap all permanents and put a stun counter on them.</text>
@@ -4058,11 +5618,16 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>GU</manacost>
+        <cost>GU</cost>
+        <mana>GU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Elephant </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, if you cast a spell this turn and haven’t spent mana from lands to cast a spell this turn, draw a card.</text>
@@ -4072,10 +5637,15 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLUERARE7</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>If it isn’t an extra turn, take an extra turn after this one.
@@ -4086,10 +5656,15 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLUERARE8</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
@@ -4100,10 +5675,15 @@ Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and payi
       <set rarity="rare">PVR</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>1WB</manacost>
+        <cost>1WB</cost>
+        <mana>1WB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Zombies you control get +1/+1.
@@ -4114,10 +5694,15 @@ Whenever an opponent loses life, you may tap Corrupted Protocol. If you do, you 
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>WHITERARE9</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Repeat the following process for each nontoken Aura or Equipment you control. For each player or nontoken permanent it could enchant or equip, you may create a token that’s a copy of that Aura or Equipment attached to that permanent or player. </text>
@@ -4127,10 +5712,15 @@ Whenever an opponent loses life, you may tap Corrupted Protocol. If you do, you 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>BR</manacost>
+        <cost>BR</cost>
+        <mana>BR</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERRARE</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a player casts a spell other than their first spell each turn, that player loses 3 life.
@@ -4141,11 +5731,16 @@ Whenever a player casts a spell from their hand, they get {V/W}. Then they disca
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>14</manacost>
+        <cost>14</cost>
+        <mana>14</mana>
         <cmc>14</cmc>
+        <mv>14</mv>
         <type>Artifact Creature - Zombie Dragon </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {2} less to cast for each land type among lands you control.
@@ -4157,11 +5752,16 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3C</manacost>
+        <cost>3C</cost>
+        <mana>3C</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Zombie Assassin </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
@@ -4172,10 +5772,15 @@ Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -4188,10 +5793,16 @@ Rhystic Palace enters tapped.
       <set rarity="rare">PVR</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
+        <cost>UB</cost>
+        <mana>UB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>OTHERRARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target player draws a card, then discards a card. Then if a library has twenty or fewer cards in it, create a colorless 0/0 Fractal Horror creature token with three +1/+1 counters on it. Activate only as a sorcery.</text>
@@ -4201,10 +5812,15 @@ Rhystic Palace enters tapped.
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As Deprecated Dump enters, exile an untapped land you control until Deprecated Dump leaves the battlefield.
@@ -4216,10 +5832,16 @@ Whenever you tap Deprecated Dump for mana, add {C}.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>WHITERARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature has protection from mana value 3 or greater.
@@ -4232,10 +5854,16 @@ Equip artifact creature {1}, {T}</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>2WU</manacost>
+        <cost>2WU</cost>
+        <mana>2WU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>OTHERRARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each player’s upkeep, that player chooses half the permanents they control, rounded down. Those permanents phase out. (Treat phased-out permanents and anything attached to them as though they don’t exist until their controller’s next turn.)</text>
@@ -4262,10 +5890,17 @@ At the beginning of your upkeep, Wound deals 1 damage to each opponent.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>GREENUNCOMMON
+NEWCARD
+UG11</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
@@ -4277,10 +5912,16 @@ You draw cards equal to the sacrificed creature’s power, get an amount of {V} 
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>GREENRARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Deprecated Harvest enters, you get {V/U}. (Spend {V} to cast copies of Vertex spells.)
@@ -4291,10 +5932,17 @@ You draw cards equal to the sacrificed creature’s power, get an amount of {V} 
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant - Shader </type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+SHADERCYCLE
+WHITERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>
@@ -4310,10 +5958,17 @@ III — Enchantment — Target player gains 5 life.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant - Shader </type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+SHADERCYCLE
+BLACKRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>
@@ -4330,10 +5985,17 @@ At the beginning of the next end step, target player discards two cards.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant - Shader </type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+SHADERCYCLE
+BLUERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>
@@ -4350,10 +6012,17 @@ Add CCC.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant - Shader </type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+SHADERCYCLE
+REDRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>
@@ -4370,10 +6039,17 @@ Roughness Rails deals 2 damage to any target.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant - Shader </type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+SHADERCYCLE
+GREENRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>
@@ -4389,11 +6065,17 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Snail </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>WHITERARE
+NEWCARD</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever an effect instructs an opponent to pay life or mana, put a +1/+1 counter on target creature. (This includes optional costs, but not costs to play a spell or ability. This triggers even if the cost isn’t paid.)</text>
@@ -4403,10 +6085,15 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSRARE</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -4417,10 +6104,16 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLUERARE
+NEWCARD</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent mills seven cards.</text>
@@ -4430,10 +6123,16 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>NEWCARD
+BLUERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards, then put a nonland card from your hand into your command zone. It becomes Vertex in addition to its other types, and costs an additional {V/B} to cast. (You may repeatedly cast copies of that card by paying its mana cost and Vertex cost.)</text>
@@ -4443,10 +6142,16 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE
+NEWCARD</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a card, put that card into your hand, then shuffle. You lose 3 life.</text>
@@ -4456,10 +6161,16 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>BLACKRARE
+NEWCARD</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mill four cards. For each card milled this way, you may pay 2 life. If you do, put that card into your hand.</text>
@@ -4469,10 +6180,16 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>REDRARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Tap an untapped permanent you control: Rapid Terraforming deals 1 damage to any target.
@@ -4484,10 +6201,16 @@ At the beginning of the end step, sacrifice Rapid Terraforming.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4RR</manacost>
+        <cost>4RR</cost>
+        <mana>4RR</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>REDRARE
+NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a player loses life, you gain that much {V}. (Spend {V} to cast copies of Vertex spells.)
@@ -4498,10 +6221,16 @@ At the beginning of the end step, sacrifice Rapid Terraforming.</text>
       <set rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>NEWCARD
+GREENRARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for up to four creature cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand, then shuffle.</text>
@@ -4511,10 +6240,15 @@ At the beginning of the end step, sacrifice Rapid Terraforming.</text>
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Texture </type>
         <maintype>Land</maintype>
+        <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -4526,10 +6260,16 @@ WUBRG, {T}, Sacrifice Shard of Conquex: It deals 5 damage to any target and you 
       <set rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>BLUEUNCOMMON
+UU06 Storm Crowed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Create a 2/2 blue Bird creature token with flying. Activate only if your complexity is five or greater or if Prefabrication entered the battlefield this turn. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
@@ -4539,10 +6279,15 @@ WUBRG, {T}, Sacrifice Shard of Conquex: It deals 5 damage to any target and you 
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>1RG</manacost>
+        <cost>1RG</cost>
+        <mana>1RG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>OTHERMYTHIC</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile cards from the top of your library until you exile a land card. Put that card onto the battlefield.
@@ -4553,11 +6298,16 @@ Until end of turn, you may cast spells exiled this way.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>RW</manacost>
+        <cost>RW</cost>
+        <mana>RW</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>NEWCARD</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -4569,10 +6319,15 @@ Until end of turn, you may cast spells exiled this way.</text>
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>4BG</manacost>
+        <cost>4BG</cost>
+        <mana>4BG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>If you would add an amount of mana, instead create that many 1/1 red Dinosaur creature tokens that can’t block.
@@ -4583,10 +6338,15 @@ Rather than pay an amount of mana, you may sacrifice that many permanents instea
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>3UR</manacost>
+        <cost>3UR</cost>
+        <mana>3UR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw three cards.
@@ -4597,11 +6357,16 @@ If five or more permanents incremented your complexity this turn, you may cast a
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>1WB</manacost>
+        <cost>1WB</cost>
+        <mana>1WB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Zombie Wall </type>
         <maintype>Creature</maintype>
         <pt>0/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -4614,10 +6379,15 @@ Defender, haste
       <set rarity="mythic">PVR</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>1GW</manacost>
+        <cost>1GW</cost>
+        <mana>1GW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>NEWCARD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature

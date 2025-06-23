@@ -9,6 +9,10 @@
         <colors>W</colors>
         <type>Token Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!tag Dewold
+!exportname Intisuyus Armies
+!related Capac Suyay, Grim Seeker&lt;2>;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your end step, create a 1/1 white Soldier creature token for each creature you control.</text>
@@ -23,6 +27,10 @@
         <type>Token Creature - Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tag Dewold
+!exportname Suyay’s Soldier
+!related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -38,6 +46,10 @@
         <type>Token Legendary Creature - Orc Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Overzealous Page; Kirsa’s Page;Beacon of Greatness;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>The Sword of Perle has first strike as long as it is attacking.</text>
@@ -54,6 +66,8 @@
         <type>Token Creature - Scout </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -67,6 +81,9 @@
         <type>Token Legendary Creature - Azra Knight </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>!tag Dewold
+!related House Negotiations;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance</text>
@@ -81,6 +98,11 @@
         <type>Token Legendary Creature - Elf Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tag Dewold
+!exportname Vances Claw
+Renowned Cycle
+!related Blessing at Graven Laughs;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, lifelink</text>
@@ -95,6 +117,10 @@
         <type>Token Legendary Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Beckon Greatness;Call of the Rose;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace</text>
@@ -110,6 +136,11 @@
         <type>Token Legendary Creature - Human Pirate </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Dealings at the Delta;
+!tag Lodema</notes>
+        <tag>DewoldLodema</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>The Diamond of the Nye can’t be blocked.</text>
@@ -124,6 +155,10 @@
         <type>Token Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Overzealous Page;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
@@ -138,6 +173,9 @@
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
+        <notes>!tag Dewold
+!related Gosfridus Turnberry;One with the Geistwald;Mirrorkin’s Bargain;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -154,6 +192,10 @@
         <type>Token Creature - Army </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
+        <notes>!tag Dewold
+!exportname Dewold Army
+!related Left to Wander</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -168,6 +210,10 @@
         <type>Token Creature - Soldier </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!tag Dewold
+!exportname Young Soldier
+!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel; Hopeful Spouse;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -186,6 +232,8 @@
         <colors></colors>
         <type>Token Reminder</type>
         <maintype>Reminder</maintype>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>You put tokens that you create in your reserves here. They are not on the battlefield and don’t trigger enter the battlefield abilities.
@@ -200,6 +248,10 @@
         <type>Token Creature - Knight </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>!tag Dewold
+!exportname Destroyed-Knight
+!related Meeting of Powers;Roul Banefort, the Stern;Sapner Decree;Lucky Break;Grasp of the Mirrorkin;Gleaming Courage;Replenishing Camp;Standing Army;Long Night’s Rest;Leon’s Claim;Dirt to Flesh;Call of the King;Turnberry Overseer;Geistwald Abomination;Sandrock Infantry;Hopeful Spouse;Knight of Skyspire;Fleshborne Horror;Terrel Battlemage;Resolute Elk;Glory on Bloodied Wings;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Knight is all colors.</text>
@@ -234,6 +286,8 @@
         <type>Token Creature - Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender</text>
@@ -247,6 +301,8 @@
         <type>Token Creature - Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -260,6 +316,8 @@
         <type>Token Legendary Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
@@ -272,6 +330,9 @@
         <colors></colors>
         <type>Token Artifact - Treasure </type>
         <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Bounty Collectors;Cautious Seadog&lt;2>;Wealthy Slabman;Writ of Supplies;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
@@ -288,6 +349,9 @@
         <colors></colors>
         <type>Token Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Camp Supplier;Sandrock Blacksmith;Weapons Holder;Heirloom Sword;Wealthy Slabman;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+1.
@@ -306,6 +370,9 @@ Equip {2}</text>
         <colors></colors>
         <type>Token Artifact - Food </type>
         <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Orcish Shepherd;Writ of Supplies;</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
@@ -320,6 +387,10 @@ Equip {2}</text>
         <colors></colors>
         <type>Token Artifact - Clue </type>
         <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!tag Dewold
+!related Overt Warning; Writ of Supplies;</notes>
+        <tag>DewoldDewold</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, Sacrifice this artifact: Draw a card.</text>
@@ -335,6 +406,8 @@ Equip {2}</text>
         <type>Token Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>

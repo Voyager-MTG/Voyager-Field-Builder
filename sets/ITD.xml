@@ -14,11 +14,16 @@
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/abeardedartist/art/Untitled-1089031285</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, it deals X damage to target creature or planeswalker and you gain X life, where X is the number of Swamps you control.</text>
@@ -28,11 +33,17 @@
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>https://www.deviantart.com/qbrtcubeart/art/Biomechanoids-within-each-seed-there-is-the-926455973
+!spellbook I3;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -44,11 +55,17 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>1UR</manacost>
+        <cost>1UR</cost>
+        <mana>1UR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>https://www.artstation.com/artwork/mqwZlZ
+!spellbook I7;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a spell with mana value 5 or greater, draw a card.
@@ -59,10 +76,15 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -73,10 +95,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature with mana value 3 or less.
@@ -87,10 +114,15 @@ When Contagious Murder leaves your graveyard, copy it. You may cast the copy. (Y
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Vehicle </type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>This artifact enters tapped.
@@ -103,11 +135,16 @@ Crew—Tap four other artifacts you control.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Matryoshka Crawler dies, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.</text>
@@ -117,11 +154,16 @@ Crew—Tap four other artifacts you control.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Golem </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Sorting Servant dies, search your library for a colorless card with mana value 5 or greater, reveal it and put it into your hand. Then shuffle.</text>
@@ -131,11 +173,16 @@ Crew—Tap four other artifacts you control.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>8</manacost>
+        <cost>8</cost>
+        <mana>8</mana>
         <cmc>8</cmc>
+        <mv>8</mv>
         <type>Artifact Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -146,11 +193,17 @@ When Rattlefiend dies, if it had base toughness 2 or greater, create a token cop
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.artstation.com/artwork/JlLaNA
+changed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lands you control are every basic land type in addition to their other types.
@@ -161,11 +214,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Angel Eye Incarnation </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -177,11 +235,17 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://cdnb.artstation.com/p/assets/images/images/028/437/413/large/sebastian-gosko-abyssal-stalker.jpg?1594477134
+!spellbook I6;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. 
@@ -192,11 +256,17 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Sphinx </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/48b0JY
+!spellbook I2;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -208,11 +278,17 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Warlock </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>https://momarkmagic.blogspot.com/2013/10/pyramid-lord-speedpainting.html
+!spellbook I9;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. 
@@ -223,10 +299,15 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/cjdevil/art/Broken-Eye-150993713</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
@@ -237,10 +318,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>UB</manacost>
+        <cost>UB</cost>
+        <mana>UB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, you may activate one of its abilities without paying its costs.
@@ -253,10 +339,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.pinterest.co.uk/pin/742882901046536620/</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mill three cards.
@@ -268,11 +359,16 @@ You may return an untapped Island you control to its owner’s hand rather than 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Enchantment Artifact Creature - Giant </type>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {X} less to cast, where X is the amount of life you have gained this turn. This effect can’t reduce the cost of this spell to less than {2}.
@@ -285,10 +381,15 @@ You may return an untapped Island you control to its owner’s hand rather than 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Enchantment Land - Saga </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yonaz/art/Forest-2-348501057</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>His roots twist and twist and reach deeper and deeper.
@@ -301,10 +402,15 @@ III — Search your library for a non-Saga land card and put it onto the battlef
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.artstation.com/artwork/qe8P9y</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Binding Decision enters, target opponent chooses a nontoken creature they control and exiles it until Binding Decision leaves the battlefield.</text>
@@ -314,11 +420,16 @@ III — Search your library for a non-Saga land card and put it onto the battlef
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Eye Horror Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>new</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -330,11 +441,16 @@ When this creature enters, it gains “Creatures and enchantments you don’t co
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Horror Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, mill a card.
@@ -345,11 +461,16 @@ Deep dwelling—  As long as your main library contains a number of cards less t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Insect Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your upkeep, surveil 1.
@@ -360,11 +481,16 @@ Deep dwelling— As long as your main library contains a number of cards less th
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/evi-gilatio/art/Aha-891587483</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Landfall— Whenever a land you control enters, you may activate one of this creature’s abilities without paying its costs.
@@ -375,10 +501,15 @@ Deep dwelling— As long as your main library contains a number of cards less th
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create three 1/1 white Nightmare creature tokens with lifelink and “This creature can’t block.”</text>
@@ -388,10 +519,15 @@ Deep dwelling— As long as your main library contains a number of cards less th
       <set rarity="rare">ITD</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>WB</manacost>
+        <cost>WB</cost>
+        <mana>WB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{2}, Sacrifice a creature: You draw a card and you gain 2 life. Activate only as a sorcery.
@@ -403,10 +539,14 @@ Deep dwelling— As long as your main library contains a number of cards less th
       <prop>
         <colors></colors>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Planeswalker - Yklev </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Landfall— Whenever a land enters under your control, you gain 1 life.
@@ -418,10 +558,15 @@ Deep dwelling— As long as your main library contains a number of cards less th
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {1} less to cast if you control a legendary permanent.
@@ -432,11 +577,16 @@ Destroy target creature or planeswalker.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Human Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(Creatures don’t lose loyalty from damage.)
@@ -448,11 +598,16 @@ Destroy target creature or planeswalker.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Elder Construct </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>https://www.tumblr.com/witnesstheabsurd/723270931458457600/an-arbiter</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(Creatures don’t lose loyalty from damage.)
@@ -464,10 +619,15 @@ Destroy target creature or planeswalker.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.pixiv.net/en/artworks/31364547</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose two target creatures controlled by the same player. Exile them. Their controller creates a tapped X/X colorless Horror creature token, where X is the combined power of those creatures. </text>
@@ -477,10 +637,15 @@ Destroy target creature or planeswalker.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Add one mana of any color.
@@ -491,10 +656,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://es.pinterest.com/pin/322148179600180623/</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy all creatures. Then you may return a creature card with mana value 3 or less from your graveyard to the battlefield.</text>
@@ -504,10 +674,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>RW</manacost>
+        <cost>RW</cost>
+        <mana>RW</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, return a creature you control to its owner’s hand.
@@ -518,11 +693,16 @@ Create a token copy of the returned creature, except it isn’t legendary and ha
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Legendary Artifact Creature - Sphinx </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!spellbook I5;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -534,11 +714,16 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Zombie </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Mill a card. When you do, add {C}.
@@ -549,10 +734,15 @@ Deep dwelling— {T}: Add one mana of any color. Activate only if your main libr
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, you may sacrifice a creature.
@@ -563,10 +753,15 @@ Exile target creature if it’s attacking or if you paid this spell’s addition
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature unless its controller pays 3 life, discards a card or sacrifices a nonland permanent and then repeats this process twice.</text>
@@ -576,10 +771,15 @@ Exile target creature if it’s attacking or if you paid this spell’s addition
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains trample and must be blocked if able until end of turn. 
@@ -590,11 +790,16 @@ Draw a card.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Drone </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -605,11 +810,16 @@ When this creature enters, if it’s not a token, create a token copy of it. Exi
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
@@ -621,11 +831,16 @@ When this creature dies, draw a card if there are five or more lands in your rea
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Reflection </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -636,10 +851,15 @@ Whenever this creature attacks, you may create a tapped and attacking token copy
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Island Mountain </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U} or {R}.)
@@ -651,10 +871,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Far-off Door enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
@@ -665,11 +890,16 @@ Far-off Door has all loyalty abilities of nonartifact permanents you control.</t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>1RG</manacost>
+        <cost>1RG</cost>
+        <mana>1RG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Incarnation </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
+        <notes>https://x.com/RobbieSTrevino/status/1513928313454047239</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature’s power and toughness are each equal to the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.)
@@ -680,11 +910,16 @@ Whenever this creature attacks, you may search your library for a basic land car
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -695,10 +930,15 @@ When Symbiotic Host leaves your graveyard during your turn or dies, create a 1/1
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://x.com/MON_2501/status/1522181929931767808</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -710,10 +950,15 @@ When Symbiotic Host leaves your graveyard during your turn or dies, create a 1/1
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this equipment enters, return target creature card from your graveyard to the battlefield and attach this equipment to it.
@@ -725,10 +970,15 @@ Equip {4}</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.pinterest.co.uk/pin/24910604164846520/</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target enchantment or planeswalker.
@@ -739,10 +989,15 @@ Create two 1/1 white Nightmare creature tokens with lifelink and “This creatur
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.pinterest.co.uk/pin/40743571623751234/</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -755,10 +1010,14 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Ashiok </type>
         <maintype>Planeswalker</maintype>
       <loyalty>5</loyalty>
+        <notes>https://www.artstation.com/artwork/q9oYWD</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.
@@ -770,10 +1029,14 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Planeswalker - Echo </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
+        <notes>https://www.artstation.com/artwork/9N9ZNO</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>[+1]: Sacrifice up to one nontoken creature you control. Create a token copy of it except it’s an artifact in addition to its other types.
@@ -785,10 +1048,15 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.pinterest.co.uk/pin/525021269071350989/</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -801,10 +1069,15 @@ Exile Edge of a Precipice.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>https://www.pinterest.co.uk/pin/370561875600170793/</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>This land enters tapped with three wish counters on it.
@@ -816,10 +1089,15 @@ Exile Edge of a Precipice.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.tumbex.com/maybelsart.tumblr/post/615314054075006976</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -833,10 +1111,14 @@ Whenever enchanted creature deals combat damage to a player, draw a card. Then s
       <prop>
         <colors>U</colors>
         <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Planeswalker - Ashiok </type>
         <maintype>Planeswalker</maintype>
       <loyalty>5</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.
@@ -847,11 +1129,16 @@ Whenever enchanted creature deals combat damage to a player, draw a card. Then s
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment Artifact Creature - Fractal </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.pinterest.co.uk/pin/639440847106673007/</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
@@ -862,11 +1149,16 @@ Whenever you cast a spell with mana value 1, copy it. You may choose new targets
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Enchantment Artifact Creature - Avatar </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.artstation.com/artwork/xJN3qR</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each land in your realm. (Your realm consists of up to one land of each of the basic land types.)
@@ -878,11 +1170,16 @@ WUBRG: This creature gets +5/+5 and gains trample until end of turn.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>https://cosmicstringcheese.tumblr.com/post/734618987799986176/ex0skeletal-undead-untitled-by-abeardedartist</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -894,11 +1191,17 @@ Whenever this creature deals combat damage to a player, return it to its owner�
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Demigod Construct </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>https://www.behance.net/gallery/82915737/BLADERUNNER-2049
+!spellbook I4;1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -910,11 +1213,16 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Enchantment Creature - God </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 5—{R} (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
@@ -926,10 +1234,15 @@ Whenever Warden of Scorching Days enters or attacks, discard a card, then draw a
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Swamp Forest </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B} or {G}.)
@@ -941,11 +1254,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment Creature - Devil </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -957,10 +1275,15 @@ You may play land cards from your graveyard. Whenever you do, put a +1/+1 counte
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature or planeswalker
@@ -972,11 +1295,16 @@ When this enchantment leaves the battlefield, draw a card.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Angel Illusion </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, deathtouch
@@ -987,10 +1315,15 @@ Whenever Angel of the Forest leaves your graveyard during your turn or attacks, 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes>https://feiyukicchi.tumblr.com/post/763284664242864128/concept-so-good-i-changed-my-whole-artstyle-lmao</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Firmament-Rending Blade enters, attach it to target creature you control.
@@ -1002,11 +1335,16 @@ Equip {3}</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>8RR</manacost>
+        <cost>8RR</cost>
+        <mana>8RR</mana>
         <cmc>10</cmc>
+        <mv>10</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {2} less to cast for each permanent you control with mana value 5 or greater.
@@ -1018,11 +1356,16 @@ Whenever this creature deals combat damage to a player, that player sacrifices f
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Eye Wolf Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, deathtouch, reach, haste
@@ -1033,11 +1376,16 @@ Watching Wolf can’t blocked by creatures with power 2 or less.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1049,10 +1397,15 @@ At the beginning of your end step, if a creature you control died this turn, you
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell you may remove a loyalty counter from a permanent you control.
@@ -1063,11 +1416,16 @@ Search your library for a basic land card and put it onto the battlefield tapped
       <set rarity="rare">ITD</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>1GU</manacost>
+        <cost>1GU</cost>
+        <mana>1GU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Isopod Horror </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>If you would draw a card, instead look at the top three cards of your library, put two of them into your graveyard, then draw a card.
@@ -1078,11 +1436,16 @@ Deep Dwelling—Ajaxala can’t be blocked as long as your main library contains
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Legendary Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(Creatures don’t lose loyalty from damage.)
@@ -1096,11 +1459,16 @@ Whenever this creature attacks, put a loyalty counter on it and mill a card.
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Avatar </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 4—3U (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
@@ -1112,11 +1480,16 @@ Whenever a time counter is removed from Firmament Sculptor, create a token copy 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, you may activate one of its abilities without paying its costs.
@@ -1127,11 +1500,16 @@ Whenever a time counter is removed from Firmament Sculptor, create a token copy 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Eldrazi </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>https://www.artstation.com/artwork/GXJKPW</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>If Abstracter of Thought would be put into your graveyard from anywhere, instead shuffle it into your library.
@@ -1142,10 +1520,16 @@ Once each turn, if you would draw a card while your library has no cards in it, 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Kindred Artifact Land - Shapeshifter </type>
         <maintype>Land</maintype>
+        <notes>https://www.artstation.com/artwork/YaxyQK
+!spellbook I10;1</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -1156,10 +1540,15 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.isbergillustration.com/portfolio</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature. 
@@ -1170,11 +1559,16 @@ Each player creates a tapped 3/3 white Illusion creature token.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3GG</manacost>
+        <cost>3GG</cost>
+        <mana>3GG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Enchantment Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 5—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
@@ -1186,10 +1580,15 @@ When Tyrant of Long Death enters or attacks, you gain 2 life and conjure a dupli
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>https://www.instagram.com/valun_art/</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -1200,11 +1599,16 @@ When Antisun’s Domain enters, if you control five or more lands with different
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Bird Nightmare </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/5vVKoJ</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -1217,11 +1621,16 @@ W/BW/BW/BW/BW/B, Pay 5 life: If this creature is an Angel, it becomes an Archon 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Advisor </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>https://www.artstation.com/artwork/ELrky8</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -1232,11 +1641,16 @@ When this creature attacks, you may put a loyalty counter on each permanent you 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>2BG</manacost>
+        <cost>2BG</cost>
+        <mana>2BG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>https://www.artstation.com/artwork/9En2xQ</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, haste
@@ -1247,10 +1661,15 @@ You may cast 001, Errant Spark-Engine from your graveyard by removing two loyalt
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose two—
@@ -1264,10 +1683,16 @@ You may cast 001, Errant Spark-Engine from your graveyard by removing two loyalt
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/asfodelo/art/Red26-807973377
+changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Desolate Meeting enters, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”
@@ -1278,10 +1703,15 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1GG</manacost>
+        <cost>1GG</cost>
+        <mana>1GG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control enters, you may return a permanent card with lesser mana value than it from your graveyard to your hand. If you don’t, mill two cards. </text>
@@ -1291,10 +1721,15 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/masiani/art/Gate-acrylic-on-canvas-964705608</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Tyrant’s Rage deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.)</text>
@@ -1304,11 +1739,16 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Zombie </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>https://www.emilylubanko.com/tarot</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Mill two cards, then exile up to one instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. Activate only on your turn.
@@ -1319,10 +1759,15 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.emilylubanko.com/tarot</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Deep dwelling— Mill four cards. Return each land card milled this way from your graveyard to your hand. If your main library contains a number of cards less than or equal to half your starting deck size, return each nonland permanent card milled this way to your hand.</text>
@@ -1332,10 +1777,15 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.emilylubanko.com/tarot</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Surveil 2, then draw a card.
@@ -1346,10 +1796,16 @@ Whenever Drown in Self Reflection leaves your graveyard, you may cast a copy of 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.emilylubanko.com/tarot
+WIP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
@@ -1362,10 +1818,15 @@ III — Discard two cards at the beginning of your next end step.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
@@ -1378,11 +1839,16 @@ III — You lose 2 life and draw a card.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Demon Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(Creatures don’t lose loyalty from damage.)
@@ -1395,11 +1861,16 @@ Deathtouch
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Creature - Shaman </type>
         <maintype>Creature</maintype>
         <pt>0/0</pt>
+        <notes>changed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1410,11 +1881,16 @@ The Living Enigma enters with a number of +1/+1 counters on it equal to the numb
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3WW</manacost>
+        <cost>3WW</cost>
+        <mana>3WW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Angel Artificer </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.pixiv.net/en/artworks/65536865</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1425,10 +1901,15 @@ Whenever Tithetaker Angel enters or attacks, choose creature, artifact, enchantm
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>changed</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Double the power of target creature you control. It gains trample. It then deals damage equal to its power to up to one target creature or planeswalker. Sacrifice it at end of turn.</text>
@@ -1438,10 +1919,15 @@ Whenever Tithetaker Angel enters or attacks, choose creature, artifact, enchantm
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Swamp Mountain </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B} or {R}.)
@@ -1453,10 +1939,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Plains Swamp </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W} or {B}.)
@@ -1468,10 +1959,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy all creatures. 
@@ -1482,11 +1978,16 @@ Each player creates a 1/1 colorless Faerie Horror creature token with flying and
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Devil </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>https://windydrawallday.tumblr.com/post/154315147365/living-nightmares</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 4—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
@@ -1497,10 +1998,15 @@ Whenever a time counter is removed from Imprisoned Aspect, put a +1/+1 counter o
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {1}. 
@@ -1511,11 +2017,16 @@ Deep Dwelling—If your main library contains a number of cards less than or equ
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Illusion </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -1527,10 +2038,15 @@ Creatures you control have reach.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When The Living Coffin enters, if you cast it, you may return any number of lands you control to their owner’s hand. Draw a card for each land card returned to your hand this way.
@@ -1541,11 +2057,16 @@ Sacrifice a nonland permanent: You may play an additional land this turn.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>1GW</manacost>
+        <cost>1GW</cost>
+        <mana>1GW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>hervor</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -1556,10 +2077,15 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1571,11 +2097,16 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, haste
@@ -1587,10 +2118,15 @@ You may cast this creature from your graveyard by exiling four land cards from y
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
@@ -1603,10 +2139,16 @@ You may put a nonland permanent card with mana value 2 or less from your hand on
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
+        <notes>https://x.com/_tOAOt/status/1780825170036523027/photo/1
+changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
@@ -1619,11 +2161,16 @@ III — You may put a permanent card from your hand onto the battlefield.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Bird Horror </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, trample
@@ -1634,11 +2181,16 @@ When Corvid Defacer dies, if it wasn’t the target of a spell this turn, return
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elf Spirit Shaman </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/04bkDy</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Untap target Horror you control.
@@ -1649,10 +2201,15 @@ When Corvid Defacer dies, if it wasn’t the target of a spell this turn, return
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Mountain Forest </type>
         <maintype>Land</maintype>
+        <notes>https://www.artstation.com/artwork/Ga6WYQ</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R} or {G}.)
@@ -1664,10 +2221,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Mountain Plains </type>
         <maintype>Land</maintype>
+        <notes>https://www.artstation.com/artwork/wJmb4O</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R} or {W}.)
@@ -1679,10 +2241,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/myprocrastinationfix/art/Day-1444-Save-the-Wretched-1038769165</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Horror creatures you control get +1/+1 as long as you control a non-Horror creature.
@@ -1693,11 +2260,16 @@ Whenever one or more non-Horror creatures you control deal combat damage to a pl
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Cat Shade </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/martith/art/Blues-1029755807</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -1709,11 +2281,16 @@ Whenever one or more non-Horror creatures you control deal combat damage to a pl
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Crab </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>https://www.deviantart.com/myprocrastinationfix/art/Day-1498-Smoke-Stack-Crab-1057313748</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -1724,10 +2301,15 @@ Once each turn, whenever this creature or another creature you control enters, y
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Forest Island </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/vookasheen/art/Swamp-Creatures-602183184</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G} or {U}.)
@@ -1739,11 +2321,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Spirit Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/silviabobekova/art/creator-860397633</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature is dealt damage, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”
@@ -1754,10 +2341,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/silviabobekova/art/a-demon-visit-896021777</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
@@ -1770,11 +2362,16 @@ III — When you next resolve an instant or sorcery spell this turn, return it f
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5BB</manacost>
+        <cost>5BB</cost>
+        <mana>5BB</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Artifact Creature - Octopus </type>
         <maintype>Creature</maintype>
         <pt>7/7</pt>
+        <notes>https://www.deviantart.com/dariuszkieliszek/art/Welcome-To-The-House-of-Phosgene-1107029061</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 5—2B  (If this spell was impending, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
@@ -1785,11 +2382,16 @@ Whenever Longlegs enters or attacks, each opponent sacrifices a creature.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.erythaia.com/</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -1800,11 +2402,16 @@ When this creature enters, you may sacrifice another creature. When you do, this
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Skeleton Artificer </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your end step, if an artifact you control entered this turn, put a +1/+1 counter on this creature.
@@ -1815,10 +2422,15 @@ When this creature dies, target player may have it deal damage equal to its powe
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2RRR</manacost>
+        <cost>2RRR</cost>
+        <mana>2RRR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return each nontoken creature you control to its owner’s hand. Create a token copy of each creature returned to your hand this way. 
@@ -1829,11 +2441,16 @@ Creatures you control gain haste until end of turn.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>2WU</manacost>
+        <cost>2WU</cost>
+        <mana>2WU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Reflection </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://x.com/Slitherbop/status/1787906825918234640</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception 3WU (3WU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -1844,10 +2461,15 @@ Whenever one or more creatures you control deal combat damage to an opponent, dr
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://x.com/Slitherbop/status/1776511056531325293/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
@@ -1858,11 +2480,16 @@ Search your library for a creature card with mana value lesser than or equal to 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Faerie </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://x.com/Slitherbop/status/1774906372930568675/photo/1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1874,10 +2501,15 @@ When this creature enters, exile up to one target instant or sorcery card in you
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://x.com/Slitherbop/status/1728976284682969266/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one or more—
@@ -1890,10 +2522,15 @@ When this creature enters, exile up to one target instant or sorcery card in you
       <set rarity="rare">ITD</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>1WU</manacost>
+        <cost>1WU</cost>
+        <mana>1WU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://x.com/Slitherbop/status/1758830935792103554/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards, then discard a card. You may cast a spell from your hand with mana value lesser than the amount of mana spent to cast this spell without paying its mana cost.
@@ -1904,11 +2541,16 @@ Flashback 3WWUU (You may cast this card from your graveyard for its flashback co
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.artstation.com/artwork/042WzV</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, tap up to one target creature and put a stun counter on it. You gain life equal to that creature’s power.</text>
@@ -1918,11 +2560,17 @@ Flashback 3WWUU (You may cast this card from your graveyard for its flashback co
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.artstation.com/artwork/042WzV
+changed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -1933,10 +2581,15 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/sanskarans/art/Gate-1110562193</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, you may mill four cards.
@@ -1947,11 +2600,16 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes>https://www.deviantart.com/michaelwilliamaustin/art/Bad-moon-rising-1110839761</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, surveil 3, then draw a card.
@@ -1962,11 +2620,16 @@ Deep Dwelling— Whenever one or more cards are put into your graveyard from you
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/sebastianmonpainting/art/Stationary-Traveller-II-131-1109729216</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1977,10 +2640,15 @@ When this creature enters or dies, create a tapped colorless land token named Ev
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>5UUU</manacost>
+        <cost>5UUU</cost>
+        <mana>5UUU</mana>
         <cmc>8</cmc>
+        <mv>8</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/danielebianchin/art/Despair-Land-609789112</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You may cast a spell with mana value 7 or less from your hand without paying its mana cost.
@@ -1991,11 +2659,16 @@ If it isn’t an extra turn, take an extra turn after this one.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3UU</manacost>
+        <cost>3UU</cost>
+        <mana>3UU</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/themefinland/art/The-narrator-906224784</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception UUU (UUU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -2006,11 +2679,16 @@ When this creature enters, if it was cast or entered from your hand, each player
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1WW</manacost>
+        <cost>1WW</cost>
+        <mana>1WW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.deviantart.com/valentina-remenar/art/Key-To-Opportunity-811532774</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
@@ -2022,10 +2700,15 @@ Whenever this creature deals combat damage to a player, you may search your libr
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2UU</manacost>
+        <cost>2UU</cost>
+        <mana>2UU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.deviantart.com/25kartinok/art/Siyanie35-865131706</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -2038,10 +2721,16 @@ Whenever this creature deals combat damage to a player, you may search your libr
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/nidraj-rion/art/Street-Spirit-865846934
+changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Distortion World enters, if it was cast, exile all other nonland permanents and create four colorless 1/1 Faerie Horror creatures with flying that can’t block.
@@ -2052,11 +2741,18 @@ At the beginning of each player’s upkeep, they may put a card they own exiled 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Drone </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/loganwaldenart/art/Illusion-of-Dissolution-870241606
+!spellbook I1;1
+</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.
@@ -2067,10 +2763,15 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Plains Island </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W} or {U}.)
@@ -2083,10 +2784,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Planeswalker - Arachne </type>
         <maintype>Planeswalker</maintype>
       <loyalty>1</loyalty>
+        <notes>https://www.deviantart.com/abeardedartist/art/Untitled-1091469785
+changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>[+1]: You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature token with flying and “This creature can’t block.”
@@ -2098,10 +2804,14 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors>G</colors>
         <manacost>XG</manacost>
+        <cost>XG</cost>
+        <mana>XG</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Legendary Planeswalker - Gardener </type>
         <maintype>Planeswalker</maintype>
       <loyalty>X</loyalty>
+        <notes>https://www.deviantart.com/abeardedartist/art/Untitled-951446828</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a land you control enters, add one mana of any color.
@@ -2114,10 +2824,14 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Unmasked </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>[+1]: Exile the top card of your library. You may play it this turn. When you do,  you may activate this ability an additional time this turn.
@@ -2129,10 +2843,14 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
+        <cost>3GG</cost>
+        <mana>3GG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Planeswalker - Aeon </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes>https://www.deviantart.com/abeardedartist/art/Untitled-1067056690</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Aeon, of the Living Coffin enters, mill four cards and return each land card from your graveyard to the battlefield tapped.
@@ -2144,10 +2862,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Island Swamp </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U} or {B}.)
@@ -2159,11 +2882,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>https://x.com/Slitherbop/status/1737311175824838900/photo/1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, choose one—
@@ -2175,10 +2903,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.artstation.com/artwork/lJR6a
+changed</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Landfall— Whenever a land you control enters, draw a card.
@@ -2189,10 +2923,15 @@ Your maximum hand size is two.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield. Exile it, then return it to the battlefield under your control.</text>
@@ -2202,10 +2941,15 @@ Your maximum hand size is two.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/silviabobekova/art/the-flame-of-life-1083967394</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell deals 5 damage to target creature. When that creature dies this turn, return it to the battlefield under your control. That creature gains haste. Exile it at the beginning of your next end step.</text>
@@ -2215,11 +2959,18 @@ Your maximum hand size is two.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/elentori/art/Where-Giants-Walk-391434742
+!spellbook I8;1
+</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ancient Forerunner has first strike during your turn.
@@ -2232,10 +2983,14 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <prop>
         <colors>WUG</colors>
         <manacost>1GWU</manacost>
+        <cost>1GWU</cost>
+        <mana>1GWU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Lursk </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes>by grapple</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchantments you control have hexproof.
@@ -2248,10 +3003,15 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       <set rarity="rare">ITD</set>
       <prop>
         <colors>BRG</colors>
+        <color>BRG</color>
         <manacost>BRG</manacost>
+        <cost>BRG</cost>
+        <mana>BRG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature. 
@@ -2262,11 +3022,16 @@ You may have this spell deals 3 damage to each other creature if there are five 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>UBG</colors>
+        <color>UBG</color>
         <manacost>BGU</manacost>
+        <cost>BGU</cost>
+        <mana>BGU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Scout Rogue </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.deviantart.com/dariuszkieliszek/art/Moonboy-Chronicles-Super-Cycle-1047649289</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception BGU (BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -2278,11 +3043,16 @@ Whenever this creature deals combat damage to a player, that player sacrifices a
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Serpent </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>https://www.artstation.com/artwork/dy01ZJ</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception {4} ({4}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -2293,10 +3063,15 @@ Whenever one or more creatures you control deal combat damage to a player, that 
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Forest Plains </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G} or {W}.)
@@ -2308,10 +3083,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>https://pbs.twimg.com/media/GTXblyfWAAEPHTB?format=jpg&amp;name=large</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}. 
@@ -2324,10 +3104,14 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <prop>
         <colors></colors>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Planeswalker - Mx-04 </type>
         <maintype>Planeswalker</maintype>
       <loyalty>1</loyalty>
+        <notes>guest walker by requiem</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>MX-04 enters with an additional loyalty counter on it for each land in your realm. You gain that much life. (Your realm consists of up to one land of each of the basic land types.)
@@ -2339,11 +3123,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Orb Horror </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(This creature is black.)
@@ -2355,11 +3144,16 @@ Lands you control are Swamps.</text>
       <set rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>UU</manacost>
+        <cost>UU</cost>
+        <mana>UU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Horror Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception 2UU (2UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -2371,11 +3165,16 @@ When Like Butterflies on Strings deals combat damage to a player, if it entered 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Vampire Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/hungerartist/art/Vampire-Lord-86177101</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch, lifelink
@@ -2386,11 +3185,16 @@ When Veteran Bloodhunter enters, conjure a card named Drain into your hand. (It�
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>https://x.com/MON_2501/status/1800107676191564134/photo/1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -2402,10 +3206,15 @@ This creature can’t be blocked if an opponent has lost life this this turn.</t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature.
@@ -2417,11 +3226,16 @@ Draw two cards.
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact Creature - Spirit Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
@@ -2432,11 +3246,16 @@ At the beginning of your end step, if you haven’t cast a noncreature spell thi
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Zombie Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike.
@@ -2447,11 +3266,16 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>changed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -2462,11 +3286,16 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
       <set rarity="rare">ITD</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>1BR</manacost>
+        <cost>1BR</cost>
+        <mana>1BR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment Creature - Eye Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>ducky</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -2478,10 +3307,16 @@ This creature gets +1/+1 for each instant and sorcery card in your graveyard.</t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>1GU</manacost>
+        <cost>1GU</cost>
+        <mana>1GU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery - Revelation </type>
         <maintype>Sorcery</maintype>
+        <notes>Noncreature; 2-6
+https://x.com/nameno92372763/status/1741474345837539563/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mill three cards. When you do, return target land card from your graveyard to the battlefield tapped.
@@ -2492,11 +3327,16 @@ Overcoalesce 6GU (You may cast this from your graveyard for 6GU. If you do, chan
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Angel Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>A shimmer on the water, a stray reflection or something else entirely?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deception 2WW (2WW, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
@@ -2508,11 +3348,16 @@ When Insubstantial Glimpse deals combat damage to a player, if it entered this t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Human Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>(Creatures don’t lose loyalty from damage.)
@@ -2525,10 +3370,15 @@ When Insubstantial Glimpse deals combat damage to a player, if it entered this t
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RRR</manacost>
+        <cost>3RRR</cost>
+        <mana>3RRR</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>To quell unbounded wrath is to attempt smothering a star.</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Protostar Bombardment enters, it deals 4 damage to each creature.
@@ -2539,10 +3389,15 @@ Whenever a creature an opponent controls dies, its controller loses 2 life unles
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>https://www.deviantart.com/j-edward-neill/art/Join-Me-in-Oblivion-872226539</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Once during each of your turns, whenever one or more creature cards with mana value 3 or less leave your graveyard, you may create a token copy of one of them.
@@ -2553,10 +3408,16 @@ When Eye of the Abominable enters, return target creature card from your graveya
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>new
+!addtoken Through Violence;conjure:3;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You gain 2 life. Draw a card. Conjure three copies of Through Violence into your library, then shuffle. (It’s a {4} sorcery with “Exile target nonland permanent. Draw a card.”)</text>
@@ -2566,11 +3427,17 @@ When Eye of the Abominable enters, return target creature card from your graveya
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/evi-gilatio/art/meow-985603933
+changed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -2582,11 +3449,16 @@ Whenever this creature attacks alone, it gets +1/+1 until end of turn for each N
       <set rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, conjure a card named Spark into your hand. (It’s a {R} sorcery with “Spark deals 1 damage to any target.”)
@@ -2597,10 +3469,15 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://es.pinterest.com/pin/412783122110307933/</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value lesser than 5, mill a number of cards equal to the difference.</text>
@@ -2610,11 +3487,16 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
       <set rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Snake Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://uk.pinterest.com/pin/32158584833476148/</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -2626,10 +3508,16 @@ When this creature enters, exile another target nonland permanent until this cre
       <prop>
         <colors></colors>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Token Planeswalker - Mx-04 </type>
         <maintype>Planeswalker</maintype>
       <loyalty>1</loyalty>
+        <notes>https://www.deviantart.com/morkardfc/art/Furnace-Soldier-Steampunk-Warrior-509211628
+
+!related MX-04, Electric Usurper</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, Abiogenetic. PRIORITY: Expand.
@@ -2641,10 +3529,15 @@ When this creature enters, exile another target nonland permanent until this cre
       <set rarity="">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/chrisnazgul/art/Blood-894680065</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent loses 1 life and you gain 1 life.
@@ -2655,10 +3548,15 @@ When this creature enters, exile another target nonland permanent until this cre
       <set rarity="">ITD</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/eliag1101/art/Fire-mage-168183745</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Spark deals 1 damage to any target.
@@ -2669,10 +3567,16 @@ When this creature enters, exile another target nonland permanent until this cre
       <set rarity="common">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/aths-art/art/Fallen-Knight-638614346
+new</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target nonland permanent. Draw a card. 
@@ -2683,11 +3587,16 @@ When this creature enters, exile another target nonland permanent until this cre
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.tumblr.com/kanryo/753715534160347136</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>1B: This creature gets +1/+1 until end of turn.
@@ -2698,11 +3607,16 @@ When this creature attacks, if it has power 4 or greater and no counters on it, 
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/48woXl</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Grasping Eternity enters, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”
@@ -2716,10 +3630,14 @@ At the beginning of your end step, if you gained life this turn, choose one—
       <prop>
         <colors></colors>
         <manacost>15</manacost>
+        <cost>15</cost>
+        <mana>15</mana>
         <cmc>15</cmc>
+        <mv>15</mv>
         <type>Legendary Planeswalker - Gardener </type>
         <maintype>Planeswalker</maintype>
       <loyalty>7</loyalty>
+        <notes>https://www.artstation.com/artwork/Kr8vY4</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>The Gardener, Crowned costs 1 less to cast for each colorless permanent you control. (Lands are colorless.)
@@ -2732,10 +3650,16 @@ At the beginning of your end step, if you gained life this turn, choose one—
       <set rarity="rare">ITD</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>reprint
+https://www.deviantart.com/abeardedartist/art/Untitled-1110201842</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may look at the top card of your library any time.
@@ -2748,10 +3672,14 @@ Put a burden counter on The Howling Door: You lose 1 life for each burden counte
       <prop>
         <colors></colors>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Echo </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you activate a loyalty ability of The Eternal Echo, create a colorless Echo planeswalker token at the beginning of your next end step and put 3 loyalty counters on it. It gains that ability, except it costs -1.
@@ -2765,11 +3693,16 @@ Put a burden counter on The Howling Door: You lose 1 life for each burden counte
       <set rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, lifelink, haste

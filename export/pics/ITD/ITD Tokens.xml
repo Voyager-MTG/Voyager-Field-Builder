@@ -10,6 +10,7 @@
         <type>Token Creature - Faerie Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/thedancingemu/art/Keeper-794267996</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -24,6 +25,7 @@ This creature can’t block.</text>
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -36,6 +38,7 @@ This creature can’t block.</text>
         <colors></colors>
         <type>Token Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
@@ -49,6 +52,7 @@ This creature can’t block.</text>
         <type>Token Creature - Illusion </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -62,6 +66,7 @@ This creature can’t block.</text>
         <type>Token Creature - Nightmare </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -75,6 +80,7 @@ This creature can’t block.</text>
         <colors></colors>
         <type>Token Land</type>
         <maintype>Land</maintype>
+        <notes>!related Strange Wayfarer</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>This land has every basic land type.</text>
@@ -88,6 +94,7 @@ This creature can’t block.</text>
         <colors></colors>
         <type>Token Planeswalker - Echo </type>
         <maintype>Planeswalker</maintype>
+        <notes>!related The Eternal Echo</notes>
       </prop>
       <tablerow>1</tablerow>
       <text></text>
@@ -102,6 +109,9 @@ This creature can’t block.</text>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I8
+!related Ancient Forerunner;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ancient Forerunner ITD has first strike during your turn.
@@ -117,6 +127,9 @@ When this creature enters, it deals damage equal to its power to each opponent.<
         <type>Artifact Creature - Drone </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I1
+!related Cloudscape Observer;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.</text>
@@ -131,6 +144,9 @@ When this creature enters, it deals damage equal to its power to each opponent.<
         <type>Artifact Creature - Sphinx </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I2
+!related Deepmind Oracle;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -146,6 +162,9 @@ When this creature enters, surveil X, where X is its power.</text>
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I3
+!related Emergent Anomaly;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -161,6 +180,9 @@ Whenever this creature attacks, tap up to one target creature.</text>
         <type>Artifact Creature - Demigod Construct </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I4
+!related Fracture of Divinity;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -176,6 +198,9 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
         <type>Legendary Artifact Creature - Sphinx </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I5
+!related Lammasu, Dream-Stilled;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -191,6 +216,9 @@ When this creature enters, return target instant or sorcery card from your grave
         <type>Artifact Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I6
+!related Mechanised Hunter;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. </text>
@@ -205,6 +233,9 @@ When this creature enters, return target instant or sorcery card from your grave
         <type>Artifact Creature - Warlock </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I9
+!related New-Life Acolyte;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. </text>
@@ -219,6 +250,9 @@ When this creature enters, return target instant or sorcery card from your grave
         <type>Artifact Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I7
+!related Priest of Perfection;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
@@ -233,6 +267,8 @@ When this creature enters, return target instant or sorcery card from your grave
         <type>Artifact Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!tokentag I10
+!related Shifting Silverscape;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add {C}</text>
@@ -247,6 +283,7 @@ When this creature enters, return target instant or sorcery card from your grave
         <type>Token Artifact Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/smorekr/art/Fatal-Attraction-883246854</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying

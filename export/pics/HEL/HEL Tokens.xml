@@ -10,6 +10,7 @@
         <type>Token Creature - Zombie </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://www.deviantart.com/markusvogt/art/Underworld-Rising-697237078</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -24,6 +25,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Merfolk Horror </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/davesrightmind/art/Siren-Final-369903638</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -37,6 +39,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Skeleton </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/nQ2J0E</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -50,6 +53,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Spider </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>https://www.deviantart.com/highdarktemplar/art/Spider-of-Leng-820654490</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach</text>
@@ -63,6 +67,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Skeleton Hydra </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/pininkela/art/The-Serpent-283704184</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -76,6 +81,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Skeleton Horse </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
+        <notes>https://www.deviantart.com/thedurrrrian/art/Fear-the-black-horse-of-famine-488974264</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -89,6 +95,7 @@ Decayed (This creature can’t block. When it attacks, sacrifice it at end of co
         <type>Token Creature - Vampire Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes>https://www.deviantart.com/sinealas/art/The-Knight-600552138</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>

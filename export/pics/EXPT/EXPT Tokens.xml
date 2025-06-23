@@ -10,6 +10,7 @@
         <type>Token Enchantment Creature - Icon </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
+        <notes>!related Soul Splintering;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -24,6 +25,7 @@
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
@@ -37,6 +39,8 @@
         <type>Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>!related Distant Vulture;
+!exportname Distant Vulture Astral;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -52,6 +56,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Insect Plant </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
@@ -65,6 +70,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Artifact Creature - Wall </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
+        <notes>Hopeless</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender (This creature can’t attack.)</text>
@@ -78,6 +84,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>Hopeless</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)</text>
@@ -91,6 +98,8 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Artifact Creature - Robot </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>Hopeless
+!related Extant Surveyor;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -104,6 +113,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <colors></colors>
         <type>Reminder</type>
         <maintype>Reminder</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(These cards can be cast from exile.)</text>
@@ -117,6 +127,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
+        <notes>!related The Demon Within;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -131,6 +142,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Cerise, Augur of Flow;Tepid Tamer;Meirel Drifter;Adventurous Pair;Ignelscor Witch;Kindred Spirits</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -150,6 +162,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Fox </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
+        <notes>!related Kindred Spirits;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -163,6 +176,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <colors></colors>
         <type>Token Kindred Enchantment - Wurm Dragon </type>
         <maintype>Enchantment</maintype>
+        <notes>!related Homestead Pair;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>This enchantment is also a creature if you’ve illuminated silver.</text>
@@ -177,6 +191,8 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Unveiling;
+!exportname Elemental Token 2;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -191,6 +207,8 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Unveiling;
+!exportname Elemental Token 3;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
@@ -205,6 +223,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Dragon Eye </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!related Promise of Hunger;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -219,6 +238,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Legendary Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!related Chirps, Spice Seeker;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste</text>
@@ -233,6 +253,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Artifact Creature - Orb Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Wandering Travelers;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
@@ -247,6 +268,9 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Artifact Creature - Treasure </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Inkblot Artist;
+
+Bastien Chapitaux</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}, Sacrifice this creature: Add one mana of any color.</text>
@@ -262,6 +286,9 @@ Distant Vulture has lifelink as long as it’s a token.</text>
         <type>Token Creature - Fish </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>
+        <notes>!related Kaiju Sighting;
+
+https://www.deviantart.com/mocaran/art/The-journey-and-the-big-fish-603435678</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>

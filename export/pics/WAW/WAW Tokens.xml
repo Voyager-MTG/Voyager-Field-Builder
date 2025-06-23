@@ -10,6 +10,7 @@
         <type>Token Creature - Dragon </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>!related Starstruck Skitter;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -23,6 +24,7 @@
         <colors>B</colors>
         <type>Token Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!related Norr, Ajha’s Lieutenant;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.</text>
@@ -37,6 +39,7 @@
         <type>Token Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>*/*</pt>
+        <notes>!related Memory of Home; Shapes in the Pools; Corrupted Wish; Remain Steady; Excess of Potential; Wish for Destruction; Wish for Power;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature can’t block.</text>
@@ -56,6 +59,7 @@
         <colors></colors>
         <type>Token Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!related Dhere, Preserver of Memories;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>This enchantment is all colors.
@@ -71,6 +75,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
         <type>Token Creature - Wonder Archon </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes>!related Memory Lane; Cathexis, Soul Aspect;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature is all colors.</text>
@@ -86,6 +91,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
         <type>Token Creature - Wonder Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname New Tensuo Luminary Token;
+!related New Tensuo Luminary;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
@@ -101,6 +108,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
         <type>Creature - Wonder Fish </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Lakebed Wrudge Token;
+!related Lakebed Wrudge;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
@@ -117,6 +126,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
         <type>Token Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -130,6 +140,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
         <type>Token Creature - Wonder Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Cloudeater Drake token;
+!related Cloudeater Drake;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -145,6 +157,7 @@ When this creature enters, draw a card.
         <colors>W</colors>
         <type>Token</type>
         <maintype>Token</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(This token can be used to represent a token that’s a copy of a permanent.)</text>
@@ -158,6 +171,7 @@ When this creature enters, draw a card.
         <type>Token Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!related Tenuous Partners;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -173,6 +187,8 @@ This creature can’t block.</text>
         <type>Token Creature - Wonder  </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Flowering Germinus Token;
+!related Flowering Germinus;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain vigilance until end of turn.
@@ -188,6 +204,8 @@ This creature can’t block.</text>
         <type>Token Creature - Wonder Cat </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Gilded Ancient Token;
+!related Gilded Ancient;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -204,6 +222,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
@@ -218,6 +237,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Kindly Skywinder Token;
+!related Kindly Skywinder;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, target creature you control gains flying until end of turn.
@@ -233,6 +254,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Enchantment Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Music of the Deepholt Token;
+!related Music of the Deepholt;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
@@ -248,6 +271,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder Elf Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname New Tensuo Clergy Token;
+!related New Tensuo Clergy;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
@@ -263,6 +288,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname New Tensuo Vanguard Token;
+!related New Tensuo Vanguard</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, creatures you control get +1/+0 and gain first strike until end of turn.
@@ -278,6 +305,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder  </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Scrappy Wisp-Speaker; Abrasive Trailblazer&lt;2>; Blossoming Comprehension; Blossoming Dissenter; Antlerweaver; Blinding Majesty&lt;2>; Blossoming Conscience; Citadel Repository; Cathexis, Soul Aspect; Starsea Slayer&lt;3>; Starseeker Deva; New Tensuo Calmkeeper; Polymorphic Wispweaver&lt;2>;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature is all colors.</text>
@@ -304,6 +332,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Creature - Wonder Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!tokens Redefinition Token</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, up to one target creature’s power and toughness each become equal to this creature’s power and toughness until this creature leaves the battlefield.
@@ -318,6 +347,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
         <type>Token Enchantment Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Stardust Haze Token;
+!related Stardust Haze;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -334,6 +365,8 @@ When this enchantment enters, exile target nonland permanent you don’t control
         <type>Token Creature - Wonder Demigod Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Ageless Caretaker Token;
+!related Ageless Caretaker;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>During your turn, this creature has indestructible and vigilance.
@@ -350,6 +383,8 @@ This creature gets +1/+0 for each other creature you control.
         <type>Token Creature - Wonder Elf Druid </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname New Tensuo Physician Token;
+!related New Tensuo Physician;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
@@ -365,6 +400,8 @@ This creature gets +1/+0 for each other creature you control.
         <type>Token Creature - Wonder Salamander </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Vrep token;
+!related Vrep;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature can’t be blocked by more than one creature.

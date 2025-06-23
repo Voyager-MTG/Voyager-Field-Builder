@@ -14,10 +14,15 @@
       <set rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -29,10 +34,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Alpine Borderholt enters tapped unless a land you control could produce {U}.
@@ -43,10 +53,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Aurora-Lit Valley enters tapped unless a land you control could produce {G}.
@@ -57,10 +72,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Bottom of the Deepmists enters tapped. As it enters, choose a color.
@@ -72,10 +92,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>When Branching Grotto enters, you may search your library for a basic land card and reveal it. If you do, shuffle, then put that card on top or into your graveyard.
@@ -87,10 +112,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Citadel Chapel enters tapped unless a land you control could produce {U}.
@@ -101,10 +131,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Sacrifice Citadel Observatory: You may put a basic land card you own from your sanctum onto the battlefield tapped.
@@ -115,10 +150,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Underholt Gateway enters tapped unless a land you control could produce {R}.
@@ -129,10 +169,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -142,10 +187,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -155,10 +205,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Megaflora Floodplain enters tapped unless a land you control could produce {W}.
@@ -169,10 +224,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -182,10 +242,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>New Tensuo Colony enters tapped.
@@ -197,10 +262,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Opulent Labyrinth enters tapped unless a land you control could produce {W}.
@@ -211,10 +281,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -224,10 +299,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {R}. You lose 1 life unless you control a red permanent.
@@ -239,10 +319,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {U}. You lose 1 life unless you control a blue permanent.
@@ -254,10 +339,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {W}. You lose 1 life unless you control a white permanent.
@@ -269,10 +359,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {B}. You lose 1 life unless you control a black permanent.
@@ -284,10 +379,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {G}. You lose 1 life unless you control a green permanent.
@@ -299,10 +399,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Skyview Zenith enters tapped unless a land you control could produce {R}.
@@ -313,10 +418,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Kindred Land - Spirit </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Splinter of Ilcae enters tapped.
@@ -328,10 +438,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Starsea Nadir enters tapped unless a land you control could produce {B}.
@@ -342,10 +457,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Stonewrought Hall enters tapped unless a land you control could produce {G}.
@@ -356,10 +476,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>landslot</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Surreal Highlands enters tapped unless a land you control could produce {B}.
@@ -370,10 +495,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -383,10 +513,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As The Citadel enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -398,10 +533,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As The Deepmists enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -413,10 +553,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>When The Heart of Ischav enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
@@ -428,10 +573,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As The Holt enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -443,10 +593,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As The Skyview enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -458,10 +613,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As The Starsea enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -473,10 +633,15 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Wanderer’s Shrine: Put a basic land card you own from your sanctum onto the battlefield.</text>
@@ -486,11 +651,16 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Fungus Beast </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach
@@ -501,11 +671,16 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Thopter </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
@@ -516,10 +691,15 @@ Ploy—Exile target nonbasic land. Its controller may search their library for a
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Spells you control can’t be countered this turn.
@@ -530,11 +710,16 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Plant Rabbit </type>
         <maintype>Creature</maintype>
         <pt>0/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Chitterbit enters, you may reveal a basic land card you your sanctum. If a Plains or Mountain card was revealed, put a +1/+1 counter on target creature. If an Island or Swamp card was revealed, surveil 2. If a Forest card was revealed, you gain 3 life.                      </text>
@@ -544,11 +729,16 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Wall </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -560,11 +750,16 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elf Scout </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{2}, {T}: Tap target non-Wonder creature.
@@ -575,11 +770,16 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Legendary Creature - Orc Survivor </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Dhere enters, create an enchantment token named Story of a Dead Plane that’s all colors with “Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.””</text>
@@ -589,11 +789,16 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -604,11 +809,16 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elf Scout </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -619,10 +829,15 @@ When Drifting Opportunist enters, you may discard a card. If you do, pursue Wond
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Each opponent sacrifices a creature, then you may sacrifice a creature. If you do, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
@@ -632,10 +847,15 @@ When Drifting Opportunist enters, you may discard a card. If you do, pursue Wond
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Heat of Potential deals 2 damage to any nonplayer target.
@@ -646,11 +866,16 @@ Augmented — Heat of Potential deals 5 damage to that target instead if you’v
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elk </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Holt Sleeper enters tapped with three stun counters on it if it was cast from your hand. (If a permanent with a stun counter would become untapped, remove one from it instead.)
@@ -661,10 +886,15 @@ Whenever you cast a blue, black, red, or green spell, untap Holt Sleeper and you
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Augmented — Surveil 1, then draw a card. If you’ve spent WUBRG to cast spells this turn, instead draw two cards.</text>
@@ -674,11 +904,16 @@ Whenever you cast a blue, black, red, or green spell, untap Holt Sleeper and you
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Legendary Creature - Faerie Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -691,10 +926,15 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -707,10 +947,15 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       <set rarity="common">WAW</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>1W/U</manacost>
+        <cost>1W/U</cost>
+        <mana>1W/U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target nonland permanent you control, then you may return it to the battlefield under its owner’s control. If you don’t, return it to its owner’s hand, then draw a card.</text>
@@ -720,11 +965,16 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New Tensuo Luminary. This ability triggers only once each turn.
@@ -735,10 +985,15 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -750,10 +1005,15 @@ During your turn, enchanted creature has first strike and vigilance.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>XR</manacost>
+        <cost>XR</cost>
+        <mana>XR</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Pyretic Desire deals X damage to any target.
@@ -767,11 +1027,16 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, choose one.
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Exile the top card of your library. You may play it this turn. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)
@@ -782,10 +1047,15 @@ When Scrappy Wisp-Speaker dies, if there is a card exiled with it, create a 1/1 
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, you may [create an X/X black Spirit creature token that can’t block], where X is that spell’s mana value.
@@ -796,11 +1066,16 @@ Impetus — XB, Pay X life. (You may cast this from your graveyard as a sorcery 
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast your second spell each turn, put a +1/+1 counter on Smug Upstart.
@@ -811,10 +1086,15 @@ WU: Return another target nonland permanent you control to its owner’s hand.</
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>[Mill two cards], then you may pay 1 life to return one of the milled cards to your hand.
@@ -825,11 +1105,16 @@ Impetus {B} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy—Add one mana of any color. You don’t lose this mana as steps and phases end this turn. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)
@@ -840,10 +1125,15 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Augmented — Destroy target creature if it has mana value 2 or less or if you’ve spent WUBRG to cast spells this turn.</text>
@@ -853,11 +1143,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elf Rogue </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -868,10 +1163,15 @@ Ploy—Each player loses 1 life and you draw a card. (When this creature attacks
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
@@ -882,11 +1182,16 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, put four +1/+1 c
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Griffin </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -898,10 +1203,15 @@ As long as you control a nontoken red or black permanent, Windwish Pests gets +1
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Instant - Spirit </type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Emerge 4U (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -914,11 +1224,16 @@ Choose one. If this spell emerged, you may choose both.
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach
@@ -929,11 +1244,16 @@ You may cast Worldsoul Wanderer from your graveyard by paying WUBRG rather than 
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Create two 1/1 Wonder creature tokens that are all colors, tapped, and attacking. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
@@ -943,11 +1263,16 @@ You may cast Worldsoul Wanderer from your graveyard by paying WUBRG rather than 
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Demigod Ranger </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of combat on your turn, surveil 1. When you do, exile up to one target card from your graveyard.
@@ -958,11 +1283,16 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Return target creature card with mana value less than or equal to Alpine Poolseeker’s power from your graveyard to the battlefield.  (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
@@ -972,10 +1302,15 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {2}. If they do, [create a 1/1 Wonder creature token that’s all colors.]
@@ -986,11 +1321,16 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Blossoming Dissenter dies, [create a 1/1 Wonder creature token that’s all colors.]
@@ -1001,10 +1341,15 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -1017,11 +1362,16 @@ When enchanted creature dies, you may return it to the battlefield under its own
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Fox Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1032,10 +1382,15 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Add {C}.
@@ -1047,10 +1402,15 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature you control gets +2/+0 and gains “When this creature dies, return it to its owner’s hand, then create a token that’s a copy of it, except it’s a Spirit.” (It loses its other creature types.)</text>
@@ -1060,11 +1420,16 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Vampire Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1075,11 +1440,16 @@ Ploy — Target opponent reveals their hand and discards a nonland card of your 
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Zombie Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Deepmists Vindicator becomes blocked, [each opponent sacrifices a creature or planeswalker.]
@@ -1090,10 +1460,15 @@ Impetus 4B (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>WB</manacost>
+        <cost>WB</cost>
+        <mana>WB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Sorcery - Wonder  </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at target opponent’s hand. Choose a nonland, non-Wonder card from it. That player discards that card. You gain 2 life.</text>
@@ -1103,11 +1478,16 @@ Impetus 4B (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>0/0</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -1119,11 +1499,16 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Creature - Elf Advisor </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Giatela, Tensu Emissary or another creature you control with power 1 or less enters, choose one—
@@ -1136,11 +1521,16 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Keyseeker enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
@@ -1151,10 +1541,15 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>[Target creature you control gains indestructible and lifelink until end of turn.] Put a +1/+1 counter on it.
@@ -1165,10 +1560,15 @@ Impetus 1B (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, pay {1} or exile a creature card from your graveyard.
@@ -1179,11 +1579,16 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Fish </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
@@ -1195,11 +1600,16 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Kor Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Liberators of the Soul enters, look at target player’s hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it during their turn. A spell cast this way costs {2} more to cast.</text>
@@ -1209,11 +1619,16 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1225,10 +1640,15 @@ Impetus {W} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Memory Lane enters, look at the top three cards of your library. Put one into your hand and the rest into your graveyard.
@@ -1239,11 +1659,16 @@ Impetus {W} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Elf Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Spy enters, surveil 1.
@@ -1254,11 +1679,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Creature  - Human Druid </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may pay WUBRG rather than pay the mana cost for creature spells you cast. If you cast a spell with mana value less than 5 this way, it enters with a number of +1/+1 counters on it equal to the difference.</text>
@@ -1268,10 +1698,15 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>UU</manacost>
+        <cost>UU</cost>
+        <mana>UU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell with mana value X or less, where X is the greatest mana value among permanents you control and cards in your graveyard.</text>
@@ -1281,11 +1716,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Overeager Researcher deals combat damage to an opponent, draw a card.
@@ -1296,11 +1736,16 @@ Ploy — Creatures you control can’t be blocked by creatures with greater powe
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Fox  </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: [Target creature you control gains haste until end of turn.]
@@ -1311,10 +1756,15 @@ Impetus {R} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>1U/B</manacost>
+        <cost>1U/B</cost>
+        <mana>1U/B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Instant - Wonder </type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top five cards of your library. Put up to one back on top and the rest into your graveyard.</text>
@@ -1324,10 +1774,15 @@ Impetus {R} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -1339,11 +1794,16 @@ As long as you control enchanted creature, it gets +2/+1. Otherwise, it can’t 
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Elf Scout </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Mill three cards. You may put a permanent card from among the cards milled this way into your hand. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
@@ -1353,10 +1813,15 @@ As long as you control enchanted creature, it gets +2/+1. Otherwise, it can’t 
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant land
@@ -1368,10 +1833,15 @@ When Rotting Structure enters or is put into a graveyard from the battlefield, d
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>UR</manacost>
+        <cost>UR</cost>
+        <mana>UR</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, discard two cards.
@@ -1382,11 +1852,16 @@ Draw three cards.</text>
       <set rarity="common">WAW</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>1W/B</manacost>
+        <cost>1W/B</cost>
+        <mana>1W/B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, Sacrifice another creature: Put a +1/+1 counter on Silent Reposid. You gain 1 life. </text>
@@ -1396,10 +1871,15 @@ Draw three cards.</text>
       <set rarity="common">WAW</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>1R/W</manacost>
+        <cost>1R/W</cost>
+        <mana>1R/W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Artifact - Wonder Equipment </type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +2/+1 and can’t be blocked by Wonders.
@@ -1410,11 +1890,16 @@ Equip {3}</text>
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1425,11 +1910,16 @@ When Starsea Diver enters, pursue Wonder. (Reveal a basic land or Wonder card yo
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Crocodile </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of combat on your turn, another [target creature you control gets +2/-1 until end of turn.]
@@ -1440,10 +1930,15 @@ Impetus {B} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature, exile two cards with creature types from your graveyard, or pay {2}.  
@@ -1454,11 +1949,16 @@ Counter target spell with a creature type.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Elf Rogue </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy — Gain control of target creature with mana value 3 or less until end of turn. Tap it. It’s attacking. (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
@@ -1468,11 +1968,16 @@ Counter target spell with a creature type.</text>
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1484,10 +1989,15 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target monocolored creature.</text>
@@ -1497,11 +2007,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dryad Bard </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -1512,10 +2027,15 @@ When Unbound Troubador enters, draw a card if you’ve cast a white or blue spel
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Sorcery - Spirit </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Emerge 3B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -1526,11 +2046,16 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Elf Advisor </type>
         <maintype>Creature</maintype>
         <pt>1/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creatures you control have vigilance.
@@ -1542,11 +2067,16 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WRG</colors>
+        <color>WRG</color>
         <manacost>RGW</manacost>
+        <cost>RGW</cost>
+        <mana>RGW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Wonder Beast </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Antlerweaver enters, mill four cards. Then you may put a creature card with mana value 1 from your hand or graveyard onto the battlefield, or create a 1/1 Wonder creature token that’s all colors. That creature gains haste until end of turn.</text>
@@ -1556,10 +2086,15 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       <set rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>!tokens Beast Token;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1574,10 +2109,15 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 Wonder creature tokens that are all colors. When you do, up to one target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
@@ -1587,10 +2127,15 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature or enchantment. Its controller may [create a 1/1 Wonder creature token that’s all colors.]
@@ -1601,10 +2146,15 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="common">WAW</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>1B/RB/R</manacost>
+        <cost>1B/RB/R</cost>
+        <mana>1B/RB/R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Enchantment - Wonder  </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -1616,10 +2166,15 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Pursue Wonder. When you do, if a land card was revealed this way, Citadel Outburst deals 3 damage to any target. Otherwise, Citadel Outburst deals 1 damage to any target. (To pursue Wonder, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
@@ -1629,11 +2184,16 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Werewolf </type>
         <maintype>Creature</maintype>
         <pt>2/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Citadel Penitent enters with a defender counter on it.
@@ -1644,10 +2204,15 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Citadel Repository enters and whenever you cast a spell with mana value 5 or greater, create a 1/1 Wonder creature token that’s all colors.
@@ -1658,11 +2223,16 @@ WB, Pay 2 life: Create a token that’s a copy of target token you control. Acti
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Orc Rogue </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you sacrifice a permanent, draw a card. This ability triggers only once each turn.
@@ -1673,10 +2243,15 @@ WB, Pay 2 life: Create a token that’s a copy of target token you control. Acti
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Declivity enters, draw two cards.
@@ -1687,10 +2262,15 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target land you control becomes a 5/5 Wonder creature with reach and haste that’s all colors. It’s still a land. It must be blocked this turn if able.
@@ -1701,11 +2281,16 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Survivor </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Epitaph Hermit enters, pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)
@@ -1716,10 +2301,15 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Legendary Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Creatures you control have “Ploy—Draw a card.” (Whenever a creature with ploy attacks, you may trigger any number of its ploys. If you do, sacrifice it at the next end step.)
@@ -1730,11 +2320,16 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Construct Scout </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may play basic land cards you own from your sanctum.
@@ -1745,11 +2340,16 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1761,11 +2361,16 @@ Exile Existence Flutter: Exile target nonland permanent you control, then return
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Efreet Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
@@ -1776,10 +2381,15 @@ Ploy—Up to two target creatures can’t block this turn. Draw a card. (When th
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -1792,11 +2402,16 @@ Ploy—Up to two target creatures can’t block this turn. Draw a card. (When th
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Kor Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, trample
@@ -1807,11 +2422,16 @@ Augmented — {5}: If Ilcan Avenger has no +1/+1 counters on it, put three +1/+1
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Kor Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!tokens Beast Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Entrancer enters, choose one —
@@ -1824,10 +2444,15 @@ Augmented — {5}: If Ilcan Avenger has no +1/+1 counters on it, put three +1/+1
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Ilcan Resolution enters, you may have target creature you control fight target creature you don’t control.
@@ -1838,10 +2463,15 @@ At the beginning of your end step, if a creature died under your control this tu
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature 
@@ -1854,10 +2484,14 @@ When Irresistible Calling enters, pursue Wonder. (Reveal a basic land or Wonder 
       <prop>
         <colors>WUR</colors>
         <manacost>URW</manacost>
+        <cost>URW</cost>
+        <mana>URW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Planeswalker - Manuela </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Tap two untapped creatures you control: Manuela becomes a 5/5 Avatar enchantment creature with indestructible until end of turn. Activate only as a sorcery.
@@ -1870,10 +2504,15 @@ When Irresistible Calling enters, pursue Wonder. (Reveal a basic land or Wonder 
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature to its owner’s hand.
@@ -1884,11 +2523,16 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Dragon </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -1900,10 +2544,15 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
@@ -1914,11 +2563,16 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Elf Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever New Tensuo Clergy or another creature you control dies, each opponent loses 1 life and you gain 1 life.
@@ -1929,10 +2583,15 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -1944,10 +2603,15 @@ Enchanted creature can’t attack or block.
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Untap target creature or planeswalker and gain control of it until end of turn. Until end of turn, it gains haste and “Remove a counter from this permanent: It deals 1 damage to its owner.”</text>
@@ -1957,11 +2621,16 @@ Enchanted creature can’t attack or block.
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, deathtouch, lifelink
@@ -1973,10 +2642,15 @@ Augmented — At the beginning of each end step, if you’ve spent WUBRG to cast
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, sacrifice a creature or exile three creature cards from your graveyard.
@@ -1987,10 +2661,15 @@ Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card you own fro
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -2002,10 +2681,15 @@ Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile any number of target nonland permanents you control. At the beginning of the next end step, return each card exiled this way to the battlefield under your control, then create a copy of each token exiled this way.</text>
@@ -2015,11 +2699,16 @@ Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Human Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature you control enters, you may have it gain haste and “At the beginning of the end step, sacrifice this creature.”
@@ -2030,10 +2719,15 @@ Whenever a creature you control dies, if it attacked this turn, exile the top ca
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>For each color, return up to one target creature card of that color from your graveyard to your hand.</text>
@@ -2043,10 +2737,15 @@ Whenever a creature you control dies, if it attacked this turn, exile the top ca
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1RR</manacost>
+        <cost>1RR</cost>
+        <mana>1RR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Creatures you control have haste.
@@ -2057,11 +2756,16 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Zombie Scout </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2072,11 +2776,16 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
       <set rarity="common">WAW</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>1U/RU/R</manacost>
+        <cost>1U/RU/R</cost>
+        <mana>1U/RU/R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Wonder Wolf </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Instant, sorcery, and Wonder spells you cast cost {1} less to cast.</text>
@@ -2086,10 +2795,15 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>UB</colors>
+        <color>UB</color>
         <manacost>1UB</manacost>
+        <cost>1UB</cost>
+        <mana>1UB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Enchantment - Wonder Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -2101,10 +2815,15 @@ Whenever enchanted creature deals combat damage to an opponent, you may return t
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WUB</colors>
+        <color>WUB</color>
         <manacost>WUB</manacost>
+        <cost>WUB</cost>
+        <mana>WUB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent chooses a creature they control and shuffles it into their library. If they chose a creature with mana value 3 or less this way, you draw a card. </text>
@@ -2114,11 +2833,16 @@ Whenever enchanted creature deals combat damage to an opponent, you may return t
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch
@@ -2129,11 +2853,16 @@ When Suggestible Mark dies, pursue Wonder. (Reveal a basic land or Wonder card y
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WBR</colors>
+        <color>WBR</color>
         <manacost>RWB</manacost>
+        <cost>RWB</cost>
+        <mana>RWB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Wonder Beast </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Swirling Smokewalker or another creature you control dies, if it wasn’t blocking, put your choice of a +1/+1 counter or a deathtouch counter on target creature you control.</text>
@@ -2143,10 +2872,15 @@ When Suggestible Mark dies, pursue Wonder. (Reveal a basic land or Wonder card y
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw three cards.
@@ -2157,10 +2891,15 @@ You may cast The Deepmist Record from your graveyard by paying WUBRG rather than
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>GG/WW</manacost>
+        <cost>GG/WW</cost>
+        <mana>GG/WW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Creature spells you cast cost {1} less to cast.
@@ -2171,10 +2910,15 @@ At the beginning of combat on your turn, if you control three or more creatures,
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>WW/UU</manacost>
+        <cost>WW/UU</cost>
+        <mana>WW/UU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>As The Shimmering Sky enters, choose a nonland card name.
@@ -2186,11 +2930,16 @@ When The Shimmering Sky leaves the battlefield, you gain 5 life and you draw a c
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Fish </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2201,10 +2950,15 @@ Augmented — Whenever Tranquil Cloudray enters or attacks, if you’ve spent WU
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WBR</colors>
+        <color>WBR</color>
         <manacost>RWB</manacost>
+        <cost>RWB</cost>
+        <mana>RWB</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create three 1/1 Wonder creature tokens that are all colors.</text>
@@ -2214,10 +2968,15 @@ Augmented — Whenever Tranquil Cloudray enters or attacks, if you’ve spent WU
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Instant - Spirit </type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Emerge 4B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -2229,11 +2988,16 @@ If Wish for Discord emerged from a creature with toughness 2 or greater, wheneve
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Vampire Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, lifelink
@@ -2244,10 +3008,15 @@ At the beginning of your upkeep, pursue Wonder. When you do, you lose life equal
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Augmented — When you cast this spell, if you’ve spent WUBRG to cast spells this turn, copy it twice. You may choose new targets for the copies.
@@ -2258,11 +3027,16 @@ Untap target land you control. Put three +1/+1 counters on it. It becomes a 0/0 
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Phoenix </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -2273,10 +3047,15 @@ You may cast Worldsoul Phoenix from your graveyard by paying WUBRG rather than p
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -2288,10 +3067,15 @@ You may cast Worldsoul Song from your graveyard by paying WUBRG rather than payi
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, surveil 1.
@@ -2302,11 +3086,16 @@ You may cast creature cards from your graveyard by paying WUBRG rather than payi
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Human Artificer </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Aechmi has first strike during your turn.
@@ -2318,11 +3107,16 @@ When Aechmi dies, you may discard your hand. If you do, draw cards equal to the 
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WRG</colors>
+        <color>WRG</color>
         <manacost>1RGW</manacost>
+        <cost>1RGW</cost>
+        <mana>1RGW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Construct </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -2333,11 +3127,16 @@ Spells you cast with mana value 5 or greater cost {2} less to cast.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Giant Artificer </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -2349,11 +3148,16 @@ Spells you cast with mana value 5 or greater cost {2} less to cast.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Elf Druid </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes>!tokens Beast Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
@@ -2365,10 +3169,15 @@ Impetus 4G (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>2GG</manacost>
+        <cost>2GG</cost>
+        <mana>2GG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {2} less to cast if it targets one or more multicolored creatures.
@@ -2415,11 +3224,16 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, {T}, Sacrifice another creature: Draw a card. If you activated this ability during your main phase, you may pursue Wonder instead. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
@@ -2429,11 +3243,16 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2445,10 +3264,15 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WBRG</colors>
+        <color>WBRG</color>
         <manacost>BRGW</manacost>
+        <cost>BRGW</cost>
+        <mana>BRGW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Each player discards their hand, then draws a card. You may put a land card from among cards put into graveyards this way onto the battlefield under your control.</text>
@@ -2458,10 +3282,15 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>[Tap up to two target creatures], then put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
@@ -2472,10 +3301,15 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="rare">WAW</set>
       <prop>
         <colors>UBRG</colors>
+        <color>UBRG</color>
         <manacost>UBRG</manacost>
+        <cost>UBRG</cost>
+        <mana>UBRG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a creature you control deals combat damage to a player, you may draw a card.
@@ -2486,10 +3320,15 @@ Whenever a creature you control becomes blocked, defending player discards a car
       <set rarity="common">WAW</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>2B/GB/G</manacost>
+        <cost>2B/GB/G</cost>
+        <mana>2B/GB/G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -2501,10 +3340,15 @@ Whenever a creature you control becomes blocked, defending player discards a car
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>BRG</colors>
+        <color>BRG</color>
         <manacost>BRG</manacost>
+        <cost>BRG</cost>
+        <mana>BRG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Sacrifice Effigy of Dead Homes: Create a token that’s a copy of target creature you control, except it has haste, indestructible, and “At the beginning of the end step, exile this permanent.” Activate only as a sorcery.</text>
@@ -2514,11 +3358,16 @@ Whenever a creature you control becomes blocked, defending player discards a car
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WUR</colors>
+        <color>WUR</color>
         <manacost>1URW</manacost>
+        <cost>1URW</cost>
+        <mana>1URW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Wall </type>
         <maintype>Creature</maintype>
         <pt>0/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender, reach
@@ -2529,11 +3378,16 @@ When Endless Enigma enters, you may shuffle a card from your hand into your libr
       <set rarity="common">WAW</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>1G/WG/W</manacost>
+        <cost>1G/WG/W</cost>
+        <mana>1G/WG/W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain vigilance until end of turn.
@@ -2544,10 +3398,15 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WUBR</colors>
+        <color>WUBR</color>
         <manacost>WUBR</manacost>
+        <cost>WUBR</cost>
+        <mana>WUBR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Hexproof from noted mana values
@@ -2559,11 +3418,16 @@ Whenever you cast an instant or sorcery spell with a noted mana value, copy that
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Kor Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Each instant, sorcery, and Spirit spell you cast has emerge {X}, where X is its mana value. (You may cast those spells by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -2574,11 +3438,16 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Loyalist enters, it deals 2 damage to any target.
@@ -2589,10 +3458,15 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>UBR</colors>
+        <color>UBR</color>
         <manacost>1UBR</manacost>
+        <cost>1UBR</cost>
+        <mana>1UBR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent loses 3 life and discards two cards. You draw a card.</text>
@@ -2602,11 +3476,16 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
       <set rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Survivor </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lands and creatures you control have “{T}: Add one mana of any color.”
@@ -2618,11 +3497,16 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
@@ -2633,11 +3517,16 @@ Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Elf Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Orator enters, draw a card, then discard a card. If a nonland card was discarded this way, create a 1/1 Wonder creature token that’s all colors.
@@ -2648,11 +3537,16 @@ GW: You may put a land card from your hand onto the battlefield. If you do, retu
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Elf Scout </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -2663,10 +3557,15 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of up to one target token you control, then put a +1/+1 counter on each creature you control.</text>
@@ -2676,11 +3575,16 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Kor Warlock </type>
         <maintype>Creature</maintype>
         <pt>4/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Norr enters, create a black enchantment token named Memory of Home with “Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.”      </text>
@@ -2690,11 +3594,16 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WBG</colors>
+        <color>WBG</color>
         <manacost>1WBG</manacost>
+        <cost>1WBG</cost>
+        <mana>1WBG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Drake </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2705,10 +3614,15 @@ When Numberless Procession leaves the battlefield, create a 3/3 green Beast crea
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>1BBB</manacost>
+        <cost>1BBB</cost>
+        <mana>1BBB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature you don’t control. Draw a card for each creature destroyed this way.
@@ -2719,11 +3633,16 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>2BR</manacost>
+        <cost>2BR</cost>
+        <mana>2BR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Zombie </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Painful Memory enters, target player discards a card. If that player didn’t discard a creature card this way, they lose 3 life.</text>
@@ -2733,11 +3652,16 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Kor Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Pensive Swordmaster enters, you may discard a card. If you do, [draw a card.]
@@ -2748,11 +3672,16 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
@@ -2763,11 +3692,16 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Spider </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2779,11 +3713,16 @@ Reach</text>
       <set rarity="rare">WAW</set>
       <prop>
         <colors>UBG</colors>
+        <color>UBG</color>
         <manacost>1BGU</manacost>
+        <cost>1BGU</cost>
+        <mana>1BGU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
@@ -2794,11 +3733,16 @@ When Silent Memoriam dies, if it was a creature, return it to the battlefield un
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>2RG</manacost>
+        <cost>2RG</cost>
+        <mana>2RG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>5/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, vigilance
@@ -2809,10 +3753,15 @@ Skyscrape can block only creatures with flying.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -2824,10 +3773,15 @@ Reflect 2W (2W: Create a token copy of this enchantment, except it’s a 1/1 Won
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Sunset Study enters, exile the top three cards of your library. You may play those cards until the end of your next turn.
@@ -2838,11 +3792,16 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Elf Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ploy—Create a 4/4 black Demon creature token with flying and “This creature can’t block.” (When this creature attacks, you may trigger its ploy. If you do, sacrifice it at the next end step.)</text>
@@ -2852,10 +3811,15 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
       <set rarity="rare">WAW</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>1UU/RR</manacost>
+        <cost>1UU/RR</cost>
+        <mana>1UU/RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast an instant or sorcery spell that isn’t a copy, you may exile that card as it resolves. If you do, at the beginning of your next first main phase, you may cast a copy of that card. (You still pay its costs.)</text>
@@ -2865,10 +3829,15 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
       <set rarity="rare">WAW</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>1BB/RR</manacost>
+        <cost>1BB/RR</cost>
+        <mana>1BB/RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When The Citadel’s Geometry enters and whenever a creature you control dies, target opponent puts a lost counter on a creature they control that doesn’t have one on it.
@@ -2879,11 +3848,16 @@ During your turn, you decide if and how creatures with lost counters on them blo
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WUBG</colors>
+        <color>WUBG</color>
         <manacost>GWUB</manacost>
+        <cost>GWUB</cost>
+        <mana>GWUB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Dryad </type>
         <maintype>Creature</maintype>
         <pt>6/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Thing in the Birches can’t block.
@@ -2894,11 +3868,16 @@ When Thing in the Birches dies, you may exile it. If you do, exile any number of
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WURG</colors>
+        <color>WURG</color>
         <manacost>RGWU</manacost>
+        <cost>RGWU</cost>
+        <mana>RGWU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Wonder Dragon </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2910,11 +3889,16 @@ When Warpwyrm enters, pursue Wonder. (Reveal a basic land or Wonder card you own
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 4B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -2926,11 +3910,16 @@ When Wish for Family enters, you may search your library for a Spirit card, reve
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2RR</manacost>
+        <cost>2RR</cost>
+        <mana>2RR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 4R (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -2942,11 +3931,16 @@ If Wish for Fury emerged from a creature with power 4 or greater, it can’t be 
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>4</manacost>
+        <cost>4</cost>
+        <mana>4</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2958,11 +3952,16 @@ When Wish for Safety enters, scry 1.</text>
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Rhino </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Augmented — At the beginning of combat on your turn, choose one. If you’ve spent WUBRG to cast spells this turn, you may choose both instead.
@@ -2974,10 +3973,15 @@ When Wish for Safety enters, scry 1.</text>
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>WUBRG</colors>
+        <color>WUBRG</color>
         <manacost>WUBRG</manacost>
+        <cost>WUBRG</cost>
+        <mana>WUBRG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When A Promise enters, if it was cast and you don’t control another permanent named A Promise, prevent all damage that would be dealt to you until your next turn, then put a wish counter on each creature you control.
@@ -2988,10 +3992,15 @@ When Wish for Safety enters, scry 1.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Discard your hand, then draw four cards.
@@ -3002,10 +4011,15 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>3GU</manacost>
+        <cost>3GU</cost>
+        <mana>3GU</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards. You may put a permanent card with mana value 3 or less from your hand onto the battlefield.</text>
@@ -3015,11 +4029,16 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Demigod Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
@@ -3031,11 +4050,16 @@ Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Hyena </type>
         <maintype>Creature</maintype>
         <pt>5/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Cackling Thunderbeast enters or attacks, [monocolored creatures can’t block this turn.]
@@ -3047,10 +4071,14 @@ Impetus 4R (You may cast this from your graveyard as a sorcery with only the tex
       <prop>
         <colors>WUBRG</colors>
         <manacost>WUBRG</manacost>
+        <cost>WUBRG</cost>
+        <mana>WUBRG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Kindred Planeswalker - Wonder </type>
         <maintype>Planeswalker</maintype>
       <loyalty>1</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Cathexis, Soul Aspect enters with an additional loyalty counter on it for each unique name among other permanents you control.
@@ -3062,11 +4090,16 @@ Impetus 4R (You may cast this from your graveyard as a sorcery with only the tex
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each color among monocolored permanents you control.
@@ -3077,10 +4110,15 @@ Hexproof, vigilance</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Augmented — If you’ve spent WUBRG to cast spells this turn, create a 3/3 green Beast creature token. It gains haste and trample until end of turn.
@@ -3091,10 +4129,15 @@ Creatures you control get +2/+2 until end of turn.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Pursue Wonder. When you do, destroy up to one target creature with mana value greater than or equal to the revealed card. (To pursue Wonder, reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
@@ -3104,11 +4147,16 @@ Creatures you control get +2/+2 until end of turn.</text>
       <set rarity="rare">WAW</set>
       <prop>
         <colors>WUB</colors>
+        <color>WUB</color>
         <manacost>2WUB</manacost>
+        <cost>2WUB</cost>
+        <mana>2WUB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Elusive Harbinger enters, you may search your library for a card, put it into your graveyard, then shuffle.
@@ -3119,11 +4167,16 @@ Creatures you control that share a name with a card in your graveyard or another
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3135,10 +4188,14 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
+        <cost>2GU</cost>
+        <mana>2GU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Planeswalker - Eteres </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Eteres enters, search your library for any number of cards with total mana value 3 or less, exile them with study counters on them, then shuffle.
@@ -3150,11 +4207,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="rare">WAW</set>
       <prop>
         <colors>URG</colors>
+        <color>URG</color>
         <manacost>2GUR</manacost>
+        <cost>2GUR</cost>
+        <mana>2GUR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>As an additional cost to cast spells, you may pay any amount of mana. If that spell is a creature spell, it enters with that many +1/+1 counters on it. Otherwise, when you cast that spell, create an X/X black Spirit creature token that can’t block, where X is the amount of mana spent.</text>
@@ -3164,11 +4226,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WUG</colors>
+        <color>WUG</color>
         <manacost>2GWU</manacost>
+        <cost>2GWU</cost>
+        <mana>2GWU</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Angel </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
@@ -3179,11 +4246,16 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>3GW</manacost>
+        <cost>3GW</cost>
+        <mana>3GW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Giant </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Font of Boons enters, create a 1/1 Wonder creature token that’s all colors, then put a +1/+1 counter on each creature you control with base power 1 or less.</text>
@@ -3193,10 +4265,15 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>3WW</manacost>
+        <cost>3WW</cost>
+        <mana>3WW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -3208,11 +4285,16 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WUBRG</colors>
+        <color>WUBRG</color>
         <manacost>WUBRG</manacost>
+        <cost>WUBRG</cost>
+        <mana>WUBRG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Glorious Moment enters, draw a card, then you may cast a spell with mana value 4 or less from your hand without paying its mana cost.</text>
@@ -3222,11 +4304,16 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Kor Rogue Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Soulshear enters, choose one—
@@ -3238,11 +4325,16 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -3253,10 +4345,15 @@ When Ilcan Stalwart dies, if it had no +1/+1 counters on it, return it to the ba
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature you control
@@ -3270,11 +4367,16 @@ When Immensity enters, choose up to one.
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Elf Wizard </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Leyseeker enters, [draw X cards], where X is the number of colors among monocolored permanents you control. When you do, discard that many cards.
@@ -3285,11 +4387,16 @@ Impetus XXU (You may cast this from your graveyard as a sorcery with only the te
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>URG</colors>
+        <color>URG</color>
         <manacost>2GUR</manacost>
+        <cost>2GUR</cost>
+        <mana>2GUR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Frog </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, haste
@@ -3300,11 +4407,16 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>3BG</manacost>
+        <cost>3BG</cost>
+        <mana>3BG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Fungus </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of your second main phase, you may pay {3} or sacrifice a creature. If you do, put a +1/+1 counter on Merciless Axon.</text>
@@ -3314,11 +4426,16 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>3WU</manacost>
+        <cost>3WU</cost>
+        <mana>3WU</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3329,10 +4446,15 @@ When Migratory Bloom enters, if it’s not a token, create a token that’s a co
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>3RW</manacost>
+        <cost>3RW</cost>
+        <mana>3RW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Creatures you control get +2/+1 and gain first strike until end of turn.</text>
@@ -3342,10 +4464,15 @@ When Migratory Bloom enters, if it’s not a token, create a token that’s a co
       <set rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>For each nontoken creature you control, create a token that’s a copy of it, except it’s a 1/1 Wonder in addition to its other types.
@@ -3356,11 +4483,16 @@ Exile Myriad Reflections.</text>
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Elf Rebel </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Discard a land card, Pay 1 life: Draw a card.
@@ -3371,11 +4503,16 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Elf Druid </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Physician enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
@@ -3386,11 +4523,16 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Vanguard enters, creatures you control get +1/+0 and gain first strike until end of turn.
@@ -3401,10 +4543,15 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -3417,11 +4564,16 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
       <set rarity="common">WAW</set>
       <prop>
         <colors>UG</colors>
+        <color>UG</color>
         <manacost>3G/UG/U</manacost>
+        <cost>3G/UG/U</cost>
+        <mana>3G/UG/U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wonder Turtle </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Placid Sunbask enters, draw a card.
@@ -3432,11 +4584,16 @@ Whenever a land or another Wonder you control enters, put a +1/+1 counter on Pla
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Planar Geometer can’t be blocked.
@@ -3447,11 +4604,16 @@ Whenever you cast an instant, sorcery, or Wonder spell, draw a card, then discar
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Whale </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3463,11 +4625,16 @@ Whenever you cast a green or red spell, untap up to two target permanents.</text
       <set rarity="rare">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Artifact Creature - Juggernaut Wizard </type>
         <maintype>Creature</maintype>
         <pt>10/10</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Starsea Slayer enters tapped and doesn’t untap during your untap step.
@@ -3479,11 +4646,16 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3495,11 +4667,16 @@ Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Wolf </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Territorial Wanderer enters, [draw a card for each creature you attacked with this turn.]
@@ -3510,10 +4687,15 @@ Impetus—3UR, Discard a card. (You may cast this from your graveyard as a sorce
       <set rarity="rare">WAW</set>
       <prop>
         <colors>UBG</colors>
+        <color>UBG</color>
         <manacost>2BB/GG</manacost>
+        <cost>2BB/GG</cost>
+        <mana>2BB/GG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Enchantment - Wonder </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When you cast this spell, mill ten cards.
@@ -3525,10 +4707,15 @@ At the beginning of your first main phase, return target card from your graveyar
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>UBG</colors>
+        <color>UBG</color>
         <manacost>2BGU</manacost>
+        <cost>2BGU</cost>
+        <mana>2BGU</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Sorcery - Wonder  </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a creature card from your hand or graveyard onto the battlefield tapped with a +1/+1 counter on it.</text>
@@ -3538,11 +4725,16 @@ At the beginning of your first main phase, return target card from your graveyar
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Salamander </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vrep can’t be blocked by more than one creature.
@@ -3554,11 +4746,16 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 8B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3569,10 +4766,15 @@ When Wish for Death enters, all creatures get -8/-8 until end of turn. If it eme
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>3RR</manacost>
+        <cost>3RR</cost>
+        <mana>3RR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Instant - Spirit </type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Emerge 5R (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3583,10 +4785,15 @@ Wish for Destruction deals 6 damage to target creature and 2 damage to up to one
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Kindred Instant - Spirit </type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Emerge 5B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3599,11 +4806,16 @@ Choose one —
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 5R (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3614,11 +4826,16 @@ When Wish for Revenge enters, it deals 1 damage to up to one target creature. If
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 5G (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3629,11 +4846,16 @@ When Wish for Revenge enters, it deals 1 damage to up to one target creature. If
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>4WW</manacost>
+        <cost>4WW</cost>
+        <mana>4WW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Legendary Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 5BG (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3645,11 +4867,16 @@ When Ajha enters, return any number of target creature cards with total mana val
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4BB</manacost>
+        <cost>4BB</cost>
+        <mana>4BB</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Shade </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Sacrifice two creatures.
@@ -3660,11 +4887,16 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5B</manacost>
+        <cost>5B</cost>
+        <mana>5B</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Demon Druid </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each color among monocolored cards in your graveyard.
@@ -3675,11 +4907,16 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>5G</manacost>
+        <cost>5G</cost>
+        <mana>5G</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Cat </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -3691,11 +4928,16 @@ Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder
       <set rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>4BB</manacost>
+        <cost>4BB</cost>
+        <mana>4BB</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Kor Demon </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -3707,11 +4949,16 @@ When Ilcan Szcygite enters and at the beginning of your upkeep, put a +1/+1 coun
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>5W</manacost>
+        <cost>5W</cost>
+        <mana>5W</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Elf Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, lifelink
@@ -3722,11 +4969,16 @@ When New Tensuo Calmkeeper enters, create a 3/3 green Beast creature token and a
       <set rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>4RR</manacost>
+        <cost>4RR</cost>
+        <mana>4RR</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Dinosaur  </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each creature you attacked with this turn.
@@ -3737,11 +4989,16 @@ When New Tensuo Calmkeeper enters, create a 3/3 green Beast creature token and a
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Dragon Wizard </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3753,11 +5010,16 @@ Ploy—If it isn’t an extra turn, take an extra turn after this one. (When thi
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>5/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3769,11 +5031,16 @@ Ploy—If it isn’t an extra turn, take an extra turn after this one. (When thi
       <set rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>4UU</manacost>
+        <cost>4UU</cost>
+        <mana>4UU</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>4/8</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 6U (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3784,11 +5051,16 @@ When Wish for Authority enters, tap up to one target creature and put a stun cou
       <set rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>7/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 6G (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3799,11 +5071,16 @@ When Wish for Eternity enters, you gain 7 life.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>8/8</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 7G (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3815,11 +5092,16 @@ If Wish for Strength emerged from a creature with power 4 or greater, it can’t
       <set rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
+        <color>G</color>
         <manacost>4GG</manacost>
+        <cost>4GG</cost>
+        <mana>4GG</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>7/7</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 6G (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3830,11 +5112,16 @@ When Wish for Transformation enters, search your library for a non-Spirit creatu
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Horror Survivor </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -3845,10 +5132,15 @@ When Paradel Prism enters, target opponent sacrifices a monocolored permanent, t
       <set rarity="mythic">WAW</set>
       <prop>
         <colors>WB</colors>
+        <color>WB</color>
         <manacost>5WB</manacost>
+        <cost>5WB</cost>
+        <mana>5WB</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Kindred Sorcery - Wonder </type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target white permanent card, target blue permanent card, target black permanent card, target red permanent card, target green permanent card, and target colorless permanent card from your graveyard to the battlefield. (You can’t cast this spell unless you have legal choices for all its targets.)</text>
@@ -3858,11 +5150,16 @@ When Paradel Prism enters, target opponent sacrifices a monocolored permanent, t
       <set rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>5BB</manacost>
+        <cost>5BB</cost>
+        <mana>5BB</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>8/7</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Emerge 8B (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)
@@ -3873,11 +5170,16 @@ Ward—Sacrifice a nontoken creature.</text>
       <set rarity="common">WAW</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes>!tokens Beast Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Worldsoul Ambassador enters, create a 3/3 green Beast creature token.
@@ -3889,10 +5191,15 @@ Ward—Sacrifice a nontoken creature.</text>
       <set rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Augmented — Exile Sailing the Starsea: Copy target instant or sorcery spell you control. If you’ve spent WUBRG to cast spells this turn, you may instead copy target spell you control twice. You may choose new targets for the copies.</text>
@@ -3902,11 +5209,16 @@ Ward—Sacrifice a nontoken creature.</text>
       <set rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
+        <color>U</color>
         <manacost>7U</manacost>
+        <cost>7U</cost>
+        <mana>7U</mana>
         <cmc>8</cmc>
+        <mv>8</mv>
         <type>Creature - Leviathan </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
@@ -3917,10 +5229,15 @@ When Starsea Leviathan enters, you may pursue Wonder. If you don’t, draw a car
       <set rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
+        <color>W</color>
         <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Each player can’t draw more than one card each turn.
@@ -3931,11 +5248,16 @@ When Starsea Leviathan enters, you may pursue Wonder. If you don’t, draw a car
       <set rarity="common">WAW</set>
       <prop>
         <colors>RG</colors>
+        <color>RG</color>
         <manacost>1R/G</manacost>
+        <cost>1R/G</cost>
+        <mana>1R/G</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add one mana of any color. This mana can’t be spent to cast a spell with mana value 4 or less.</text>

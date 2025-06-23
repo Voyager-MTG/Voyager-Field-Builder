@@ -14,11 +14,21 @@
       <set rarity="rare">LAIR</set>
       <prop>
         <colors>UR</colors>
+        <color>UR</color>
         <manacost>2UR</manacost>
+        <cost>2UR</cost>
+        <mana>2UR</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Cleric God </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>https://www.instagram.com/p/DJl-PfLMMYY/?img_index=2
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>UR, Sacrifice a creature that dealt combat damage to an opponent this turn: Put Mother of Ants from your hand onto the battlefield tapped.
@@ -29,11 +39,21 @@ At the beginning of each of your postcombat main phase, add {R} for each 2 life 
       <set rarity="mythic">LAIR</set>
       <prop>
         <colors>WR</colors>
+        <color>WR</color>
         <manacost>2RRW</manacost>
+        <cost>2RRW</cost>
+        <mana>2RRW</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Elemental God </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes>https://www.instagram.com/p/DJhKc7ZMM1F/?img_index=1
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
@@ -44,11 +64,21 @@ Whenever The Forge of Days attacks, you may put a creature card you own in exile
       <set rarity="mythic">LAIR</set>
       <prop>
         <colors>BG</colors>
+        <color>BG</color>
         <manacost>3BG</manacost>
+        <cost>3BG</cost>
+        <mana>3BG</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Insect God </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>https://www.instagram.com/p/DJhKc7ZMM1F/?img_index=2
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -60,11 +90,21 @@ If you would draw a card, instead mill three cards.
       <set rarity="mythic">LAIR</set>
       <prop>
         <colors>BR</colors>
+        <color>BR</color>
         <manacost>3BR</manacost>
+        <cost>3BR</cost>
+        <mana>3BR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Creature - Vampire God </type>
         <maintype>Creature</maintype>
         <pt>2/5</pt>
+        <notes>https://www.instagram.com/p/DJl-PfLMMYY/?img_index=1
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -77,11 +117,21 @@ Sacrifice a Vampire: The Red Grail deals 3 damage to any target. Activate only o
       <set rarity="rare">LAIR</set>
       <prop>
         <colors>WU</colors>
+        <color>WU</color>
         <manacost>1WU</manacost>
+        <cost>1WU</cost>
+        <mana>1WU</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Human God </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>https://www.instagram.com/p/DJhKc7ZMM1F/?img_index=3
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, ward {1}
@@ -93,11 +143,21 @@ Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman.
       <set rarity="mythic">LAIR</set>
       <prop>
         <colors>WG</colors>
+        <color>WG</color>
         <manacost>2GW</manacost>
+        <cost>2GW</cost>
+        <mana>2GW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Human God </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes>https://www.instagram.com/p/DJl-PfLMMYY/?img_index=3
+!tag lair1;
+!tag lairnumber1;
+!tag lair#1;
+!tag lairn1;</notes>
+        <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
@@ -108,10 +168,19 @@ Whenever The Thunderskin attacks, create an enchantment token named Heartbeat wi
       <set rarity="">LAIR</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!porthole
+!tag champions
+!tag championkogane
+!tag kogane</notes>
+        <tag>championschampionkoganekogane</tag>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {W}. You lose 1 life unless you control a white permanent.

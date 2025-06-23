@@ -14,11 +14,16 @@
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -28,11 +33,16 @@
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bird Scout </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
+        <notes>traverse 4</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Avakin Adventurer enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -42,11 +52,16 @@
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Fox Scout </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -57,10 +72,15 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +2/-2 until end of turn.</text>
@@ -70,11 +90,16 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Drake Horror </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
+        <notes>!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}, Sacrifice this creature: Destroy up to one target enchantment. Create two tapped 1/1 silver Drake creature tokens with flying.</text>
@@ -84,10 +109,18 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>v1.2 Tap target creature. Put a stun counter on it.
+You may discard a card. If you do, draw a card from your sanctum.
+
+v1.1 Tap target creature. You may put a stun counter on it.</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Tap target creature. Put a stun counter on it.
@@ -98,11 +131,16 @@ You may draw a card from your sanctum or library. If you do, discard a card.</te
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -113,10 +151,15 @@ When this creature enters, create a 1/1 silver Drake creature token with flying.
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -127,11 +170,16 @@ Target creature becomes an enchantment land. (It loses all other card types.) It
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3I</manacost>
+        <cost>3I</cost>
+        <mana>3I</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment Creature - Icon Knight </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes>flag</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast if your opponent lost life this turn.</text>
@@ -141,11 +189,16 @@ Target creature becomes an enchantment land. (It loses all other card types.) It
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>6I</manacost>
+        <cost>6I</cost>
+        <mana>6I</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Cat Shaman </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each token you control.
@@ -156,11 +209,16 @@ When this creature enters, draw a card.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>2IW</manacost>
+        <cost>2IW</cost>
+        <mana>2IW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Faerie Dog </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>Rework</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -173,11 +231,17 @@ Evoke 1I/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>4IW</manacost>
+        <cost>4IW</cost>
+        <mana>4IW</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Wurm Cleric </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
+        <notes>Rework
+v1.0 5/5</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -189,11 +253,17 @@ When this creature leaves the battlefield, put the exiled creature onto the batt
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>RI</colors>
+        <color>RI</color>
         <manacost>3IR</manacost>
+        <cost>3IR</cost>
+        <mana>3IR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>
+steve</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -205,11 +275,16 @@ This creature gets +1/+1 if you’ve illuminated red and +1/+1 if you’ve illum
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>RI</colors>
+        <color>RI</color>
         <manacost>1IR</manacost>
+        <cost>1IR</cost>
+        <mana>1IR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Jellyfish Snail </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, up to one target creature gets +1/-1 until end of turn.
@@ -221,10 +296,15 @@ Evoke {I/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>IG</manacost>
+        <cost>IG</cost>
+        <mana>IG</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!related Dragon Eye Token;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Tokens you control have reach healing 1. (Damage dealt by that creature also causes you to gain 1 life.)
@@ -235,11 +315,16 @@ Evoke {I/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>2IG</manacost>
+        <cost>2IG</cost>
+        <mana>2IG</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Wolf Scout </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
@@ -252,11 +337,16 @@ Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrif
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>UI</colors>
+        <color>UI</color>
         <manacost>2IU</manacost>
+        <cost>2IU</cost>
+        <mana>2IU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -269,11 +359,17 @@ Evoke 1I/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>2IB</manacost>
+        <cost>2IB</cost>
+        <mana>2IB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Fish Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>
+Can’t have shit in detroit.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>At the beginning of combat of your turn, you may exile two cards from your graveyard and/or sanctum. If you do, put your choice of a menace counter, a flying counter, or two healing counters on this creature. (Whenever your creature with a healing counter deals damage, you gain 1 life for each healing counter on it.)</text>
@@ -283,11 +379,16 @@ Evoke 1I/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>3IB</manacost>
+        <cost>3IB</cost>
+        <mana>3IB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Angel Reflection </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -299,11 +400,16 @@ Evoke 1I/B (You may cast this spell for its evoke cost. If you do, it’s sacrif
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Elf </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
+        <notes>!related Wurm Dragon Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -314,10 +420,15 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>could be 4 cards</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top three cards of your library. Put one into your hand and another one back on top of your library. Put the rest into your sanctum.</text>
@@ -327,10 +438,17 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>!exportname When Words Dont Work
+can possibly hit enchantments
+Manifest</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target creature spell.</text>
@@ -340,11 +458,16 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Icon Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature can’t be blocked by creatures with toughness 2 or less.
@@ -355,10 +478,15 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>Traverse 6</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -370,11 +498,18 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>4Multicolor
+FGU
+!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -385,11 +520,16 @@ When this creature enters or dies, create a 1/1 silver Drake creature token with
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Wurm Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>!exportname Kornas Forward</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 2 life.
@@ -400,11 +540,16 @@ When this creature enters, it deals damage to any noncreature target equal to th
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Hyena Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -415,10 +560,15 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.artstation.com/artwork/bl3lQk</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may play cards from your sanctum with mana value equal to the mana value of a permanent you control.</text>
@@ -428,10 +578,16 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Kindred Land - Scout </type>
         <maintype>Land</maintype>
+        <notes>Roaming
+!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -444,11 +600,16 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Exile two target creature cards from your graveyard. If you do, Create a 1/1 Treasure Artifact creature token with “{T}, Sacrifice this: Add one mana of any color.”</text>
@@ -458,11 +619,16 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, reach, haste
@@ -473,11 +639,16 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create a 1/1 blue Orb Wizard artifact creature token with “{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.”</text>
@@ -487,10 +658,17 @@ Once each turn, whenever you create a token, up to one target creature you contr
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>CG16,Noncreature,3,,Blinding Fog
+
+Put a land card from your hand or sanctum onto the battlefield tapped.</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return up to two target land cards from your graveyard to your hand.
@@ -501,11 +679,16 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Merfolk Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -517,11 +700,16 @@ When Kaln-Ocean Streamliner attacks, if you’ve illuminated silver, create a ta
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>RG03,Medium Creature,3,,Deathgorge Scavenger</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -533,11 +721,17 @@ If a card would be put into an opponents hand from their sanctum, instead exile 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3I</manacost>
+        <cost>3I</cost>
+        <mana>3I</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
+        <notes>!exportname Chirps Spice Seeker
+!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, ward {1}
@@ -548,11 +742,17 @@ When Chirps enters and at the beginning of your upkeep, if you don’t control a
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Enchantment Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes>!smallbox 
+!exportname Melodia Drifter at Heart</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -563,11 +763,16 @@ Whenever you attack with two or more creatures, you may put the top four cards o
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3II</manacost>
+        <cost>3II</cost>
+        <mana>3II</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, ward {2}
@@ -578,11 +783,16 @@ Whenever Outlands Chimera enters or attacks, you may mirror a non-Chimera.</text
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{I}: Put Starling into its owner’s sanctum. Return it to the battlefield at the beginning of the next end step. Activate only once each turn.
@@ -594,11 +804,17 @@ Whenever Outlands Chimera enters or attacks, you may mirror a non-Chimera.</text
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WUI</colors>
+        <color>WUI</color>
         <manacost>1IWU</manacost>
+        <cost>1IWU</cost>
+        <mana>1IWU</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>!related Drake Token;
+!exportname Cerise Auger of Flow</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Cerise, Augur of Flow enters and whenever you put one or more cards into your sanctum, create a 1/1 silver Drake creature token with flying.
@@ -609,10 +825,15 @@ I/WU: Until end of turn, whenever one or more creatures you control deal combat 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, draw a card.
@@ -624,10 +845,15 @@ If you would draw a card from your library, you may draw a card from your sanctu
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Creatures get +3/-3 until end of turn. Put all creature cards in all graveyards that were put there from the battlefield this turn into their owner’s sanctum. If a creature would die this turn, put it into its owner’s sanctum instead.</text>
@@ -637,10 +863,15 @@ If you would draw a card from your library, you may draw a card from your sanctu
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell.
@@ -651,10 +882,15 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw a card, then exchange any number of cards in your hand and sanctum.</text>
@@ -664,10 +900,15 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target permanent loses all abilities and becomes an artifact until the end of your next turn.
@@ -678,10 +919,15 @@ Draw a card.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mirror (Create a token thats a copy of a token you control.)</text>
@@ -691,10 +937,15 @@ Draw a card.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!related Drake Token;Fox Token;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Kindred Spirits enters, create a 1/1 silver Drake creature token with flying and a 0/2 white Fox creature token.
@@ -705,10 +956,15 @@ Creature tokens you control get +1/+0.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>RI</colors>
+        <color>RI</color>
         <manacost>X1IR</manacost>
+        <cost>X1IR</cost>
+        <mana>X1IR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Converge — Falling Sparks deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
@@ -718,10 +974,15 @@ Creature tokens you control get +1/+0.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>1IW</manacost>
+        <cost>1IW</cost>
+        <mana>1IW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature. You create a tapped X/X white and silver Icon enchantment creature token, where X is that creature’s power. Then that creature’s controller does the same.</text>
@@ -731,10 +992,15 @@ Creature tokens you control get +1/+0.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>XI</manacost>
+        <cost>XI</cost>
+        <mana>XI</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {1} less to cast for each token you control.
@@ -745,11 +1011,16 @@ Target creature gets -0/-X until end of turn.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>2I/G</manacost>
+        <cost>2I/G</cost>
+        <mana>2I/G</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Plant </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Experience Cultivator enters, you may play an additional land this turn.
@@ -760,11 +1031,16 @@ Target creature gets -0/-X until end of turn.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>4I/BI/B</manacost>
+        <cost>4I/BI/B</cost>
+        <mana>4I/BI/B</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Creature - Octopus Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -775,11 +1051,16 @@ Target creature gets -0/-X until end of turn.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -790,11 +1071,16 @@ Whenever this creature deals combat damage to a player, look at the top two card
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -806,11 +1092,16 @@ When this creature enters the battlefield, exile up to one target nonland card f
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, create a 1/1 silver Drake creature token with flying that’s tapped and attacking. Sacrifice it at the beginning of your next end step.</text>
@@ -820,11 +1111,16 @@ When this creature enters the battlefield, exile up to one target nonland card f
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Reflection </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, you may have the size of another target creature you control become 3/2 until end of turn.</text>
@@ -834,11 +1130,16 @@ When this creature enters the battlefield, exile up to one target nonland card f
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3I</manacost>
+        <cost>3I</cost>
+        <mana>3I</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create a trace of Alchemist’s Vial in your hand. (Its an artifact that costs {2} with, “When this artifact enters, draw a card” and “{1}, {T}, Sacrifice this artifact: Target creature can’t attack or block this turn.”)</text>
@@ -848,11 +1149,16 @@ When this creature enters the battlefield, exile up to one target nonland card f
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3II</manacost>
+        <cost>3II</cost>
+        <mana>3II</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Rabbit Soldier Scout </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -864,10 +1170,15 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
@@ -877,10 +1188,15 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Center Mass deals 1 damage to any target. Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
@@ -890,10 +1206,15 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +2/-2 until end of turn. You gain 2 life.</text>
@@ -903,10 +1224,15 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from a graveyard to the battlefield under your control that has mana value 5. It enters as a kindred enchantment with its creature types.</text>
@@ -916,10 +1242,17 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {I}. You lose 1 life unless you control a silver permanent.
@@ -931,10 +1264,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {W}. You lose 1 life unless you control a white permanent.
@@ -946,10 +1286,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {U}. You lose 1 life unless you control a blue permanent.
@@ -961,10 +1308,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {G}. You lose 1 life unless you control a green permanent.
@@ -976,10 +1330,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {B}. You lose 1 life unless you control a black permanent.
@@ -991,10 +1352,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {R}. You lose 1 life unless you control a red permanent.
@@ -1006,10 +1374,17 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="common">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes>!gold
+!noborder
+</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
@@ -1021,11 +1396,16 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>1IG</manacost>
+        <cost>1IG</cost>
+        <mana>1IG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Plant Horror </type>
         <maintype>Creature</maintype>
         <pt>4/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may play an additional land on each of your turns.
@@ -1036,11 +1416,16 @@ Whenever a land enters under your control for the second each turn, blank up to 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from planeswalkers
@@ -1051,10 +1436,15 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>!related Elemental Token 2;Elemental Token 3;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one, then choose another for each card named Unveiling in your graveyard.
@@ -1068,10 +1458,15 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature you control has size 3/2 and gains “When this creature dies, create a token copy of it with size 3/2.”</text>
@@ -1081,11 +1476,16 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Shapeshifter Artificer </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1096,11 +1496,16 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Enchantment Creature - God </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.deviantart.com/era7/art/Cosmic-Dragon-Llama-God-1058639514</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -1113,11 +1518,16 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, reach
@@ -1128,11 +1538,16 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Merfolk Chimera Citizen </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever one or more tokens you control deal combat damage to a player, you may liberate one of them. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
@@ -1142,10 +1557,16 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://www.deviantart.com/billycrawshrimp/art/bigfish-nolungman-sighting-969724408
+!related Fish Token;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>As an additional cost to cast this spell, you may tap any number of nonland permanents you control.
@@ -1156,11 +1577,16 @@ Create an X/X silver Fish creature token, where X is the number of permanents yo
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3I</manacost>
+        <cost>3I</cost>
+        <mana>3I</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>https://www.deviantart.com/era7/art/Space-Traveler-823824761</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1171,10 +1597,17 @@ When Interstellar Traveller enters, if it was cast, create a token copy of targe
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/ppp597/art/Kiosk-in-La-Linea-de-la-Concepcion-1162220477
+
+!related Horror;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When The Depths Talk Loudly enters, create a 2/2 silver Horror creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
@@ -1185,11 +1618,16 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Dinosaur Advisor </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{R}, {T}, Put a card from your hand into your sanctum: Draw a card.
@@ -1200,10 +1638,15 @@ Whenever Sanctum Trader attacks, choose a nonland permanent card from your sanct
       <set rarity="mythic">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>4II</manacost>
+        <cost>4II</cost>
+        <mana>4II</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exchange your library and sanctum. For the rest of the game, if you would draw a card, you draft a card from your sanctum instead. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -1213,10 +1656,15 @@ Whenever Sanctum Trader attacks, choose a nonland permanent card from your sanct
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Pathbound—1II. Activate only if you have no cards in your graveyard with mana value 2 or 3. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1227,10 +1675,15 @@ At the beginning of your end step, you may exile target card from your graveyard
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WRI</colors>
+        <color>WRI</color>
         <manacost>IRW</manacost>
+        <cost>IRW</cost>
+        <mana>IRW</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target permanent you control, then return it to the battlefield under its owner’s control at the beginning of the next end step. When you do, that permanent deals 2 damage to any target and you gain 2 life.</text>
@@ -1240,11 +1693,16 @@ At the beginning of your end step, you may exile target card from your graveyard
       <set rarity="mythic">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Angel Turtle  </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1256,11 +1714,16 @@ Whenever you create a token that doesn’t share a name with a token you control
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment Creature - Icon Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—1I. Activate only if a card that shares a type with this dealt damage to an opponent this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1272,10 +1735,15 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
       <set rarity="mythic">EXPT</set>
       <prop>
         <colors>R</colors>
+        <color>R</color>
         <manacost>1RR</manacost>
+        <cost>1RR</cost>
+        <mana>1RR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Pathbound—{2}. Activate only if there are no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1286,10 +1754,15 @@ Discard your hand, then draw three cards.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>!addtoken Against the Night;conjure:3;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw a card from your sanctum or library. Surveil X, where X is the number of cards named Against the Night in your graveyard. Conjure three Against the Nights into your deck, then shuffle.</text>
@@ -1299,11 +1772,16 @@ Discard your hand, then draw three cards.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>II</manacost>
+        <cost>II</cost>
+        <mana>II</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Wolf </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize X, where X is its mana value. (It loses all other creature and card types.)</text>
@@ -1313,11 +1791,16 @@ Discard your hand, then draw three cards.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>10IG</manacost>
+        <cost>10IG</cost>
+        <mana>10IG</mana>
         <cmc>12</cmc>
+        <mv>12</mv>
         <type>Enchantment Creature - Dragon </type>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
@@ -1329,10 +1812,15 @@ When this creature enters, if it was cast, mirror twice. (Create a token thats a
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3II</manacost>
+        <cost>3II</cost>
+        <mana>3II</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 silver Horror creature tokens with changeling. (They’re every creature type.)
@@ -1343,10 +1831,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Lighthouse-398867729</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Illuminant Spire: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
@@ -1356,10 +1849,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Ivory Spire: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
@@ -1369,10 +1867,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Castle-of-Illusions-1040129195</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Searing Spire: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
@@ -1382,10 +1885,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Tower-of-Silence-388926066</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Silent Spire: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
@@ -1395,10 +1903,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Twisted Spire: Search your library for a Fault card, put it onto the battlefield, then shuffle.</text>
@@ -1408,10 +1921,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Tree-of-Ancestors-363677527</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Verdant Spire: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
@@ -1421,10 +1939,15 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/sylviaritter/art/Speedpainting-15122024-1134206785</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Nonbasic lands are Faults in addition to their other types.
@@ -1435,10 +1958,15 @@ Whenever a nonbasic land becomes tapped, if it wasn’t tapped for {I}, put a st
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>III</manacost>
+        <cost>III</cost>
+        <mana>III</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top four cards of your library. Put one of them into your hand, and the rest on the bottom of your library in a random order.
@@ -1449,11 +1977,16 @@ Untap up to two lands.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/bonniesband/art/RW-Reach-993741952</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from artifacts and from enchantments. (This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts or enchantments..)
@@ -1464,10 +1997,15 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
+        <notes>https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Searing Sigils enters, up to one target creature gets +2/-2 until end of turn.
@@ -1478,11 +2016,16 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text> 2II —  </text>
@@ -1492,11 +2035,16 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Artifact Creature - Robot Construct </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!related Robot Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1507,10 +2055,15 @@ Whenever this creature deals combat damage to an opponent, put up to one target 
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>!related Wall Token;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/3 colorless Wall artifact creature token with defender. Each opponent loses 1 life for each creature you control with greater toughness than their base power.
@@ -1521,10 +2074,15 @@ Flashback—3II, Tap two untapped silver creatures you control. (You may cast th
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)
@@ -1536,10 +2094,15 @@ When you sacrifice this enchantment, search your library for a basic land card, 
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Sift 1. (Look at the top card of your library. You may put that card into your sanctum.)
@@ -1550,11 +2113,16 @@ Draw a card.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Demon Dragon Reflection </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -1565,11 +2133,16 @@ Tap three untapped creatures you control: Target opponent loses 1 life and you g
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!related Insect Plant Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -1581,11 +2154,16 @@ When this creature dies, create a 2/2 silver Insect Plant token with decayed. (I
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Enchantment Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!related Insect Plant Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1597,11 +2175,16 @@ When this creature enters, create a 2/2 silver Insect Plant creature token with 
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>4II</manacost>
+        <cost>4II</cost>
+        <mana>4II</mana>
         <cmc>6</cmc>
+        <mv>6</mv>
         <type>Artifact Creature - Robot </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1612,11 +2195,16 @@ When Syphroid enters, destroy up to one target enchantment or planeswalker.</tex
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Demon Beast </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -1627,11 +2215,17 @@ Exile four cards from your graveyard: This creature gets +4/+0 and loses defende
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Robot Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes>&quot;Giant Soldier of Stone.&quot;
+—Giant Soldier of Stone, the Giant Soldier of Stone</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -1643,11 +2237,16 @@ This creature gets +1/+0 for each token you control.
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Zombie Eye Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1658,11 +2257,16 @@ Channel — 2I, Discard this: Draw two cards. Activate only if you control a tok
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchamtment Creature - Icon Wizard </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1674,11 +2278,16 @@ Whenever you cast an enchantment spell, you may swap Soaring Chorus’s power an
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
+        <notes>!related Insect Plant Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>1I, {T}, Return a land you control to its owner’s hand: Create a 2/2 Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
@@ -1688,11 +2297,20 @@ Whenever you cast an enchantment spell, you may swap Soaring Chorus’s power an
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>UI</colors>
+        <color>UI</color>
         <manacost>IU</manacost>
+        <cost>IU</cost>
+        <mana>IU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>!gold
+!noborder
+
+Once each turn, whenever you tap a Field for mana, add one mana of any color that land could produce.
+Fields you control enter the battlefield untapped.</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -1703,10 +2321,15 @@ Other creatures you control whose base power and toughness aren’t equal have h
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>I/B</manacost>
+        <cost>I/B</cost>
+        <mana>I/B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Sift 1. (Look at the top card of your library. You may put that card into your sanctum.)
@@ -1718,11 +2341,18 @@ Flashback—IB, Sacrifice a token. (You may cast this card from your graveyard f
       <set rarity="common">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>XIB</manacost>
+        <cost>XIB</cost>
+        <mana>XIB</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Zombie Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes>!gold
+!noborder
+Multicolor</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, exile up to X target cards from among graveyards. You gain 1 life and put a +1/+1 counter on this creature for each permanent card exiled this way.</text>
@@ -1732,10 +2362,15 @@ Flashback—IB, Sacrifice a token. (You may cast this card from your graveyard f
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature or non-aura enchantment
@@ -1747,10 +2382,15 @@ Whenever this enchantment leaves the battlefield, draw a card.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Siege Crossbow enters, it deals 2 damage to up to one noncreature target.
@@ -1762,10 +2402,16 @@ Equip {2}</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>UI</colors>
+        <color>UI</color>
         <manacost>IU</manacost>
+        <cost>IU</cost>
+        <mana>IU</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains “When this creature deals combat damage this turn, return it to your hand and create an X/X black Demon creature token, where X is this creature’s power power.”
@@ -1776,10 +2422,15 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>B</colors>
+        <color>B</color>
         <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player reveals their sanctum. Choose a card from among that player’s sanctum and/or graveyard. That player exiles those cards. If you have no cards in your sanctum, draw a card.</text>
@@ -1789,11 +2440,18 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>1IG</manacost>
+        <cost>1IG</cost>
+        <mana>1IG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>!gold
+!noborder
+flag</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
@@ -1805,11 +2463,16 @@ Lands you control with a nonbasic land type have “{T}: Add one mana of any typ
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>4I</manacost>
+        <cost>4I</cost>
+        <mana>4I</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Bird Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1821,11 +2484,16 @@ Channel — 1I, Discard this: Target creature gets +2/-2 until end of turn.</tex
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
+        <notes>!related Insect Plant Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
@@ -1836,10 +2504,15 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Turn all creatures face down. They’re colorless enchantments with “Turn this card face up any time by paying its mana cost.”</text>
@@ -1849,11 +2522,17 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>3IB</manacost>
+        <cost>3IB</cost>
+        <mana>3IB</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Demon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may cast this spell from your graveyard as long as an opponent lost life this turn.
@@ -1864,11 +2543,16 @@ Channel — IB, Discard this: Until end of turn, target creature gets +X/-X, whe
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Insect Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Escape—3I, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
@@ -1879,11 +2563,17 @@ When this creature escapes, create a token that’s a copy of target creature ca
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>RI</colors>
+        <color>RI</color>
         <manacost>3IR</manacost>
+        <cost>3IR</cost>
+        <mana>3IR</mana>
         <cmc>5</cmc>
+        <mv>5</mv>
         <type>Creature - Faerie Demon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1894,10 +2584,17 @@ Whenever you attack with two or more creatures, this creature deals 2 damage to 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>2IW</manacost>
+        <cost>2IW</cost>
+        <mana>2IW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>Consider making this colorless for the up front cost
+also, maybe 7 mana
+!gold!noborder</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
@@ -1908,11 +2605,16 @@ Channel — IW, Discard this: Reflect.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Artifact Creature - Robot Construct </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>!exportname Gradius Option</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -1924,11 +2626,17 @@ When this creature deals combat damage to an opponent, you may draw a card from 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>BI</colors>
+        <color>BI</color>
         <manacost>2IB</manacost>
+        <cost>2IB</cost>
+        <mana>2IB</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Creature - Zombie Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1939,10 +2647,16 @@ When this creature deals combat damage to an opponent, that player discards a ca
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>GI</colors>
+        <color>GI</color>
         <manacost>1IG</manacost>
+        <cost>1IG</cost>
+        <mana>1IG</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mirror. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. (Create a token thats a copy of a token you control.)</text>
@@ -1952,10 +2666,16 @@ When this creature deals combat damage to an opponent, that player discards a ca
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>2IW</manacost>
+        <cost>2IW</cost>
+        <mana>2IW</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -1967,11 +2687,17 @@ When this enchantment is no longer on the battlefield, return the exiled card to
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>BRI</colors>
+        <color>BRI</color>
         <manacost>IBR</manacost>
+        <cost>IBR</cost>
+        <mana>IBR</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Vampire Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Cards you own that aren’t on the battlefield have madness. The madness cost is equal to its mana cost. (If you discard a card with madness, discard it into exile. When you do, cast it for it’s madness cost or put it into your graveyard.)
@@ -1982,11 +2708,17 @@ At the beginning of your end step, you may discard a card. If you do, draw a car
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
+        <color>WI</color>
         <manacost>IW</manacost>
+        <cost>IW</cost>
+        <mana>IW</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
+        <notes>!gold
+!noborder</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, menace
@@ -1997,11 +2729,16 @@ Creature tokens you control get +1/+1 and have vigilance and menace.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto The Usurper.
@@ -2012,11 +2749,16 @@ The Usurper must be blocked if able.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Once each turn, whenever one or more cards leave a sanctum, each opponent loses 2 life.
@@ -2027,10 +2769,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2040,10 +2787,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2053,10 +2805,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2066,10 +2823,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2079,10 +2841,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2092,10 +2859,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -2105,10 +2877,17 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
+        <notes>!tapped
+
+https://www.deviantart.com/knowyouare/art/Light-Conquers-Darkness-254447378</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2121,10 +2900,17 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
+        <notes>!tapped
+
+https://www.deviantart.com/atarts/art/Duel-at-the-bell-of-the-gods-473285102</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2137,10 +2923,17 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
+        <notes>!tapped
+
+https://www.deviantart.com/jaygraphixx/art/Sacrosanct-808101978</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2153,10 +2946,17 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
+        <notes>!tapped
+
+https://www.deviantart.com/benedickbana/art/Ancient-City-Forest-858161681</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2169,10 +2969,17 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
+        <notes>!tapped
+
+https://www.deviantart.com/lecristal/art/pro-meus-Amice-Juraj-Capela-506875349</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2185,10 +2992,15 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Fault Plains </type>
         <maintype>Land</maintype>
+        <notes>!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2201,10 +3013,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Fault Island </type>
         <maintype>Land</maintype>
+        <notes>!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2217,10 +3034,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Fault Swamp </type>
         <maintype>Land</maintype>
+        <notes>blackened, crystal
+!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2233,10 +3056,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Fault Mountain </type>
         <maintype>Land</maintype>
+        <notes>!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2249,10 +3077,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land - Fault Forest </type>
         <maintype>Land</maintype>
+        <notes>!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -2265,10 +3098,15 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes></notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target noncreature artifact or noncreature enchantment. You gain 2 life. </text>
@@ -2278,11 +3116,16 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>3I</manacost>
+        <cost>3I</cost>
+        <mana>3I</mana>
         <cmc>4</cmc>
+        <mv>4</mv>
         <type>Artifact Creature - Robot </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Restructure 1I (If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)
@@ -2293,10 +3136,15 @@ At the beginning of combat on your turn, up to one target creature gains first s
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/ppp597/art/Peculiarity-1162608217</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -2308,10 +3156,15 @@ When enchanted creature dies, if you controlled it, return Blooming Peculiarity 
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +3/-3 until end of turn.
@@ -2322,10 +3175,15 @@ You may return a Fault you control to its owners hand rather than pay this spell
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>II</manacost>
+        <cost>II</cost>
+        <mana>II</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Kindred Enchantment - Fish Entity </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Vigilance
@@ -2337,11 +3195,16 @@ Materialize 5 (Tap any number of other enchantments you control with total mana 
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>6I</manacost>
+        <cost>6I</cost>
+        <mana>6I</mana>
         <cmc>7</cmc>
+        <mv>7</mv>
         <type>Creature - Rabbit Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -2352,10 +3215,15 @@ Channel — {I}, Discard Wilmee: Create a 2/2 decayed Insect Plant creature toke
       <set rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
+        <color></color>
         <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
         <cmc>0</cmc>
+        <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
+        <notes></notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As Planar Boundary enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -2367,10 +3235,15 @@ Channel — {I}, Discard Wilmee: Create a 2/2 decayed Insect Plant creature toke
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.artstation.com/artwork/9Ed0q</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature becomes silver and is an enchantment in addition to its other types until end of turn. 
@@ -2381,11 +3254,16 @@ Draw a card.</text>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Phyrexian Elf </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Fyndhorn Betrayer enters, you may destroy target enchantment.</text>
@@ -2395,11 +3273,16 @@ Draw a card.</text>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>II</manacost>
+        <cost>II</cost>
+        <mana>II</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Insect Plant </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes>https://www.artstation.com/artwork/w0nxPg</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -2410,10 +3293,15 @@ If a card or token would be put into a graveyard from anywhere, its owner put it
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.deviantart.com/lyvantiumvvitchcraft/art/Where-Spirits-Sojourn-1120833171</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -2426,11 +3314,16 @@ If a card or token would be put into a graveyard from anywhere, its owner put it
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1II</manacost>
+        <cost>1II</cost>
+        <mana>1II</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Serpent Wall </type>
         <maintype>Creature</maintype>
         <pt>0/6</pt>
+        <notes>https://www.artstation.com/artwork/b5300r</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -2441,10 +3334,17 @@ Whenever Spiteful Coil-Servants’s toughness decreases, it deals that much dama
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.saatchiart.com/print/Painting-ALTER-EGO/531088/2395356/view
+
+https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F09%2F8a%2F03%2F098a03cb23f8c7eebd0ba432c7239b42.jpg&amp;sp=1744640718Tceb70aeeafd9ed88d7f0759f2bee8c3342897fc3ddc7a0c59e246f15eaf5347c</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature or creature spell you control and target creature or creature spell you don’t control exchange text boxes.</text>
@@ -2454,10 +3354,15 @@ Whenever Spiteful Coil-Servants’s toughness decreases, it deals that much dama
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
+        <notes>https://www.saatchiart.com/print/Painting-The-duplicate-bird/311344/7243987/view</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant nonland permanent you don’t control.
@@ -2470,10 +3375,16 @@ Enchanted permanent is a copy of the chosen permanent.</text>
       <prop>
         <colors>I</colors>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Legendary Planeswalker - Peross </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
+        <notes>https://www.victoryart.eu/eshop/ego-painting-by-zuzana-r-victory-art/p-322766.xhtml
+
+https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.victoryart.eu%2Fobchod_homedir%2Fdata%2F2611%2Fobrazky%2Fego.jpg&amp;sp=1744640718T917326f4c1688f1c17af592583bc24e59230697a8b30011b3ae055e471ff715b</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>[0]: Put a loyalty counter on Identity Granter for each enchantment you control.
@@ -2484,11 +3395,16 @@ Enchanted permanent is a copy of the chosen permanent.</text>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>2I</manacost>
+        <cost>2I</cost>
+        <mana>2I</mana>
         <cmc>3</cmc>
+        <mv>3</mv>
         <type>Creature - Human Monk </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
+        <notes>https://www.deviantart.com/jasonwang7/art/Slay-the-Spire-Watcher-865135372</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2501,11 +3417,16 @@ When Empty Body Practitioner enters, choose one —
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
+        <notes>https://instagram.fosu2-2.fna.fbcdn.net/v/t51.29350-15/293634905_1361841970974313_1543883996225966264_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&amp;efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTcxOS5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UifQ&amp;_nc_ht=instagram.fosu2-2.fna.fbcdn.net&amp;_nc_cat=101&amp;_nc_oc=Q6cZ2QFb9eVXbvWUS4RFuPs6lRr5K0u2RfA_XaJILvz0EEHZmMISIEmMdjF5jK4VchUaBuRs2XsL94IInsxy8DMu6Hu1&amp;_nc_ohc=J0PqtbcRkGMQ7kNvwGLuXPk&amp;_nc_gid=dPOcx49Qj3DKVHBOKW-rkA&amp;edm=APoiHPcBAAAA&amp;ccb=7-5&amp;oh=00_AfGTw06ovE5kbBrwAdunYgiim3lymTqXL5Isa7dIdNcKAg&amp;oe=6802E9CA&amp;_nc_sid=22de04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Raging Rubigrug has haste as long as your opponent’s sanctum contains four or more cards.
@@ -2516,10 +3437,15 @@ Whenever Raging Rubigrug becomes the target of a spell for the first time each t
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.artstation.com/artwork/qeBx1e</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets -0/-3. If that creature would die this turn, put it into its owner’s sanctum instead.</text>
@@ -2529,11 +3455,16 @@ Whenever Raging Rubigrug becomes the target of a spell for the first time each t
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Fungus Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)
@@ -2544,10 +3475,15 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
+        <notes></notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever one or more creatures you control lose toughness, induct. This ability only triggers twice per turn. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
@@ -2557,10 +3493,15 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
+        <notes>https://dadalux.tumblr.com/post/174755346012/laurie-kaplowitz</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target nonland permanent with mana value 3 or less loses all abilities. (This lasts indefinitely.)</text>
@@ -2570,10 +3511,15 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
+        <notes>https://www.artstation.com/artwork/PXmDky</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one —
@@ -2585,11 +3531,16 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
         <cmc>1</cmc>
+        <mv>1</mv>
         <type>Creature - Crab </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
+        <notes>https://www.deviantart.com/justsirenart/art/Crab-On-The-Beach-Low-Poly-Art-Blender-3d-385947005</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
@@ -2602,11 +3553,16 @@ Fault|Basic Land – Fault
       <set rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
+        <color>I</color>
         <manacost>1I</manacost>
+        <cost>1I</cost>
+        <mana>1I</mana>
         <cmc>2</cmc>
+        <mv>2</mv>
         <type>Creature - Human Coward </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
+        <notes>https://www.artstation.com/artwork/xD3Per</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>As long as Cowering Lightbringer’s power is 4 or greater, its a Human Warrior and has healing 2. (Whenever this creature deals damage, you gain 2 life.) (Damage dealt by this creature also causes you to gain 2 life.)
