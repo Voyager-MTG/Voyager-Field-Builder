@@ -50,7 +50,7 @@
       <text>(Created by Raze the Clanless.)
 {T}: Add one mana of any color.</text>
       <token>1</token>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Mountain VNM</name>
@@ -63,8 +63,8 @@
       <tablerow>0</tablerow>
       <text>({T}: Add {R}.)</text>
       <token>1</token>
-      <reverse-related>Raze the Clanless</reverse-related>
-      <reverse-related>Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
     </card>
     <card>
       <name>Subdued Rift VNM</name>
@@ -77,14 +77,14 @@
       <tablerow>3</tablerow>
       <text>Create a 1/1 black and white Cat enchantment creature token. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Rift Tender</reverse-related>
-      <reverse-related>Avlod Mistshaper</reverse-related>
-      <reverse-related>Giants Blade</reverse-related>
-      <reverse-related>Multaphs Respites Spellbook</reverse-related>
-      <reverse-related>Avlod Watchers</reverse-related>
-      <reverse-related>Outlands Riftbearer</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Rift Tender</reverse-related>
+      <reverse-related persistent="persistent">Avlod Mistshaper</reverse-related>
+      <reverse-related persistent="persistent">Giants Blade</reverse-related>
+      <reverse-related persistent="persistent">Multaphs Respites Spellbook</reverse-related>
+      <reverse-related persistent="persistent">Avlod Watchers</reverse-related>
+      <reverse-related persistent="persistent">Outlands Riftbearer</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Hollow Graze VNM</name>
@@ -97,9 +97,9 @@
       <tablerow>3</tablerow>
       <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Malevolent Naginata</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Malevolent Naginata</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Ever Vigilant VNM</name>
@@ -112,11 +112,11 @@
       <tablerow>3</tablerow>
       <text>Target creature gains vigilance and can’t be blocked by creatures with power 2 or less until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Outlands Diviner</reverse-related>
-      <reverse-related>Outlands Protector</reverse-related>
-      <reverse-related>Outlands Wanderer</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Outlands Diviner</reverse-related>
+      <reverse-related persistent="persistent">Outlands Protector</reverse-related>
+      <reverse-related persistent="persistent">Outlands Wanderer</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Steady Growth VNM</name>
@@ -130,10 +130,10 @@
       <text>Enchant land
 Enchanted land has “{T}: Add one mana of any color.”</text>
       <token>1</token>
-      <reverse-related>Keeper of Calm</reverse-related>
-      <reverse-related>Scout&apos;s Bow</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Keeper of Calm</reverse-related>
+      <reverse-related persistent="persistent">Scout&apos;s Bow</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Prepared Strike VNM</name>
@@ -146,9 +146,9 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Target creature you control gets +1/+0 and gains first strike until end of turn. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Frontline Assaulter</reverse-related>
-      <reverse-related>Flaming Iron</reverse-related>
-      <reverse-related>Minotaur Outlander</reverse-related>
+      <reverse-related persistent="persistent">Frontline Assaulter</reverse-related>
+      <reverse-related persistent="persistent">Flaming Iron</reverse-related>
+      <reverse-related persistent="persistent">Minotaur Outlander</reverse-related>
     </card>
     <card>
       <name>In the Moment VNM</name>
@@ -161,9 +161,9 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Exile the top card of your library. You may play it this turn. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Mordel Drillmaster</reverse-related>
-      <reverse-related>Pinnacle of Vinimroth</reverse-related>
-      <reverse-related>Mordel Excursionist</reverse-related>
+      <reverse-related persistent="persistent">Mordel Drillmaster</reverse-related>
+      <reverse-related persistent="persistent">Pinnacle of Vinimroth</reverse-related>
+      <reverse-related persistent="persistent">Mordel Excursionist</reverse-related>
     </card>
     <card>
       <name>Reshape Will VNM</name>
@@ -176,12 +176,12 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Fadove Willshaper</reverse-related>
-      <reverse-related>Avakin Watcher</reverse-related>
-      <reverse-related>Skillful Blade</reverse-related>
-      <reverse-related>Windshaper Drake</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Fadove Willshaper</reverse-related>
+      <reverse-related persistent="persistent">Avakin Watcher</reverse-related>
+      <reverse-related persistent="persistent">Skillful Blade</reverse-related>
+      <reverse-related persistent="persistent">Windshaper Drake</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Readied Assault VNM</name>
@@ -194,11 +194,11 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Until end of turn, creatures you control get +1/+1 and can attack as though they didn’t have defender. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Fadove Tracker</reverse-related>
-      <reverse-related>Warforged Herald</reverse-related>
-      <reverse-related>Chromaboon Blade</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Fadove Tracker</reverse-related>
+      <reverse-related persistent="persistent">Warforged Herald</reverse-related>
+      <reverse-related persistent="persistent">Chromaboon Blade</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Military Training VNM</name>
@@ -211,12 +211,12 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Fadove Trainer</reverse-related>
-      <reverse-related>Fadove Drillmaster</reverse-related>
-      <reverse-related>Bruin Challenger</reverse-related>
-      <reverse-related>Bruin Mentor</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Fadove Trainer</reverse-related>
+      <reverse-related persistent="persistent">Fadove Drillmaster</reverse-related>
+      <reverse-related persistent="persistent">Bruin Challenger</reverse-related>
+      <reverse-related persistent="persistent">Bruin Mentor</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>White Drake Token VNM</name>
@@ -318,11 +318,11 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <tablerow>3</tablerow>
       <text>Create a trace of a basic land of any type into your hand. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Explorers Compass</reverse-related>
-      <reverse-related>Wings of New Horizons</reverse-related>
-      <reverse-related>Multaphs Respites Spellbook</reverse-related>
-      <reverse-related></reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Explorers Compass</reverse-related>
+      <reverse-related persistent="persistent">Wings of New Horizons</reverse-related>
+      <reverse-related persistent="persistent">Multaphs Respites Spellbook</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Blue Drake Token VNM</name>
@@ -353,8 +353,8 @@ This can’t block.</text>
       <tablerow>0</tablerow>
       <text>({T}: Add {W}.)</text>
       <token>1</token>
-      <reverse-related>Warped Exploration</reverse-related>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Island VNM</name>
@@ -367,8 +367,8 @@ This can’t block.</text>
       <tablerow>0</tablerow>
       <text>({T}: Add {U}.)</text>
       <token>1</token>
-      <reverse-related>Warped Exploration</reverse-related>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Swamp VNM</name>
@@ -381,8 +381,8 @@ This can’t block.</text>
       <tablerow>0</tablerow>
       <text>({T}: Add {B}.)</text>
       <token>1</token>
-      <reverse-related>Warped Exploration</reverse-related>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Forest VNM</name>
@@ -395,8 +395,8 @@ This can’t block.</text>
       <tablerow>0</tablerow>
       <text>({T}: Add {G}.)</text>
       <token>1</token>
-      <reverse-related>Warped Exploration</reverse-related>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Harsh Reprise VNM</name>
@@ -409,9 +409,9 @@ This can’t block.</text>
       <tablerow>3</tablerow>
       <text>Each opponent loses 2 life. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
-      <reverse-related>Avakin Avenger</reverse-related>
-      <reverse-related>Avakin Mentor</reverse-related>
-      <reverse-related></reverse-related>
+      <reverse-related persistent="persistent">Avakin Avenger</reverse-related>
+      <reverse-related persistent="persistent">Avakin Mentor</reverse-related>
+      <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
       <name>Cut from Void VNM</name>
@@ -565,8 +565,8 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <tablerow>0</tablerow>
       <text>({T}: Add {I}.)</text>
       <token>1</token>
-      <reverse-related>Warped Exploration</reverse-related>
-      <reverse-related>Raze the Clanless</reverse-related>
+      <reverse-related persistent="persistent">Warped Exploration</reverse-related>
+      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Icon VNM</name>

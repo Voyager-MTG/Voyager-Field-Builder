@@ -107,7 +107,7 @@ This creature can’t block.</text>
       <text>Ancient Forerunner ITD has first strike during your turn.
 When this creature enters, it deals damage equal to its power to each opponent.</text>
       <token>1</token>
-      <reverse-related>Ancient Forerunner</reverse-related>
+      <reverse-related persistent="persistent">Ancient Forerunner</reverse-related>
     </card>
     <card>
       <name>Cloudscape Observer ITD ITD</name>
@@ -121,7 +121,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <tablerow>2</tablerow>
       <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.</text>
       <token>1</token>
-      <reverse-related>Cloudscape Observer</reverse-related>
+      <reverse-related persistent="persistent">Cloudscape Observer</reverse-related>
     </card>
     <card>
       <name>Deepmind Oracle ITD ITD</name>
@@ -136,7 +136,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <text>Flying
 When this creature enters, surveil X, where X is its power.</text>
       <token>1</token>
-      <reverse-related>Deepmind Oracle</reverse-related>
+      <reverse-related persistent="persistent">Deepmind Oracle</reverse-related>
     </card>
     <card>
       <name>Emergent Anomaly ITD ITD</name>
@@ -151,7 +151,7 @@ When this creature enters, surveil X, where X is its power.</text>
       <text>Menace
 Whenever this creature attacks, tap up to one target creature.</text>
       <token>1</token>
-      <reverse-related>Emergent Anomaly</reverse-related>
+      <reverse-related persistent="persistent">Emergent Anomaly</reverse-related>
     </card>
     <card>
       <name>Fracture of Divinity ITD ITD</name>
@@ -166,7 +166,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
       <text>Vigilance
 Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.</text>
       <token>1</token>
-      <reverse-related>Fracture of Divinity</reverse-related>
+      <reverse-related persistent="persistent">Fracture of Divinity</reverse-related>
     </card>
     <card>
       <name>Lammasu, Dream-Stilled ITD ITD</name>
@@ -181,7 +181,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
       <text>Flying
 When this creature enters, return target instant or sorcery card from your graveyard to your hand.</text>
       <token>1</token>
-      <reverse-related>Lammasu, Dream-Stilled</reverse-related>
+      <reverse-related persistent="persistent">Lammasu, Dream-Stilled</reverse-related>
     </card>
     <card>
       <name>Mechanised Hunter ITD ITD</name>
@@ -195,7 +195,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <tablerow>2</tablerow>
       <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. </text>
       <token>1</token>
-      <reverse-related>Mechanised Hunter</reverse-related>
+      <reverse-related persistent="persistent">Mechanised Hunter</reverse-related>
     </card>
     <card>
       <name>New-Life Acolyte ITD ITD</name>
@@ -209,7 +209,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <tablerow>2</tablerow>
       <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. </text>
       <token>1</token>
-      <reverse-related>New-Life Acolyte</reverse-related>
+      <reverse-related persistent="persistent">New-Life Acolyte</reverse-related>
     </card>
     <card>
       <name>Priest of Perfection ITD ITD</name>
@@ -223,7 +223,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <tablerow>2</tablerow>
       <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
       <token>1</token>
-      <reverse-related>Priest of Perfection</reverse-related>
+      <reverse-related persistent="persistent">Priest of Perfection</reverse-related>
     </card>
     <card>
       <name>Shifting Silverscape ITD ITD</name>

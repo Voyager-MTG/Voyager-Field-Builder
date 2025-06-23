@@ -3,16 +3,17 @@
   <cards>
 
     <card>
-      <name>Spider HEL</name>
+      <name>Zombie HEL</name>
       <set>HEL</set>
       <prop>
-        <colors>G</colors>
-        <type>Token Creature - Spider </type>
+        <colors>W</colors>
+        <type>Token Creature - Zombie </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Reach</text>
+      <text>Lifelink
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
     </card>
     <card>
@@ -39,6 +40,19 @@
       </prop>
       <tablerow>2</tablerow>
       <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider HEL</name>
+      <set>HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
       <token>1</token>
     </card>
     <card>
@@ -78,20 +92,6 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Zombie HEL</name>
-      <set>HEL</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
     </card>
 

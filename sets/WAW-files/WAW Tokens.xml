@@ -14,6 +14,7 @@
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>Starstruck Skitter</reverse-related>
     </card>
     <card>
       <name>Memory of Home WAW</name>
@@ -26,6 +27,7 @@
       <tablerow>1</tablerow>
       <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can’t block, where X is its mana value. Do this only once on each of your turns.</text>
       <token>1</token>
+      <reverse-related>Norr, Ajha&apos;s Lieutenant</reverse-related>
     </card>
     <card>
       <name>Spirit Token WAW</name>
@@ -39,6 +41,13 @@
       <tablerow>2</tablerow>
       <text>This creature can’t block.</text>
       <token>1</token>
+      <reverse-related>Memory of Home</reverse-related>
+      <reverse-related> Shapes in the Pools</reverse-related>
+      <reverse-related> Corrupted Wish</reverse-related>
+      <reverse-related> Remain Steady</reverse-related>
+      <reverse-related> Excess of Potential</reverse-related>
+      <reverse-related> Wish for Destruction</reverse-related>
+      <reverse-related> Wish for Power</reverse-related>
     </card>
     <card>
       <name>Story of a Dead Plane WAW</name>
@@ -52,6 +61,7 @@
       <text>This enchantment is all colors.
 Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
       <token>1</token>
+      <reverse-related>Dhere, Preserver of Memories</reverse-related>
     </card>
     <card>
       <name>Wonder Archon Token WAW</name>
@@ -65,6 +75,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <tablerow>2</tablerow>
       <text>This creature is all colors.</text>
       <token>1</token>
+      <reverse-related>Memory Lane</reverse-related>
+      <reverse-related> Cathexis, Soul Aspect</reverse-related>
     </card>
     <card>
       <name>New Tensuo Luminary Token WAW</name>
@@ -79,6 +91,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
 (This token’s mana value is {W}.)</text>
       <token>1</token>
+      <reverse-related>New Tensuo Luminary</reverse-related>
     </card>
     <card>
       <name>Lakebed Wrudge Token WAW</name>
@@ -94,6 +107,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 {T}: Mill a card.
 (This token’s mana cost is 1U.)</text>
       <token>1</token>
+      <reverse-related>Lakebed Wrudge</reverse-related>
     </card>
     <card>
       <name>Beast Token WAW</name>
@@ -122,6 +136,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 When this creature enters, draw a card.
 (This token’s mana cost is 2U.)</text>
       <token>1</token>
+      <reverse-related>Cloudeater Drake</reverse-related>
     </card>
     <card>
       <name>Copy WAW</name>
@@ -148,6 +163,7 @@ When this creature enters, draw a card.
       <text>Flying
 This creature can’t block.</text>
       <token>1</token>
+      <reverse-related>Tenuous Partners</reverse-related>
     </card>
     <card>
       <name>Flowering Germinus Token WAW</name>
@@ -162,6 +178,7 @@ This creature can’t block.</text>
       <text>When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain vigilance until end of turn.
 (This token’s mana cost is 1G/WG/W.)</text>
       <token>1</token>
+      <reverse-related>Flowering Germinus</reverse-related>
     </card>
     <card>
       <name>Gilded Ancient Token WAW</name>
@@ -177,6 +194,7 @@ This creature can’t block.</text>
 When this creature enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
 (This token’s mana cost is 5G.)</text>
       <token>1</token>
+      <reverse-related>Gilded Ancient</reverse-related>
     </card>
     <card>
       <name>Ilcan Keyseeker WAW</name>
@@ -205,6 +223,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <text>When this creature enters, target creature you control gains flying until end of turn.
 (This token’s mana cost is 3W.)</text>
       <token>1</token>
+      <reverse-related>Kindly Skywinder</reverse-related>
     </card>
     <card>
       <name>Music of the Deepholt Token WAW</name>
@@ -219,6 +238,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn.
 (This token’s mana cost is 2U.)</text>
       <token>1</token>
+      <reverse-related>Music of the Deepholt</reverse-related>
     </card>
     <card>
       <name>New Tensuo Clergy Token WAW</name>
@@ -233,6 +253,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <text>Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.
 (This token’s mana cost is 2B.)</text>
       <token>1</token>
+      <reverse-related>New Tensuo Clergy</reverse-related>
     </card>
     <card>
       <name>New Tensuo Vanguard Token WAW</name>
@@ -247,6 +268,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <text>When this creature enters, creatures you control get +1/+0 and gain first strike until end of turn.
 (This token’s mana cost is 4W.)</text>
       <token>1</token>
+      <reverse-related>New Tensuo Vanguard</reverse-related>
     </card>
     <card>
       <name>Wonder Token WAW</name>
@@ -260,6 +282,19 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <tablerow>2</tablerow>
       <text>This creature is all colors.</text>
       <token>1</token>
+      <reverse-related>Scrappy Wisp-Speaker</reverse-related>
+      <reverse-related count="2"> Abrasive Trailblazer</reverse-related>
+      <reverse-related> Blossoming Comprehension</reverse-related>
+      <reverse-related> Blossoming Dissenter</reverse-related>
+      <reverse-related> Antlerweaver</reverse-related>
+      <reverse-related count="2"> Blinding Majesty</reverse-related>
+      <reverse-related> Blossoming Conscience</reverse-related>
+      <reverse-related> Citadel Repository</reverse-related>
+      <reverse-related> Cathexis, Soul Aspect</reverse-related>
+      <reverse-related count="3"> Starsea Slayer</reverse-related>
+      <reverse-related> Starseeker Deva</reverse-related>
+      <reverse-related> New Tensuo Calmkeeper</reverse-related>
+      <reverse-related count="2"> Polymorphic Wispweaver</reverse-related>
     </card>
     <card>
       <name>Redefinition WAW</name>
@@ -289,6 +324,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
 When this enchantment enters, exile target nonland permanent you don’t control until this enchantment leaves the battlefield.
 (This token’s mana cost is 3W.)</text>
       <token>1</token>
+      <reverse-related>Stardust Haze</reverse-related>
     </card>
     <card>
       <name>Ageless Caretaker Token WAW</name>
@@ -304,6 +340,7 @@ When this enchantment enters, exile target nonland permanent you don’t control
 This creature gets +1/+0 for each other creature you control.
 (This token’s mana cost is 4W.)</text>
       <token>1</token>
+      <reverse-related>Ageless Caretaker</reverse-related>
     </card>
     <card>
       <name>New Tensuo Physician Token WAW</name>
@@ -318,6 +355,7 @@ This creature gets +1/+0 for each other creature you control.
       <text>When this creature enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
 (This token’s mana cost is 4G.)</text>
       <token>1</token>
+      <reverse-related>New Tensuo Physician</reverse-related>
     </card>
     <card>
       <name>Vrep token WAW</name>
@@ -333,6 +371,7 @@ This creature gets +1/+0 for each other creature you control.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to this creature’s power.
 (This token’s mana cost is 4G.)</text>
       <token>1</token>
+      <reverse-related>Vrep</reverse-related>
     </card>
 
   </cards>
