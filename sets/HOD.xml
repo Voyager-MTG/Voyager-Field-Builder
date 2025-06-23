@@ -1149,10 +1149,11 @@ Whenever Castle Delta Agitator deals combat damage to a player or planeswalker, 
         <cmc>3</cmc>
         <type>Creature - Azra Knight </type>
         <maintype>Creature</maintype>
-        <pt>4/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At the beginning of each end step, you may discard a card. If you do, return Cherrywood Elite from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells or paying for bloom costs this turn.</text>
+      <text>Lifelink
+At the beginning of each end step, you may discard a card. If you do, return Cherrywood Elite from your graveyard to the battlefield if you spent four or more mana on casting noncreature spells or paying for bloom costs this turn.</text>
     </card>
     <card>
       <name>Stoic at Graven Laughs</name>
@@ -4209,7 +4210,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Hopeful Spouse enters, create a 2/1 red Soldier creature token in your reserves. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+      <text>When Hopeful Spouse enters, create a 2/1 red Soldier creature token in your reserves. (3: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>King&apos;s Rock Warden</name>
