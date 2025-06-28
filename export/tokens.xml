@@ -213,8 +213,6 @@ Tooken</notes>
     </card>
     <card>
       <name>Werewolf Citizen AKT</name>
-      <reverse-related >Disaster Responder</reverse-related>
-      <reverse-related >Sapient Stoneworks</reverse-related>
       <set>AKT</set>
       <prop>
         <colors>G</colors>
@@ -267,6 +265,7 @@ Tooken</notes>
     </card>
     <card>
       <name>House AKT</name>
+      <reverse-related >Accommodation</reverse-related>
       <set>AKT</set>
       <prop>
         <colors></colors>
@@ -298,7 +297,6 @@ Equip creature of the chosen type {1}</text>
 
     <card>
       <name>Icon Token EXPT</name>
-      <reverse-related >Soul Splintering</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>WI</colors>
@@ -314,7 +312,6 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Horror EXPT</name>
-      <reverse-related count="2">Shell's Scraping</reverse-related>
       <reverse-related >The Depths Talk Loudly</reverse-related>
       <set>EXPT</set>
       <prop>
@@ -347,8 +344,6 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Insect Plant Token EXPT</name>
-      <reverse-related count="2">Scholigaunt</reverse-related>
-      <reverse-related >Xylem Attendant</reverse-related>
       <reverse-related >Algael-leael</reverse-related>
       <reverse-related >Sryyn Spawner</reverse-related>
       <set>EXPT</set>
@@ -563,6 +558,7 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Elemental Token 2 EXPT</name>
+      <reverse-related >Unveiling</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors>I</colors>
@@ -625,7 +621,6 @@ Distant Vulture has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <reverse-related >Wandering Travellers</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -659,7 +654,6 @@ Bastien Chapitaux</notes>
     </card>
     <card>
       <name>Fish Token EXPT</name>
-      <reverse-related >Kaiju Sighting</reverse-related>
       <set>EXPT</set>
       <prop>
         <colors></colors>
@@ -896,7 +890,6 @@ Renowned Cycle
       <reverse-related count="2">Wystan Terrel, the Occultist</reverse-related>
       <reverse-related count="x">Noble Griffin</reverse-related>
       <reverse-related >Imani Whitaker</reverse-related>
-      <reverse-related count="x">King's Rock Castle</reverse-related>
       <reverse-related >Choice of Salvations</reverse-related>
       <set>HOD</set>
       <prop>
@@ -1027,6 +1020,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Dewold Army HOD</name>
+      <reverse-related >Whisperer of Armies</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>B</colors>
@@ -1045,6 +1039,13 @@ Renowned Cycle
     </card>
     <card>
       <name>Young Soldier HOD</name>
+      <reverse-related >Hopeful Spouse</reverse-related>
+      <reverse-related >Instill with Integrity</reverse-related>
+      <reverse-related >Paragon of Stories</reverse-related>
+      <reverse-related >Travelcart's Care</reverse-related>
+      <reverse-related count="x">House Negotiations</reverse-related>
+      <reverse-related >Royal Seeker</reverse-related>
+      <reverse-related >Leon's Claim</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>R</colors>
@@ -1169,14 +1170,6 @@ Renowned Cycle
     </card>
     <card>
       <name>Soldier HOD</name>
-      <reverse-related >Hopeful Spouse</reverse-related>
-      <reverse-related >Instill with Integrity</reverse-related>
-      <reverse-related >Paragon of Stories</reverse-related>
-      <reverse-related >Travelcart's Care</reverse-related>
-      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
-      <reverse-related count="x">House Negotiations</reverse-related>
-      <reverse-related >Royal Seeker</reverse-related>
-      <reverse-related >Leon's Claim</reverse-related>
       <set>HOD</set>
       <prop>
         <colors>W</colors>
@@ -1192,39 +1185,6 @@ Renowned Cycle
     </card>
     <card>
       <name>Knight HOD</name>
-      <reverse-related >Banefort Sigil</reverse-related>
-      <reverse-related >Hook Sigil</reverse-related>
-      <reverse-related >Nye Sigil</reverse-related>
-      <reverse-related >Perle House Sigil</reverse-related>
-      <reverse-related >Attwater Sigil</reverse-related>
-      <reverse-related >Phyre Sigil</reverse-related>
-      <reverse-related >Plaskett Sigil</reverse-related>
-      <reverse-related >Radcliff Sigil</reverse-related>
-      <reverse-related >Rey Sigil</reverse-related>
-      <reverse-related >Rivers Sigil</reverse-related>
-      <reverse-related >Sapner Sigil</reverse-related>
-      <reverse-related >Terrel Sigil</reverse-related>
-      <reverse-related >Turnberry Sigil</reverse-related>
-      <reverse-related >Vance Sigil</reverse-related>
-      <reverse-related >Fleshborne Horror</reverse-related>
-      <reverse-related >Replenishing Camp</reverse-related>
-      <reverse-related >Gleaming Courage</reverse-related>
-      <reverse-related >Knight of Skyspire</reverse-related>
-      <reverse-related >Sandrock Infantry</reverse-related>
-      <reverse-related >Call of the King</reverse-related>
-      <reverse-related >Lucky Break</reverse-related>
-      <reverse-related >Resolute Elk</reverse-related>
-      <reverse-related >Whitaker Sigil</reverse-related>
-      <reverse-related >Meeting of Powers</reverse-related>
-      <reverse-related >Glory on Bloodied Wings</reverse-related>
-      <reverse-related >Dirt to Flesh</reverse-related>
-      <reverse-related >Standing Army</reverse-related>
-      <reverse-related >Turnberry Overseer</reverse-related>
-      <reverse-related >Grasp of the Mirrorkin</reverse-related>
-      <reverse-related >Terrel Battlemage</reverse-related>
-      <reverse-related >Roul Banefort, the Stern</reverse-related>
-      <reverse-related >Geistwald Abomination</reverse-related>
-      <reverse-related >Leon's Claim</reverse-related>
       <reverse-related >Call to War</reverse-related>
       <set>HOD</set>
       <prop>
@@ -1284,9 +1244,6 @@ Renowned Cycle
     </card>
     <card>
       <name>Weapon HOD</name>
-      <reverse-related >Explore the Great Unknown</reverse-related>
-      <reverse-related >Kirsa, the Sword of Perle</reverse-related>
-      <reverse-related >Sandrock Blacksmith</reverse-related>
       <set>HOD</set>
       <prop>
         <colors></colors>
@@ -1757,6 +1714,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Worm Token PTN</name>
+      <reverse-related >The Museum of Worms</reverse-related>
       <set>PTN</set>
       <prop>
         <colors>B</colors>
@@ -1775,6 +1733,10 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Wolf Token PTN</name>
+      <reverse-related >Wolf-Splinter</reverse-related>
+      <reverse-related >Ravenous Unmaker</reverse-related>
+      <reverse-related >Smoldering Pack</reverse-related>
+      <reverse-related >Flames of Emnity</reverse-related>
       <set>PTN</set>
       <prop>
         <colors>G</colors>
@@ -1793,6 +1755,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Angel Token PTN</name>
+      <reverse-related >Guided Crusader</reverse-related>
       <set>PTN</set>
       <prop>
         <colors>W</colors>
@@ -1809,6 +1772,40 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>PTN Cleric Token PTN</name>
+      <reverse-related >Glassgarden Watcheye</reverse-related>
+      <reverse-related >Carapace Ancestor</reverse-related>
+      <reverse-related >Covert Cloak</reverse-related>
+      <reverse-related >Unceasing Initiation</reverse-related>
+      <reverse-related >Tireless Recruiter</reverse-related>
+      <reverse-related >Pupil of Defiance</reverse-related>
+      <reverse-related >Flesh Weaver</reverse-related>
+      <reverse-related >Cartographed Risen</reverse-related>
+      <reverse-related >Carapace Threadbearer</reverse-related>
+      <reverse-related >Rite Flamecaller</reverse-related>
+      <reverse-related >Callidate Invocation</reverse-related>
+      <reverse-related >Scarring Servitude</reverse-related>
+      <reverse-related >Indulgent Cyprian</reverse-related>
+      <reverse-related >Carapace Guardian</reverse-related>
+      <reverse-related >Veil of Dreams</reverse-related>
+      <reverse-related >Twins' Guardian</reverse-related>
+      <reverse-related >Seaside Smuggler</reverse-related>
+      <reverse-related >Moonlit Augury</reverse-related>
+      <reverse-related >Mystical Trail</reverse-related>
+      <reverse-related >Glassgarden Elder</reverse-related>
+      <reverse-related >The Sky, The Soul</reverse-related>
+      <reverse-related >Ring-Yew's Chosen</reverse-related>
+      <reverse-related >High Cyprian</reverse-related>
+      <reverse-related >Escape into the Night</reverse-related>
+      <reverse-related >Bringer of Glory</reverse-related>
+      <reverse-related >Discover the Stone Gods</reverse-related>
+      <reverse-related >The Geminiad</reverse-related>
+      <reverse-related >Corrivality</reverse-related>
+      <reverse-related >Take Prisoners</reverse-related>
+      <reverse-related >Ignite Fervor</reverse-related>
+      <reverse-related >Defacement</reverse-related>
+      <reverse-related >Burgeoning Risen</reverse-related>
+      <reverse-related >Society Headquarters</reverse-related>
+      <reverse-related >Woods' Procession</reverse-related>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -1915,7 +1912,6 @@ induct
     </card>
     <card>
       <name>Dinosaur PVR</name>
-      <reverse-related count="x">Perpetual Cycle</reverse-related>
       <reverse-related >Lévy Paths</reverse-related>
       <reverse-related >Urwrapir Matriarch</reverse-related>
       <set>PVR</set>
@@ -2277,6 +2273,8 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>White Drake Token VNM</name>
+      <reverse-related >Breach of Protection</reverse-related>
+      <reverse-related >Drake Rider</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>W</colors>
@@ -2435,6 +2433,9 @@ Preview</notes>
     </card>
     <card>
       <name>Blue Drake Token VNM</name>
+      <reverse-related >Melodia Voidtouched</reverse-related>
+      <reverse-related >Kaln-Ocean Wispop</reverse-related>
+      <reverse-related count="2">Aerial Roost</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>U</colors>
@@ -2702,8 +2703,6 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Icon VNM</name>
-      <reverse-related >Splendid Genesis</reverse-related>
-      <reverse-related >Impunity of Souls</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -2737,6 +2736,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Black Wurm Token VNM</name>
+      <reverse-related >Outlands Bulwark</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>B</colors>
@@ -2755,6 +2755,11 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Green Wurm Token VNM</name>
+      <reverse-related count="2">Guardian of Faloden Woods</reverse-related>
+      <reverse-related >Crowned Entity</reverse-related>
+      <reverse-related count="2">Bruin Clankeeper</reverse-related>
+      <reverse-related >Bulwark of the Thicket</reverse-related>
+      <reverse-related >Bruin Wanderer</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -2775,6 +2780,10 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Red Wurm Token VNM</name>
+      <reverse-related >Volatile Visions</reverse-related>
+      <reverse-related >Path of the Brood</reverse-related>
+      <reverse-related >Brood Protector</reverse-related>
+      <reverse-related >Conflict Mentor</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
@@ -2796,6 +2805,11 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>White Wurm Token VNM</name>
+      <reverse-related >Khestri Fadove Clanleader</reverse-related>
+      <reverse-related >Bark of Tofnet Plains</reverse-related>
+      <reverse-related count="2">Will of Roduth</reverse-related>
+      <reverse-related count="2">Triumphant Entrance</reverse-related>
+      <reverse-related count="2">Oathkeep Wurm</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>W</colors>
@@ -2896,8 +2910,6 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Icon Token VNM</name>
-      <reverse-related >Splendid Genesis</reverse-related>
-      <reverse-related >Impunity of Souls</reverse-related>
       <set>VNM</set>
       <prop>
         <colors>G</colors>
@@ -2946,9 +2958,6 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Spirit Token WAW</name>
-      <reverse-related >Excess of Potential</reverse-related>
-      <reverse-related >Remain Steady</reverse-related>
-      <reverse-related >Shapes in the Pools</reverse-related>
       <set>WAW</set>
       <prop>
         <colors>B</colors>

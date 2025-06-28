@@ -188,6 +188,53 @@ def getCount(n):
     else:
         return ""
 
+def getSubtype(typ):
+    if "-" in typ:
+        return typ.split("-")[1].strip()
+    else:
+        return ""
+    
+def convertColors(c):
+    s = ""
+    colormap = {
+        "white" : "W",
+        "blue"  : "U",
+        "black" : "B",
+        "red"   : "R",
+        "green" : "G",
+        "silver": "I",
+    }
+    for k, v in colormap.items():
+        s += v if k in c else ""
+    
+    return s if s else None
+
+def getToken(type = None, colors = None, pt = None, set = None):
+    if type == "" and colors == "":
+        return None
+
+    possible_tokens = []
+    for card_ in tokens_root[0]:
+        card = {}
+        for property in card_:
+            if property.tag == "prop":
+                for prop in property:
+                    card[prop.tag] = prop.text
+            else:
+                card[property.tag] = property.text
+
+        type_eq   = type   == None or str(type).strip() == str(getSubtype(card.get("type")))
+        colors_eq = colors == None or str(card["colors"]).strip() == str(convertColors(colors))
+        pt_eq     = pt     == None or str(card.get("pt")) == str(pt).strip()
+        
+        if (type_eq and colors_eq and pt_eq and set == card["set"]):
+            return card["name"]
+        elif (type_eq and colors_eq and pt_eq):
+            possible_tokens.append(card["name"])
+
+    return possible_tokens[0] if possible_tokens else None
+
+
 def tokenPuller(card):
     global out_text_tokens
     big_match = re.findall(r'creates? [^.]+', card["text"], flags=re.I)
@@ -199,32 +246,31 @@ def tokenPuller(card):
                 tokenMatch = tokens.groups()
                 token_type = liststr(tokenMatch[10:13])
                 count = englishToNumber(tokenMatch[0])
+                token_to_script = getToken(token_type, liststr(tokenMatch[7:10]), tokenMatch[6], card["set"])
                 if token_type == "":
                     token_name = re.findall("[N|n]amed (.*?) (with|that)", str(tokenMatch[17]))
                     if token_name:
                         token_to_script = token_name[0][0] + " " + card["set"]
                         out_text_tokens = out_text_tokens.replace(f"<name>{token_to_script}</name>", f"<name>{token_to_script}</name>\n      <reverse-related {getCount(count)}>{card["name"]}</reverse-related>")
                 else: 
-                    token_to_script = token_type + " " + card["set"]
-                    out_text_tokens = out_text_tokens.replace(f"<name>{token_to_script}</name>", f"<name>{token_to_script}</name>\n      <reverse-related {getCount(count)}>{card["name"]}</reverse-related>")
-                    token_to_script = token_type + " Token " + card["set"]
                     out_text_tokens = out_text_tokens.replace(f"<name>{token_to_script}</name>", f"<name>{token_to_script}</name>\n      <reverse-related {getCount(count)}>{card["name"]}</reverse-related>")
     
     # Manual Scripts
     
-                    
+                   
 
 print("Building tokens...")
 for card_ in cards_root[1]:
     card = {}
     for property in card_:
-        if property == "prop":
+        if property.tag == "prop":
             for prop in property:
                 card[prop.tag] = prop.text
         else:
             card[property.tag] = property.text
 
-    card["notes"] = ""
+    if not card.get("notes"):
+        card["notes"] = ""
 
     if card["text"]: 
         tokenPuller(card)
