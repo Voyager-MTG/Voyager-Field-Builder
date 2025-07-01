@@ -27,7 +27,8 @@
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -52,7 +53,8 @@ At the beginning of each of your postcombat main phase, add {R} for each 2 life 
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -77,7 +79,8 @@ Whenever The Forge of Days attacks, you may put a creature card you own in exile
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -103,7 +106,8 @@ If you would draw a card, instead mill three cards.
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -130,7 +134,8 @@ Sacrifice a Vampire: The Red Grail deals 3 damage to any target. Activate only o
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -156,7 +161,8 @@ Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman.
 !tag lair1;
 !tag lairnumber1;
 !tag lair#1;
-!tag lairn1;</notes>
+!tag lairn1;
+!designer Kogane</notes>
         <tag>lair1;lairnumber1;lair#1;lairn1;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -179,7 +185,8 @@ Whenever The Thunderskin attacks, create an enchantment token named Heartbeat wi
         <notes>!porthole
 !tag champions
 !tag championkogane
-!tag kogane</notes>
+!tag kogane
+!designer TVP</notes>
         <tag>championschampionkoganekogane</tag>
       </prop>
       <tablerow>0</tablerow>

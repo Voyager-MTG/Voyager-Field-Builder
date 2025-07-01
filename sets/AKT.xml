@@ -3606,7 +3606,8 @@ UU04
         <maintype>Creature</maintype>
         <pt>2/5</pt>
         <notes>BLUEUNCOMMON
-HUMANTYPE</notes>
+HUMANTYPE
+!designer Janahwhamme</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -4353,8 +4354,9 @@ If Lyyrata usurped, creatures you control get +5000/+5000.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Mill a card. Put that card into your hand unless an opponent pays life equal to its mana value.
-Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal to the number of land cards in your graveyard.</text>
+I, II, III — Mill a card. Put that card into your hand unless an opponent pays life equal to its mana value.
+IV — Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal to the number of land cards in your graveyard.
+​</text>
     </card>
     <card>
       <name>Triaja, Astral Apostate</name>
@@ -4766,7 +4768,8 @@ Trounce deals 4 damage divided among one or two targets.</text>
         <type>Legendary Creature - Dragon Noble </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
-        <notes>OTHERRARE</notes>
+        <notes>OTHERRARE
+!designer LeetWizard</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, first strike

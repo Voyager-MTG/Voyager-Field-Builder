@@ -1448,7 +1448,7 @@ Each opponent loses 2 life.</text>
         <notes>Preview</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a spell or ability puts one or more cards into your hand, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>Whenever a spell or ability puts one or more cards into your hand, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
     </card>
     <card>
       <name>Avakin Hireblade</name>

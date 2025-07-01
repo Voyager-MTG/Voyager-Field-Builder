@@ -4691,9 +4691,9 @@ Musician’s Remnant can’t block.
       </prop>
       <tablerow>1</tablerow>
       <text>
-Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
+I — Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it.
 Search for library for a God card with mana value greater than the greatest mana value among Gods you control.
-Choose a card in your hand or graveyard. Reveal it. Up to one target God gains the revealed card’s abilities. (This effect lasts indefinitely)</text>
+II — Choose a card in your hand or graveyard. Reveal it. Up to one target God gains the revealed card’s abilities. (This effect lasts indefinitely)</text>
     </card>
     <card>
       <name>Glassgarden Watcheye</name>
@@ -5006,7 +5006,7 @@ When Wandering Unmaker is dealt damage, if you control a Sanctuary or God, Wande
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, haste
-When Drowning Cyprian enters, if an opponent lose life this turn, put two +1/+1 counters on Drowning Cyprian.</text>
+When Drowning Cyprian enters, if an opponent lost life this turn, put two +1/+1 counters on Drowning Cyprian.</text>
     </card>
     <card>
       <name>Isidra, Foreign Goddess</name>
@@ -5107,7 +5107,7 @@ Whenever The Forge of Days attacks, you may put a creature card you own in exile
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink
-Whenever #The Thunderskin attacks, create an enchantment token named Heartbeat with “GW, Sacrifice this permanent: Return target card named #The Thunderskin from your graveyard to the battlefield tapped.”</text>
+Whenever The Thunderskin attacks, create an enchantment token named Heartbeat with “GW, Sacrifice this permanent: Return target card named The Thunderskin from your graveyard to the battlefield tapped.”</text>
     </card>
     <card>
       <name>The Vagabond</name>

@@ -745,6 +745,8 @@ Whenever a nontoken creature you control dies, create a token that’s a copy of
       </prop>
       <tablerow>2</tablerow>
       <text>
+When Waldemar deals combat damage to a player, you may exile Waldemar from the battlefield. If you do, return him to the battlefield transformed if he was your chosen heir.
+When Waldemar dies, each opponent discards a card.
 
 ---
 (Back): Waldemar, Jaded Prince</text>
@@ -1014,7 +1016,7 @@ Escape—2RR, Exile eight other cards from your graveyard. (You may cast this ca
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
-Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, put that many +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens in your reserves equal its power. ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
+Enchanted creature has “Whenever this creature deals combat damage to a player or planeswalker, two +1/+1 counters on it” and “When this creature leaves the battlefield, create a number of 2/1 red Soldier creature tokens in your reserves equal the number of counters on it.” ({3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.)</text>
     </card>
     <card>
       <name>Quirky Chameleon</name>
@@ -1081,7 +1083,6 @@ Landfall — Whenever a land you control enters, return target card from your gr
       </prop>
       <tablerow>2</tablerow>
       <text>Geistwald Amalgam enters with X +1/+1 counters on it.
-Trample
 Escape—4G, Exile X other cards from your graveyard. X can’t be 0. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
     <card>
@@ -3762,7 +3763,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
         <mv>2</mv>
         <type>Creature - Hag Warlock </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
         <notes>!tag Dewold
 !tag Gosfridus
 !tag Turnberry</notes>

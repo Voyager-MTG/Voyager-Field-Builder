@@ -23,7 +23,7 @@
         <type>Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -42,7 +42,8 @@
         <type>Creature - Bird Scout </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
-        <notes>traverse 4</notes>
+        <notes>traverse 4
+!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Avakin Adventurer enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -61,7 +62,7 @@
         <type>Creature - Fox Scout </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -80,7 +81,7 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +2/-2 until end of turn.</text>
@@ -99,7 +100,8 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
         <type>Creature - Drake Horror </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
-        <notes>!related Drake Token;</notes>
+        <notes>!designer TVP
+!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}, Sacrifice this creature: Destroy up to one target enchantment. Create two tapped 1/1 silver Drake creature tokens with flying.</text>
@@ -117,7 +119,8 @@ As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>v1.2 Tap target creature. Put a stun counter on it.
+        <notes>!designer TVP
+v1.2 Tap target creature. Put a stun counter on it.
 You may discard a card. If you do, draw a card from your sanctum.
 
 v1.1 Tap target creature. You may put a stun counter on it.</notes>
@@ -140,7 +143,8 @@ You may draw a card from your sanctum or library. If you do, discard a card.</te
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>!related Drake Token;</notes>
+        <notes>!designer TVP
+!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -159,7 +163,7 @@ When this creature enters, create a 1/1 silver Drake creature token with flying.
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -179,7 +183,7 @@ Target creature becomes an enchantment land. (It loses all other card types.) It
         <type>Enchantment Creature - Icon Knight </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
-        <notes>flag</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast if your opponent lost life this turn.</text>
@@ -198,7 +202,7 @@ Target creature becomes an enchantment land. (It loses all other card types.) It
         <type>Creature - Cat Shaman </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less to cast for each token you control.
@@ -218,7 +222,8 @@ When this creature enters, draw a card.</text>
         <type>Creature - Faerie Dog </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>Rework</notes>
+        <notes>!designer TVP
+Rework</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -240,7 +245,8 @@ Evoke 1I/W (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Creature - Wurm Cleric </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
-        <notes>Rework
+        <notes>!designer TVP
+Rework
 v1.0 5/5</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -262,7 +268,7 @@ When this creature leaves the battlefield, put the exiled creature onto the batt
         <type>Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>
+        <notes>!designer TVP
 steve</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -284,7 +290,7 @@ This creature gets +1/+1 if you’ve illuminated red and +1/+1 if you’ve illum
         <type>Creature - Jellyfish Snail </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, up to one target creature gets +1/-1 until end of turn.
@@ -304,7 +310,8 @@ Evoke {I/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
         <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>!related Dragon Eye Token;</notes>
+        <notes>!designer TVP
+!related Dragon Eye Token;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Tokens you control have reach healing 1. (Damage dealt by that creature also causes you to gain 1 life.)
@@ -324,7 +331,7 @@ Evoke {I/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
         <type>Creature - Human Wolf Scout </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
@@ -346,7 +353,7 @@ Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -368,7 +375,7 @@ Evoke 1I/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Creature - Fish Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>
+        <notes>!designer TVP
 Can’t have shit in detroit.</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -388,7 +395,7 @@ Can’t have shit in detroit.</notes>
         <type>Creature - Angel Reflection </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -409,7 +416,8 @@ Evoke 1I/B (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Creature - Human Elf </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
-        <notes>!related Wurm Dragon Token;</notes>
+        <notes>!designer TVP
+!related Wurm Dragon Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -428,7 +436,7 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>could be 4 cards</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top three cards of your library. Put one into your hand and another one back on top of your library. Put the rest into your sanctum.</text>
@@ -446,7 +454,8 @@ When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantmen
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname When Words Dont Work
+        <notes>!designer TVP
+!exportname When Words Dont Work
 can possibly hit enchantments
 Manifest</notes>
       </prop>
@@ -467,7 +476,7 @@ Manifest</notes>
         <type>Enchantment Creature - Icon Warrior </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This creature can’t be blocked by creatures with toughness 2 or less.
@@ -486,7 +495,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>Traverse 6</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -507,7 +516,8 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>4Multicolor
+        <notes>!designer TVP
+4Multicolor
 FGU
 !related Drake Token;</notes>
       </prop>
@@ -529,7 +539,8 @@ When this creature enters or dies, create a 1/1 silver Drake creature token with
         <type>Creature - Wurm Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Kornas Forward</notes>
+        <notes>!designer TVP
+!exportname Kornas Forward</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 2 life.
@@ -549,7 +560,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
         <type>Creature - Hyena Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -568,7 +579,7 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <mv>4</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.artstation.com/artwork/bl3lQk</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>You may play cards from your sanctum with mana value equal to the mana value of a permanent you control.</text>
@@ -587,7 +598,8 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <type>Kindred Land - Scout </type>
         <maintype>Land</maintype>
         <notes>Roaming
-!tapped</notes>
+!tapped
+!designer TVP</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -609,7 +621,7 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Exile two target creature cards from your graveyard. If you do, Create a 1/1 Treasure Artifact creature token with “{T}, Sacrifice this: Add one mana of any color.”</text>
@@ -628,7 +640,7 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <type>Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace, reach, haste
@@ -648,7 +660,7 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <type>Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create a 1/1 blue Orb Wizard artifact creature token with “{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.”</text>
@@ -666,7 +678,8 @@ Once each turn, whenever you create a token, up to one target creature you contr
         <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>CG16,Noncreature,3,,Blinding Fog
+        <notes>!designer TVP
+CG16,Noncreature,3,,Blinding Fog
 
 Put a land card from your hand or sanctum onto the battlefield tapped.</notes>
       </prop>
@@ -688,7 +701,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
         <type>Creature - Merfolk Rogue </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -709,7 +722,8 @@ When Kaln-Ocean Streamliner attacks, if you’ve illuminated silver, create a ta
         <type>Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>RG03,Medium Creature,3,,Deathgorge Scavenger</notes>
+        <notes>!designer TVP
+RG03,Medium Creature,3,,Deathgorge Scavenger</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -717,7 +731,7 @@ Flying
 If a card would be put into an opponents hand from their sanctum, instead exile it. They may cast it for as long as its exiled. Spells cast this way cost {2} more to cast.</text>
     </card>
     <card>
-      <name>Chirps Spice Seeker</name>
+      <name>Chirps, Spice Seeker</name>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -730,7 +744,7 @@ If a card would be put into an opponents hand from their sanctum, instead exile 
         <type>Legendary Enchantment Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
-        <notes>!exportname Chirps Spice Seeker
+        <notes>!designer TVP
 !related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -738,7 +752,7 @@ If a card would be put into an opponents hand from their sanctum, instead exile 
 When Chirps enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with flying and haste.</text>
     </card>
     <card>
-      <name>Melodia Drifter at Heart</name>
+      <name>Melodia, Drifter at Heart</name>
       <set rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -751,8 +765,8 @@ When Chirps enters and at the beginning of your upkeep, if you don’t control a
         <type>Legendary Enchantment Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!smallbox 
-!exportname Melodia Drifter at Heart</notes>
+        <notes>!designer TVP
+!smallbox </notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -772,11 +786,11 @@ Whenever you attack with two or more creatures, you may put the top four cards o
         <type>Creature - Chimera </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, ward {2}
-Whenever Outlands Chimera enters or attacks, you may mirror a non-Chimera.</text>
+Whenever Outlands Chimera enters or attacks, if it isn’t a token, you may mirror.</text>
     </card>
     <card>
       <name>Starling</name>
@@ -792,7 +806,7 @@ Whenever Outlands Chimera enters or attacks, you may mirror a non-Chimera.</text
         <type>Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{I}: Put Starling into its owner’s sanctum. Return it to the battlefield at the beginning of the next end step. Activate only once each turn.
@@ -813,7 +827,8 @@ Whenever Outlands Chimera enters or attacks, you may mirror a non-Chimera.</text
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!related Drake Token;
+        <notes>!designer TVP
+!related Drake Token;
 !exportname Cerise Auger of Flow</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -833,7 +848,7 @@ I/WU: Until end of turn, whenever one or more creatures you control deal combat 
         <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, draw a card.
@@ -853,7 +868,7 @@ If you would draw a card from your library, you may draw a card from your sanctu
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Creatures get +3/-3 until end of turn. Put all creature cards in all graveyards that were put there from the battlefield this turn into their owner’s sanctum. If a creature would die this turn, put it into its owner’s sanctum instead.</text>
@@ -871,7 +886,7 @@ If you would draw a card from your library, you may draw a card from your sanctu
         <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell.
@@ -890,7 +905,7 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw a card, then exchange any number of cards in your hand and sanctum.</text>
@@ -908,7 +923,7 @@ Draft a card from your sanctum. (Look at three random cards from your sanctum. P
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target permanent loses all abilities and becomes an artifact until the end of your next turn.
@@ -927,7 +942,7 @@ Draw a card.</text>
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Mirror (Create a token thats a copy of a token you control.)</text>
@@ -945,7 +960,8 @@ Draw a card.</text>
         <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>!related Drake Token;Fox Token;</notes>
+        <notes>!designer TVP
+!related Drake Token;Fox Token;</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Kindred Spirits enters, create a 1/1 silver Drake creature token with flying and a 0/2 white Fox creature token.
@@ -964,7 +980,7 @@ Creature tokens you control get +1/+0.</text>
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Converge — Falling Sparks deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
@@ -982,7 +998,7 @@ Creature tokens you control get +1/+0.</text>
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature. You create a tapped X/X white and silver Icon enchantment creature token, where X is that creature’s power. Then that creature’s controller does the same.</text>
@@ -1000,7 +1016,7 @@ Creature tokens you control get +1/+0.</text>
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {1} less to cast for each token you control.
@@ -1020,7 +1036,7 @@ Target creature gets -0/-X until end of turn.</text>
         <type>Creature - Plant </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Experience Cultivator enters, you may play an additional land this turn.
@@ -1040,7 +1056,7 @@ Target creature gets -0/-X until end of turn.</text>
         <type>Creature - Octopus Jellyfish </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1060,7 +1076,7 @@ Target creature gets -0/-X until end of turn.</text>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1080,7 +1096,7 @@ Whenever this creature deals combat damage to a player, look at the top two card
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -1101,7 +1117,8 @@ When this creature enters the battlefield, exile up to one target nonland card f
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>!related Drake Token;</notes>
+        <notes>!designer TVP
+!related Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, create a 1/1 silver Drake creature token with flying that’s tapped and attacking. Sacrifice it at the beginning of your next end step.</text>
@@ -1120,7 +1137,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
         <type>Creature - Reflection </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, you may have the size of another target creature you control become 3/2 until end of turn.</text>
@@ -1139,7 +1156,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, create a trace of Alchemist’s Vial in your hand. (Its an artifact that costs {2} with, “When this artifact enters, draw a card” and “{1}, {T}, Sacrifice this artifact: Target creature can’t attack or block this turn.”)</text>
@@ -1158,7 +1175,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
         <type>Creature - Rabbit Soldier Scout </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -1178,7 +1195,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
@@ -1196,7 +1213,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Center Mass deals 1 damage to any target. Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
@@ -1214,7 +1231,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +2/-2 until end of turn. You gain 2 life.</text>
@@ -1232,7 +1249,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from a graveyard to the battlefield under your control that has mana value 5. It enters as a kindred enchantment with its creature types.</text>
@@ -1250,7 +1267,8 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1272,7 +1290,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1294,7 +1313,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1316,7 +1336,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1338,7 +1359,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1360,7 +1382,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1382,7 +1405,8 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 </notes>
       </prop>
@@ -1405,7 +1429,7 @@ Exhaust — {T}: Choose a color. (Activate each exhaust ability only once.)
         <type>Creature - Plant Horror </type>
         <maintype>Creature</maintype>
         <pt>4/2</pt>
-        <notes></notes>
+        <notes>!designer Styles</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>You may play an additional land on each of your turns.
@@ -1425,7 +1449,7 @@ Whenever a land enters under your control for the second each turn, blank up to 
         <type>Enchantment Creature - Human Noble </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes></notes>
+        <notes>!designer Styles</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from planeswalkers
@@ -1444,7 +1468,8 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!related Elemental Token 2;Elemental Token 3;</notes>
+        <notes>!designer Styles
+!related Elemental Token 2;Elemental Token 3;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one, then choose another for each card named Unveiling in your graveyard.
@@ -1466,7 +1491,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, target creature you control has size 3/2 and gains “When this creature dies, create a token copy of it with size 3/2.”</text>
@@ -1485,7 +1510,8 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
         <type>Creature - Shapeshifter Artificer </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1505,7 +1531,8 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
         <type>Legendary Enchantment Creature - God </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>https://www.deviantart.com/era7/art/Cosmic-Dragon-Llama-God-1058639514</notes>
+        <notes>https://www.deviantart.com/era7/art/Cosmic-Dragon-Llama-God-1058639514
+!designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
@@ -1527,7 +1554,8 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
         <type>Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, reach
@@ -1547,7 +1575,8 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
         <type>Creature - Merfolk Chimera Citizen </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever one or more tokens you control deal combat damage to a player, you may liberate one of them. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
@@ -1565,7 +1594,8 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
         <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>https://www.deviantart.com/billycrawshrimp/art/bigfish-nolungman-sighting-969724408
+        <notes>!designer Trewq
+https://www.deviantart.com/billycrawshrimp/art/bigfish-nolungman-sighting-969724408
 !related Fish Token;</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -1586,7 +1616,8 @@ Create an X/X silver Fish creature token, where X is the number of permanents yo
         <type>Enchantment Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>https://www.deviantart.com/era7/art/Space-Traveler-823824761</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/era7/art/Space-Traveler-823824761</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1605,7 +1636,8 @@ When Interstellar Traveller enters, if it was cast, create a token copy of targe
         <mv>2</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.deviantart.com/ppp597/art/Kiosk-in-La-Linea-de-la-Concepcion-1162220477
+        <notes>!designer Trewq
+https://www.deviantart.com/ppp597/art/Kiosk-in-La-Linea-de-la-Concepcion-1162220477
 
 !related Horror;</notes>
       </prop>
@@ -1627,7 +1659,7 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
         <type>Creature - Dinosaur Advisor </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{R}, {T}, Put a card from your hand into your sanctum: Draw a card.
@@ -1646,7 +1678,7 @@ Whenever Sanctum Trader attacks, choose a nonland permanent card from your sanct
         <mv>6</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exchange your library and sanctum. For the rest of the game, if you would draw a card, you draft a card from your sanctum instead. (Look at three random cards from your sanctum. Put one into your hand.)</text>
@@ -1664,7 +1696,7 @@ Whenever Sanctum Trader attacks, choose a nonland permanent card from your sanct
         <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Pathbound—1II. Activate only if you have no cards in your graveyard with mana value 2 or 3. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1683,7 +1715,7 @@ At the beginning of your end step, you may exile target card from your graveyard
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target permanent you control, then return it to the battlefield under its owner’s control at the beginning of the next end step. When you do, that permanent deals 2 damage to any target and you gain 2 life.</text>
@@ -1702,7 +1734,7 @@ At the beginning of your end step, you may exile target card from your graveyard
         <type>Creature - Angel Turtle  </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -1723,7 +1755,7 @@ Whenever you create a token that doesn’t share a name with a token you control
         <type>Enchantment Creature - Icon Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—1I. Activate only if a card that shares a type with this dealt damage to an opponent this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1743,7 +1775,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Pathbound—{2}. Activate only if there are no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -1762,7 +1794,7 @@ Discard your hand, then draw three cards.</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!addtoken Against the Night;conjure:3;</notes>
+        <notes>!designer Aanginer!addtoken Against the Night;conjure:3;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw a card from your sanctum or library. Surveil X, where X is the number of cards named Against the Night in your graveyard. Conjure three Against the Nights into your deck, then shuffle.</text>
@@ -1781,7 +1813,7 @@ Discard your hand, then draw three cards.</text>
         <type>Enchantment Creature - Wolf </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize X, where X is its mana value. (It loses all other creature and card types.)</text>
@@ -1800,7 +1832,7 @@ Discard your hand, then draw three cards.</text>
         <type>Enchantment Creature - Dragon </type>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
-        <notes></notes>
+        <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
@@ -1820,7 +1852,7 @@ When this creature enters, if it was cast, mirror twice. (Create a token thats a
         <mv>5</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 silver Horror creature tokens with changeling. (They’re every creature type.)
@@ -1947,7 +1979,8 @@ Shell’s Scraping deals damage to any target equal to the number of tokens you 
         <mv>3</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.deviantart.com/sylviaritter/art/Speedpainting-15122024-1134206785</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/sylviaritter/art/Speedpainting-15122024-1134206785</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Nonbasic lands are Faults in addition to their other types.
@@ -1966,7 +1999,7 @@ Whenever a nonbasic land becomes tapped, if it wasn’t tapped for {I}, put a st
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top four cards of your library. Put one of them into your hand, and the rest on the bottom of your library in a random order.
@@ -1986,7 +2019,8 @@ Untap up to two lands.</text>
         <type>Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>https://www.deviantart.com/bonniesband/art/RW-Reach-993741952</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/bonniesband/art/RW-Reach-993741952</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from artifacts and from enchantments. (This creature can’t be blocked, targeted, dealt damage, or equipped by artifacts or enchantments..)
@@ -2005,7 +2039,8 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
         <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Searing Sigils enters, up to one target creature gets +2/-2 until end of turn.
@@ -2025,7 +2060,7 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
         <type>Creature - Bird Incarnation </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes></notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
       <text> 2II —  </text>
@@ -2044,7 +2079,8 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
         <type>Artifact Creature - Robot Construct </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Robot Token;</notes>
+        <notes>!designer TVP
+!related Robot Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2063,7 +2099,8 @@ Whenever this creature deals combat damage to an opponent, put up to one target 
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!related Wall Token;</notes>
+        <notes>!designer TVP
+!related Wall Token;</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/3 colorless Wall artifact creature token with defender. Each opponent loses 1 life for each creature you control with greater toughness than their base power.
@@ -2082,7 +2119,7 @@ Flashback—3II, Tap two untapped silver creatures you control. (You may cast th
         <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)
@@ -2102,7 +2139,7 @@ When you sacrifice this enchantment, search your library for a basic land card, 
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Sift 1. (Look at the top card of your library. You may put that card into your sanctum.)
@@ -2122,7 +2159,7 @@ Draw a card.</text>
         <type>Creature - Demon Dragon Reflection </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -2142,7 +2179,7 @@ Tap three untapped creatures you control: Target opponent loses 1 life and you g
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>!related Insect Plant Token;</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>First strike
@@ -2163,7 +2200,7 @@ When this creature dies, create a 2/2 silver Insect Plant token with decayed. (I
         <type>Enchantment Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>!related Insect Plant Token;</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2184,7 +2221,7 @@ When this creature enters, create a 2/2 silver Insect Plant creature token with 
         <type>Artifact Creature - Robot </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -2204,7 +2241,7 @@ When Syphroid enters, destroy up to one target enchantment or planeswalker.</tex
         <type>Creature - Demon Beast </type>
         <maintype>Creature</maintype>
         <pt>0/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
@@ -2224,7 +2261,8 @@ Exile four cards from your graveyard: This creature gets +4/+0 and loses defende
         <type>Artifact Creature - Robot Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>&quot;Giant Soldier of Stone.&quot;
+        <notes>!designer TVP
+&quot;Giant Soldier of Stone.&quot;
 —Giant Soldier of Stone, the Giant Soldier of Stone</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2246,7 +2284,7 @@ This creature gets +1/+0 for each token you control.
         <type>Creature - Zombie Eye Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -2266,7 +2304,7 @@ Channel — 2I, Discard this: Draw two cards. Activate only if you control a tok
         <type>Enchamtment Creature - Icon Wizard </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2287,7 +2325,7 @@ Whenever you cast an enchantment spell, you may swap Soaring Chorus’s power an
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>!related Insect Plant Token;</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>1I, {T}, Return a land you control to its owner’s hand: Create a 2/2 Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
@@ -2306,7 +2344,8 @@ Whenever you cast an enchantment spell, you may swap Soaring Chorus’s power an
         <type>Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 
 Once each turn, whenever you tap a Field for mana, add one mana of any color that land could produce.
@@ -2329,7 +2368,7 @@ Other creatures you control whose base power and toughness aren’t equal have h
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Sift 1. (Look at the top card of your library. You may put that card into your sanctum.)
@@ -2350,7 +2389,8 @@ Flashback—IB, Sacrifice a token. (You may cast this card from your graveyard f
         <type>Creature - Zombie Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 Multicolor</notes>
       </prop>
@@ -2370,7 +2410,7 @@ Multicolor</notes>
         <mv>2</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature or non-aura enchantment
@@ -2390,7 +2430,7 @@ Whenever this enchantment leaves the battlefield, draw a card.</text>
         <mv>2</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When Siege Crossbow enters, it deals 2 damage to up to one noncreature target.
@@ -2410,7 +2450,8 @@ Equip {2}</text>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -2430,7 +2471,7 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player reveals their sanctum. Choose a card from among that player’s sanctum and/or graveyard. That player exiles those cards. If you have no cards in your sanctum, draw a card.</text>
@@ -2449,7 +2490,8 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
         <type>Creature - Human Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder
 flag</notes>
       </prop>
@@ -2472,7 +2514,7 @@ Lands you control with a nonbasic land type have “{T}: Add one mana of any typ
         <type>Creature - Bird Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -2493,7 +2535,8 @@ Channel — 1I, Discard this: Target creature gets +2/-2 until end of turn.</tex
         <type>Creature - Shapeshifter </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>!related Insect Plant Token;</notes>
+        <notes>!designer TVP
+!related Insect Plant Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
@@ -2512,7 +2555,7 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
         <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Turn all creatures face down. They’re colorless enchantments with “Turn this card face up any time by paying its mana cost.”</text>
@@ -2531,7 +2574,8 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
         <type>Creature - Demon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2552,7 +2596,7 @@ Channel — IB, Discard this: Until end of turn, target creature gets +X/-X, whe
         <type>Creature - Insect Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Escape—3I, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
@@ -2572,7 +2616,8 @@ When this creature escapes, create a token that’s a copy of target creature ca
         <type>Creature - Faerie Demon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2592,7 +2637,8 @@ Whenever you attack with two or more creatures, this creature deals 2 damage to 
         <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>Consider making this colorless for the up front cost
+        <notes>!designer TVP
+Consider making this colorless for the up front cost
 also, maybe 7 mana
 !gold!noborder</notes>
       </prop>
@@ -2601,7 +2647,7 @@ also, maybe 7 mana
 Channel — IW, Discard this: Reflect.</text>
     </card>
     <card>
-      <name>Gradius Option</name>
+      <name>Sample Skimmer</name>
       <set rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -2614,7 +2660,7 @@ Channel — IW, Discard this: Reflect.</text>
         <type>Artifact Creature - Robot Construct </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Gradius Option</notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -2635,7 +2681,8 @@ When this creature deals combat damage to an opponent, you may draw a card from 
         <type>Creature - Zombie Spirit </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2655,11 +2702,12 @@ When this creature deals combat damage to an opponent, that player discards a ca
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mirror. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. (Create a token thats a copy of a token you control.)</text>
+      <text>Mirror. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. (To mirror, create a token thats a copy of a token you control.)</text>
     </card>
     <card>
       <name>Caught in the Confusion</name>
@@ -2675,7 +2723,8 @@ When this creature deals combat damage to an opponent, that player discards a ca
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>!gold
-!noborder</notes>
+!noborder
+!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -2696,7 +2745,8 @@ When this enchantment is no longer on the battlefield, return the exiled card to
         <type>Creature - Vampire Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2717,7 +2767,8 @@ At the beginning of your end step, you may discard a card. If you do, draw a car
         <type>Enchantment Creature - Elemental </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>!gold
+        <notes>!designer TVP
+!gold
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2738,7 +2789,7 @@ Creature tokens you control get +1/+1 and have vigilance and menace.</text>
         <type>Legendary Creature - Human </type>
         <maintype>Creature</maintype>
         <pt>2/4</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto The Usurper.
@@ -2758,7 +2809,7 @@ The Usurper must be blocked if able.</text>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Once each turn, whenever one or more cards leave a sanctum, each opponent loses 2 life.
@@ -2886,7 +2937,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
         <notes>!tapped
-
+!designer Kogane
 https://www.deviantart.com/knowyouare/art/Light-Conquers-Darkness-254447378</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -2909,7 +2960,7 @@ https://www.deviantart.com/knowyouare/art/Light-Conquers-Darkness-254447378</not
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
         <notes>!tapped
-
+!designer Kogane
 https://www.deviantart.com/atarts/art/Duel-at-the-bell-of-the-gods-473285102</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -2932,7 +2983,7 @@ https://www.deviantart.com/atarts/art/Duel-at-the-bell-of-the-gods-473285102</no
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
         <notes>!tapped
-
+!designer Kogane
 https://www.deviantart.com/jaygraphixx/art/Sacrosanct-808101978</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -2955,7 +3006,7 @@ https://www.deviantart.com/jaygraphixx/art/Sacrosanct-808101978</notes>
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
         <notes>!tapped
-
+!designer Kogane
 https://www.deviantart.com/benedickbana/art/Ancient-City-Forest-858161681</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -2978,7 +3029,7 @@ https://www.deviantart.com/benedickbana/art/Ancient-City-Forest-858161681</notes
         <type>Land - Sanctuary </type>
         <maintype>Land</maintype>
         <notes>!tapped
-
+!designer Kogane
 https://www.deviantart.com/lecristal/art/pro-meus-Amice-Juraj-Capela-506875349</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -3000,7 +3051,8 @@ https://www.deviantart.com/lecristal/art/pro-meus-Amice-Juraj-Capela-506875349</
         <mv>0</mv>
         <type>Land - Fault Plains </type>
         <maintype>Land</maintype>
-        <notes>!tapped</notes>
+        <notes>!tapped
+!designer Trewq</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -3021,7 +3073,8 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <mv>0</mv>
         <type>Land - Fault Island </type>
         <maintype>Land</maintype>
-        <notes>!tapped</notes>
+        <notes>!designer Trewq
+!tapped</notes>
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
@@ -3043,10 +3096,9 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <type>Land - Fault Swamp </type>
         <maintype>Land</maintype>
         <notes>blackened, crystal
-!tapped</notes>
+!designer Trewq</notes>
       </prop>
       <tablerow>0</tablerow>
-      <cipt>1</cipt>
       <text>({T}: Add {I} or {B}.)
 This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
@@ -3064,10 +3116,9 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <mv>0</mv>
         <type>Land - Fault Mountain </type>
         <maintype>Land</maintype>
-        <notes>!tapped</notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>0</tablerow>
-      <cipt>1</cipt>
       <text>({T}: Add {I} or {R}.)
 This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
@@ -3085,10 +3136,9 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <mv>0</mv>
         <type>Land - Fault Forest </type>
         <maintype>Land</maintype>
-        <notes>!tapped</notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>0</tablerow>
-      <cipt>1</cipt>
       <text>({T}: Add {I} or {G}.)
 This land enters tapped unless it entered from exile.
 Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)</text>
@@ -3106,7 +3156,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target noncreature artifact or noncreature enchantment. You gain 2 life. </text>
@@ -3125,7 +3175,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <type>Artifact Creature - Robot </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Restructure 1I (If you cast this for its restructure cost, its a kindred artifact until you pay its mana cost as a sorcery.)
@@ -3144,7 +3194,8 @@ At the beginning of combat on your turn, up to one target creature gains first s
         <mv>1</mv>
         <type>Enchantment - Aura </type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.deviantart.com/ppp597/art/Peculiarity-1162608217</notes>
+        <notes>https://www.deviantart.com/ppp597/art/Peculiarity-1162608217
+!designer Trewq</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant creature
@@ -3164,7 +3215,8 @@ When enchanted creature dies, if you controlled it, return Blooming Peculiarity 
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551</notes>
+        <notes>https://www.deviantart.com/bluebitart/art/FIsh-In-The-Library-712961551
+!designer Trewq</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +3/-3 until end of turn.
@@ -3183,12 +3235,13 @@ You may return a Fault you control to its owners hand rather than pay this spell
         <mv>2</mv>
         <type>Kindred Enchantment - Fish Entity </type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
+        <notes>!designer Trewq
+https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 5 (Tap any number of other enchantments you control with total mana value 5 or more: It also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Wilmee</name>
@@ -3204,7 +3257,7 @@ Materialize 5 (Tap any number of other enchantments you control with total mana 
         <type>Creature - Rabbit Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/5</pt>
-        <notes></notes>
+        <notes>!designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
@@ -3223,7 +3276,7 @@ Channel — {I}, Discard Wilmee: Create a 2/2 decayed Insect Plant creature toke
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes></notes>
+        <notes>!designer Wende</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>As Planar Boundary enters, you may pay 2 life. If you don’t, it enters tapped.
@@ -3562,9 +3615,9 @@ Fault|Basic Land – Fault
         <type>Creature - Human Coward </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>https://www.artstation.com/artwork/xD3Per</notes>
+        <notes>===https://www.artstation.com/artwork/xD3Per</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>As long as Cowering Lightbringer’s power is 4 or greater, its a Human Warrior and has healing 2. (Whenever this creature deals damage, you gain 2 life.) (Damage dealt by this creature also causes you to gain 2 life.)
-1I: Cowering Lightbringer gets +3/-3 and you get a vertex counter.</text>
+1I: Cowering Lightbringer gets +3/-3 and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>

@@ -394,8 +394,7 @@ You may return an untapped Island you control to its owner’s hand rather than 
       <tablerow>0</tablerow>
       <text>His roots twist and twist and reach deeper and deeper.
 I, II — This land gains “{T}:  Add {C}.” until your next turn.
-III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
-​</text>
+III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Binding Decision</name>
@@ -2066,7 +2065,7 @@ Sacrifice a nonland permanent: You may play an additional land this turn.</text>
         <type>Artifact Creature - Construct </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>hervor</notes>
+        <notes>!designer Hervor</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -2129,9 +2128,9 @@ You may cast this creature from your graveyard by exiling four land cards from y
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II, III — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
+      <text>
+I — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+II, III — You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
 ​</text>
     </card>
     <card>
@@ -2151,7 +2150,7 @@ You may put a nonland permanent card with mana value 2 or less from your hand on
 changed</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I — You may mill five cards.
 II — Return a permanent card from your graveyard to your hand.
 III — You may put a permanent card from your hand onto the battlefield.</text>
@@ -2352,10 +2351,9 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <notes>https://www.deviantart.com/silviabobekova/art/a-demon-visit-896021777</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+      <text>
 I, II — Draw a card.
-III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.
-​</text>
+III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Longlegs</name>
@@ -2467,8 +2465,8 @@ Whenever one or more creatures you control deal combat damage to an opponent, dr
         <mana>G</mana>
         <cmc>1</cmc>
         <mv>1</mv>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <notes>https://x.com/Slitherbop/status/1776511056531325293/photo/1</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -3258,7 +3256,7 @@ At the beginning of your end step, if you haven’t cast a noncreature spell thi
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>First strike.
+      <text>First strike
 Whenever this creature attacks alone, conjure a card named Spark into your hand. (It’s a {R} sorcery with “Spark deals 1 damage to any target.”)</text>
     </card>
     <card>
