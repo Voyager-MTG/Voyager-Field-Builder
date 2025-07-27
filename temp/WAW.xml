@@ -1195,8 +1195,8 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, put four +1/+1 c
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-As long as you control a nontoken green or blue permanent, Windwish Pests has vigilance and ward {1}.
-As long as you control a nontoken red or black permanent, Windwish Pests gets +1/+0 and has haste.</text>
+As long as you control a nontoken green or blue permanent, Windwish Pests has vigilance.
+As long as you control a nontoken red or black permanent, Windwish Pests gets +1/+0.</text>
     </card>
     <card>
       <name>Wish for Separation</name>
@@ -4449,7 +4449,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When New Tensuo Physician enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
+      <text>When New Tensuo Physician enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
 Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>

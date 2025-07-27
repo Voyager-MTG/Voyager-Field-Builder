@@ -435,7 +435,7 @@ This creature gets +1/+0 for each other creature you control.
 !related New Tensuo Physician;</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
+      <text>When this creature enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
 (This token’s mana cost is 4G.)</text>
       <token>1</token>
       <reverse-related>New Tensuo Physician</reverse-related>

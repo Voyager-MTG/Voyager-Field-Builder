@@ -5864,7 +5864,7 @@ Emerged Stonepiler can’t be blocked.
       <related attach="transform">Submerged Spires</related>
     </card>
     <card>
-      <name>Denizen of New Akella</name>
+      <name>Denizen of New Akella Alt</name>
       <set rarity="common">AKT</set>
       <prop>
         <colors></colors>
@@ -5877,7 +5877,8 @@ Emerged Stonepiler can’t be blocked.
         <type>Creature - Erysite Dragon </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes>COLOURLESSCOMMON</notes>
+        <notes>COLOURLESSCOMMON
+!exportname Denizen of New Akella Alt</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Transcend {6} (At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)

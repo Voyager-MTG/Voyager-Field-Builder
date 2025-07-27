@@ -4891,7 +4891,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this realm enters if you cast it, exile up to one other target nonland permanent, then return it to the battlefield under its owner’s control at the beginning of the next end step.
+      <text>When this realm enters, if you cast it, exile up to one other target enchantment, then return it to the battlefield under its owner’s control at the beginning of the next end step.
 2U: Transform this realm.
 ---
 (Back): Ancient Aurora</text>
