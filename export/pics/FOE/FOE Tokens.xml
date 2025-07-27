@@ -1,0 +1,1030 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Aubrey FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>RI</colors>
+        <type>Legendary Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!related Chirps, Spice Seeker;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste</text>
+      <token>1</token>
+      <reverse-related>Chirps, Spice Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Beast-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes>!related Lasting Discovery;Outlands Caretaker;Brightblossom Enclave;
+!exportname Beast-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Lasting Discovery</reverse-related>
+      <reverse-related>Outlands Caretaker</reverse-related>
+      <reverse-related>Brightblossom Enclave</reverse-related>
+    </card>
+    <card>
+      <name>Bird-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related A Flock is Born&lt;3>;
+!exportname Bird-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related count="3">A Flock is Born</reverse-related>
+    </card>
+    <card>
+      <name>Bird-03 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Feather Piper&lt;2>;
+!exportname Bird-03</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related count="2">Feather Piper</reverse-related>
+    </card>
+    <card>
+      <name>Butterfly-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>WI</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Chimarel Clearing;
+!exportname Butterfly-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+      <reverse-related>Chimarel Clearing</reverse-related>
+    </card>
+    <card>
+      <name>Cat-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>!related Outlands Rescuer;Ancient Font;Enduring Woodland;
+!exportname Cat-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Outlands Rescuer</reverse-related>
+      <reverse-related>Ancient Font</reverse-related>
+      <reverse-related>Enduring Woodland</reverse-related>
+    </card>
+    <card>
+      <name>Crab-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Creature - Crab </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes>!related Enlightening Crescents;
+!exportname Crab-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Enlightening Crescents</reverse-related>
+    </card>
+    <card>
+      <name>Draft Archetypes FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>WU: Flicker
+UB: Reanimator
+BR: Sacrifice
+RG: Landfall
+GW: Noncreature Spells
+WB: Enchantments
+BG: Graveyard Value
+GU: Human//Elf Typal
+UR: Noncreature Spells (CardAdv)
+RW: Go Wide
+IW: Tokens Go Wide Anthems
+IU: Same Name//Tokens
+IB: Sacrifice//Go Tall
+IR: Multi Luminous
+IG: Mirror//Tokens</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon Eye-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Dragon Eye </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!related Lasting Discovery;Promise of Hunger;Waterscape Mystic; Coiled Sight; Waterscape Mystic // Coiled Sight;
+!exportname Dragon Eye-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+      <reverse-related>Lasting Discovery</reverse-related>
+      <reverse-related>Promise of Hunger</reverse-related>
+      <reverse-related>Waterscape Mystic</reverse-related>
+      <reverse-related> Coiled Sight</reverse-related>
+      <reverse-related> Waterscape Mystic // Coiled Sight</reverse-related>
+    </card>
+    <card>
+      <name>Drake-05 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!related Tiderock Passage;
+!exportname Drake-05</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Tiderock Passage</reverse-related>
+    </card>
+    <card>
+      <name>Drake-04 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>!related Fadove Battle-Cleric;Soarwing Coast;
+!exportname Drake-04</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Fadove Battle-Cleric</reverse-related>
+      <reverse-related>Soarwing Coast</reverse-related>
+    </card>
+    <card>
+      <name>Drake-02 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Cerise, Auger of Flow;
+!exportname Drake-02</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Cerise, Auger of Flow</reverse-related>
+    </card>
+    <card>
+      <name>Drake-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Drake-Brood Peak;Pioneer’s Premonition;
+!exportname Drake-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Drake-Brood Peak</reverse-related>
+      <reverse-related>Pioneer&apos;s Premonition</reverse-related>
+    </card>
+    <card>
+      <name>Drake-03 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Adventurous Pair;Emigrating Pilgrim;Emigrating Pilgrim // Free to Fly;Calign&lt;2>;Aerial Assurance;Ignelscor Witch;
+!exportname Drake-03</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Adventurous Pair</reverse-related>
+      <reverse-related>Emigrating Pilgrim</reverse-related>
+      <reverse-related>Emigrating Pilgrim // Free to Fly</reverse-related>
+      <reverse-related count="2">Calign</reverse-related>
+      <reverse-related>Aerial Assurance</reverse-related>
+      <reverse-related>Ignelscor Witch</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Demon-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>BR</colors>
+        <type>Token Creature - Elemental Demon </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!related Ignelscor Weaver;
+!exportname Elemental Demon-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, lifelink</text>
+      <token>1</token>
+      <reverse-related>Ignelscor Weaver</reverse-related>
+    </card>
+    <card>
+      <name>Elk Plant-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Elk Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/vD0zgE
+!related Cervus Sprouting;Voice of the Thicket;
+!exportname Elk Plant-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+    </card>
+    <card>
+      <name>Fish-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Fish </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+        <notes>!related CG02 Gold-Streaked Obelisks;
+!exportname Fish-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CG02 Gold-Streaked Obelisks</reverse-related>
+    </card>
+    <card>
+      <name>Fox-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Fox </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Meirel Caretaker;Staggering Spires;Meirel Pathwalker;Clerics Claymore;
+!exportname Fox-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Meirel Caretaker</reverse-related>
+      <reverse-related>Staggering Spires</reverse-related>
+      <reverse-related>Meirel Pathwalker</reverse-related>
+      <reverse-related>Clerics Claymore</reverse-related>
+    </card>
+    <card>
+      <name>Fox-02 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Fox </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+        <notes>!related Lasting Discovery;
+!exportname Fox-02</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Lasting Discovery</reverse-related>
+    </card>
+    <card>
+      <name>Lizard-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Hedgecrow;Scaled Rippler;Scaled Ripper // Lunging Mitosis;Lizturbance;
+!exportname Lizard-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Hedgecrow</reverse-related>
+      <reverse-related>Scaled Rippler</reverse-related>
+      <reverse-related>Scaled Ripper // Lunging Mitosis</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+    </card>
+    <card>
+      <name>Lizard-02 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!related Eroding River;
+!exportname Lizard-02</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Eroding River</reverse-related>
+    </card>
+    <card>
+      <name>Mongoose-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Creature - Mongoose </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes>!related Lasting Discovery;
+!exportname Mongoose-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach (This creature can block creatures with flying.)</text>
+      <token>1</token>
+      <reverse-related>Lasting Discovery</reverse-related>
+    </card>
+    <card>
+      <name>Orb-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Orb </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!exportname Orb-01
+!related Mirdrim Summit;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.
+Whenever this creature deals combat damage to a player, target player mills two cards.</text>
+      <token>1</token>
+      <reverse-related>Mirdrim Summit</reverse-related>
+    </card>
+    <card>
+      <name>Shark-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment Creature - Shark </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Pathward Riftcalling;Kaln-Ocean Seahorse;
+!exportname Shark-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Pathward Riftcalling</reverse-related>
+      <reverse-related>Kaln-Ocean Seahorse</reverse-related>
+    </card>
+    <card>
+      <name>Whale-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Enchantment Creature - Whale </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes>!related Pathward Riftcalling;
+!exportname Whale-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Pathward Riftcalling</reverse-related>
+    </card>
+    <card>
+      <name>Wurm-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes>!related Bosket Peak;Warforged Pair;Encouraging Passage;
+!exportname Wurm-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Bosket Peak</reverse-related>
+      <reverse-related>Warforged Pair</reverse-related>
+      <reverse-related>Encouraging Passage</reverse-related>
+    </card>
+    <card>
+      <name>Wurm-02 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Clanless Tunneler;
+!exportname Wurm-02
+
+!tag clanless;</notes>
+        <tag>clanless;</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+      <reverse-related>Clanless Tunneler</reverse-related>
+    </card>
+    <card>
+      <name>Wurm-03 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>!related Korna Adventuring Historian;
+!exportname Wurm-03</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+      <reverse-related>Korna Adventuring Historian</reverse-related>
+    </card>
+    <card>
+      <name>Wurm Dragon-02 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Wurm Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Yearn for the Sky;
+!exportname Wurm Dragon-02</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Yearn for the Sky</reverse-related>
+    </card>
+    <card>
+      <name>Wurm Dragon-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment - Wurm Dragon </type>
+        <maintype>Enchantment</maintype>
+        <notes>!related Homestead Pair;
+!exportname Wurm Dragon-01</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(This is also a Kindred permanent.)
+This is also a creature if you’ve illuminated silver.</text>
+      <token>1</token>
+      <reverse-related>Homestead Pair</reverse-related>
+    </card>
+    <card>
+      <name>Sanctum Reminder FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>WUBRGI</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Avlod Pathshaper;Bearer of Change;Breach of Malice;Breach of Mortality;Breach of Nature;Breach of Protection;Breach of Sanity;Breach of the Unknown;Crumbling Forest;Crumbling Island;Crumbling Mountain;Crumbling Plains;Crumbling Swamp;Dusted Spire;Eternities Weaver;Fadove Pathwarden;Fadove Reinforcement;Guardian Roost;Keeper of Faloden Woods;Mordel Combatant;Mordel Razer;Mordel Reinforcement;Outlands Guardian;Outlands Pathwarden;Outlands Traveller;Path of Insight;Path of Revival;Path of the Brood;Path of the Grove;Path of the Mighty;Path of the Proud;Path of the Rift;Path of the Roost;Path to Ages;Path to Restoration;Pathborn Aggression;Pathborn Drake;Pathbound Bloom;Pathbound Drake;Paths Strider;Restored Forest;Restored Island;Restored Mountain;Restored Plains;Restored Swamp;Rip to Today;Unstable Rift;Verem-Volcano Keeper;Flashing Path;Shimmering Path;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Before the game starts, place your sanctum here face down. This is not an ordered deck. You can look at your sanctum at any time.
+Your sanctum consists of up to seven basic land cards and unique nonbasic cards that can start in the sanctum. 
+You may sideboard to add or remove cards from your sanctum as long as they are all unique or are basic lands.</text>
+      <token>1</token>
+      <reverse-related>Avlod Pathshaper</reverse-related>
+      <reverse-related>Bearer of Change</reverse-related>
+      <reverse-related>Breach of Malice</reverse-related>
+      <reverse-related>Breach of Mortality</reverse-related>
+      <reverse-related>Breach of Nature</reverse-related>
+      <reverse-related>Breach of Protection</reverse-related>
+      <reverse-related>Breach of Sanity</reverse-related>
+      <reverse-related>Breach of the Unknown</reverse-related>
+      <reverse-related>Crumbling Forest</reverse-related>
+      <reverse-related>Crumbling Island</reverse-related>
+      <reverse-related>Crumbling Mountain</reverse-related>
+      <reverse-related>Crumbling Plains</reverse-related>
+      <reverse-related>Crumbling Swamp</reverse-related>
+      <reverse-related>Dusted Spire</reverse-related>
+      <reverse-related>Eternities Weaver</reverse-related>
+      <reverse-related>Fadove Pathwarden</reverse-related>
+      <reverse-related>Fadove Reinforcement</reverse-related>
+      <reverse-related>Guardian Roost</reverse-related>
+      <reverse-related>Keeper of Faloden Woods</reverse-related>
+      <reverse-related>Mordel Combatant</reverse-related>
+      <reverse-related>Mordel Razer</reverse-related>
+      <reverse-related>Mordel Reinforcement</reverse-related>
+      <reverse-related>Outlands Guardian</reverse-related>
+      <reverse-related>Outlands Pathwarden</reverse-related>
+      <reverse-related>Outlands Traveller</reverse-related>
+      <reverse-related>Path of Insight</reverse-related>
+      <reverse-related>Path of Revival</reverse-related>
+      <reverse-related>Path of the Brood</reverse-related>
+      <reverse-related>Path of the Grove</reverse-related>
+      <reverse-related>Path of the Mighty</reverse-related>
+      <reverse-related>Path of the Proud</reverse-related>
+      <reverse-related>Path of the Rift</reverse-related>
+      <reverse-related>Path of the Roost</reverse-related>
+      <reverse-related>Path to Ages</reverse-related>
+      <reverse-related>Path to Restoration</reverse-related>
+      <reverse-related>Pathborn Aggression</reverse-related>
+      <reverse-related>Pathborn Drake</reverse-related>
+      <reverse-related>Pathbound Bloom</reverse-related>
+      <reverse-related>Pathbound Drake</reverse-related>
+      <reverse-related>Paths Strider</reverse-related>
+      <reverse-related>Restored Forest</reverse-related>
+      <reverse-related>Restored Island</reverse-related>
+      <reverse-related>Restored Mountain</reverse-related>
+      <reverse-related>Restored Plains</reverse-related>
+      <reverse-related>Restored Swamp</reverse-related>
+      <reverse-related>Rip to Today</reverse-related>
+      <reverse-related>Unstable Rift</reverse-related>
+      <reverse-related>Verem-Volcano Keeper</reverse-related>
+      <reverse-related>Flashing Path</reverse-related>
+      <reverse-related>Shimmering Path</reverse-related>
+    </card>
+    <card>
+      <name>Guardian of the Cinders FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>BG</colors>
+        <type>Enchantment Creature - Icon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!related Remnants of the War&lt;attach>;
+
+https://www.artstation.com/artwork/e0L0OG
+Note:Backside</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample</text>
+      <token>1</token>
+      <reverse-related attach="attach">Remnants of the War</reverse-related>
+      <reverse-related>https//wwwartstationcom/artwork/e0L0OG</reverse-related>
+      <reverse-related>NoteBackside</reverse-related>
+    </card>
+    <card>
+      <name>Depthscout Token FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wurm Plant Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Illuminated black FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more black permanents, you’ve illuminated black for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Illuminated Blue FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more blue permanents, you’ve illuminated blue for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Illuminated Green FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more green permanents, you’ve illuminated green for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Illuminated Red FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more red permanents, you’ve illuminated red for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Illuminated Silver FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more silver permanents, you’ve illuminated silver for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Illuminated White FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more white permanents, you’ve illuminated white for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Orb Wizard FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Orb Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {1}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Kera, Mordel&apos;s New Hope FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>R</colors>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes>!related Mordel Civil War;
+!addtoken Mordel Civil War;transform;
+!tag fascism;</notes>
+        <tag>fascism;</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the end of your first postcombat main phase, if this creature entered the battlefield this turn, untap a creature you control, then after this phase, there’s an additional combat phase followed by an additional postcombat main phase.</text>
+      <token>1</token>
+      <reverse-related>Mordel Civil War</reverse-related>
+    </card>
+    <card>
+      <name>Luminous in All Colors FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>WUBRGI</colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Bitter Inspection;Cervus Sprouting;Clanless Combatant;Coalesced Company;Crystalline Refraction;Cydina Storm Drake;Disciple of the Thicket;Fadove Lawkeeper;Foolish Footing;Gripping Truths;Howling Gasp;Kaln-Ocean Streamliner;Keras Appointed;Lizturbance;Lost Sunset;Meirel Evacuator;Meirel Explorer;Migratory Flotilla;Moonscale Koi;Mordel Flamespeaker;Perspective Shift;Prismatic Weasel;Soul of Vinimroth;Voice of the Thicket;Your Strength is Fading;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you control four or more permanents of the same color, you’ve illuminated that color for the rest of the game.</text>
+      <token>1</token>
+      <reverse-related>Bitter Inspection</reverse-related>
+      <reverse-related>Cervus Sprouting</reverse-related>
+      <reverse-related>Clanless Combatant</reverse-related>
+      <reverse-related>Coalesced Company</reverse-related>
+      <reverse-related>Crystalline Refraction</reverse-related>
+      <reverse-related>Cydina Storm Drake</reverse-related>
+      <reverse-related>Disciple of the Thicket</reverse-related>
+      <reverse-related>Fadove Lawkeeper</reverse-related>
+      <reverse-related>Foolish Footing</reverse-related>
+      <reverse-related>Gripping Truths</reverse-related>
+      <reverse-related>Howling Gasp</reverse-related>
+      <reverse-related>Kaln-Ocean Streamliner</reverse-related>
+      <reverse-related>Keras Appointed</reverse-related>
+      <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lost Sunset</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Meirel Explorer</reverse-related>
+      <reverse-related>Migratory Flotilla</reverse-related>
+      <reverse-related>Moonscale Koi</reverse-related>
+      <reverse-related>Mordel Flamespeaker</reverse-related>
+      <reverse-related>Perspective Shift</reverse-related>
+      <reverse-related>Prismatic Weasel</reverse-related>
+      <reverse-related>Soul of Vinimroth</reverse-related>
+      <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Your Strength is Fading</reverse-related>
+    </card>
+    <card>
+      <name>Jothi-01 FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Jothi;
+!exportname Jothi-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Jothi enters, put a +1/+1 counter on up to one target creature.
+{+1}: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
+{-4}: Create a token that’s a copy of Jothi, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with flying.</text>
+      <token>1</token>
+      <reverse-related>Jothi</reverse-related>
+    </card>
+    <card>
+      <name>Meirel Drifter (Luminous) FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>I</colors>
+        <type>Creature - Fox Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Food FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+        <notes>!related Bone Salesman;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Bone Salesman</reverse-related>
+    </card>
+    <card>
+      <name>Blood FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Blood </type>
+        <maintype>Artifact</maintype>
+        <notes>!related Bone Salesman;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Bone Salesman</reverse-related>
+    </card>
+    <card>
+      <name>Clue FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+        <notes>!related Bone Salesman;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this token: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Bone Salesman</reverse-related>
+    </card>
+    <card>
+      <name>Goat Token FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors>WB</colors>
+        <type>Token Creature - Goat </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes>https://www.artstation.com/artwork/1xbmxG
+!related Carrigol Tender;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes blocked, each opponent loses 2 life.</text>
+      <token>1</token>
+      <reverse-related>Carrigol Tender</reverse-related>
+    </card>
+    <card>
+      <name>Jura FOE</name>
+      <set>FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Land Token</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{3}, {T}, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

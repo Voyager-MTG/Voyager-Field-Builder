@@ -3,6 +3,20 @@
   <cards>
 
     <card>
+      <name>Vertex Reminder PVR</name>
+      <set>PVR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>I’M SORRY CAJUN 
+!token</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
       <name>Bird PVR</name>
       <set>PVR</set>
       <prop>

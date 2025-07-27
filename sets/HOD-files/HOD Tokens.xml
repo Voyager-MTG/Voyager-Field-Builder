@@ -48,15 +48,15 @@
         <pt>3/1</pt>
         <notes>!tag Dewold
 Renowned Cycle
-!related Overzealous Page; Kirsa’s Page;Beacon of Greatness;</notes>
+!related Call of the King; Kirsa’s Page; Beckon Greatness;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>The Sword of Perle has first strike as long as it is attacking.</text>
+      <text>The Sword of Perle has first strike as long as it’s attacking.</text>
       <token>1</token>
-      <reverse-related>Overzealous Page</reverse-related>
+      <reverse-related>Call of the King</reverse-related>
       <reverse-related> Kirsa&apos;s Page</reverse-related>
-      <reverse-related>Beacon of Greatness</reverse-related>
+      <reverse-related> Beckon Greatness</reverse-related>
     </card>
     <card>
       <name>Scout HOD</name>
@@ -116,17 +116,17 @@ Renowned Cycle
         <colors>R</colors>
         <type>Token Legendary Creature - Human Noble </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>3/2</pt>
         <notes>!tag Dewold
 Renowned Cycle
-!related Beckon Greatness;Call of the Rose;</notes>
+!related Beckon Greatness; William’s Page;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace</text>
       <token>1</token>
       <reverse-related>Beckon Greatness</reverse-related>
-      <reverse-related>Call of the Rose</reverse-related>
+      <reverse-related> William&apos;s Page</reverse-related>
     </card>
     <card>
       <name>The Diamond of the Nye HOD</name>
@@ -138,14 +138,14 @@ Renowned Cycle
         <pt>2/1</pt>
         <notes>!tag Dewold
 Renowned Cycle
-!related Dealings at the Delta;
+!related Tavern Dealings;
 !tag Lodema</notes>
         <tag>DewoldLodema</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>The Diamond of the Nye can’t be blocked.</text>
       <token>1</token>
-      <reverse-related>Dealings at the Delta</reverse-related>
+      <reverse-related>Tavern Dealings</reverse-related>
     </card>
     <card>
       <name>The Occultist HOD</name>
@@ -157,13 +157,14 @@ Renowned Cycle
         <pt>2/3</pt>
         <notes>!tag Dewold
 Renowned Cycle
-!related Overzealous Page;</notes>
+!related Call of the King; Wystan’s Page;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
       <token>1</token>
-      <reverse-related>Overzealous Page</reverse-related>
+      <reverse-related>Call of the King</reverse-related>
+      <reverse-related> Wystan&apos;s Page</reverse-related>
     </card>
     <card>
       <name>Horror HOD</name>
@@ -174,15 +175,13 @@ Renowned Cycle
         <maintype>Creature</maintype>
         <pt>8/8</pt>
         <notes>!tag Dewold
-!related Gosfridus Turnberry;One with the Geistwald;Mirrorkin’s Bargain;</notes>
+!related Gosfridus Turnberry;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Gosfridus Turnberry</reverse-related>
-      <reverse-related>One with the Geistwald</reverse-related>
-      <reverse-related>Mirrorkin&apos;s Bargain</reverse-related>
     </card>
     <card>
       <name>Dewold Army HOD</name>
@@ -212,7 +211,7 @@ Renowned Cycle
         <pt>2/1</pt>
         <notes>!tag Dewold
 !exportname Young Soldier
-!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel; Hopeful Spouse;</notes>
+!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -223,7 +222,6 @@ Renowned Cycle
       <reverse-related> Patrol the Geistwald</reverse-related>
       <reverse-related> Leon&apos;s Claim</reverse-related>
       <reverse-related> Hulking Vessel</reverse-related>
-      <reverse-related> Hopeful Spouse</reverse-related>
     </card>
     <card>
       <name>Reserves HOD</name>
@@ -250,33 +248,17 @@ Renowned Cycle
         <pt>3/3</pt>
         <notes>!tag Dewold
 !exportname Destroyed-Knight
-!related Meeting of Powers;Roul Banefort, the Stern;Sapner Decree;Lucky Break;Grasp of the Mirrorkin;Gleaming Courage;Replenishing Camp;Standing Army;Long Night’s Rest;Leon’s Claim;Dirt to Flesh;Call of the King;Turnberry Overseer;Geistwald Abomination;Sandrock Infantry;Hopeful Spouse;Knight of Skyspire;Fleshborne Horror;Terrel Battlemage;Resolute Elk;Glory on Bloodied Wings;</notes>
+!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Knight is all colors.</text>
       <token>1</token>
-      <reverse-related>Meeting of Powers</reverse-related>
-      <reverse-related>Roul Banefort, the Stern</reverse-related>
-      <reverse-related>Sapner Decree</reverse-related>
-      <reverse-related>Lucky Break</reverse-related>
-      <reverse-related>Grasp of the Mirrorkin</reverse-related>
-      <reverse-related>Gleaming Courage</reverse-related>
-      <reverse-related>Replenishing Camp</reverse-related>
-      <reverse-related>Standing Army</reverse-related>
-      <reverse-related>Long Night&apos;s Rest</reverse-related>
-      <reverse-related>Leon&apos;s Claim</reverse-related>
-      <reverse-related>Dirt to Flesh</reverse-related>
-      <reverse-related>Call of the King</reverse-related>
-      <reverse-related>Turnberry Overseer</reverse-related>
-      <reverse-related>Geistwald Abomination</reverse-related>
-      <reverse-related>Sandrock Infantry</reverse-related>
-      <reverse-related>Hopeful Spouse</reverse-related>
       <reverse-related>Knight of Skyspire</reverse-related>
-      <reverse-related>Fleshborne Horror</reverse-related>
-      <reverse-related>Terrel Battlemage</reverse-related>
-      <reverse-related>Resolute Elk</reverse-related>
-      <reverse-related>Glory on Bloodied Wings</reverse-related>
+      <reverse-related> Banefort Archer</reverse-related>
+      <reverse-related> Replenishing Camp</reverse-related>
+      <reverse-related> Resolute Elk</reverse-related>
+      <reverse-related> Turnberry Overseer</reverse-related>
     </card>
     <card>
       <name>Soldier HOD</name>
@@ -411,6 +393,19 @@ Equip {2}</text>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Heir Tracking HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Use this to see how close you are to receiving your Heir!</text>
       <token>1</token>
     </card>
 

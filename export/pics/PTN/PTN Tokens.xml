@@ -3,51 +3,6 @@
   <cards>
 
     <card>
-      <name>PTN Foretell PTN</name>
-      <set>PTN</set>
-      <prop>
-        <colors></colors>
-        <type>Token Enchantment</type>
-        <maintype>Enchantment</maintype>
-        <notes>!related Apostle Entheate;Extract Secrets;Glass Guardian;Guided Crusader;Iron Verdict;Legacy of Amber;Merciless Illumination;Rarefied Illuminator;Sun-Scorched Tempering;Fucine Translator;Augury Raven;Forgotten Tongues;Greater Deceiver;Mirrorwing Sphinx;Moonlit Deceiver;Rite of Twins’ Union;Skin’s Division;Cindered Tally;The Crowned Growth;Dream Whisperer;Enflamed Caligine;Malleary Smelter;Subvert the Light;Seven-Coiled Strength;The Allure’s Light;Roost Augur;The Watchman;Noonstone Amulet;True Blood of Saint Janus;
-!exportname PTN Foretell
-!tokentag PTN Foretell</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When a card becomes foretold its foretell cost is its mana cost if it doesn’t have one. 
-Lands can’t have a cost and are played normally.</text>
-      <token>1</token>
-      <reverse-related>Apostle Entheate</reverse-related>
-      <reverse-related>Extract Secrets</reverse-related>
-      <reverse-related>Glass Guardian</reverse-related>
-      <reverse-related>Guided Crusader</reverse-related>
-      <reverse-related>Iron Verdict</reverse-related>
-      <reverse-related>Legacy of Amber</reverse-related>
-      <reverse-related>Merciless Illumination</reverse-related>
-      <reverse-related>Rarefied Illuminator</reverse-related>
-      <reverse-related>Sun-Scorched Tempering</reverse-related>
-      <reverse-related>Fucine Translator</reverse-related>
-      <reverse-related>Augury Raven</reverse-related>
-      <reverse-related>Forgotten Tongues</reverse-related>
-      <reverse-related>Greater Deceiver</reverse-related>
-      <reverse-related>Mirrorwing Sphinx</reverse-related>
-      <reverse-related>Moonlit Deceiver</reverse-related>
-      <reverse-related>Rite of Twins&apos; Union</reverse-related>
-      <reverse-related>Skin&apos;s Division</reverse-related>
-      <reverse-related>Cindered Tally</reverse-related>
-      <reverse-related>The Crowned Growth</reverse-related>
-      <reverse-related>Dream Whisperer</reverse-related>
-      <reverse-related>Enflamed Caligine</reverse-related>
-      <reverse-related>Malleary Smelter</reverse-related>
-      <reverse-related>Subvert the Light</reverse-related>
-      <reverse-related>Seven-Coiled Strength</reverse-related>
-      <reverse-related>The Allure&apos;s Light</reverse-related>
-      <reverse-related>Roost Augur</reverse-related>
-      <reverse-related>The Watchman</reverse-related>
-      <reverse-related>Noonstone Amulet</reverse-related>
-      <reverse-related>True Blood of Saint Janus</reverse-related>
-    </card>
-    <card>
       <name>Scar Boon PTN</name>
       <set>PTN</set>
       <prop>
@@ -87,69 +42,34 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Ritual Daggar</reverse-related>
     </card>
     <card>
-      <name>PTN Worm Token PTN</name>
+      <name>God Horror Token PTN</name>
       <set>PTN</set>
       <prop>
-        <colors>B</colors>
-        <type>Token Creature - Worm </type>
+        <colors></colors>
+        <type>Token Creature - God Horror </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>https://www.deviantart.com/cinemamind/art/Carrion-852775919
-!tokentag Worm
-!exportname PTN Worm Token
-!related The Museum of Worms&lt;X>;</notes>
+        <pt>4/4</pt>
+        <notes>!tokentag God Horror
+!exportname God Horror Token
+!related Monument of Rags;The Red Grail;</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch, infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
+      <text>This creature can’t block.</text>
       <token>1</token>
-      <reverse-related count="x">The Museum of Worms</reverse-related>
+      <reverse-related>Monument of Rags</reverse-related>
+      <reverse-related>The Red Grail</reverse-related>
     </card>
     <card>
-      <name>PTN Wolf Token PTN</name>
-      <set>PTN</set>
-      <prop>
-        <colors>G</colors>
-        <type>Token Creature - Wolf </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>!exportname PTN Wolf Token
-!related Smoldering Pack;Wolf-Splinter;Flames of Emnity;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Smoldering Pack</reverse-related>
-      <reverse-related>Wolf-Splinter</reverse-related>
-      <reverse-related>Flames of Emnity</reverse-related>
-    </card>
-    <card>
-      <name>PTN Angel Token PTN</name>
-      <set>PTN</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Angel </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>!exportname PTN Angel Token
-!related Guided Crusader;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-      <reverse-related>Guided Crusader</reverse-related>
-    </card>
-    <card>
-      <name>PTN Cleric Token PTN</name>
+      <name>Cleric Token PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>0/1</pt>
-        <notes>!addtoken God Horror;1
-induct
-!exportname PTN Cleric Token
-!related Burgeoning Risen;Bringer of Glory;Defacement;Glassgarden Elder;Glassgarden Watcheye;Ignite Fervor;Ignite Fervor&lt;2>;Mystical Trail;The Sky, The Soul;Moonlit Augury;Seaside Smuggler;Take Prisoners;Twins’ Guardian;Veil of Dreams;Carapace Ancestor;Escape into the Night;Indulgent Cyprian;Scarring Servitude;Callidate Invocation;Corrivality;High Cyprian;Rite Flamecaller;Carapace Threadbearer;Cartographed Risen;Discover the Stone Gods;Flesh Weaver;Ring-Yew’s Chosen;Student of Defiance;Tireless Recruiter;Unceasing Initiation;The Allure’s Light;Covert Cloak;The Geminiad;Society Headquarters;</notes>
+        <notes>!exportname Cleric Token
+!related Burgeoning Risen;Bringer of Glory;Defacement;Glassgarden Elder;Glassgarden Watcheye;Ignite Fervor;Ignite Fervor&lt;2>;Mystical Trail;The Sky, The Soul;Moonlit Augury;Seaside Smuggler;Take Prisoners;Twins’ Guardian;Veil of Dreams;Carapace Ancestor;Escape into the Night;Indulgent Cyprian;Scarring Servitude;Callidate Invocation;Corrivality;High Cyprian;Rite Flamecaller;Carapace Threadbearer;Cartographed Risen;Discover the Stone Gods;Flesh Weaver;Ring-Yew’s Chosen;Student of Defiance;Tireless Recruiter;Unceasing Initiation;The Allure’s Light;Covert Cloak;The Geminiad;Society Headquarters;
+induct</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice two other Clerics: Transform this creature. Activate only as a sorcery.</text>
@@ -188,24 +108,101 @@ induct
       <reverse-related>Covert Cloak</reverse-related>
       <reverse-related>The Geminiad</reverse-related>
       <reverse-related>Society Headquarters</reverse-related>
+      <reverse-related>induct</reverse-related>
     </card>
     <card>
-      <name>God Horror Token PTN</name>
+      <name>Foretell PTN</name>
       <set>PTN</set>
       <prop>
         <colors></colors>
-        <type>Token Creature - God Horror </type>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes>!related Apostle Entheate;Extract Secrets;Glass Guardian;Guided Crusader;Iron Verdict;Legacy of Amber;Merciless Illumination;Rarefied Illuminator;Sun-Scorched Tempering;Fucine Translator;Augury Raven;Forgotten Tongues;Greater Deceiver;Mirrorwing Sphinx;Moonlit Deceiver;Rite of Twins’ Union;Skin’s Division;Cindered Tally;The Crowned Growth;Dream Whisperer;Enflamed Caligine;Malleary Smelter;Subvert the Light;Seven-Coiled Strength;The Allure’s Light;Roost Augur;The Watchman;Noonstone Amulet;True Blood of Saint Janus;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When a card becomes foretold its foretell cost is its mana cost if it doesn’t have one. 
+Lands can’t have a cost and are played normally.</text>
+      <token>1</token>
+      <reverse-related>Apostle Entheate</reverse-related>
+      <reverse-related>Extract Secrets</reverse-related>
+      <reverse-related>Glass Guardian</reverse-related>
+      <reverse-related>Guided Crusader</reverse-related>
+      <reverse-related>Iron Verdict</reverse-related>
+      <reverse-related>Legacy of Amber</reverse-related>
+      <reverse-related>Merciless Illumination</reverse-related>
+      <reverse-related>Rarefied Illuminator</reverse-related>
+      <reverse-related>Sun-Scorched Tempering</reverse-related>
+      <reverse-related>Fucine Translator</reverse-related>
+      <reverse-related>Augury Raven</reverse-related>
+      <reverse-related>Forgotten Tongues</reverse-related>
+      <reverse-related>Greater Deceiver</reverse-related>
+      <reverse-related>Mirrorwing Sphinx</reverse-related>
+      <reverse-related>Moonlit Deceiver</reverse-related>
+      <reverse-related>Rite of Twins&apos; Union</reverse-related>
+      <reverse-related>Skin&apos;s Division</reverse-related>
+      <reverse-related>Cindered Tally</reverse-related>
+      <reverse-related>The Crowned Growth</reverse-related>
+      <reverse-related>Dream Whisperer</reverse-related>
+      <reverse-related>Enflamed Caligine</reverse-related>
+      <reverse-related>Malleary Smelter</reverse-related>
+      <reverse-related>Subvert the Light</reverse-related>
+      <reverse-related>Seven-Coiled Strength</reverse-related>
+      <reverse-related>The Allure&apos;s Light</reverse-related>
+      <reverse-related>Roost Augur</reverse-related>
+      <reverse-related>The Watchman</reverse-related>
+      <reverse-related>Noonstone Amulet</reverse-related>
+      <reverse-related>True Blood of Saint Janus</reverse-related>
+    </card>
+    <card>
+      <name>Angel Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Angel </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
-        <notes>!tokentag God Horror
-!exportname God Horror Token
-!related Monument of Rags;The Red Grail;</notes>
+        <pt>2/2</pt>
+        <notes>!exportname Angel Token
+!related Guided Crusader;</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature can’t block.</text>
+      <text>Flying</text>
       <token>1</token>
-      <reverse-related>Monument of Rags</reverse-related>
-      <reverse-related>The Red Grail</reverse-related>
+      <reverse-related>Guided Crusader</reverse-related>
+    </card>
+    <card>
+      <name>Worm Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.deviantart.com/cinemamind/art/Carrion-852775919
+!exportname Worm Token
+!related The Museum of Worms&lt;X>;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
+      <token>1</token>
+      <reverse-related count="x">The Museum of Worms</reverse-related>
+    </card>
+    <card>
+      <name>Wolf Token PTN</name>
+      <set>PTN</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>!exportname Wolf Token
+!related Smoldering Pack;Wolf-Splinter;Flames of Emnity;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Smoldering Pack</reverse-related>
+      <reverse-related>Wolf-Splinter</reverse-related>
+      <reverse-related>Flames of Emnity</reverse-related>
     </card>
 
   </cards>

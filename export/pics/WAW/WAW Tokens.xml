@@ -119,6 +119,23 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <reverse-related>Lakebed Wrudge</reverse-related>
     </card>
     <card>
+      <name>Anything and Everything WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors></colors>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes>!tokens Beast Token;</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• [Exile up to one target nonland permanent with mana value 1 or less.]
+• [Scry 2, then draw a card.]
+• [Create a 3/3 green Beast creature token.]
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
+      <token>1</token>
+    </card>
+    <card>
       <name>Beast Token WAW</name>
       <set>WAW</set>
       <prop>
@@ -213,6 +230,22 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
 (This token’s mana cost is 5G.)</text>
       <token>1</token>
       <reverse-related>Gilded Ancient</reverse-related>
+    </card>
+    <card>
+      <name>Ilcan Entrancer WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>U</colors>
+        <type>Creature - Kor Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!tokens Beast Token;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ilcan Entrancer enters, choose one —
+• Tap target creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Create a tapped 3/3 green Beast creature token. Put a stun counter on it.</text>
+      <token>1</token>
     </card>
     <card>
       <name>Ilcan Keyseeker WAW</name>
@@ -325,6 +358,21 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related count="2"> Polymorphic Wispweaver</reverse-related>
     </card>
     <card>
+      <name>Borderholt Herdcaller WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors>G</colors>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+        <notes>!tokens Beast Token;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
+      <token>1</token>
+    </card>
+    <card>
       <name>Redefinition WAW</name>
       <set>WAW</set>
       <prop>
@@ -409,6 +457,21 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
 (This token’s mana cost is 4G.)</text>
       <token>1</token>
       <reverse-related>Vrep</reverse-related>
+    </card>
+    <card>
+      <name>Worldsoul Ambassador WAW</name>
+      <set>WAW</set>
+      <prop>
+        <colors></colors>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+        <notes>!tokens Beast Token;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Worldsoul Ambassador enters, create a 3/3 green Beast creature token.
+{2}, Discard Worldsoul Ambassador: Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and put it into your hand.)</text>
+      <token>1</token>
     </card>
 
   </cards>

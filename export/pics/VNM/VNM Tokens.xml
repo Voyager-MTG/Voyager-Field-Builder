@@ -7,7 +7,7 @@
       <set>VNM</set>
       <prop>
         <colors></colors>
-        <type>Trace Enchantment</type>
+        <type>Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>!related Blessing of Faloden Woods&lt;2>;Breaking the Mold;Dromencal’s Respite;Due Dismissal;Dust to Life;Eternity Siphon;Mordel Patrol;Multaph’s Riftwarden;Outlands Respite;Powerstone Claw&lt;2>;Prismatism;Purge the Clanless;Razorshell Drake;Rift Burn;Riftborn Flames;Riftborn Paradise;Rip to Yesterday;Rip to Today;Rip to Tomorrow;Ripped into Eternity&lt;2>;Rush Down;Suffused Memories;Triumphant Riftcaller;Waterspout;</notes>
       </prop>
@@ -62,14 +62,13 @@
         <colors></colors>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes> !related Raze the Clanless;Warped Exploration;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Mountain</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R}.)</text>
       <token>1</token>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
     </card>
     <card>
@@ -77,7 +76,7 @@
       <set>VNM</set>
       <prop>
         <colors>WB</colors>
-        <type>Trace Skill Sorcery</type>
+        <type>Skill Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>!related Rift Tender;Avlod Mistshaper;Giants Blade;Multaphs Respites Spellbook;Avlod Watchers;Outlands Riftbearer;
 !token
@@ -102,7 +101,7 @@
       <set>VNM</set>
       <prop>
         <colors>UB</colors>
-        <type>Trace Skill Instant</type>
+        <type>Skill Instant</type>
         <maintype>Instant</maintype>
         <notes>!related Malevolent Naginata;
 !token
@@ -122,7 +121,7 @@
       <set>VNM</set>
       <prop>
         <colors>UG</colors>
-        <type>Trace Skill Sorcery</type>
+        <type>Skill Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>!related Outlands Diviner;Outlands Protector;Outlands Wanderer;
 !token
@@ -142,7 +141,7 @@
       <set>VNM</set>
       <prop>
         <colors>BG</colors>
-        <type>Trace Enchantment</type>
+        <type>Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>!related Keeper of Calm;Scout’s Bow;
 !token
@@ -162,7 +161,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
-        <type>Trace Skill Sorcery</type>
+        <type>Skill Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>!related Frontline Assaulter;Flaming Iron;Minotaur Outlander;
 !token
@@ -180,7 +179,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <set>VNM</set>
       <prop>
         <colors>R</colors>
-        <type>Trace Skill Sorcery</type>
+        <type>Skill Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>!related Mordel Drillmaster;Pinnacle of Vinimroth;Mordel Excursionist;
 !token
@@ -198,14 +197,14 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <set>VNM</set>
       <prop>
         <colors>WU</colors>
-        <type>Trace Skill Instant</type>
+        <type>Skill Instant</type>
         <maintype>Instant</maintype>
         <notes>!related Fadove Willshaper;Avakin Watcher;Skillful Blade;Windshaper Drake;
 !token
 !conjured</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
+      <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat. (Traces are cards that become copies when they enter a public zone.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Fadove Willshaper</reverse-related>
       <reverse-related persistent="persistent">Avakin Watcher</reverse-related>
@@ -239,7 +238,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <set>VNM</set>
       <prop>
         <colors>WG</colors>
-        <type>Trace Skill Instant</type>
+        <type>Skill Instant</type>
         <maintype>Instant</maintype>
         <notes>!related Fadove Trainer;Fadove Drillmaster;Bruin Challenger;Bruin Mentor;
 !token
@@ -356,14 +355,14 @@ Preview</notes>
       <set>VNM</set>
       <prop>
         <colors></colors>
-        <type>Trace Skill Sorcery</type>
+        <type>Skill Sorcery</type>
         <maintype>Sorcery</maintype>
         <notes>!related Explorers Compass;Wings of New Horizons;Multaphs Respites Spellbook;
 !token
 !conjured</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create a trace of a basic land of any type into your hand. (Traces are cards that become copies when they enter a public zone.)</text>
+      <text>Trace a basic land of any type into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Explorers Compass</reverse-related>
       <reverse-related persistent="persistent">Wings of New Horizons</reverse-related>
@@ -397,7 +396,7 @@ This can’t block.</text>
         <colors></colors>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes> !related Warped Exploration;Raze the Clanless;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Plains</notes>
       </prop>
@@ -405,7 +404,6 @@ This can’t block.</text>
       <text>({T}: Add {W}.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Island VNM</name>
@@ -414,7 +412,7 @@ This can’t block.</text>
         <colors></colors>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes> !related Warped Exploration;Raze the Clanless;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Island</notes>
       </prop>
@@ -422,7 +420,6 @@ This can’t block.</text>
       <text>({T}: Add {U}.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Swamp VNM</name>
@@ -431,7 +428,7 @@ This can’t block.</text>
         <colors></colors>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes> !related Warped Exploration;Raze the Clanless;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Swamp</notes>
       </prop>
@@ -439,7 +436,6 @@ This can’t block.</text>
       <text>({T}: Add {B}.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Vin-Forest VNM</name>
@@ -448,7 +444,7 @@ This can’t block.</text>
         <colors></colors>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes> !related Warped Exploration;Raze the Clanless;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Forest</notes>
       </prop>
@@ -456,14 +452,13 @@ This can’t block.</text>
       <text>({T}: Add {G}.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Harsh Reprise VNM</name>
       <set>VNM</set>
       <prop>
         <colors>B</colors>
-        <type>Trace Skill Instant</type>
+        <type>Skill Instant</type>
         <maintype>Instant</maintype>
         <notes>!token
 !related Avakin Avenger;Avakin Mentor;
@@ -481,7 +476,7 @@ This can’t block.</text>
       <set>VNM</set>
       <prop>
         <colors>U</colors>
-        <type>Trace Skill Instant</type>
+        <type>Skill Instant</type>
         <maintype>Instant</maintype>
         <notes>!related Kaln-Ocean Cloak;Multaphs Respites Spellbook;Sage of Truths;Storm Bearer;
 !token</notes>
@@ -628,7 +623,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
         <colors></colors>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes> !related Warped Exploration;Raze the Clanless;
+        <notes> !related Warped Exploration;
 !conjured
 !exportname Vin-Fault-Conjure</notes>
       </prop>
@@ -636,7 +631,6 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <text>({T}: Add {I}.)</text>
       <token>1</token>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
-      <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
       <name>Icon VNM</name>
@@ -658,7 +652,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <set>VNM</set>
       <prop>
         <colors>WUR</colors>
-        <type>Spellbook</type>
+        <type>Token Spellbook</type>
         <maintype>Spellbook</maintype>
         <notes>!addtoken Subdued Rift;Warped Exploration;Cut from Void;</notes>
       </prop>
@@ -666,7 +660,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <text>Subdued Rift {W/B}| Skill Sorcery
 Create a 1/1 black and white Cat enchantment creature token.
 Warped Exploration {2}| Skill Sorcery
-Create a trace of a basic land of any type into your hand.
+Trace a basic land of any type into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 Cut from Void 2U| Skill Instant
 Scry 1, then draw a card.</text>
       <token>1</token>

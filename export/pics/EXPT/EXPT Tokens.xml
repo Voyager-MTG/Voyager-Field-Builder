@@ -44,7 +44,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
-Distant Vulture has lifelink as long as it’s a token.</text>
+This creature has lifelink as long as it’s a token.</text>
       <token>1</token>
       <reverse-related>Distant Vulture</reverse-related>
     </card>
@@ -229,21 +229,6 @@ Distant Vulture has lifelink as long as it’s a token.</text>
       <text>Trample</text>
       <token>1</token>
       <reverse-related>Promise of Hunger</reverse-related>
-    </card>
-    <card>
-      <name>Aubrey EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors>RI</colors>
-        <type>Legendary Token Creature - Drake </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-        <notes>!related Chirps, Spice Seeker;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, haste</text>
-      <token>1</token>
-      <reverse-related>Chirps, Spice Seeker</reverse-related>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
