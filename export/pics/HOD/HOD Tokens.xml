@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Intisuyus Armies HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes>!tag Dewold
+!exportname Intisuyus Armies
+!related Capac Suyay, Grim Seeker&lt;2>;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a 1/1 white Soldier creature token for each creature you control.</text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+    </card>
+    <card>
+      <name>Suyay&apos;s Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tag Dewold
+!exportname Suyay’s Soldier
+!related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
+      <reverse-related> Intisuyu&apos;s Armies</reverse-related>
+    </card>
+    <card>
+      <name>The Sword of Perle HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Orc Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Call of the King; Kirsa’s Page; Beckon Greatness;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Sword of Perle has first strike as long as it’s attacking.</text>
+      <token>1</token>
+      <reverse-related>Call of the King</reverse-related>
+      <reverse-related> Kirsa&apos;s Page</reverse-related>
+      <reverse-related> Beckon Greatness</reverse-related>
+    </card>
+    <card>
+      <name>Scout HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Scout </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The Gentle Giant HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Legendary Creature - Azra Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes>!tag Dewold
+!related House Negotiations;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance</text>
+      <token>1</token>
+      <reverse-related>House Negotiations</reverse-related>
+    </card>
+    <card>
+      <name>Vances Claw HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Legendary Creature - Elf Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tag Dewold
+!exportname Vances Claw
+Renowned Cycle
+!related Blessing at Graven Laughs;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink</text>
+      <token>1</token>
+      <reverse-related>Blessing at Graven Laughs</reverse-related>
+    </card>
+    <card>
+      <name>Lover to All HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Beckon Greatness; William’s Page;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Beckon Greatness</reverse-related>
+      <reverse-related> William&apos;s Page</reverse-related>
+    </card>
+    <card>
+      <name>The Diamond of the Nye HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Legendary Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Tavern Dealings;
+!tag Lodema</notes>
+        <tag>DewoldLodema</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The Diamond of the Nye can’t be blocked.</text>
+      <token>1</token>
+      <reverse-related>Tavern Dealings</reverse-related>
+    </card>
+    <card>
+      <name>The Occultist HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes>!tag Dewold
+Renowned Cycle
+!related Call of the King; Wystan’s Page;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related>Call of the King</reverse-related>
+      <reverse-related> Wystan&apos;s Page</reverse-related>
+    </card>
+    <card>
+      <name>Horror HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+        <notes>!tag Dewold
+!related Gosfridus Turnberry;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gosfridus Turnberry</reverse-related>
+    </card>
+    <card>
+      <name>Dewold Army HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Army </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+        <notes>!tag Dewold
+!exportname Dewold Army
+!related Left to Wander</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Left to Wander</reverse-related>
+    </card>
+    <card>
+      <name>Young Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>!tag Dewold
+!exportname Young Soldier
+!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Whitaker Captain</reverse-related>
+      <reverse-related count="2"> Turnberry Scout </reverse-related>
+      <reverse-related> Patrol the Geistwald</reverse-related>
+      <reverse-related> Leon&apos;s Claim</reverse-related>
+      <reverse-related> Hulking Vessel</reverse-related>
+    </card>
+    <card>
+      <name>Reserves HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You put tokens that you create in your reserves here. They are not on the battlefield and don’t trigger enter the battlefield abilities.
+{3}: Put up to three tokens from your reserves onto the battlefield. Activate only as a sorcery.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Destroyed-Knight HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes>!tag Dewold
+!exportname Destroyed-Knight
+!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Knight is all colors.</text>
+      <token>1</token>
+      <reverse-related>Knight of Skyspire</reverse-related>
+      <reverse-related> Banefort Archer</reverse-related>
+      <reverse-related> Replenishing Camp</reverse-related>
+      <reverse-related> Resolute Elk</reverse-related>
+      <reverse-related> Turnberry Overseer</reverse-related>
+    </card>
+    <card>
+      <name>Soldier HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Knight HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>The True Heir HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Bounty Collectors;Cautious Seadog&lt;2>;Wealthy Slabman;Writ of Supplies;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Bounty Collectors</reverse-related>
+      <reverse-related count="2">Cautious Seadog</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Weapon HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Camp Supplier;Sandrock Blacksmith;Weapons Holder;Heirloom Sword;Wealthy Slabman;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+      <token>1</token>
+      <reverse-related>Camp Supplier</reverse-related>
+      <reverse-related>Sandrock Blacksmith</reverse-related>
+      <reverse-related>Weapons Holder</reverse-related>
+      <reverse-related>Heirloom Sword</reverse-related>
+      <reverse-related>Wealthy Slabman</reverse-related>
+    </card>
+    <card>
+      <name>Food HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!related Orcish Shepherd;Writ of Supplies;</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>Orcish Shepherd</reverse-related>
+      <reverse-related>Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Clue HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!tag Dewold
+!related Overt Warning; Writ of Supplies;</notes>
+        <tag>DewoldDewold</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>Overt Warning</reverse-related>
+      <reverse-related> Writ of Supplies</reverse-related>
+    </card>
+    <card>
+      <name>Spirit HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tag Dewold</notes>
+        <tag>Dewold</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Heir Tracking HOD</name>
+      <set>HOD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Use this to see how close you are to receiving your Heir!</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>

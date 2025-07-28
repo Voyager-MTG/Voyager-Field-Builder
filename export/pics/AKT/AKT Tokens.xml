@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Liberated Dragon AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>TOKENREMINDER
+
+!tokentag Equalised Reminder</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can’t be transformed.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect Advisor AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Insect Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>TOKENREMINDER</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Embraced Cards AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>TOKENREMINDER
+
+!tokentag EmbracedReminder</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Put your embraced cards here. They’re in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Recruit AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!tokentag Recruit</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>(This is the creature type chosen as it was created.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>Related cards: Aspect of Commerce, Sired Innocent
+
+Tooken</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>Related cards: Host Farm
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Related Cards: Mother of Notions
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Hex Citizen AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Hex Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Related Cards: Infested Fortress, Host Farm Babysitter, Orthodox Scholar
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Werewolf Citizen AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Werewolf Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>Related Cards: Mother of Notions
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Incarnation Soldier AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Incarnation Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>Related Cards: Lethal Force
+
+Tooken</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Soldier AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>House AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes>Related Cards: Accommodation</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip creature of the chosen type {1}</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Dragon AKT</name>
+      <set>AKT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
