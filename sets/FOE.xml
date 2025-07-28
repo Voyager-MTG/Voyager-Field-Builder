@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of a token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -2755,7 +2755,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of a token you control.)
+• Mirror. (Create a token thats a copy of another token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -6160,7 +6160,7 @@ Each opponent exiles two cards from their sanctum. Draw a card. (Then put this i
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
-Once during each of your turns, you may play a card from your sanctum. It costs {2} less to cast.</text>
+Once during each of your turns, you may play a card from your sanctum. </text>
     </card>
     <card>
       <name>Soul Shatter</name>
@@ -6557,17 +6557,17 @@ Whenever an opponent draws a card except the first one they draw in each of thei
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>3</manacost>
-        <cost>3</cost>
-        <mana>3</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>6</manacost>
+        <cost>6</cost>
+        <mana>6</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>https://www.artstation.com/artwork/ykA99</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, search your library for a colorless card not named this enchantment, reveal it, put it into your hand, then shuffle.
+      <text>When this enchantment enters, search your library for a non-planeswalker colorless card not named this enchantment, reveal it, put it into your hand, then shuffle.
 At the beginning of your first main phase, add CC. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.</text>
     </card>
     <card>
@@ -8823,7 +8823,7 @@ Players can’t create tokens or cards. (This includes conjuring cards and creat
         <notes>https://www.artstation.com/artwork/43ZXq</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more creatures you control attack, up to one target creature gets -X/-0, where X is the number of attacking creatures you control.
+      <text>Whenever one or more creatures you control attack, up to one target creature gets -X/-0 until end of turn, where X is the number of attacking creatures you control.
 Whenever you cast or copy a noncreature spell, create a 1/1 white Shark enchantment creature token.</text>
     </card>
     <card>

@@ -4335,7 +4335,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Melodia enters, create a 1/1 blue Drake creature token with flying and “This creature can’t block”.
-Whenever a creature token you control attacks, it gets +2/+1 until end of turn.</text>
+Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until end of turn</text>
     </card>
     <card>
       <name>Calia Oracle of Tofnet Plains</name>
