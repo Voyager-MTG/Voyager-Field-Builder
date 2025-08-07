@@ -22,11 +22,11 @@
         <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>Updated</notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
-This artifact enters tapped.
+      <text>This artifact enters tapped.
+When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
 {2}, {T}, Sacrifice this artifact: Draw a card from your sanctum or library.</text>
     </card>
     <card>
@@ -329,7 +329,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When this creature enters, create a tapped powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+When this creature enters, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
     </card>
     <card>
       <name>Veteran Party</name>
@@ -595,7 +595,7 @@ Tap target creature. It loses all abilities until end of turn. Draw a card. (Cas
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Explorer — Whenever this creature attacks, draw a card, then discard a card. If you control five or more differently named lands, you may draw a card instead.</text>
+Explorer — Whenever this creature attacks, draw a card, then discard a card if you don’t control five or more differently named lands.</text>
     </card>
     <card>
       <name>Outlands Trailblazer</name>
@@ -716,7 +716,7 @@ Enchanted creature gets -3/-0.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, target player mills three cards.
-Threshold — At the beginning of combat on each players turn, if you have seven or more cards in your graveyard, this creature gains flying until end of turn.</text>
+Threshold — This creature has flying as long as you have seven or more cards in your graveyard.</text>
     </card>
     <card>
       <name>Fly Away With Me</name>
@@ -889,7 +889,7 @@ Whenever this creature is blocked by a token, defending player loses 2 life.</te
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature attacks, sacrifice a nonland permanent. If you do, draw a card.</text>
+      <text>Whenever this creature attacks, you may sacrifice a nonland permanent. If you do, draw a card.</text>
     </card>
     <card>
       <name>Hedgecrow</name>
@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of a token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -1951,7 +1951,7 @@ When this creature enters, draw a card.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this realm enters, create a 3/3 silver Crab creature token.
-{1}, Tap a token you control: Transform this realm.
+{1}, Tap an untapped token you control: Transform this realm.
 ---
 (Back): Depths of Change</text>
       <related attach="transform">Depths of Change</related>
@@ -1969,7 +1969,8 @@ When this creature enters, draw a card.</text>
         <mv>4</mv>
         <type>Enchantment - Realm </type>
         <notes>!related Depths of Change&lt;attach>;
-!addtoken Depths of Change;transform;</notes>
+!addtoken Depths of Change;transform;
+#updated</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, this enchantment becomes a copy of up to one target token you control until end of turn.
@@ -2627,11 +2628,11 @@ Once each turn, when you cast an enchantment spell, create a 1/1 white Shark enc
         <type>Enchantment Creature - Demon </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes></notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink, menace
-When this creature enters, look at target opponent’s hand. Exile a nonland card from it. As long as it remains exiled, its owner may cast it. Spells cast this way costs {2} more.
+When this creature enters, look at target opponent’s hand. Exile a nonland card from it. For as long as it remains exiled, its owner may cast it. Spells cast this way costs {2} more.
 Evoke W/BW/B (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
     <card>
@@ -2716,7 +2717,7 @@ Evoke {R/G} (You may cast this spell for its evoke cost. If you do, it’s sacri
       </prop>
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library at any time and you may play land cards from the top of your library. 
-At the beginning of combat on each turn, if a land entered under your control this turn,  put a +1/+1 counter on target creature you control. It gains trample until end of turn.</text>
+At the beginning of combat on each turn, if a land entered under your control this turn, put a +1/+1 counter on target creature you control. It gains trample until end of turn.</text>
     </card>
     <card>
       <name>Promise of Hunger</name>
@@ -2755,7 +2756,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of a token you control.)
+• Mirror. (Create a token thats a copy of another token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -2811,10 +2812,10 @@ Evoke 1I/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <mv>4</mv>
         <type>Kindred Enchantment - Fish Entity </type>
         <maintype>Enchantment</maintype>
-        <notes></notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, whenever you cast your next noncreature spell this turn, copy it. You may choose new targets for the copy.
+      <text>When this enchantment enters, when you cast your next noncreature spell this turn, copy it. You may choose new targets for the copy.
 1UR: This enchantment also becomes an Icon creature until end of turn.
 Evoke 1U/R (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -2919,7 +2920,7 @@ Evoke 1U/B (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Enchantment Creature - Icon Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes></notes>
+        <notes>#updated chops</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -3001,10 +3002,11 @@ Evoke {B/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
         <type>Creature - Human Elf Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>watch power in testing</notes>
+        <notes>watch power in testing
+#updated</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, create a 2/1 black and red Elemental Demon creature token with haste and lifelink.
+      <text>When this creature enters, create a 2/1 black and red Elemental Demon creature token with lifelink and haste.
 {1}, Sacrifice another creature: Put a +1/+1 counter on this creature. It gains lifelink until end of turn.</text>
     </card>
     <card>
@@ -3688,6 +3690,63 @@ Manifest</notes>
       <text></text>
     </card>
     <card>
+      <name>Healing Counter</name>
+      <set rarity="">FOE</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Calamitous Koi;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Stun Counter</name>
+      <set rarity="">FOE</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Vestige Prowler;Meirel Evacuator;Branching Paths;Captivate;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>plus one plus one counter</name>
+      <set rarity="">FOE</set>
+      <prop>
+        <colors>WUBRGI</colors>
+        <color>WUBRGI</color>
+        <manacost>WUBRG</manacost>
+        <cost>WUBRG</cost>
+        <mana>WUBRG</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!exportname plus one plus one counter
+!related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
+
+!framed!readable</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
       <name>Iconic Challenger</name>
       <set rarity="uncommon">FOE</set>
       <prop>
@@ -4342,7 +4401,7 @@ When this land enters tapped, up to one target creature gains trample and hexpro
         <mana></mana>
         <cmc>0</cmc>
         <mv>0</mv>
-        <type>Land - Frontier  </type>
+        <type>Land - Frontier </type>
         <maintype>Land</maintype>
         <notes>me when bloodriver</notes>
       </prop>
@@ -4464,11 +4523,12 @@ When this land enters tapped, up to one target creature you control gains haste 
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>tavern</notes>
+        <notes>tavern
+#updated</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>Imprint — When this land enters, you may exile a card that’s one or more colors from your hand.
-{T}: Add {C}. If a card is exiled with this land, you may add one mana from among the exiled cards colors instead.
+{T}: Add {C} or one mana of any of the exiled card’s colors.
 {1}, {T}: Return the exiled card to its owner’s hand.</text>
     </card>
     <card>
@@ -4855,7 +4915,7 @@ Sacrifice this creature: Target creature gains indestructible until end of turn.
 !addtoken Ancient Aurora;transform;</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever you spend five or more mana to cast a spell, draw a card.
+      <text>Whenever you spend five or more mana to a cast a spell, draw a card.
 ---
 (Front): Ancient Sigils</text>
       <related attach="transform">Ancient Sigils</related>
@@ -5028,7 +5088,7 @@ https://www.artstation.com/artwork/xYEPDE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever you cast a nonpermanent spell, you may copy it. You may choose new targets for the copy. This ability triggers only once each turn.</text>
+Whenever you cast a nonpermanent spell, you may copy it. You may choose new targets for the copy. Do this only once each turn.</text>
     </card>
     <card>
       <name>Cliffside Surveyor</name>
@@ -5066,7 +5126,7 @@ You may cast instant and sorcery cards from your sanctum on any turn you drew tw
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, if you cast it and you have less than three cards in hand, draw cards until you have three cards.
+      <text>When this enchantment enters, if you cast it and you have fewer than three cards in hand, draw cards equal to the difference.
 2U: Transform this realm.
 ---
 (Back): Skycliff Dens</text>
@@ -5181,8 +5241,8 @@ This creature gets +2/+0 if you’ve illuminated black.</text>
         <mana>B</mana>
         <cmc>1</cmc>
         <mv>1</mv>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <notes>!exportname I Wont Stand Alone
 // mini bleak return :)</notes>
       </prop>
@@ -5542,12 +5602,12 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
       <text>At the beginning of combat, mill a card. Creatures you control that share a creature type as the milled card get +1/+0 until end of turn.
 5B, Sacrifice a creature: Transform this realm. Activate only as a sorcery.
 ---
-(Back): Dawnlit Adherent</text>
-      <related attach="transform">Dawnlit Adherent</related>
+(Back): Dawnlist Adherent</text>
+      <related attach="transform">Dawnlist Adherent</related>
     </card>
     <card>
-      <name>Dawnlit Adherent</name>
-      <set rarity="uncommon" splitterPath="/Dawnlit Adherent.jpg" >FOE</set>
+      <name>Dawnlist Adherent</name>
+      <set rarity="uncommon" splitterPath="/Dawnlist Adherent.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5832,10 +5892,10 @@ When this creature enters, destroy target artifact or land.</text>
         <type>Creature - Dinosaur </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes></notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever one or more counters are put on a nonland permanent you control not named this creature, if it’s the first time a counter has been put on that permanent this turn, put a +1/+1 counter on this creature.</text>
+      <text>Whenever one or more counters are put on a nonland permanent not named Ranging Symbiote you control, if it’s the first time counters have been put on that permanent this turn, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
       <name>Leyline Weaver</name>
@@ -5891,7 +5951,7 @@ Explorer — {5}: This creature gets +4/+4 until end of turn. Activate only if y
       </prop>
       <tablerow>3</tablerow>
       <text>Deathtouch
-Whenever this creature attacks with one or more other creatures, until end of turn, target attacking creature you control gets +1/+1.
+Whenever this creature and at least one other creature attack, until end of turn, target attacking creature you control gets +1/+1.
 --- 
 Put a +1/+1 counter on each of up to X target creatures. (Then put this card into your sanctum.)</text>
     </card>
@@ -5932,7 +5992,7 @@ Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to 
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Explorer — 3G: Until end of turn, This creature gets +1/+1 for each differently named land you control. Activate only once each turn.</text>
+Explorer — 3G: This creature gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.</text>
     </card>
     <card>
       <name>Cartographers Survey</name>
@@ -6004,10 +6064,11 @@ Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, 
         <mv>5</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.artstation.com/artwork/zPoyKQ</notes>
+        <notes>https://www.artstation.com/artwork/zPoyKQ
+#updated</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of combat on your turn, untap up to one target land you control. You may have it also become a 4/4 green creature with trample and haste until end of turn.</text>
+      <text>At the beginning of combat on your turn, untap up to one target land you control. You may have it become a 4/4 green creature with trample and haste until end of turn.</text>
     </card>
     <card>
       <name>Outlands Caretaker</name>
@@ -6099,11 +6160,12 @@ Each opponent exiles two cards from their sanctum. Draw a card. (Then put this i
         <mv>6</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>RA03,Noncreature,2,,Sorcerous Spyglass</notes>
+        <notes>RA03,Noncreature,2,,Sorcerous Spyglass
+#voyager fix</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, each opponent chooses two creatures they control and put it into their owner’s sanctum.
-Once during each of your turns, you may play a card from your sanctum. </text>
+Once during each of your turns, you may play a card from your sanctum.</text>
     </card>
     <card>
       <name>Soul Shatter</name>
@@ -6492,7 +6554,7 @@ Whenever an opponent draws a card except the first one they draw in each of thei
       <tablerow>1</tablerow>
       <text>Once during each of your turns, whenever another permanent enters under your control, put a loyalty counter on this enchantment.
 {-1}: Target player mills three cards.
-{-2}: Return target card from your graveyard to your hand.</text>
+{-2}: Exile target non-planeswalker card from your graveyard, until end of turn, you may play a copy of that card.</text>
     </card>
     <card>
       <name>Forgiving Monument</name>
@@ -6507,10 +6569,11 @@ Whenever an opponent draws a card except the first one they draw in each of thei
         <mv>6</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>https://www.artstation.com/artwork/ykA99</notes>
+        <notes>https://www.artstation.com/artwork/ykA99
+#updated</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, search your library for a non-planeswalker colorless card not named this enchantment, reveal it, put it into your hand, then shuffle.
+      <text>When this enchantment enters, search your library for a non-planeswalker colorless card not named Forgiving Monument, reveal it, put it into your hand, then shuffle.
 At the beginning of your first main phase, add CC. You can’t spend this mana to cast spells that aren’t mana value 5 or greater.</text>
     </card>
     <card>
@@ -6605,11 +6668,12 @@ Whenever you cast an enchantment spell, you may swap this creature’s power and
         <type>Creature - Bird Wizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
-        <notes>RG03,Medium Creature,3,,Deathgorge Scavenger</notes>
+        <notes>RG03,Medium Creature,3,,Deathgorge Scavenger
+#updated#</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
- flying
+Flying
 If a card would be put from an opponents sanctum into anywhere other than exile, you may exile it instead. If you do, that player may cast it for as long as it remains exiled. Spells cast this way cost {2} more to cast.</text>
     </card>
     <card>
@@ -7521,10 +7585,10 @@ Target creature gets -0/-X until end of turn.</text>
         <type>Creature - Zombie Shark Octopus </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch, vigilance
+      <text>Vigilance, deathtouch
 When this creature enters, draw a card from your library or sanctum.
 Whenever this creature attacks, create a Treasure token.</text>
     </card>
@@ -7666,11 +7730,11 @@ Prevent all combat damage that would be dealt to players this turn. (Then put th
         <mv>2</mv>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
-        <notes></notes>
+        <notes>#updated</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, exile any number of creature cards with mana value 3 or less from your sanctum until this artifact leaves the battlefield.
-GW, {T}: Until end of turn, you may cast a creature card from among cards exiled with this artifact without paying its mana cost.</text>
+GW, {T}: Until end of turn, you may cast a creature spell from among cards exiled with this artifact without paying its mana cost.</text>
     </card>
     <card>
       <name>Called to Eternity</name>
@@ -7747,26 +7811,6 @@ Mill four cards, then return up to one nonpermanent card from among the milled c
       <tablerow>1</tablerow>
       <text>Tapped creatures can block.
 Untapped creatures can’t block.</text>
-    </card>
-    <card>
-      <name>Kalim, Shivta&apos;s Ear</name>
-      <set rarity="rare">FOE</set>
-      <prop>
-        <colors>I</colors>
-        <color>I</color>
-        <manacost>2II</manacost>
-        <cost>2II</cost>
-        <mana>2II</mana>
-        <cmc>4</cmc>
-        <mv>4</mv>
-        <type>Legendary Creature - Human Rogue </type>
-        <maintype>Creature</maintype>
-        <pt>3/5</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-Whenever this creature enters or attacks, if another permanent or player was dealt damage this turn, this creature deals 2 damage to that permanent or player.</text>
     </card>
     <card>
       <name>Avlod Charm</name>
@@ -8337,11 +8381,12 @@ Choose one—
         <mv>3</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>https://www.artstation.com/artwork/YeOm4q</notes>
+        <notes>https://www.artstation.com/artwork/YeOm4q
+#updated#</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
-• Create three  1/1 white and silver Insect creature tokens with flying and decayed.
+• Create three 1/1 white and silver Insect creature tokens with flying and decayed.
 • Exile target artifact, enchantment, or planeswalker.
 • Copy the next nonpermanent spell you cast this turn. You may choose new targets for the copy.</text>
     </card>
@@ -8362,7 +8407,7 @@ Choose one—
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of your upkeep, choose one—
-• Create a 3/1 black and red Demon creature token with haste and lifelink. put a decayed counter on it. (It can’t block. When it attacks, sacrifice it at end of combat.)
+• Create a 3/1 black and red Demon creature token with lifelink and haste. put a decayed counter on it. (It can’t block. When it attacks, sacrifice it at end of combat.)
 • Sacrifice a permanent. Each opponent discards a card of their choice and you draw a card.</text>
     </card>
     <card>
@@ -8380,7 +8425,7 @@ Choose one—
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your end step, mill two cards. 
+      <text>At the beginning of your end step, mill two cards.
 Whenever you mill one or more cards, put any number of kindred and/or creature cards from among them into your sanctum face up.
 Whenever your sanctum has four or more face up kindred cards and/or creature cards, transform this enchantment.
 ---
@@ -8543,12 +8588,13 @@ Other creatures you control enter with your choice of three healing counters, a 
         <type>Legendary Creature - Skeleton Knight </type>
         <maintype>Creature</maintype>
         <pt>6/5</pt>
-        <notes>https://www.artstation.com/artwork/zxq1Y4</notes>
+        <notes>https://www.artstation.com/artwork/zxq1Y4
+#updated</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell can’t be countered.
 This creature and creatures you control can’t be blocked by more than one creature.
-{2}: This creature gains your choice of haste, trample, or +1/+1 until end of turn.</text>
+{2}: This creature gets +1/+1 and gains your choice of haste or trample until end of turn.</text>
     </card>
     <card>
       <name>Murkross&apos;s Hold</name>
@@ -8569,7 +8615,7 @@ This creature and creatures you control can’t be blocked by more than one crea
       <text>As an additional cost to cast this spell, exile an instant or sorcery card from your graveyard.
 Enchant creature
 Enchanted creature gets +4/+4. 
-Instant and sorcery spells you control that target enchanted permanent cost {3} less to cast. </text>
+Instant and sorcery spells you cast that target enchanted permanent cost {3} less to cast. </text>
     </card>
     <card>
       <name>Late-Leaf Elk</name>
@@ -8667,7 +8713,7 @@ Once each turn, whenever an artifact you control dies, create Jura, a legendary 
         <notes>https://www.artstation.com/artwork/DLzJ69</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Players can’t cast spells from anywhere other than their hands unless that player pays {2} more mana to cast it.</text>
+      <text>Spells cast from anywhere other than hands cost {2} more to cast.</text>
     </card>
     <card>
       <name>Poison Pincher</name>
@@ -8819,12 +8865,13 @@ This spell deals 1 damage to any target. Scry 1. (Then put this into your sanctu
         <type>Legendary Planeswalker - Miori </type>
         <maintype>Planeswalker</maintype>
       <loyalty>4</loyalty>
-        <notes>https://www.artstation.com/artwork/NyLP5b</notes>
+        <notes>https://www.artstation.com/artwork/NyLP5b
+#updated</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>[+2]: This planeswalker deals 3 damage to any target.
 [0]: Exile the top three cards of your library. You may play them this turn.
-[-10]: Exile the top fifteen cards of your library. You may cast any number of spells among them without paying their mana cost.</text>
+[-10]: Exile the top fifteen cards of your library. You may cast any number of spells from among them without paying their mana costs.</text>
     </card>
     <card>
       <name>Terramorphic Singularity</name>
@@ -8862,9 +8909,9 @@ Players may play lands from their graveyard or sanctum.</text>
         <notes>https://www.artstation.com/artwork/JrVm8A</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>You can’t play cards from your hand.
+      <text>You may play cards from your sanctum.
+You can’t play cards from your hand.
 At the beginning of your upkeep, your life total becomes equal to the number of cards in your sanctum.
-Creatures you control have base power and toughness equal to the number of cards in your sanctum.
 5RR: Destroy this enchantment.</text>
     </card>
     <card>
@@ -8886,4 +8933,24 @@ Creatures you control have base power and toughness equal to the number of cards
       <tablerow>2</tablerow>
       <text>Explorer — Whenever this creature enters or attacks, it deals 1 damage to any target. If you control five or more differently named lands, repeat this process once.
 Whenever you deal noncombat damage to a creature you control, it gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Kalim, Shivta&apos;s Ear</name>
+      <set rarity="rare">FOE</set>
+      <prop>
+        <colors>I</colors>
+        <color>I</color>
+        <manacost>2II</manacost>
+        <cost>2II</cost>
+        <mana>2II</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature enters or attacks, it deals 2 damage to up to one target permanent or player that was dealt damage this turn.</text>
     </card>

@@ -733,6 +733,7 @@ https://www.deviantart.com/mocaran/art/The-journey-and-the-big-fish-603435678</n
     </card>
     <card>
       <name>Butterfly-01 FOE</name>
+	  <reverse-related count="3">Ignelscor Charm</reverse-related>
 	  <reverse-related >Tofnet Ranger</reverse-related>
 	  <reverse-related >Chimarel Clearing</reverse-related>
 	  <reverse-related count="2">Drougth Attuner</reverse-related>
@@ -1224,7 +1225,7 @@ This is also a creature if you’ve illuminated silver.</text>
       <set>FOE</set>
       <prop>
         <colors>WUBRGI</colors>
-        <type>Token Reminder</type>
+        <type>Reminder</type>
         <maintype>Reminder</maintype>
         <notes>!related Avlod Pathshaper;Bearer of Change;Breach of Malice;Breach of Mortality;Breach of Nature;Breach of Protection;Breach of Sanity;Breach of the Unknown;Crumbling Forest;Crumbling Island;Crumbling Mountain;Crumbling Plains;Crumbling Swamp;Dusted Spire;Eternities Weaver;Fadove Pathwarden;Fadove Reinforcement;Guardian Roost;Keeper of Faloden Woods;Mordel Combatant;Mordel Razer;Mordel Reinforcement;Outlands Guardian;Outlands Pathwarden;Outlands Traveller;Path of Insight;Path of Revival;Path of the Brood;Path of the Grove;Path of the Mighty;Path of the Proud;Path of the Rift;Path of the Roost;Path to Ages;Path to Restoration;Pathborn Aggression;Pathborn Drake;Pathbound Bloom;Pathbound Drake;Paths Strider;Restored Forest;Restored Island;Restored Mountain;Restored Plains;Restored Swamp;Rip to Today;Unstable Rift;Verem-Volcano Keeper;Flashing Path;Shimmering Path;</notes>
       </prop>
@@ -1545,49 +1546,6 @@ Note:Backside</notes>
       <reverse-related>Soul of Vinimroth</reverse-related>
       <reverse-related>Voice of the Thicket</reverse-related>
       <reverse-related>Your Strength is Fading</reverse-related>
-    </card>
-    <card>
-      <name>Healing Counter FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors></colors>
-        <type>Token Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text></text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Stun Counter FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors></colors>
-        <type>Token Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>!related Vestige Prowler;Meirel Evacuator;Branching Paths;Captivate;</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Vestige Prowler</reverse-related>
-      <reverse-related>Meirel Evacuator</reverse-related>
-      <reverse-related>Branching Paths</reverse-related>
-      <reverse-related>Captivate</reverse-related>
-    </card>
-    <card>
-      <name>plus one plus one counter FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors></colors>
-        <type>Token Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>!exportname plus one plus one counter</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text></text>
-      <token>1</token>
     </card>
     <card>
       <name>Orb Wizard FOE</name>
@@ -2716,9 +2674,6 @@ When this creature enters, return target instant or sorcery card from your grave
 This creature can’t block.</text>
       <token>1</token>
     </card>
-
-  
-
 
   
 

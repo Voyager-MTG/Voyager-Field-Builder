@@ -3767,7 +3767,7 @@ CITIZENTYPE</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash, menace
-When Hired Bouncer enters, each player sacrifices a creature.</text>
+When Hired Bouncer enters, if it was cast, each player sacrifices a creature.</text>
     </card>
     <card>
       <name>Mental Sewage</name>

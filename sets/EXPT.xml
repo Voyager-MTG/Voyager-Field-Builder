@@ -25,7 +25,7 @@
         <notes>!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Converge — this spell deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
+      <text>Converge — Falling Sparks deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
     </card>
     <card>
       <name>Soul Splintering</name>
@@ -143,7 +143,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
         <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature attacks, you may have the size of another target creature you control become 3/2 until end of turn.</text>
+      <text>Whenever Striking Reflection attacks, you may have the size of another target creature you control become 3/2 until end of turn.</text>
     </card>
     <card>
       <name>Unbothered Alchemist</name>
@@ -314,7 +314,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
 !related Elemental Token 2;Elemental Token 3;</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose one, then choose another for each card named this spell in your graveyard.
+      <text>Choose one, then choose another for each card named Unveiling in your graveyard.
 • Blank up to one target nonland permanent until your next turn. (It loses all abilities until your next turn.)
 • Draw a card from your sanctum or library.
 • Counter up to one target activated or triggered ability.
@@ -357,7 +357,7 @@ https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever this creature deals combat damage to a player, you may embrace a card with a creature type from your hand. If you do, draw a card. (Exile it. You may play it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
+Whenever Eschewer of Form deals combat damage to a player, you may embrace a card with a creature type from your hand. If you do, draw a card. (Exile it. You may play it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
     </card>
     <card>
       <name>Era, Hymn to Creation</name>
@@ -379,7 +379,7 @@ Whenever this creature deals combat damage to a player, you may embrace a card w
       <tablerow>2</tablerow>
       <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
 Flying, ward {2}
-this creature isn’t a creature unless you’ve illuminated silver.
+Era isn’t a creature unless you’ve illuminated silver.
 Whenever a token you control attacks, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -401,7 +401,7 @@ https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, reach
-{I}, Sacrifice an artifact and an enchantment: Return this creature from your graveyard to the battlefield. activate only as a sorcery.</text>
+{I}, Sacrifice an artifact and an enchantment: Return Infraruin Predator from your graveyard to the battlefield. activate only as a sorcery.</text>
     </card>
     <card>
       <name>Sealed Deepborn</name>
@@ -463,7 +463,7 @@ https://www.deviantart.com/era7/art/Space-Traveler-823824761</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, if it was cast, create a token that’s a copy of target nonenchantment permanent, except it’s an enchantment. (It loses its other types.)</text>
+When Interstellar Traveller enters, if it was cast, create a token that’s a copy of target nonenchantment permanent, except it’s an enchantment. (It loses its other types.)</text>
     </card>
     <card>
       <name>The Depths Talk Loudly</name>
@@ -484,8 +484,8 @@ https://www.deviantart.com/ppp597/art/Kiosk-in-La-Linea-de-la-Concepcion-1162220
 !related Horror;</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, create a 2/2 silver Horror creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
-Whenever one or more tokens you control deal combat damage to a player, you may sacrifice this enchantment. If you do, draw two cards.</text>
+      <text>When The Depths Talk Loudly enters, create a 2/2 silver Horror creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Whenever one or more tokens you control deal combat damage to a player, you may sacrifice The Depths Talk Loudly. If you do, draw two cards.</text>
     </card>
     <card>
       <name>Lost in Dreams of Life</name>
@@ -560,8 +560,8 @@ At the beginning of your end step, you may exile target card from your graveyard
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, mirror a non-Turtle.
-Whenever you create a token that doesn’t share a name with a token you control, you may exile this creature, then return it to the battlefield under its owner’s control at the beginning of the next end step.   </text>
+When Winged Turtle enters, mirror a non-Turtle.
+Whenever you create a token that doesn’t share a name with a token you control, you may exile Winged Turtle, then return it to the battlefield under its owner’s control at the beginning of the next end step.   </text>
     </card>
     <card>
       <name>Wandering Dislocation</name>
@@ -619,7 +619,7 @@ Discard your hand, then draw three cards.</text>
         <notes>!designer Aanginer!addtoken Against the Night;conjure:3;</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draw a card from your sanctum or library. Surveil X, where X is the number of cards named this spell in your graveyard. Conjure three this spells into your deck, then shuffle.</text>
+      <text>Draw a card from your sanctum or library. Surveil X, where X is the number of cards named Against the Night in your graveyard. Conjure three Against the Nights into your deck, then shuffle.</text>
     </card>
     <card>
       <name>Warping Wolf</name>
@@ -627,9 +627,9 @@ Discard your hand, then draw three cards.</text>
       <prop>
         <colors>I</colors>
         <color>I</color>
-        <manacost>1I</manacost>
-        <cost>1I</cost>
-        <mana>1I</mana>
+        <manacost>II</manacost>
+        <cost>II</cost>
+        <mana>II</mana>
         <cmc>2</cmc>
         <mv>2</mv>
         <type>Enchantment Creature - Wolf </type>
@@ -638,7 +638,7 @@ Discard your hand, then draw three cards.</text>
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize X, where X is its mana value. (It loses all other creature and card types.)</text>
+      <text>When this creature attacks, exile up to one target creature card from your graveyard. You may cast that card for as long as it remains exiled. When you do, it enters as an enchantment with materialize X, where X is its mana value. (It loses all other creature and card types.)</text>
     </card>
     <card>
       <name>Risen Earthdragon</name>
@@ -696,7 +696,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Lighthouse-398867729</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Illuminant Spire: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Ivory Spire</name>
@@ -714,7 +714,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Ivory Spire: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Searing Spire</name>
@@ -732,7 +732,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Castle-of-Illusions-1040129195</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Searing Spire: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Silent Spire</name>
@@ -750,7 +750,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Tower-of-Silence-388926066</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Silent Spire: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Twisted Spire</name>
@@ -768,7 +768,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Fault card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Twisted Spire: Search your library for a Fault card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Verdant Spire</name>
@@ -786,7 +786,7 @@ This spell deals damage to any target equal to the number of tokens you control.
         <notes>https://www.deviantart.com/yanadhyana/art/Tree-of-Ancestors-363677527</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
+      <text>{T}, Pay 1 life, Sacrifice Verdant Spire: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
       <name>Swirling Moon</name>
@@ -865,7 +865,7 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
 https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, up to one target creature gets +2/-2 until end of turn.
+      <text>When Searing Sigils enters, up to one target creature gets +2/-2 until end of turn.
 {1}, {T}: Add one mana of any color.</text>
     </card>
     <card>
@@ -1047,7 +1047,7 @@ When this creature enters, create a 2/2 silver Insect Plant creature token with 
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When this creature enters, destroy up to one target enchantment or planeswalker.</text>
+When Syphroid enters, destroy up to one target enchantment or planeswalker.</text>
     </card>
     <card>
       <name>Tellavia Balwar</name>
@@ -1177,7 +1177,7 @@ You draw a card and lose 1 life.
 Flashback—IB, Sacrifice a token. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
-      <name>Shadow Ghoul</name>
+      <name>Shadow Eater</name>
       <set rarity="common">EXPT</set>
       <prop>
         <colors>BI</colors>
@@ -1234,7 +1234,7 @@ Whenever this enchantment leaves the battlefield, draw a card.</text>
         <notes>!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, it deals 2 damage to up to one noncreature target.
+      <text>When Siege Crossbow enters, it deals 2 damage to up to one noncreature target.
 Equipped creature gets +1/+0 and has first strike during your turn.
 Equip {2}</text>
     </card>
@@ -1423,7 +1423,7 @@ When this creature escapes, create a token that’s a copy of target creature ca
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever this creature attacks, this creature deals 2 damage to any target.</text>
+Whenever you attack with two or more creatures, this creature deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Whimsy Unbound</name>
@@ -1573,8 +1573,8 @@ At the beginning of your end step, you may discard a card. If you do, draw a car
 !noborder</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Vigilance
-Creature tokens you control get +1/+1.</text>
+      <text>Vigilance, menace
+Creature tokens you control get +1/+1 and have vigilance.</text>
     </card>
     <card>
       <name>The Usurper</name>
@@ -1593,7 +1593,7 @@ Creature tokens you control get +1/+1.</text>
         <notes>!designer TVP</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto this creature.
+      <text>Whenever a creature you control attacks, move a counter from target permanent an opponent controls onto The Usurper.
 This creature must be blocked if able.</text>
     </card>
     <card>
@@ -2001,7 +2001,7 @@ At the beginning of combat on your turn, up to one target creature gains first s
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/-2 and has trample.
-When enchanted creature dies, if you controlled it, return this enchantment to its owner’s hand.</text>
+When enchanted creature dies, if you controlled it, return Blooming Peculiarity to its owner’s hand.</text>
     </card>
     <card>
       <name>Mark of Insanity</name>
@@ -2041,7 +2041,7 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Vigilance
-As long as your complexity is three or greater, this enchantment is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
 Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
@@ -2060,7 +2060,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
         <notes>!designer Wende</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>As this land enters, you may pay 2 life. If you don’t, it enters tapped.
+      <text>As Planar Boundary enters, you may pay 2 life. If you don’t, it enters tapped.
 {T}: Add {I}.
 {T}: Add one mana of any color a land you control could produce.</text>
     </card>
@@ -2100,7 +2100,7 @@ Draw a card.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, you may destroy target enchantment.</text>
+      <text>When Fyndhorn Betrayer enters, you may destroy target enchantment.</text>
     </card>
     <card>
       <name>Groaning Lullaby</name>
@@ -2161,7 +2161,7 @@ If a card or token would be put into a graveyard from anywhere, its owner put it
       </prop>
       <tablerow>2</tablerow>
       <text>Defender
-Whenever this creature’s toughness decreases, it deals that much damage to any noncreature target.</text>
+Whenever Spiteful Coil-Servants’s toughness decreases, it deals that much damage to any noncreature target.</text>
     </card>
     <card>
       <name>Ego Entwined</name>
@@ -2200,7 +2200,7 @@ https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fi.pinimg.com%
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant nonland permanent you don’t control
-As this enchantment enters choose a permanent you control.
+As Reto-Polo enters choose a permanent you control.
 Enchanted permanent is a copy of the chosen permanent.</text>
     </card>
     <card>
@@ -2221,7 +2221,7 @@ Enchanted permanent is a copy of the chosen permanent.</text>
 https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.victoryart.eu%2Fobchod_homedir%2Fdata%2F2611%2Fobrazky%2Fego.jpg&amp;sp=1744640718T917326f4c1688f1c17af592583bc24e59230697a8b30011b3ae055e471ff715b</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>[0]: Put a loyalty counter on this planeswalker for each enchantment you control.
+      <text>[0]: Put a loyalty counter on Identity Granter for each enchantment you control.
 [-2]: Target enchantment becomes a creature in addition to its other types and has base power and base toughness each equal to its mana value.</text>
     </card>
     <card>
@@ -2242,7 +2242,7 @@ https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.victoryar
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-When this creature enters, choose one—
+When Empty Body Practitioner enters, choose one—
 • Counter target triggered ability.
 • Target creature with total power and toughness 5 or less loses all abilities.</text>
     </card>
@@ -2264,7 +2264,7 @@ When this creature enters, choose one—
       </prop>
       <tablerow>2</tablerow>
       <text>This creature has haste as long as your opponent’s sanctum contains four or more cards.
-Whenever this creature becomes the target of a spell for the first time each turn, that spell’s owner reveals their sanctum. Exile a card from it. You may play cards exiled this way as long as they remain exiled.</text>
+Whenever Raging Rubigrug becomes the target of a spell for the first time each turn, that spell’s owner reveals their sanctum. Exile a card from it. You may play cards exiled this way as long as they remain exiled.</text>
     </card>
     <card>
       <name>Ferryman&apos;s Price</name>
@@ -2304,7 +2304,7 @@ Whenever this creature becomes the target of a spell for the first time each tur
       </prop>
       <tablerow>2</tablerow>
       <text>Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)
-When this creature enters, create a 1/1 silver Drake creature token with flying.</text>
+When Dessigry enters, create a 1/1 silver Drake creature token with flying.</text>
     </card>
     <card>
       <name>Woods&apos; Procession</name>
@@ -2401,8 +2401,8 @@ Fault|Basic Land – Fault
         <notes>===https://www.artstation.com/artwork/xD3Per</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as this creature’s power is 4 or greater, its a Human Warrior and has healing 2. (Whenever this creature deals damage, you gain 2 life.) (Damage dealt by this creature also causes you to gain 2 life.)
-1I: This creature gets +3/-3 and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
+      <text>As long as Cowering Lightbringer’s power is 4 or greater, its a Human Warrior and has healing 2. (Whenever this creature deals damage, you gain 2 life.) (Damage dealt by this creature also causes you to gain 2 life.)
+1I: Cowering Lightbringer gets +3/-3 and you get {V}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Faulty Recreation</name>
@@ -2421,94 +2421,4 @@ Fault|Basic Land – Fault
       </prop>
       <tablerow>3</tablerow>
       <text>Target nonbasic permanent’s types become the types of another target permanent until end of turn.</text>
-    </card>
-    <card>
-      <name>Castle of Split Lands</name>
-      <set rarity="common">EXPT</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land</type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {I} or {W}. This land deals 1 damage to you unless you control three or more other lands.</text>
-    </card>
-    <card>
-      <name>Castle</name>
-      <set rarity="common">EXPT</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land</type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {I} or M. This land deals 1 damage to you unless you control three or more other lands.</text>
-    </card>
-    <card>
-      <name>Castle</name>
-      <set rarity="common">EXPT</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land</type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {I} or M. This land deals 1 damage to you unless you control three or more other lands.</text>
-    </card>
-    <card>
-      <name>Castle</name>
-      <set rarity="common">EXPT</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land</type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {I} or M. This land deals 1 damage to you unless you control three or more other lands.</text>
-    </card>
-    <card>
-      <name>Castle</name>
-      <set rarity="common">EXPT</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land</type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {I} or M. This land deals 1 damage to you unless you control three or more other lands.</text>
     </card>

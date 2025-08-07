@@ -1571,8 +1571,7 @@ Each player creates a tapped 3/3 white Illusion creature token.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Impending 5—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
-Trample
-When Tyrant of Long Death enters or attacks, you gain 2 life and conjure a duplicate of target nontoken land you control into your hand.</text>
+Whenever Tyrant of Long Death enters or attacks, conjure a duplicate of target nontoken land you control into your hand.</text>
     </card>
     <card>
       <name>Antisun&apos;s Domain</name>
@@ -3388,11 +3387,11 @@ Whenever a creature an opponent controls dies, its controller loses 2 life unles
       <prop>
         <colors>B</colors>
         <color>B</color>
-        <manacost>3B</manacost>
-        <cost>3B</cost>
-        <mana>3B</mana>
-        <cmc>4</cmc>
-        <mv>4</mv>
+        <manacost>3BB</manacost>
+        <cost>3BB</cost>
+        <mana>3BB</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Enchantment Artifact</type>
         <maintype>Artifact</maintype>
         <notes>https://www.deviantart.com/j-edward-neill/art/Join-Me-in-Oblivion-872226539</notes>

@@ -315,7 +315,7 @@ When this enchantment enters, scry 2.</text>
 !addtoken Blue Drake Token;2;</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Once each turn, when a spell or ability puts one or more cards into your hand, you may create two 1/1 blue Drake creature tokens with flying that can’t block.</text>
+      <text>Once each turn, when a spell or ability puts one or more card into your hand, you may create two 1/1 blue Drake creature tokens with flying that can’t block.</text>
     </card>
     <card>
       <name>Soul Fire</name>
@@ -2481,7 +2481,7 @@ Target creature you control gains double strike until end of turn. If you’ve i
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you attack, trace this creature’s skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+      <text>Whenever you attack, trace this creatures skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
 Reshape Will 1W/U| Skill Instant
 Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell only outside of combat.</text>
     </card>
@@ -3947,7 +3947,7 @@ Whenever you attack with two or more nontoken creatures, you may pay 1B. If you 
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
-Whenever you attack with two or more creatures, look at the top two cards of your library. Put one into your sanctum and the other into your hand.</text>
+Whenever you attack with two or more nontoken creatures, you may pay U/RB. If you do, look at the top two cards of your library. Put one into your sanctum and the other into your hand.</text>
     </card>
     <card>
       <name>The Great Tear</name>
@@ -4079,12 +4079,13 @@ At the beginning of combat on each turn, you may untap another target enchantmen
         <mv>3</mv>
         <type>Creature - Reflection </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever this creature attacks, each opponent loses 1 life for each attacking creature you control.</text>
+This creature can’t attack or block unless you own five or more cards in exile.
+Whenever you attack with two or more nontoken creatures, you may pay {2}. If you do, each opponent loses 1 life for each attacking colorless creature you control.</text>
     </card>
     <card>
       <name>Roduth God of Conflict</name>
@@ -4591,9 +4592,8 @@ After your first combat phase, there is an additional combat phase where only en
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of combat on your turn for the first time each turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)
-</text>
+      <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Zoslera Mordel Clanleader</name>
@@ -5205,7 +5205,7 @@ Whenever you tap enchanted land, add {I}.
       </prop>
       <tablerow>3</tablerow>
       <text>Pathbound IG (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Choose three target cards from your graveyard at random. Put one into your hand. (The rest don’t leave the graveyard.)
+Choose three cards from your graveyard at random. Put one into your hand. (The rest don’t leave the graveyard.)
 Flashback {I/G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
@@ -5248,7 +5248,7 @@ Whenever this creature attacks, scry 1.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—IB. Activate only if you have seven or more cards in your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Ward—Discard a card.
+Ward—Discard a card
 When this creature enters, return up to one target creature or artifact from your graveyard to your hand.</text>
     </card>
     <card>
@@ -5627,7 +5627,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {W}.)</text>
@@ -5691,7 +5691,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {U}.)</text>
@@ -5714,7 +5714,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {B}.)</text>
@@ -5736,7 +5736,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {R}.)</text>
@@ -5758,7 +5758,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {G}.)</text>
@@ -6124,7 +6124,7 @@ Whenever this creature becomes the target of a spell or ability, its controller 
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {I}.)</text>
