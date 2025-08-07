@@ -268,12 +268,13 @@ When this creature enters, return target instant or sorcery card from your grave
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!tokentag I10
-!related Shifting Silverscape;</notes>
+!related Shifting Silverscape;
+!conjured</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: Add {C}</text>
       <token>1</token>
-      <reverse-related>Shifting Silverscape</reverse-related>
+      <reverse-related persistent="persistent">Shifting Silverscape</reverse-related>
     </card>
     <card>
       <name>Insect ITD</name>
