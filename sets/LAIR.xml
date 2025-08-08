@@ -292,9 +292,35 @@ Exhaust — {T}: Choose a color.
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!porthole</notes>
+        <notes>!porthole
+!tag&lt;champion> kogane
+!tag&lt;is> champion
+!designer Trewq</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Surveil 2, then draw a card.
 Whenever Drown in Self Reflection leaves your graveyard during your turn, you may cast a copy of it.</text>
+    </card>
+    <card>
+      <name>Apostle Entheate</name>
+      <set rarity="">LAIR</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>!ocean
+!tag&lt;champion> silverparabellum
+!tag&lt;is> champion
+!designer Kogane</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Apostle Entheate enters, you may exile target nonland permanent. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
+Your opponents can’t cast spells with the same name as the exiled card.</text>
     </card>

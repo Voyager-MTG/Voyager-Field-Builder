@@ -1182,7 +1182,7 @@ Whenever you play a land, scry 2 if it’s your upkeep, or put a +1/+1 counter o
       <set rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
-        <manacost>U // UV/GV/W</manacost>
+        <manacost>U // 2UV/GV/W</manacost>
         <cmc>1</cmc>
         <type>Creature - Leviathan  // Vertex Instant</type>
         <maintype>Creature</maintype>
