@@ -1188,7 +1188,7 @@ Whenever Blight-Tipped Hunter deals damage to a player, that player gets that ma
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Other permanents you control have bloom.</text>
     </card>
     <card>

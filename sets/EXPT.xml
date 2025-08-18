@@ -377,7 +377,7 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
 !designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
 Flying, ward {2}
 Era isn’t a creature unless you’ve illuminated silver.
 Whenever a token you control attacks, each opponent loses 1 life.</text>
@@ -656,7 +656,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
 Flying
-When this creature enters, if it was cast, mirror twice. (Create a token thats a copy of a token you control.)</text>
+When this creature enters, if it was cast, mirror twice. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shell&apos;s Scraping</name>
@@ -1481,7 +1481,7 @@ also, maybe 7 mana
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
-Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+Channel — IW, Discard this: Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shapeshifter Token</name>
@@ -2117,7 +2117,7 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>

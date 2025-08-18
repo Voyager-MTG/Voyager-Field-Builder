@@ -7312,7 +7312,7 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
 !designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
 Flying, ward {2}
 Era isn’t a creature unless you’ve illuminated silver.
 Whenever a token you control attacks, each opponent loses 1 life.</text>
@@ -7591,7 +7591,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
 Flying
-When this creature enters, if it was cast, mirror twice. (Create a token thats a copy of a token you control.)</text>
+When this creature enters, if it was cast, mirror twice. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shell&apos;s Scraping</name>
@@ -8416,7 +8416,7 @@ also, maybe 7 mana
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
-Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+Channel — IW, Discard this: Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shapeshifter Token</name>
@@ -9052,7 +9052,7 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>
@@ -9450,7 +9450,7 @@ Fault|Basic Land – Fault
       </prop>
       <tablerow>1</tablerow>
       <text>This artifact enters tapped.
-When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 {2}, {T}, Sacrifice this artifact: Draw a card from your sanctum or library.</text>
     </card>
     <card>
@@ -9567,7 +9567,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>traverse 1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Staggering Spires</name>
@@ -9666,7 +9666,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>The Foxfolk children are born feral; They must spark their curiosity to join society. </notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 When this creature enters, create a 1/1 white Fox creature token.
 This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
@@ -9707,7 +9707,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature gets +0/+1 and has vigilance as long as you’ve illuminated white.</text>
     </card>
     <card>
@@ -9730,7 +9730,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {3}, {T}: Tap target creature. This ability costs {3} less to activate if you’ve illuminated white.</text>
     </card>
     <card>
@@ -10040,7 +10040,7 @@ traverse 3</notes>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Vestige Prowler</name>
@@ -10079,7 +10079,7 @@ When this creature enters, tap target creature an opponent controls and put a st
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.
 This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.</text>
     </card>
@@ -10273,7 +10273,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Destroy target creature or planeswalker if it has mana value 2 or less or if you’ve illuminated black.</text>
     </card>
     <card>
@@ -10447,7 +10447,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This spell costs {2} less to cast if you’ve illuminated black or if you control three or more black permanents.</text>
     </card>
     <card>
@@ -10486,7 +10486,7 @@ Threshold — Whenever this creature attacks while you have seven or more cards 
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 Create a 1/1 black Drake creature token with flying.</text>
     </card>
     <card>
@@ -10523,7 +10523,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
         <tag>clanless;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
@@ -10580,7 +10580,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <notes>traverse 5</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Warforged Pair</name>
@@ -10652,7 +10652,7 @@ Target creature you control gains first strike and trample until end of turn. (T
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
@@ -10771,7 +10771,7 @@ v1.0 Whenever a spell or ability puts a card into your hand, you gain 2 life.
         <notes>It took years, but the kinfolk reignited a strength the elves of Vinimroth could never hold again.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Landfall — Whenever a land enters the battlefield under your control, this creature gets +1/+0 until end of turn. If you illuminated green, put a +1/+1 counter on this creature instead.</text>
     </card>
     <card>
@@ -10985,7 +10985,7 @@ Target creature you control gets +1/+1 and gains haste until end of turn. (Then 
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Outlands Rescuer</name>
@@ -11114,7 +11114,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Avakin Adventurer</name>
@@ -11133,7 +11133,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes>traverse 4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Meirel Drifter</name>
@@ -11152,7 +11152,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.</text>
     </card>
     <card>
@@ -11283,7 +11283,7 @@ Create two 1/1 white and silver Insect creature tokens with flying and decayed. 
         <notes>Create a tapped token that’s a copy of target land if it’s basic or if you’ve illuminated silver. Then untap that token if you’ve illuminated silver.</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Target creature becomes an enchantment land. (It loses all other card types.) It gains “{T}: Add {I}.” If you’ve illuminated silver, it loses all abilities.</text>
     </card>
     <card>
@@ -11916,7 +11916,7 @@ Sisters in Sorrow has first strike during your turn.
 Whenever you attack, reveal the top card of your library. If it’s a permanent card with mana value 3 or less, you may play that card. Otherwise, put that card into your sanctum and Sisters in Sorrow deals 1 damage to any target.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Feather Piper</name>
@@ -12077,7 +12077,7 @@ Evoke W/BW/B (You may cast this spell for its evoke cost. If you do, it’s sacr
 steve</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Flying, haste
 This creature gets +1/+1 if you’ve illuminated red, and +1/+1 if you’ve illuminated silver. (If you’ve illuminated both, it gets +2/+2.)</text>
     </card>
@@ -12559,8 +12559,8 @@ This creature gets +1/+0 for each enchantment you control.</text>
 Traverse X, x is the number of other cards in graveyard</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
-{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Drakesteel Effigy</name>
@@ -12618,7 +12618,7 @@ Equipped creature has healing 2. (Damage dealt by that creature also causes you 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature is all colors among other permanents you control.
 Whenever you cast a spell that is one or more colors, if you’ve illuminated any of that spell’s colors, put a +1/+1 counter on target creature you control.</text>
     </card>
@@ -12639,7 +12639,7 @@ Whenever you cast a spell that is one or more colors, if you’ve illuminated an
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantment token with “This is also a creature if you’ve illuminated silver.”</text>
     </card>
     <card>
@@ -13230,7 +13230,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
       <tablerow>3</tablerow>
       <text>Choose one—
 • Counter target permanent spell unless its controller pays {2}. If you control three or more tokens, counter that spell instead.
-• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Concealing Ruins</name>
@@ -13348,7 +13348,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Tokens you control have haste.
 Whenever you attack, draw a card from your sanctum or library, then discard a card. If you’ve illuminated silver, put a +1/+1 counter on this creature.</text>
     </card>
@@ -13546,7 +13546,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {T}: Add {C}.
 {T}, Sacrifice this land: Draw a card. Activate only if you’ve illuminated a color.</text>
     </card>
@@ -14160,7 +14160,7 @@ Explorer — When this creature attacks, if you control five or more differently
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature has power equal to the number of creatures you control.
 This creature has vigilance and flying as long as you’ve illuminated white.</text>
     </card>
@@ -14199,7 +14199,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This spell costs {2} less to cast if you’ve illuminated white.
 Exile target nonland permanent.</text>
     </card>
@@ -14440,7 +14440,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {T}: Add {C}. You can’t spend this mana to cast a noninstant, nonsorcery spell.
 4U, Sacrifice this creature: Draw three cards. Activate only if you’ve illuminated blue.</text>
     </card>
@@ -14513,7 +14513,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
       <text>Enchant creature
 When this enchantment enters, tap enchanted permanent.
 Enchanted permanent doesn’t untap during its controller’s untap step.
-When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Relentless Spellseeker</name>
@@ -14672,7 +14672,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
@@ -14732,7 +14732,7 @@ Explorer — 1B: Return this creature from your graveyard to the battlefield. Ac
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
 Creature tokens you control gain haste until end of turn.</text>
     </card>
@@ -14790,7 +14790,7 @@ Creature tokens you control gain haste until end of turn.</text>
         <notes>*probably* needs to be 5 mana &lt;3</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Whenever you attack, if you’ve illuminated black, each opponent loses 2 life and you gain 2 life. Otherwise each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -14851,7 +14851,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
         <notes>Traverse up to X, where X is the number of cards in your graveyard</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 3BB, {T}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -15107,7 +15107,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Haste
 {3}, {T}: This creature deals 1 damage to any target. This ability costs {T} less to activate if you’ve illuminated red.</text>
     </card>
@@ -15417,7 +15417,7 @@ Put a +1/+1 counter on each of up to X target creatures. (Then put this card int
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to one token you control. Then If you illuminated green, put a +1/+1 counter on each other creature you control. (This spell’s tokens can cause you to illuminate green before putting counters.)</text>
     </card>
     <card>
@@ -15493,7 +15493,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <notes>!exportname Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Vigilance
 Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, draw a card.</text>
     </card>
@@ -16075,7 +16075,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Haste
 Whenever this creature attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.         </text>
     </card>
@@ -16249,7 +16249,7 @@ Multicolor
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Flying, ward {1}
 This creature is all colors.
 For each color you’ve illuminated, this creature gets +1/+1.</text>
@@ -16906,7 +16906,7 @@ Whenever this creature attacks, you may discard a card. If you do, reveal random
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell.
-Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Probe the Veil</name>
@@ -17224,7 +17224,7 @@ As long as you control a white, blue, black, red, or silver permanent, this crea
     <pt>6/5</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 --- 
 Prevent all combat damage that would be dealt to players this turn. (Then put this card into your sanctum.)</text>
     </card>
@@ -22271,7 +22271,7 @@ arguably too weak</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have hexproof.</text>
     </card>
     <card>
@@ -25078,7 +25078,7 @@ Whenever Blight-Tipped Hunter deals damage to a player, that player gets that ma
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Other permanents you control have bloom.</text>
     </card>
     <card>
@@ -40858,7 +40858,7 @@ UW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from multicolored
-Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying WWW. Spend only mana from differently named sources this way.)</text>
+Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Epoch Ending</name>
@@ -40878,7 +40878,7 @@ WHITERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
-Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying WWWWWW. Spend only mana from differently named sources this way.)</text>
+Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Gathering Olorosaurs</name>
@@ -40899,7 +40899,7 @@ UG07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Gathering Olorosaurs enters with two +1/+1 counters on it if no mana from land sources were spent to cast it.
-Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying GGG. Spend only mana from differently named sources this way.)</text>
+Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Heirloom of the Obsolete</name>
@@ -41100,7 +41100,7 @@ Whenever another artifact you control enters, put a +1/+1 counter on Awakened Ma
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Sun Pouncer</name>
@@ -41182,7 +41182,7 @@ CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
-Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Harsurfir Scavenger</name>
@@ -41664,7 +41664,7 @@ CG15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target card from your graveyard to your hand.
-Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying 1GG. Spend only mana from differently named sources this way.)</text>
+Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Overlaid Bridge</name>
@@ -41882,7 +41882,7 @@ Melt deals 3 damage to any target.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Geometric Singularity deals X damage to any target.
-Retopology XR (Cast a copy of this from your graveyard by exiling it and paying XR. Spend only mana from differently named sources this way.)</text>
+Retopology XR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Mana Void</name>
@@ -41923,7 +41923,7 @@ DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Emerging Wildlife enters, put a +1/+1 counter on target creature.
-Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying 2GG. Spend only mana from differently named sources this way.)</text>
+Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Elder Gigantops</name>
@@ -42124,7 +42124,7 @@ CR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice Orchard Vixen, discard a card: Draw a card.
-Retopology RR (Cast a copy of this from your graveyard by exiling it and paying RR. Spend only mana from differently named sources this way.)</text>
+Retopology RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>The Downscaling</name>
@@ -42301,7 +42301,7 @@ ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Stick Retriever enters, create a 1/1 white Human creature token for each creature card in your graveyard.
-Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Nilshroud Predator</name>
@@ -42600,7 +42600,7 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards. You may play an additional land this turn.
-Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying 1G/UG/UG/UG/U. Spend only mana from differently named sources this way.)</text>
+Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Friend Collector</name>
@@ -42661,7 +42661,7 @@ CW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Asset Manager enters, create a 1/1 white Human creature token.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Chronicler of the Obsolete</name>
@@ -42743,7 +42743,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
@@ -43146,7 +43146,7 @@ Sacrifice this permanent: Draw a card.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
-Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying 1BB. Spend only mana from differently named sources this way.)</text>
+Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Bog Snapper</name>
@@ -43167,7 +43167,7 @@ CB02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Bog Snapper dies, up to one target creature gets -1/-1 until end of turn.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Conscripted Serpengon</name>
@@ -43447,7 +43447,7 @@ UW10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target nonland permanent with mana value 3 or less.
-Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Waypoint of Nil</name>
@@ -43931,7 +43931,7 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
@@ -44072,7 +44072,7 @@ UG08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.
-Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying {X}. Spend only mana from differently named sources this way.)</text>
+Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Excessive Decadence</name>
@@ -44092,7 +44092,7 @@ UU07</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player mills twice X cards.
-Retopology XU (Cast a copy of this from your graveyard by exiling it and paying XU. Spend only mana from differently named sources this way.)</text>
+Retopology XU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Resplendent Dawn</name>
@@ -44210,7 +44210,7 @@ UU08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw X cards, where X is the amount of mana spent to cast this spell, then discard a card.
-Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUU. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Edravir, Last of the Obsolete</name>
@@ -44457,7 +44457,7 @@ UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Hatebloom Titangon</name>
@@ -44499,7 +44499,7 @@ UB06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ego Eroder enters, look at target player’s hand. You may choose a noncreature, nonland card from it. Exile that card until Ego Eroder leaves the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Cruel Condor</name>
@@ -44743,7 +44743,7 @@ UW03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Hierarch of Exultation or another permanent you control leaves the battlefield, you gain 1 life.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Serrated Angel</name>
@@ -45175,7 +45175,7 @@ CU15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.
-Retopology UU (Cast a copy of this from your graveyard by exiling it and paying UU. Spend only mana from differently named sources this way.)</text>
+Retopology UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Manaqueduct</name>
@@ -45320,7 +45320,7 @@ BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Seafloor Scrounger gets +1/+1 if a spell or ability put a nontoken card into your hand this turn.
-Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying 2UU. Spend only mana from differently named sources this way.)</text>
+Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Security Breach</name>
@@ -45668,7 +45668,7 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
       </prop>
       <tablerow>2</tablerow>
       <text>When Abandonmare enters, each player discards two cards.
-Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying BB. Spend only mana from differently named sources this way.)</text>
+Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Skirweigh, Abyssal Tsar</name>
@@ -45788,7 +45788,7 @@ UW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Irticull’s Vanguard enters, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.
-Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying 1WWW. Spend only mana from differently named sources this way.)</text>
+Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocide</name>
@@ -46439,7 +46439,7 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>If it isn’t an extra turn, take an extra turn after this one.
-Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUUUUU. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Duplicate Specialty</name>
@@ -46458,7 +46458,7 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>
@@ -46555,7 +46555,7 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying CCC. Spend only mana from differently named sources this way.)</text>
+Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Rhystic Palace</name>
@@ -50516,7 +50516,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -50957,7 +50957,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -51918,7 +51918,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -51938,7 +51938,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -51978,7 +51978,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -56779,7 +56779,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ()</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -57032,7 +57032,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ()</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -57565,7 +57565,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G ()</text>
+Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -58182,7 +58182,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ()</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>

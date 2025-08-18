@@ -3191,7 +3191,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ()</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -3444,7 +3444,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ()</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -3977,7 +3977,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G ()</text>
+Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -4594,7 +4594,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ()</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>

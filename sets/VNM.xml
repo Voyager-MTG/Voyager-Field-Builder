@@ -3340,7 +3340,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -3781,7 +3781,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -4742,7 +4742,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -4762,7 +4762,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -4802,7 +4802,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
