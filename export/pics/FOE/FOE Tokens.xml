@@ -588,26 +588,6 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
       <reverse-related>Shimmering Path</reverse-related>
     </card>
     <card>
-      <name>Guardian of the Cinders FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>BG</colors>
-        <type>Enchantment Creature - Icon Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-        <notes>!related Remnants of the War&lt;attach>;
-
-https://www.artstation.com/artwork/e0L0OG
-Note:Backside</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance, trample</text>
-      <token>1</token>
-      <reverse-related attach="attach">Remnants of the War</reverse-related>
-      <reverse-related>https//wwwartstationcom/artwork/e0L0OG</reverse-related>
-      <reverse-related>NoteBackside</reverse-related>
-    </card>
-    <card>
       <name>Depthscout Token FOE</name>
       <set>FOE</set>
       <prop>
@@ -864,25 +844,6 @@ Note:Backside</notes>
       <token>1</token>
     </card>
     <card>
-      <name>Kera, Mordel&apos;s New Hope FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>R</colors>
-        <type>Legendary Creature - Human Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-        <notes>!related Mordel Civil War;
-!addtoken Mordel Civil War;transform;
-!tag fascism;</notes>
-        <tag>fascism;</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-At the end of your first postcombat main phase, if this creature entered the battlefield this turn, untap a creature you control, then after this phase, there’s an additional combat phase followed by an additional postcombat main phase.</text>
-      <token>1</token>
-      <reverse-related>Mordel Civil War</reverse-related>
-    </card>
-    <card>
       <name>Luminous in All Colors FOE</name>
       <set>FOE</set>
       <prop>
@@ -919,39 +880,6 @@ At the end of your first postcombat main phase, if this creature entered the bat
       <reverse-related>Soul of Vinimroth</reverse-related>
       <reverse-related>Voice of the Thicket</reverse-related>
       <reverse-related>Your Strength is Fading</reverse-related>
-    </card>
-    <card>
-      <name>Jothi-01 FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Bird </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!related Jothi;
-!exportname Jothi-01</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-When Jothi enters, put a +1/+1 counter on up to one target creature.
-{+1}: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
-{-4}: Create a token that’s a copy of Jothi, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with flying.</text>
-      <token>1</token>
-      <reverse-related>Jothi</reverse-related>
-    </card>
-    <card>
-      <name>Meirel Drifter (Luminous) FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>I</colors>
-        <type>Creature - Fox Scout </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
     </card>
     <card>
       <name>Food FOE</name>

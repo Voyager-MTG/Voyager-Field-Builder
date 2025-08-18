@@ -272,22 +272,6 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Drake Rider</reverse-related>
     </card>
     <card>
-      <name>Icebound Reinforcements Token VNM</name>
-      <set>VNM</set>
-      <prop>
-        <colors>UG</colors>
-        <type>Token Creature - Human Scout </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>!related Icebound Reinforcements</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
-1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
-      <token>1</token>
-      <reverse-related>Icebound Reinforcements</reverse-related>
-    </card>
-    <card>
       <name>Luminous VNM</name>
       <set>VNM</set>
       <prop>
@@ -329,26 +313,6 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Vanishing Resolve</reverse-related>
       <reverse-related>Verem-Volcano Rumbler</reverse-related>
       <reverse-related>Weight of Betrayal</reverse-related>
-    </card>
-    <card>
-      <name>Cat Token VNM</name>
-      <set>VNM</set>
-      <prop>
-        <colors>WB</colors>
-        <type>Token Enchantment Creature - Cat </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!center
-!related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-!exportname Cat Token
-Preview</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Subdued Rift VNM</reverse-related>
-      <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
-      <reverse-related>Path of the Rift</reverse-related>
     </card>
     <card>
       <name>Warped Exploration VNM</name>
@@ -646,24 +610,6 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <text></text>
       <token>1</token>
       <reverse-related>Splendid Genesis</reverse-related>
-    </card>
-    <card>
-      <name>Multaph&apos;s Respite&apos;s Spellbook VNM</name>
-      <set>VNM</set>
-      <prop>
-        <colors>WUR</colors>
-        <type>Token Spellbook</type>
-        <maintype>Spellbook</maintype>
-        <notes>!addtoken Subdued Rift;Warped Exploration;Cut from Void;</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Subdued Rift {W/B}| Skill Sorcery
-Create a 1/1 black and white Cat enchantment creature token.
-Warped Exploration {2}| Skill Sorcery
-Trace a basic land of any type into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
-Cut from Void 2U| Skill Instant
-Scry 1, then draw a card.</text>
-      <token>1</token>
     </card>
     <card>
       <name>Black Wurm Token VNM</name>

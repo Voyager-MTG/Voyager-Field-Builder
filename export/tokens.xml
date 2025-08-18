@@ -60,6 +60,7 @@
     </card>
     <card>
       <name>Embraced Cards AKT</name>
+	  <reverse-related>Identity Connoisseur</reverse-related>
 	  <reverse-related>Eschewer of Form</reverse-related>
 	  <reverse-related>Callwolf Replica</reverse-related>
 	  <reverse-related>Platinum's Spymaster</reverse-related>
@@ -345,68 +346,6 @@ Equip creature of the chosen type {1}</text>
 This creature has lifelink as long as it’s a token.</text>
       <token>1</token>
       <reverse-related>Distant Vulture</reverse-related>
-    </card>
-    <card>
-      <name>Insect Plant Token EXPT</name>
-	  <reverse-related >Algael-leael</reverse-related>
-	  <reverse-related >Sryyn Spawner</reverse-related>
-      <set>EXPT</set>
-      <prop>
-        <colors>I</colors>
-        <type>Token Creature - Insect Plant </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Wall Token EXPT</name>
-	  <reverse-related >Hopeless Summit</reverse-related>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact Creature - Wall </type>
-        <maintype>Creature</maintype>
-        <pt>0/3</pt>
-        <notes>Hopeless</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Defender (This creature can’t attack.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Shapeshifter Token EXPT</name>
-	  <reverse-related >Lost Cause</reverse-related>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Creature - Shapeshifter </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Hopeless</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Changeling (This card is every creature type.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Robot Token EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact Creature - Robot </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Hopeless
-!related Extant Surveyor;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Extant Surveyor</reverse-related>
     </card>
     <card>
       <name>Can Be Cast From Exile EXPT</name>
@@ -1287,26 +1226,6 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
       <reverse-related>Shimmering Path</reverse-related>
     </card>
     <card>
-      <name>Guardian of the Cinders FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>BG</colors>
-        <type>Enchantment Creature - Icon Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-        <notes>!related Remnants of the War&lt;attach>;
-
-https://www.artstation.com/artwork/e0L0OG
-Note:Backside</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance, trample</text>
-      <token>1</token>
-      <reverse-related attach="attach">Remnants of the War</reverse-related>
-      <reverse-related>https//wwwartstationcom/artwork/e0L0OG</reverse-related>
-      <reverse-related>NoteBackside</reverse-related>
-    </card>
-    <card>
       <name>Depthscout Token FOE</name>
       <set>FOE</set>
       <prop>
@@ -1563,25 +1482,6 @@ Note:Backside</notes>
       <token>1</token>
     </card>
     <card>
-      <name>Kera, Mordel&apos;s New Hope FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>R</colors>
-        <type>Legendary Creature - Human Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-        <notes>!related Mordel Civil War;
-!addtoken Mordel Civil War;transform;
-!tag fascism;</notes>
-        <tag>fascism;</tag>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-At the end of your first postcombat main phase, if this creature entered the battlefield this turn, untap a creature you control, then after this phase, there’s an additional combat phase followed by an additional postcombat main phase.</text>
-      <token>1</token>
-      <reverse-related>Mordel Civil War</reverse-related>
-    </card>
-    <card>
       <name>Luminous in All Colors FOE</name>
       <set>FOE</set>
       <prop>
@@ -1618,39 +1518,6 @@ At the end of your first postcombat main phase, if this creature entered the bat
       <reverse-related>Soul of Vinimroth</reverse-related>
       <reverse-related>Voice of the Thicket</reverse-related>
       <reverse-related>Your Strength is Fading</reverse-related>
-    </card>
-    <card>
-      <name>Jothi-01 FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>W</colors>
-        <type>Token Creature - Bird </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!related Jothi;
-!exportname Jothi-01</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-When Jothi enters, put a +1/+1 counter on up to one target creature.
-{+1}: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
-{-4}: Create a token that’s a copy of Jothi, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with flying.</text>
-      <token>1</token>
-      <reverse-related>Jothi</reverse-related>
-    </card>
-    <card>
-      <name>Meirel Drifter (Luminous) FOE</name>
-      <set>FOE</set>
-      <prop>
-        <colors>I</colors>
-        <type>Creature - Fox Scout </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
     </card>
     <card>
       <name>Food FOE</name>
@@ -2776,6 +2643,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
 	  <reverse-related >Burgeoning Risen</reverse-related>
 	  <reverse-related >Society Headquarters</reverse-related>
 	  <reverse-related >Woods' Procession</reverse-related>
+	  <reverse-related >Woods' Procession</reverse-related>
       <set>PTN</set>
       <prop>
         <colors></colors>
@@ -3413,22 +3281,6 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Drake Rider</reverse-related>
     </card>
     <card>
-      <name>Icebound Reinforcements Token VNM</name>
-      <set>VNM</set>
-      <prop>
-        <colors>UG</colors>
-        <type>Token Creature - Human Scout </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>!related Icebound Reinforcements</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
-1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
-      <token>1</token>
-      <reverse-related>Icebound Reinforcements</reverse-related>
-    </card>
-    <card>
       <name>Luminous VNM</name>
 	  <reverse-related>Weavehorn Chimera</reverse-related>
 	  <reverse-related>Urkial Outlands Clanleader</reverse-related>
@@ -3528,31 +3380,6 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Vanishing Resolve</reverse-related>
       <reverse-related>Verem-Volcano Rumbler</reverse-related>
       <reverse-related>Weight of Betrayal</reverse-related>
-    </card>
-    <card>
-      <name>Cat Token VNM</name>
-	  <reverse-related >Avlod Bulwark</reverse-related>
-	  <reverse-related >Outlands Riftbearer</reverse-related>
-	  <reverse-related >Giants Blade</reverse-related>
-	  <reverse-related >Rift Tender</reverse-related>
-	  <reverse-related >Gateway Guardian</reverse-related>
-      <set>VNM</set>
-      <prop>
-        <colors>WB</colors>
-        <type>Token Enchantment Creature - Cat </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!center
-!related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-!exportname Cat Token
-Preview</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Subdued Rift VNM</reverse-related>
-      <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
-      <reverse-related>Path of the Rift</reverse-related>
     </card>
     <card>
       <name>Warped Exploration VNM</name>
@@ -3853,24 +3680,6 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <text></text>
       <token>1</token>
       <reverse-related>Splendid Genesis</reverse-related>
-    </card>
-    <card>
-      <name>Multaph&apos;s Respite&apos;s Spellbook VNM</name>
-      <set>VNM</set>
-      <prop>
-        <colors>WUR</colors>
-        <type>Token Spellbook</type>
-        <maintype>Spellbook</maintype>
-        <notes>!addtoken Subdued Rift;Warped Exploration;Cut from Void;</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Subdued Rift {W/B}| Skill Sorcery
-Create a 1/1 black and white Cat enchantment creature token.
-Warped Exploration {2}| Skill Sorcery
-Trace a basic land of any type into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
-Cut from Void 2U| Skill Instant
-Scry 1, then draw a card.</text>
-      <token>1</token>
     </card>
     <card>
       <name>Black Wurm Token VNM</name>

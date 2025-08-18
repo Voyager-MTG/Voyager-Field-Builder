@@ -3826,6 +3826,26 @@ At the beginning of your end step, if an enchantment creature you control attack
 Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
+      <name>Icebound Reinforcements Token</name>
+      <set rarity="">VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>1G/UG/U</manacost>
+        <cost>1G/UG/U</cost>
+        <mana>1G/UG/U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Token Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>!related Icebound Reinforcements</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
+    </card>
+    <card>
       <name>Breaking the Mold</name>
       <set rarity="uncommon">VNM</set>
       <prop>
@@ -3845,6 +3865,28 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
 • Destroy target artifact.
 • Target creature you control gets +3/+1 until end of turn.
 Voidstone Shard {2}|Enchantment          When this enters, scry 2.</text>
+    </card>
+    <card>
+      <name>Cat Token</name>
+      <set rarity="common">VNM</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!center
+!related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
+!exportname Cat Token
+Preview</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
     </card>
     <card>
       <name>Ruins of Multa</name>
@@ -4799,8 +4841,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—Pay 2 life, then exile a card with exactly one color from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped. As this land enters, pay {1} or sacrifice this land.
+      <text>This land enters tapped. As this land enters, pay {1} or sacrifice this land.
 {T}: Add one mana of any color.</text>
     </card>
     <card>
@@ -4820,8 +4861,7 @@ This land enters tapped. As this land enters, pay {1} or sacrifice this land.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I}, Put a stun counter on a creature you control. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Vigilance
+      <text>Vigilance
 Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target creature.</text>
     </card>
     <card>
@@ -4840,8 +4880,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target c
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text> Pathbound—IU, Put a card from your hand into your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-You may cast this spell as though it had flash as long as you control three or more enchantments.
+      <text>You may cast this spell as though it had flash as long as you control three or more enchantments.
 Draw three cards. Scry 2.</text>
     </card>
     <card>
@@ -4860,8 +4899,7 @@ Draw three cards. Scry 2.</text>
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound IB (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Choose one —
+      <text>Choose one —
 • Return target creature card from your graveyard to your hand.
 • Return two target permanent cards that share a creature type from your graveyard to your hand.</text>
     </card>
@@ -4882,8 +4920,7 @@ Choose one —
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I/G}, Reveal a card with haste from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Vigilance, deathtouch, haste
+      <text>Vigilance, deathtouch, haste
 When this creature enters, up to one target creature you control gets +3/+3 until end of turn.</text>
     </card>
     <card>
@@ -4903,8 +4940,7 @@ When this creature enters, up to one target creature you control gets +3/+3 unti
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{2}. Activate only if you control no nonland permanents. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Fracture — Once each turn, when you cast a noncreature spell, you may have this creature gains flying until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.</text>
+      <text>Fracture — Once each turn, when you cast a noncreature spell, you may have this creature gains flying until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.</text>
     </card>
     <card>
       <name>Mordel Combatant</name>
@@ -4924,8 +4960,7 @@ Fracture — Once each turn, when you cast a noncreature spell, you may have thi
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound {I} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Enchantments you control have “{1}, {T}: This deals 1 damage to target opponent.”
+      <text>Enchantments you control have “{1}, {T}: This deals 1 damage to target opponent.”
 Equip abilities you activate that target this creature cost {3} less to activate.</text>
     </card>
     <card>
@@ -4945,8 +4980,7 @@ Equip abilities you activate that target this creature cost {3} less to activate
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—IU, Exile three cards from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Whenever you attack, each player mills four cards.</text>
+      <text>Whenever you attack, each player mills four cards.</text>
     </card>
     <card>
       <name>Mordel Razer</name>
@@ -4966,8 +5000,7 @@ Whenever you attack, each player mills four cards.</text>
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I/R}, Reveal a card with haste from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Whenever you cast a noncreature spell, exile a card at random from your sanctum. Until the beginning of your next end step, you may play that card.</text>
+      <text>Whenever you cast a noncreature spell, exile a card at random from your sanctum. Until the beginning of your next end step, you may play that card.</text>
     </card>
     <card>
       <name>Pathborn Aggression</name>
@@ -4986,8 +5019,7 @@ Whenever you cast a noncreature spell, exile a card at random from your sanctum.
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound {I} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This creature can’t block.
+      <text>This creature can’t block.
 Whenever another card is put into your sanctum, return this creature from your graveyard to the battlefield.              </text>
     </card>
     <card>
@@ -5007,8 +5039,7 @@ Whenever another card is put into your sanctum, return this creature from your g
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I}. Activate only if you’ve created a token this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-You may play lands from your sanctum.</text>
+      <text>You may play lands from your sanctum.</text>
     </card>
     <card>
       <name>Guardian Roost</name>
@@ -5027,8 +5058,7 @@ You may play lands from your sanctum.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I/W}, Reveal two cards with flying and/or vigilance from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Flying, vigilance
+      <text>Flying, vigilance
 When you cast this spell, if it isn’t a copy, trace three cards named Guardian Roost into your hand.</text>
     </card>
     <card>
@@ -5047,8 +5077,7 @@ When you cast this spell, if it isn’t a copy, trace three cards named Guardian
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound—WW, Reveal two creature cards from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Return target permanent card from your graveyard to the battlefield.</text>
+      <text>Return target permanent card from your graveyard to the battlefield.</text>
     </card>
     <card>
       <name>Path to Ages</name>
@@ -5066,8 +5095,7 @@ Return target permanent card from your graveyard to the battlefield.</text>
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound—1IR. Activate only if you have no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Add IWUBRG.</text>
+      <text>Add IWUBRG.</text>
     </card>
     <card>
       <name>Breach of Protection</name>
@@ -5085,8 +5113,7 @@ Add IWUBRG.</text>
         <notes>!addtoken White Drake Token;</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—{I/W}, Reveal a card with lifelink or healing from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-At the beginning of your end step, create a 2/2 white Drake creature token with flying if you’ve gained 3 or more life this turn.</text>
+      <text>At the beginning of your end step, create a 2/2 white Drake creature token with flying if you’ve gained 3 or more life this turn.</text>
     </card>
     <card>
       <name>Breach of Sanity</name>
@@ -5104,8 +5131,7 @@ At the beginning of your end step, create a 2/2 white Drake creature token with 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound IU (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-At the beginning of each end step, target player mills two cards. If a card with Pathbound was put into a graveyard this way, draw a card.</text>
+      <text>At the beginning of each end step, target player mills two cards. If a card with Pathbound was put into a graveyard this way, draw a card.</text>
     </card>
     <card>
       <name>Breach of Malice</name>
@@ -5123,8 +5149,7 @@ At the beginning of each end step, target player mills two cards. If a card with
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound IR (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Creatures you control have haste.
+      <text>Creatures you control have haste.
 Sacrifice this enchantment: Creatures you control get +2/+0 until end of turn.</text>
     </card>
     <card>
@@ -5143,8 +5168,7 @@ Sacrifice this enchantment: Creatures you control get +2/+0 until end of turn.</
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—IG, Exile a land card from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-You may look at the top card of your library any time.
+      <text>You may look at the top card of your library any time.
 {T}: Reveal the top card of your library. If it’s a land, you may put it onto the battlefield. Otherwise, you may mill it.</text>
     </card>
     <card>
@@ -5163,8 +5187,7 @@ You may look at the top card of your library any time.
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—{I/B}. Activate only if you have seven or more cards in your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-All creatures have deathtouch.
+      <text>All creatures have deathtouch.
 Whenever a creature dies, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -5183,8 +5206,7 @@ Whenever a creature dies, each opponent loses 1 life.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound {2} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Enchant land you control.
+      <text>Enchant land you control.
 Whenever you tap enchanted land, add {I}.
 5II: Target enchantment becomes a 4/4 creature. (This effect lasts indefinitely.)</text>
     </card>
@@ -5204,8 +5226,7 @@ Whenever you tap enchanted land, add {I}.
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound IG (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Choose three cards from your graveyard at random. Put one into your hand. (The rest don’t leave the graveyard.)
+      <text>Choose three cards from your graveyard at random. Put one into your hand. (The rest don’t leave the graveyard.)
 Flashback {I/G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
@@ -5225,8 +5246,7 @@ Flashback {I/G} (You may cast this card from your graveyard for its flashback co
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I} or {1}{U}. Activate only if you cast a nonpermanent spell this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Flying
+      <text>Flying
 Whenever this creature attacks, scry 1.</text>
     </card>
     <card>
@@ -5247,8 +5267,7 @@ Whenever this creature attacks, scry 1.</text>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—IB. Activate only if you have seven or more cards in your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Ward—Discard a card
+      <text>Ward—Discard a card
 When this creature enters, return up to one target creature or artifact from your graveyard to your hand.</text>
     </card>
     <card>
@@ -5268,8 +5287,7 @@ When this creature enters, return up to one target creature or artifact from you
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I}. Activate only if you control two or more permanents with creature types. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-When this creature enters, you may return up to one other target creature or enchantment you control to its owners hand.</text>
+      <text>When this creature enters, you may return up to one other target creature or enchantment you control to its owners hand.</text>
     </card>
     <card>
       <name>Avlod Pathshaper</name>
@@ -5289,8 +5307,7 @@ When this creature enters, you may return up to one other target creature or enc
         <tag>avlod;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I}, Tap a creature you control. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Defender
+      <text>Defender
 Fracture — At the beginning of combat, this creature has flying and can attack as though it didn’t have defender as long as you cast a noncreature spell this turn.</text>
     </card>
     <card>
@@ -5311,8 +5328,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound 1IB. Activate only if you have no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-</text>
+      <text></text>
     </card>
     <card>
       <name>Mordel Reinforcement</name>
@@ -5332,8 +5348,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—1IR. Activate only if you have no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-</text>
+      <text></text>
     </card>
     <card>
       <name>Outlands Guardian</name>
@@ -5353,8 +5368,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I/G}. Activate only if creatures you control have total power 3 or greater. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-</text>
+      <text></text>
     </card>
     <card>
       <name>Paths Strider</name>
@@ -5373,8 +5387,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{1}, Pay 1 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-{T}: Add {I}. Mill a card.</text>
+      <text>{T}: Add {I}. Mill a card.</text>
     </card>
     <card>
       <name>Path of the Proud</name>
@@ -5392,8 +5405,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—{I/W}. Activate only if you gained life this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-When this enchantment enters, you gain 2 life.
+      <text>When this enchantment enters, you gain 2 life.
 Whenever you attack, if you gained life this turn, up to one target creature you control gets +2/+2 until end of turn.</text>
     </card>
     <card>
@@ -5412,8 +5424,7 @@ Whenever you attack, if you gained life this turn, up to one target creature you
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—IU, Put a card from your hand into your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Once each turn, you may cast a nonpermanent spell from your sanctum. that spell costs {U} more to cast, and if that card would be put into a graveyard, exile it instead.</text>
+      <text>Once each turn, you may cast a nonpermanent spell from your sanctum. that spell costs {U} more to cast, and if that card would be put into a graveyard, exile it instead.</text>
     </card>
     <card>
       <name>Path of the Rift</name>
@@ -5431,8 +5442,7 @@ Once each turn, you may cast a nonpermanent spell from your sanctum. that spell 
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—II/B, Exile two permanents you control. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-At the beginning of your upkeep, draw a card. You lose 1 life for each card in your hand.</text>
+      <text>At the beginning of your upkeep, draw a card. You lose 1 life for each card in your hand.</text>
     </card>
     <card>
       <name>Path of the Brood</name>
@@ -5450,8 +5460,7 @@ At the beginning of your upkeep, draw a card. You lose 1 life for each card in y
         <notes>!addtoken RedWurm;</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—{0}. Activate only if an opponent lost life this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-When this enchantment enters, create a 1/1 red Wurm creature token with haste.
+      <text>When this enchantment enters, create a 1/1 red Wurm creature token with haste.
 2R, {T}: Target creature can’t block this turn.</text>
     </card>
     <card>
@@ -5470,8 +5479,7 @@ When this enchantment enters, create a 1/1 red Wurm creature token with haste.
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—{I}, Reveal a card in your hand with mana value 5 or greater. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-When this enchantment enters, create a 1/1 green Wurm with reach.
+      <text>When this enchantment enters, create a 1/1 green Wurm with reach.
 Creature spells you cast with mana value 5 or greater cost {1} less to cast.</text>
     </card>
     <card>
@@ -5490,8 +5498,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound {1} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-{2}: Add one mana of any color.
+      <text>{2}: Add one mana of any color.
 {4}, Sacrifice this artifact: Put a random card from your sanctum into your hand.</text>
     </card>
     <card>
@@ -5606,8 +5613,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Exile a white or silver card from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped unless you control two or more basic lands.
+      <text>This land enters tapped unless you control two or more basic lands.
 {T}: Add {I} or {W}.</text>
     </card>
     <card>
@@ -5627,8 +5633,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {W}.)</text>
     </card>
@@ -5649,8 +5654,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Exile a blue or silver card from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped unless you control two or more basic lands.
+      <text>This land enters tapped unless you control two or more basic lands.
 {T}: Add {I} or {U}.</text>
     </card>
     <card>
@@ -5670,8 +5674,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Exile a red or silver card from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped unless you control two or more basic lands.
+      <text>This land enters tapped unless you control two or more basic lands.
 ({T}: Add {I} or {R}.)</text>
     </card>
     <card>
@@ -5691,8 +5694,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {U}.)</text>
     </card>
@@ -5714,8 +5716,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {B}.)</text>
     </card>
@@ -5736,8 +5737,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {R}.)</text>
     </card>
@@ -5758,8 +5758,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {G}.)</text>
     </card>
@@ -5779,8 +5778,7 @@ When this land enters, surveil 1.
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Pathbound—{1}, Pay 2 life, then exile a multicolor card from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-{T}: Add {C}.
+      <text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color. This ability costs {1} less to activate if it isn’t your first, second, or third turn of the game.</text>
     </card>
     <card>
@@ -5800,8 +5798,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Exile a green or silver card from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped unless you control two or more basic lands.
+      <text>This land enters tapped unless you control two or more basic lands.
 {T}: Add {I} or {G}.</text>
     </card>
     <card>
@@ -5821,8 +5818,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Exile a black or silver card from your graveyard. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped unless you control two or more basic lands.
+      <text>This land enters tapped unless you control two or more basic lands.
 {T}: Add {I} or {B}.</text>
     </card>
     <card>
@@ -6085,8 +6081,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—II, Put two cards from your hand into your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Whenever this creature becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.</text>
+      <text>Whenever this creature becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.</text>
     </card>
     <card>
       <name>Vin-Fault</name>
@@ -6124,8 +6119,7 @@ Whenever this creature becomes the target of a spell or ability, its controller 
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-This land enters tapped.
+      <text>This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {I}.)</text>
     </card>
@@ -6383,6 +6377,29 @@ Once each turn, when you discard a card, you may mill a card. If you do, put up 
       <tablerow>3</tablerow>
       <text>Look at the top two cards of your library and exile one of them. Until the end of your next turn, you may play that card. Put the other on the bottom of your library.
 Create a 1/1 red Wurm creature token with haste.</text>
+    </card>
+    <card>
+      <name>Multaph&apos;s Respite&apos;s Spellbook</name>
+      <set rarity="">VNM</set>
+      <prop>
+        <colors>WUR</colors>
+        <color>WUR</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Spellbook</type>
+        <maintype>Spellbook</maintype>
+        <notes>!addtoken Subdued Rift;Warped Exploration;Cut from Void;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Subdued Rift {W/B}| Skill Sorcery
+Create a 1/1 black and white Cat enchantment creature token.
+Warped Exploration {2}| Skill Sorcery
+Trace a basic land of any type into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
+Cut from Void 2U| Skill Instant
+Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Vin Fault</name>

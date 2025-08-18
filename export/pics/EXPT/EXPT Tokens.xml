@@ -49,64 +49,6 @@ This creature has lifelink as long as it’s a token.</text>
       <reverse-related>Distant Vulture</reverse-related>
     </card>
     <card>
-      <name>Insect Plant Token EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors>I</colors>
-        <type>Token Creature - Insect Plant </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes></notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Wall Token EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact Creature - Wall </type>
-        <maintype>Creature</maintype>
-        <pt>0/3</pt>
-        <notes>Hopeless</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Defender (This creature can’t attack.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Shapeshifter Token EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Creature - Shapeshifter </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Hopeless</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Changeling (This card is every creature type.)</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Robot Token EXPT</name>
-      <set>EXPT</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact Creature - Robot </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>Hopeless
-!related Extant Surveyor;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text></text>
-      <token>1</token>
-      <reverse-related>Extant Surveyor</reverse-related>
-    </card>
-    <card>
       <name>Can Be Cast From Exile EXPT</name>
       <set>EXPT</set>
       <prop>

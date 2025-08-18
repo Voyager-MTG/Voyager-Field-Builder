@@ -321,6 +321,138 @@ Whenever Drown in Self Reflection leaves your graveyard during your turn, you ma
 !designer Kogane</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Apostle Entheate enters, you may exile target nonland permanent. It becomes foretold. (Its foretell cost is its mana cost if it isn’t already specified.)
+      <text>Flying, ward {2}
+When Apostle Entheate enters, you may exile target nonland permanent. It becomes foretold.
 Your opponents can’t cast spells with the same name as the exiled card.</text>
+    </card>
+    <card>
+      <name>Identity Connoisseur</name>
+      <set rarity="">LAIR</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1BB</manacost>
+        <cost>1BB</cost>
+        <mana>1BB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes>!ocean
+!tag&lt;champion> redpandersbear
+!tag&lt;is> champion
+!designer Myr</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Identity Connoisseur enters, target player discards a card.
+Whenever a player discards a card with a creature type, you embrace it, and you may spend mana as though it was mana of any color to cast it. </text>
+    </card>
+    <card>
+      <name>Illuminant Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Lighthouse-398867729</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Illuminant Spire: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ivory Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Ivory Spire: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Searing Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Castle-of-Illusions-1040129195</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Searing Spire: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Silent Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Tower-of-Silence-388926066</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Silent Spire: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Twisted Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Twisted Spire: Search your library for a Fault card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Verdant Spire</name>
+      <set rarity="uncommon">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Spire </type>
+        <maintype>Land</maintype>
+        <notes>https://www.deviantart.com/yanadhyana/art/Tree-of-Ancestors-363677527</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Verdant Spire: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
     </card>

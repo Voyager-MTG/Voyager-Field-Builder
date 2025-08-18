@@ -275,7 +275,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
       </prop>
       <tablerow>2</tablerow>
       <text>You may play an additional land on each of your turns.
-Whenever a land enters under your control for the second time each turn, blank up to one target nonland permanent until your next turn. (It loses all abilities.)</text>
+Whenever a land enters under your control for the second time each turn, blank up to one target nonland permanent until your next turn. (It loses all abilities.) (It loses all abilities.)</text>
     </card>
     <card>
       <name>The Lost Heir</name>
@@ -315,7 +315,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one, then choose another for each card named Unveiling in your graveyard.
-• Blank up to one target nonland permanent until your next turn. (It loses all abilities until your next turn.)
+• Blank up to one target nonland permanent until your next turn. (It loses all abilities until your next turn.) (It loses all abilities.)
 • Draw a card from your sanctum or library.
 • Counter up to one target activated or triggered ability.
 • Create a 1/1 silver Elemental creature token with flying and another with lifelink.</text>
@@ -357,7 +357,7 @@ https://www.deviantart.com/yanadhyana/art/Guardian-Angel-944608827</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Eschewer of Form deals combat damage to a player, you may embrace a card with a creature type from your hand. If you do, draw a card. (Exile it. You may play it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)</text>
+Whenever Eschewer of Form deals combat damage to a player, you may embrace a card with a creature type from your hand. If you do, draw a card. (Exile it. You may play it on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.) ()</text>
     </card>
     <card>
       <name>Era, Hymn to Creation</name>
@@ -377,7 +377,7 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
 !designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control four or more permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Flying, ward {2}
 Era isn’t a creature unless you’ve illuminated silver.
 Whenever a token you control attacks, each opponent loses 1 life.</text>
@@ -421,7 +421,7 @@ https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
 https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever a creature you control deals combat damage to a player, you may liberate target creature or token you control. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
+      <text>Whenever a creature you control deals combat damage to a player, you may liberate target creature or token you control. (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.) (Exile it if it isn’t a Dragon. If it’s exiled, its controller creates a colorless 3/2 Dragon creature token with its abilities.)</text>
     </card>
     <card>
       <name>Kaiju Sighting</name>
@@ -521,8 +521,7 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pathbound—1II. Activate only if you have no cards in your graveyard with mana value 2 or 3. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.</text>
+      <text>At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.</text>
     </card>
     <card>
       <name>One Last Sunset</name>
@@ -580,8 +579,7 @@ Whenever you create a token that doesn’t share a name with a token you control
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—1I. Activate only if a card that shares a creature type with this dealt damage to an opponent this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Flying
+      <text>Flying
 Whenever this creature attacks, sift 1. (Look at the top card of your library. You may put that card into your sanctum.)</text>
     </card>
     <card>
@@ -600,8 +598,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Pathbound {2}, Activate only if there are no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Discard your hand, then draw three cards.</text>
+      <text>Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Against the Night</name>
@@ -885,7 +882,8 @@ https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
         <notes>!designer Trewq</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text> 2II —  </text>
+      <text>Flying, haste
+This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Extant Surveyor</name>
@@ -1030,6 +1028,25 @@ Flying
 When this creature enters, create a 2/2 silver Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
     </card>
     <card>
+      <name>Insect Plant Token</name>
+      <set rarity="common">EXPT</set>
+      <prop>
+        <colors>I</colors>
+        <color>I</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
       <name>Syphroid</name>
       <set rarity="uncommon">EXPT</set>
       <prop>
@@ -1111,6 +1128,25 @@ This creature gets +1/+0 for each token you control.
       <tablerow>2</tablerow>
       <text>Menace
 Channel — 2I, Discard this: Draw two cards. Activate only if you control a token.</text>
+    </card>
+    <card>
+      <name>Wall Token</name>
+      <set rarity="common">EXPT</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)</text>
     </card>
     <card>
       <name>Xylem Attendant</name>
@@ -1446,6 +1482,45 @@ also, maybe 7 mana
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
 Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+    </card>
+    <card>
+      <name>Shapeshifter Token</name>
+      <set rarity="common">EXPT</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+    </card>
+    <card>
+      <name>Robot Token</name>
+      <set rarity="common">EXPT</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless
+!related Extant Surveyor;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
     </card>
     <card>
       <name>Sample Skimmer</name>
@@ -2021,7 +2096,7 @@ When enchanted creature dies, if you controlled it, return Blooming Peculiarity 
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature gets +3/-3 until end of turn.
-You may return a Fault you control to its owners hand rather than pay this spell’s mana cost as long as your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
+You may return a Fault you control to its owners hand rather than pay this spell’s mana cost as long as your complexity is three or greater. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)</text>
     </card>
     <card>
       <name>Nildiver</name>
@@ -2041,8 +2116,8 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Vigilance
-As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>
@@ -2303,7 +2378,7 @@ Whenever Raging Rubigrug becomes the target of a spell for the first time each t
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)
+      <text>Unrelenting (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.) (When this creature dies, if it wasn’t a token, you may discard a card to create a token that’s a copy of it with haste.)
 When Dessigry enters, create a 1/1 silver Drake creature token with flying.</text>
     </card>
     <card>
@@ -2322,7 +2397,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever one or more creatures you control lose toughness, induct. This ability only triggers twice per turn. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.)</text>
+      <text>Whenever one or more creatures you control lose toughness, induct. This ability only triggers twice per turn. (Create a 0/1 Cleric creature token with “Sacrifice two other Clerics: Transform this creature.” It transforms into a 4/4 God Horror creature token that can’t block.) (Create a 0/1 Cleric creature token with “As a sorcery, sacrifice two other Clerics: Transform into a 4/4 God Horror that can’t block.”)</text>
     </card>
     <card>
       <name>Blank</name>
@@ -2379,7 +2454,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
         <notes>https://www.deviantart.com/justsirenart/art/Crab-On-The-Beach-Low-Poly-Art-Blender-3d-385947005</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.) (When this enters, up to one target permanent gains its abilities until end of turn.)
 When this creature dies, create a trace of Fault into your hand.
 Fault|Basic Land – Fault
 ({T}: Add {I}.)</text>

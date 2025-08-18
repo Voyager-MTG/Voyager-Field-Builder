@@ -194,7 +194,7 @@ When this creature enters or transforms into The Sister-and-Witch, target creatu
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature can’t be blocked.
-Whenever equipped creature deals combat damage to a player, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+Whenever equipped creature deals combat damage to a player, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 Equip—Discard a card.</text>
     </card>
     <card>
@@ -253,7 +253,7 @@ Whenever Dreamway Key deals combat damage to a player, untap up to one target cr
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Counter target spell. You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Counter target spell. You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Sensation Ascender</name>
@@ -862,7 +862,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Broken Sun-Servant enters, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>When Broken Sun-Servant enters, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Forge Secretkeeper</name>
@@ -919,7 +919,7 @@ Enchanted creature can’t attack, block, or be sacrificed.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Iron Verdict deals 5 damage to target tapped creature.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Legacy of Tides</name>
@@ -1015,7 +1015,7 @@ Sacrifice it at the beginning of the next end step unless you pay {2}.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature you control. If this spell was cast from exile, create two of those tokens instead.
-Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Sea&apos;s Feasting</name>
@@ -1146,7 +1146,7 @@ At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Stained Silver enters, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+      <text>When Stained Silver enters, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 Equipped creature gets +2/+0.
 Equip 1R</text>
     </card>
@@ -1167,7 +1167,7 @@ Equip 1R</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Subvert the Light deals 3 damage to any  target. If this spell was cast from exile, it deals 4 damage instead.
-Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {R} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Subverting Insurgent</name>
@@ -1322,7 +1322,7 @@ Ezeem, the Second Thirstly gets +X/+0, where X is the greatest amount of life a 
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy up to one target artifact or enchantment. If this spell was cast from exile, you gain 3 life and draw a card.
-Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 2W (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ignite Fervor</name>
@@ -1399,7 +1399,7 @@ Exile target creature or enchantment.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Fucine Translator enters, if it was cast from exile, return target instant or sorcery card from your graveyard to your hand. 
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Forgotten Tongues</name>
@@ -1419,7 +1419,7 @@ Foretell 1U (During your turn, you may pay {2} and exile this card from your han
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 Draw two cards.
-Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Take Prisoners</name>
@@ -1457,7 +1457,7 @@ Foretell {U} (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+Whenever you exile one or more cards, you get a Scar if this is the first time this ability has resolved this turn. Otherwise, you gain 1 life. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Sun-Scorched Tempering</name>
@@ -1476,7 +1476,7 @@ Whenever you exile one or more cards, you get a Scar if this is the first time t
       </prop>
       <tablerow>3</tablerow>
       <text>Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Lost Seraph</name>
@@ -1557,7 +1557,7 @@ Whenever Angel of the True Sun enters or a Sanctuary you control is put into a g
       <tablerow>2</tablerow>
       <text>Vigilance
 When Rarefied Illuminator enters, look at the top three cards of your library. You may exile a creature card with mana value 3 or less from among them. It becomes foretold. Put the rest on the bottom of your library in any order. (Its foretell cost is its mana cost if it isn’t already specified.)
-Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Sunshard Protector</name>
@@ -1913,7 +1913,7 @@ Lands your opponents control with counters on them are Mountains.</text>
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+      <text>You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 Target creature you control fights up to one target creature you don’t control. </text>
     </card>
     <card>
@@ -1933,7 +1933,7 @@ Target creature you control fights up to one target creature you don’t control
       </prop>
       <tablerow>3</tablerow>
       <text>Exile the top card of your library. Until the end of your next turn, you may play that card.
-You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Bringer of Glory</name>
@@ -1991,7 +1991,7 @@ As long as you control a Cleric, Relic Vial has “Whenever a creature you contr
 !addtoken Scar;1</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>{1}, {T}: You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Nowhere Deathlord</name>
@@ -2011,7 +2011,7 @@ As long as you control a Cleric, Relic Vial has “Whenever a creature you contr
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+Whenever you sacrifice a nontoken creature, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Nowhere Dreadsteed</name>
@@ -2050,7 +2050,7 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with 
       <tablerow>1</tablerow>
       <text>At the beginning of your end step, if you attacked, choose one—
 • If a creature you control died this turn, create a 2/2 green Wolf creature token.
-• You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+• You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Guided Crusader</name>
@@ -2071,7 +2071,7 @@ Whenever you sacrifice a nontoken creature, you get a Scar. (It’s a boon with 
       <tablerow>2</tablerow>
       <text>Vigilance
 When Guided Crusader enters, if it was cast from exile, create a 2/2 white Angel creature token with flying.
-Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 4WW (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Cindered Tally</name>
@@ -2091,7 +2091,7 @@ Foretell 4WW (During your turn, you may pay {2} and exile this card from your ha
       <tablerow>3</tablerow>
       <text>This spell has flash as long as it’s foretold.
 If this spell was cast from exile, surveil 2. You draw two cards and lose 2 life.
-Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1B (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Escape into the Night</name>
@@ -2149,7 +2149,7 @@ Whenever Raw Prophet attacks, you may discard a card. If you do, draw a card.</t
       </prop>
       <tablerow>3</tablerow>
       <text>Target creature you control gains hexproof until end of turn. If this spell was cast from exile, it gets +3/+3 until end of turn. 
-Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell {G} (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Ring-Yew&apos;s Chosen</name>
@@ -2404,7 +2404,7 @@ Enchanted creature gets +1/+1 and has vigilance.</text>
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield tapped. If it’s an Angel card, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield tapped. If it’s an Angel card, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Seven-Coil Glider</name>
@@ -2446,7 +2446,7 @@ reprint
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Eyes Everywhere</name>
@@ -2523,7 +2523,7 @@ This spell costs {2} less to cast for each card you’ve drawn this turn.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>This spell has flash as long as it’s foretold.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Nowhere Soul Collector</name>
@@ -2582,7 +2582,7 @@ When you sacrifice Nowhere Soul Collector, draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>1U: Opener of Realities cant be blocked this turn.
-Whenever Opener of Realities deals combat damage to a player, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+Whenever Opener of Realities deals combat damage to a player, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>River Drowner</name>
@@ -2976,7 +2976,7 @@ When Nowhere Ascender enters, you may sacrifice a creature. If you do, put a +1/
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Students of Rememberance</name>
@@ -3054,7 +3054,7 @@ When Sky-Scar Angel enters, target creature gets -2/-2 until end of turn and you
       <tablerow>2</tablerow>
       <text>Reach
 When Enflamed Caligine enters, if it was cast from exile, it gains haste until end of turn.
-Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 3R (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Entry Consultant</name>
@@ -3270,7 +3270,7 @@ Whenever Malleary Reforged attacks, if you control a God, it deals 2 damage to a
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>2G, Exile Carapace Disciple from your graveyard: Put two +1/+1 counters on target creature and you get a Scar. Activate only as a sorcery. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>2G, Exile Carapace Disciple from your graveyard: Put two +1/+1 counters on target creature and you get a Scar. Activate only as a sorcery. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Carapace Threadbearer</name>
@@ -3372,7 +3372,7 @@ Whenever you draw your second card each turn, induct. (Create a 0/1 Cleric creat
 !addtoken Scar;1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Debilitated Tragulari enters, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+      <text>When Debilitated Tragulari enters, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 When Debilitated Tragulari enters, choose two target creatures controlled by different players. Those creatures fight each other.</text>
     </card>
     <card>
@@ -3391,7 +3391,7 @@ When Debilitated Tragulari enters, choose two target creatures controlled by dif
         <notes>!addtoken Scar;1</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while its tapped, you get a Scar.” (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Until end of turn, target creature gets +3/+3 and gains “Whenever this creature is dealt damage while its tapped, you get a Scar.” (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Ordeal of Defiance</name>
@@ -3876,7 +3876,7 @@ Whenever Glassgarden Watcheye attacks, induct twice. Tokens created this way are
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature loses all abilities and becomes a Cleric with base power and toughness 0/1. You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Until end of turn, target creature loses all abilities and becomes a Cleric with base power and toughness 0/1. You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Ophidian Soul</name>
@@ -4012,7 +4012,7 @@ Whenever Malleary Augmenter or another Cleric you control enters, you may pay {R
       </prop>
       <tablerow>2</tablerow>
       <text>As long as you exiled a card this turn, Malleary Smelter is a Phoenix with flying and haste.
-Foretell 1R (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1R (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Opener of Glass</name>
@@ -4052,7 +4052,7 @@ Whenever Opener of Glass is dealt damage, it deals that much damage to any targe
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+When Tattered Cyprian enters, if an opponent lost life this turn, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Drowning Cyprian</name>
@@ -4194,7 +4194,7 @@ Whenever The Thunderskin attacks, create an enchantment token named Heartbeat wi
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Whenever Ravenous Unmaker is dealt damage you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
+Whenever Ravenous Unmaker is dealt damage you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)
 Whenever a boon you own triggers, create a 2/2 green Wolf creature token.</text>
     </card>
     <card>
@@ -4451,7 +4451,7 @@ If you own 36 or more cards in exile, you win the game. Otherwise, Rite Intercal
       <tablerow>2</tablerow>
       <text>Reach
 If you would draw a card, instead mill three cards.
-{1}: Exile up to two target cards from your graveyard. Copy those cards. You may cast the copies. Activate only once during each of your turns.</text>
+{1}: Return up to two target cards from your graveyard to your hand. Activate only during your turn and only once each turn.</text>
     </card>
     <card>
       <name>Spirit of Defiance</name>
@@ -4721,7 +4721,7 @@ Whenever Territorial Yew-Maw is dealt damage during your turn, destroy up to one
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Destroy target enchantment or creature. If you control an Angel or a God, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+      <text>Destroy target enchantment or creature. If you control an Angel or a God, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Percussigant</name>
@@ -5009,7 +5009,7 @@ Discard X cards, Sacrifice Legacy of the Wheel: Until end of turn, you may play 
       <tablerow>2</tablerow>
       <text>Flash
 When Painted Distorter enters, counter target spell if its a noncreature spell or if Painted Distorter was cast from exile.
-Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 3UU (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Skin&apos;s Division</name>
@@ -5028,7 +5028,7 @@ Foretell 3UU (During your turn, you may pay {2} and exile this card from your ha
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target permanent spell unless its controller pays {3}. If this spell was foretold, instead counter that spell, then surveil 2.
-Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
+Foretell 1U (During your turn, you may pay {2} and exile this card from your hand face down. Play it on a later turn for its foretell cost.)</text>
     </card>
     <card>
       <name>Verse Open</name>
@@ -5168,7 +5168,7 @@ When Herald of Loss enters, each opponent puts a foretold card to the graveyard 
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to your hand.
-You get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+You get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Monument of Rags</name>
@@ -5207,7 +5207,7 @@ You get a Scar. (It’s a boon with “When a creature you control dies, you may
       <tablerow>2</tablerow>
       <text>Menace
 When Nowhere Stygian enters, each opponent puts a foretold card to their graveyard or discards a card.
-Whenever a player discards one or more cards, you get a Scar. (It’s a boon with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
+Whenever a player discards one or more cards, you get a Scar. (They’re boons with “When a creature you control dies, you may pay {1}. If you do, draw a card.”)</text>
     </card>
     <card>
       <name>Skintwist</name>

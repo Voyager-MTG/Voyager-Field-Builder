@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of a token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -2756,7 +2756,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of a token you control.)
+• Mirror. (Create a token thats a copy of another token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -3008,6 +3008,28 @@ Evoke {B/R} (You may cast this spell for its evoke cost. If you do, it’s sacri
       <tablerow>2</tablerow>
       <text>When this creature enters, create a 2/1 black and red Elemental Demon creature token with lifelink and haste.
 {1}, Sacrifice another creature: Put a +1/+1 counter on this creature. It gains lifelink until end of turn.</text>
+    </card>
+    <card>
+      <name>Guardian of the Cinders</name>
+      <set rarity="uncommon">FOE</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Creature - Icon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!related Remnants of the War&lt;attach>;
+
+https://www.artstation.com/artwork/e0L0OG
+Note:Backside</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample</text>
     </card>
     <card>
       <name>Mourncast Disciple</name>
@@ -5743,7 +5765,7 @@ Explorer — 1R: This creature gets +2/+0 and gains trample until end of turn. A
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Broodmages Furor</name>
@@ -6644,7 +6666,7 @@ Whenever this creature attacks, if you’ve illuminated silver, create a tapped 
         <mana>1I</mana>
         <cmc>2</cmc>
         <mv>2</mv>
-        <type>Enchamtment Creature - Icon Wizard </type>
+        <type>Enchantment Creature - Icon Wizard </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
         <notes></notes>
@@ -6967,6 +6989,29 @@ Activated abilities of sources with the chosen name can’t be activated unless 
       <text>Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from this planeswalker and draw a card. If you don’t, you gain 2 life.
 [+1]: You may tap or untap up to one target nonland permanent.
 [0]: Target player draws a card, then discards a card.</text>
+    </card>
+    <card>
+      <name>Kera, Mordel&apos;s New Hope</name>
+      <set rarity="rare">FOE</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes>!related Mordel Civil War;
+!addtoken Mordel Civil War;transform;
+!tag fascism;</notes>
+        <tag>fascism;</tag>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the end of your first postcombat main phase, if this creature entered the battlefield this turn, untap a creature you control, then after this phase, there’s an additional combat phase followed by an additional postcombat main phase.</text>
     </card>
     <card>
       <name>Mordel Civil War</name>
@@ -7663,6 +7708,29 @@ When this creature enters, until end of turn, you may cast a copy of a Focus fro
 Counter target activated or triggered ability from an artifact or enchantment source. (Then put this into your sanctum.)</text>
     </card>
     <card>
+      <name>Jothi-01</name>
+      <set rarity="common">FOE</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Token Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Jothi;
+!exportname Jothi-01</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Jothi enters, put a +1/+1 counter on up to one target creature.
+{+1}: Target creature you control gets +1/+1 until end of turn. If it entered this turn, put a +1/+1 counter on it.
+{-4}: Create a token that’s a copy of Jothi, except it’s not legendary, doesn’t enter with loyalty counters and is a 1/1 Bird creature with flying.</text>
+    </card>
+    <card>
       <name>Exhuberant Genesis</name>
       <set rarity="rare">FOE</set>
       <prop>
@@ -7680,6 +7748,25 @@ Counter target activated or triggered ability from an artifact or enchantment so
       <tablerow>3</tablerow>
       <text>Mill two cards. You may put a permanent card from among the milled cards into your hand.
 Explorer — If you control five or more differently named lands, you may instead mill two cards, then you put a card from your graveyard into your hand. If you do, exile this spell.</text>
+    </card>
+    <card>
+      <name>Meirel Drifter (Luminous)</name>
+      <set rarity="common">FOE</set>
+      <prop>
+        <colors>I</colors>
+        <color>I</color>
+        <manacost>I</manacost>
+        <cost>I</cost>
+        <mana>I</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Fox Scout </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
     </card>
     <card>
       <name>Emergent Parasitism</name>

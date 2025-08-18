@@ -743,7 +743,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <tablerow>2</tablerow>
       <text>Defender
 {1}, {T}: [Add one mana of any color.]
-Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {1}. Then exile it.)</text>
+Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Curious Courier</name>
@@ -1059,7 +1059,7 @@ When Scrappy Wisp-Speaker dies, if there is a card exiled with it, create a 1/1 
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever you cast a noncreature spell, you may [create an X/X black Spirit creature token that can’t block], where X is that spell’s mana value.
-Impetus — XB, Pay X life. (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus cost— XB, Pay X life. (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.) (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Smug Upstart</name>
@@ -3977,7 +3977,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 1G ()</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
