@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Faerie Horror ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Faerie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.deviantart.com/thedancingemu/art/Keeper-794267996</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Horror ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Ringing Noise ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Illusion ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Nightmare ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Everywhere ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Land</type>
+        <maintype>Land</maintype>
+        <notes>!related Strange Wayfarer</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land has every basic land type.</text>
+      <token>1</token>
+      <reverse-related>Strange Wayfarer</reverse-related>
+    </card>
+    <card>
+      <name>Echo ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Planeswalker - Echo </type>
+        <maintype>Planeswalker</maintype>
+        <notes>!related The Eternal Echo</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>The Eternal Echo</reverse-related>
+    </card>
+    <card>
+      <name>Ancient Forerunner ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I8
+!related Ancient Forerunner;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ancient Forerunner ITD has first strike during your turn.
+When this creature enters, it deals damage equal to its power to each opponent.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Ancient Forerunner</reverse-related>
+    </card>
+    <card>
+      <name>Cloudscape Observer ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I1
+!related Cloudscape Observer;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Cloudscape Observer</reverse-related>
+    </card>
+    <card>
+      <name>Deepmind Oracle ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I2
+!related Deepmind Oracle;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, surveil X, where X is its power.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Deepmind Oracle</reverse-related>
+    </card>
+    <card>
+      <name>Emergent Anomaly ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I3
+!related Emergent Anomaly;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever this creature attacks, tap up to one target creature.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Emergent Anomaly</reverse-related>
+    </card>
+    <card>
+      <name>Fracture of Divinity ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Demigod Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I4
+!related Fracture of Divinity;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Fracture of Divinity</reverse-related>
+    </card>
+    <card>
+      <name>Lammasu, Dream-Stilled ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Artifact Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I5
+!related Lammasu, Dream-Stilled;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, return target instant or sorcery card from your graveyard to your hand.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Lammasu, Dream-Stilled</reverse-related>
+    </card>
+    <card>
+      <name>Mechanised Hunter ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I6
+!related Mechanised Hunter;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. </text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Mechanised Hunter</reverse-related>
+    </card>
+    <card>
+      <name>New-Life Acolyte ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I9
+!related New-Life Acolyte;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact spells you cast with mana value 2 or greater cost {1} less to cast. </text>
+      <token>1</token>
+      <reverse-related persistent="persistent">New-Life Acolyte</reverse-related>
+    </card>
+    <card>
+      <name>Priest of Perfection ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I7
+!related Priest of Perfection;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Priest of Perfection</reverse-related>
+    </card>
+    <card>
+      <name>Shifting Silverscape ITD ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Artifact Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes>!tokentag I10
+!related Shifting Silverscape;
+!conjured</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">Shifting Silverscape</reverse-related>
+    </card>
+    <card>
+      <name>Insect ITD</name>
+      <set>ITD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.deviantart.com/smorekr/art/Fatal-Attraction-883246854</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
