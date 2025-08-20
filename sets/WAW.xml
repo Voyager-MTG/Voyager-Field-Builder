@@ -11,7 +11,7 @@
 
     <card>
       <name>A Beloved World</name>
-      <set rarity="mythic">WAW</set>
+      <set num="236" rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31,7 +31,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Alpine Borderholt</name>
-      <set rarity="common">WAW</set>
+      <set num="234" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -50,7 +50,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Aurora-Lit Valley</name>
-      <set rarity="common">WAW</set>
+      <set num="235" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -69,7 +69,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Bottom of the Deepmists</name>
-      <set rarity="rare">WAW</set>
+      <set num="237" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -89,7 +89,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Branching Grotto</name>
-      <set rarity="common">WAW</set>
+      <set num="238" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -109,7 +109,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Citadel Chapel</name>
-      <set rarity="common">WAW</set>
+      <set num="240" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -128,7 +128,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Citadel Observatory</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="241" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -147,7 +147,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Underholt Gateway</name>
-      <set rarity="common">WAW</set>
+      <set num="260" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -166,7 +166,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="">WAW</set>
+      <set num="266" rarity="">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -184,7 +184,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Island</name>
-      <set rarity="">WAW</set>
+      <set num="263" rarity="">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -202,7 +202,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Megaflora Floodplain</name>
-      <set rarity="common">WAW</set>
+      <set num="245" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -221,7 +221,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="">WAW</set>
+      <set num="265" rarity="">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -239,7 +239,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>New Tensuo Colony</name>
-      <set rarity="rare">WAW</set>
+      <set num="246" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -259,7 +259,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Opulent Labyrinth</name>
-      <set rarity="common">WAW</set>
+      <set num="247" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -278,7 +278,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="">WAW</set>
+      <set num="262" rarity="">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -296,7 +296,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Promising Hillside</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="248" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -316,7 +316,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Promising Lagoon</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="249" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -336,7 +336,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Promising Plume</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="250" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -356,7 +356,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Promising Ruin</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="251" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -376,7 +376,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Promising Thicket</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="252" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -396,7 +396,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Skyview Zenith</name>
-      <set rarity="common">WAW</set>
+      <set num="254" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -415,7 +415,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Splinter of Ilcae</name>
-      <set rarity="rare">WAW</set>
+      <set num="255" rarity="rare">WAW</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -435,7 +435,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Starsea Nadir</name>
-      <set rarity="common">WAW</set>
+      <set num="257" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -454,7 +454,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Stonewrought Hall</name>
-      <set rarity="common">WAW</set>
+      <set num="258" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -473,7 +473,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Surreal Highlands</name>
-      <set rarity="common">WAW</set>
+      <set num="259" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -492,7 +492,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="">WAW</set>
+      <set num="264" rarity="">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -510,7 +510,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Citadel</name>
-      <set rarity="rare">WAW</set>
+      <set num="239" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -530,7 +530,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Deepmists</name>
-      <set rarity="rare">WAW</set>
+      <set num="242" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -550,7 +550,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Heart of Ischav</name>
-      <set rarity="mythic">WAW</set>
+      <set num="243" rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -570,7 +570,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Holt</name>
-      <set rarity="rare">WAW</set>
+      <set num="244" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -590,7 +590,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Skyview</name>
-      <set rarity="rare">WAW</set>
+      <set num="253" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -610,7 +610,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>The Starsea</name>
-      <set rarity="rare">WAW</set>
+      <set num="256" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -630,7 +630,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Wanderer&apos;s Shrine</name>
-      <set rarity="rare">WAW</set>
+      <set num="261" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -648,7 +648,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Ambling Myceliad</name>
-      <set rarity="common">WAW</set>
+      <set num="146" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -668,7 +668,7 @@ Lands you control have “{T}: Add one mana of any color noted by A Beloved Worl
     </card>
     <card>
       <name>Ancient Viewdrifter</name>
-      <set rarity="rare">WAW</set>
+      <set num="228" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -688,7 +688,7 @@ Ploy—Exile target nonbasic land. Its controller may search their library for a
     </card>
     <card>
       <name>Arrival of the Wonderlands</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="147" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -707,7 +707,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
     </card>
     <card>
       <name>Chitterbit</name>
-      <set rarity="rare">WAW</set>
+      <set num="150" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -726,7 +726,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
     </card>
     <card>
       <name>Cryptic Columns</name>
-      <set rarity="common">WAW</set>
+      <set num="230" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -747,7 +747,7 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Curious Courier</name>
-      <set rarity="common">WAW</set>
+      <set num="14" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -767,7 +767,7 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Dhere, Preserver of Memories</name>
-      <set rarity="rare">WAW</set>
+      <set num="2" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -786,7 +786,7 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Dissolution Specimen</name>
-      <set rarity="common">WAW</set>
+      <set num="47" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -806,7 +806,7 @@ Impetus {1} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Drifting Opportunist</name>
-      <set rarity="common">WAW</set>
+      <set num="117" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -826,7 +826,7 @@ When Drifting Opportunist enters, you may discard a card. If you do, pursue Wond
     </card>
     <card>
       <name>Escalate to Violence</name>
-      <set rarity="rare">WAW</set>
+      <set num="87" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -844,7 +844,7 @@ When Drifting Opportunist enters, you may discard a card. If you do, pursue Wond
     </card>
     <card>
       <name>Heat of Potential</name>
-      <set rarity="common">WAW</set>
+      <set num="120" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -863,7 +863,7 @@ Augmented — Heat of Potential deals 5 damage to that target instead if you’v
     </card>
     <card>
       <name>Holt Sleeper</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="18" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -883,7 +883,7 @@ Whenever you cast a blue, black, red, or green spell, untap Holt Sleeper and you
     </card>
     <card>
       <name>Insight Beyond the Clouds</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="51" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -901,7 +901,7 @@ Whenever you cast a blue, black, red, or green spell, untap Holt Sleeper and you
     </card>
     <card>
       <name>Larissi, Wonder Weaver</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="53" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -923,7 +923,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
     </card>
     <card>
       <name>Lost in the Horizon</name>
-      <set rarity="common">WAW</set>
+      <set num="24" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -944,7 +944,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
     </card>
     <card>
       <name>Mesmerize</name>
-      <set rarity="common">WAW</set>
+      <set num="204" rarity="common">WAW</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -962,7 +962,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
     </card>
     <card>
       <name>New Tensuo Luminary</name>
-      <set rarity="rare">WAW</set>
+      <set num="26" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -982,7 +982,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Prismatic Armor</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="30" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1002,7 +1002,7 @@ During your turn, enchanted creature has first strike and vigilance.</text>
     </card>
     <card>
       <name>Pyretic Desire</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="129" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1024,7 +1024,7 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, choose one.
     </card>
     <card>
       <name>Scrappy Wisp-Speaker</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="132" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1044,7 +1044,7 @@ When Scrappy Wisp-Speaker dies, if there is a card exiled with it, create a 1/1 
     </card>
     <card>
       <name>Shapes in the Pools</name>
-      <set rarity="rare">WAW</set>
+      <set num="67" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1063,7 +1063,7 @@ Impetus cost— XB, Pay X life. (You may cast this from your graveyard as a sorc
     </card>
     <card>
       <name>Smug Upstart</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="134" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1083,7 +1083,7 @@ WU: Return another target nonland permanent you control to its owner’s hand.</
     </card>
     <card>
       <name>Stare at the Stars</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="98" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1102,7 +1102,7 @@ Impetus {B} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Starstruck Skitter</name>
-      <set rarity="mythic">WAW</set>
+      <set num="135" rarity="mythic">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1122,7 +1122,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Subsume</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="99" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1140,7 +1140,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Treacherous Guide</name>
-      <set rarity="common">WAW</set>
+      <set num="102" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1160,7 +1160,7 @@ Ploy—Each player loses 1 life and you draw a card. (When this creature attacks
     </card>
     <card>
       <name>Weaving Reality in a Tapestry</name>
-      <set rarity="common">WAW</set>
+      <set num="170" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1179,7 +1179,7 @@ Augmented — If you’ve spent WUBRG to cast spells this turn, put four +1/+1 c
     </card>
     <card>
       <name>Windwish Pests</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="38" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1200,7 +1200,7 @@ As long as you control a nontoken red or black permanent, Windwish Pests gets +1
     </card>
     <card>
       <name>Wish for Separation</name>
-      <set rarity="rare">WAW</set>
+      <set num="75" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1221,7 +1221,7 @@ Choose one. If this spell emerged, you may choose both.
     </card>
     <card>
       <name>Worldsoul Wanderer</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="176" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1241,7 +1241,7 @@ You may cast Worldsoul Wanderer from your graveyard by paying WUBRG rather than 
     </card>
     <card>
       <name>Abrasive Trailblazer</name>
-      <set rarity="common">WAW</set>
+      <set num="111" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1260,7 +1260,7 @@ You may cast Worldsoul Wanderer from your graveyard by paying WUBRG rather than 
     </card>
     <card>
       <name>Ageless Wayfarer</name>
-      <set rarity="rare">WAW</set>
+      <set num="144" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1280,7 +1280,7 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
     </card>
     <card>
       <name>Alpine Poolseeker</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="10" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1299,7 +1299,7 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
     </card>
     <card>
       <name>Blossoming Comprehension</name>
-      <set rarity="common">WAW</set>
+      <set num="42" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1318,7 +1318,7 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Blossoming Dissenter</name>
-      <set rarity="common">WAW</set>
+      <set num="77" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1338,7 +1338,7 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Calculated Risk</name>
-      <set rarity="common">WAW</set>
+      <set num="78" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1359,7 +1359,7 @@ When enchanted creature dies, you may return it to the battlefield under its own
     </card>
     <card>
       <name>Collector of the Wonderful</name>
-      <set rarity="rare">WAW</set>
+      <set num="116" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1379,7 +1379,7 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
     </card>
     <card>
       <name>Condensed Memory</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="229" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1399,7 +1399,7 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
     </card>
     <card>
       <name>Corrupted Wish</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="82" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1417,7 +1417,7 @@ Whenever you attack, you may discard a card. If you do, draw a card. If Collecto
     </card>
     <card>
       <name>Deepmist Bandit</name>
-      <set rarity="common">WAW</set>
+      <set num="84" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1437,7 +1437,7 @@ Ploy — Target opponent reveals their hand and discards a nonland card of your 
     </card>
     <card>
       <name>Deepmists Vindicator</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="85" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1457,7 +1457,7 @@ Impetus 4B (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Exhaust Desire</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="193" rarity="uncommon">WAW</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1475,7 +1475,7 @@ Impetus 4B (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Feral Prelwort</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="155" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1496,7 +1496,7 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
     </card>
     <card>
       <name>Giatela, Tensu Emissary</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="16" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1518,7 +1518,7 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
     </card>
     <card>
       <name>Ilcan Keyseeker</name>
-      <set rarity="common">WAW</set>
+      <set num="19" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1538,7 +1538,7 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
     </card>
     <card>
       <name>Ilcan Resilience</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="20" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1557,7 +1557,7 @@ Impetus 1B (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Into the Rootways</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="160" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1576,7 +1576,7 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
     </card>
     <card>
       <name>Lakebed Wrudge</name>
-      <set rarity="rare">WAW</set>
+      <set num="52" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1597,7 +1597,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Liberators of the Soul</name>
-      <set rarity="rare">WAW</set>
+      <set num="22" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1616,7 +1616,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Lifelighter</name>
-      <set rarity="common">WAW</set>
+      <set num="23" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1637,7 +1637,7 @@ Impetus {W} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Memory Lane</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="55" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1656,7 +1656,7 @@ Impetus {W} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>New Tensuo Spy</name>
-      <set rarity="common">WAW</set>
+      <set num="60" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1676,7 +1676,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Olse, Steward of Ilcae&apos;s Ember</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="164" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1695,7 +1695,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Outclass</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="61" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1713,7 +1713,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Overeager Researcher</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="62" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1733,7 +1733,7 @@ Ploy — Creatures you control can’t be blocked by creatures with greater powe
     </card>
     <card>
       <name>Playful Skulk</name>
-      <set rarity="common">WAW</set>
+      <set num="127" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1749,11 +1749,11 @@ Ploy — Creatures you control can’t be blocked by creatures with greater powe
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: [Target creature you control gains haste until end of turn.]
-Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {R}. Then exile it.)</text>
     </card>
     <card>
       <name>Pull of the Unknown</name>
-      <set rarity="common">WAW</set>
+      <set num="212" rarity="common">WAW</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -1771,7 +1771,7 @@ Impetus {R} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Rapturous Joy</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="31" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1791,7 +1791,7 @@ As long as you control enchanted creature, it gets +2/+1. Otherwise, it can’t 
     </card>
     <card>
       <name>Rootway Delver</name>
-      <set rarity="common">WAW</set>
+      <set num="165" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1810,7 +1810,7 @@ As long as you control enchanted creature, it gets +2/+1. Otherwise, it can’t 
     </card>
     <card>
       <name>Rotting Structure</name>
-      <set rarity="common">WAW</set>
+      <set num="167" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1830,7 +1830,7 @@ When Rotting Structure enters or is put into a graveyard from the battlefield, d
     </card>
     <card>
       <name>Secrets of the Citadel</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="213" rarity="uncommon">WAW</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -1849,7 +1849,7 @@ Draw three cards.</text>
     </card>
     <card>
       <name>Silent Reposid</name>
-      <set rarity="common">WAW</set>
+      <set num="216" rarity="common">WAW</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1868,7 +1868,7 @@ Draw three cards.</text>
     </card>
     <card>
       <name>Spectral Blade</name>
-      <set rarity="common">WAW</set>
+      <set num="220" rarity="common">WAW</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1887,7 +1887,7 @@ Equip {3}</text>
     </card>
     <card>
       <name>Starsea Diver</name>
-      <set rarity="common">WAW</set>
+      <set num="34" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1907,7 +1907,7 @@ When Starsea Diver enters, pursue Wonder. (Reveal a basic land or Wonder card yo
     </card>
     <card>
       <name>Supercharged Shockodile</name>
-      <set rarity="rare">WAW</set>
+      <set num="137" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1927,7 +1927,7 @@ Impetus {B} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Tactical Diversion</name>
-      <set rarity="common">WAW</set>
+      <set num="72" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1946,7 +1946,7 @@ Counter target spell with a creature type.</text>
     </card>
     <card>
       <name>Tall-Tale Salesman</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="138" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1965,7 +1965,7 @@ Counter target spell with a creature type.</text>
     </card>
     <card>
       <name>Thriving Sornidol</name>
-      <set rarity="mythic">WAW</set>
+      <set num="73" rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1986,7 +1986,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Ultimate Price</name>
-      <set rarity="common">WAW</set>
+      <set num="103" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2004,7 +2004,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Unbound Troubador</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="139" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2024,7 +2024,7 @@ When Unbound Troubador enters, draw a card if you’ve cast a white or blue spel
     </card>
     <card>
       <name>Wish for Peace</name>
-      <set rarity="common">WAW</set>
+      <set num="39" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2043,7 +2043,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
     </card>
     <card>
       <name>Amarell, New Tensuo Elder</name>
-      <set rarity="mythic">WAW</set>
+      <set num="145" rarity="mythic">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2064,7 +2064,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
     </card>
     <card>
       <name>Antlerweaver</name>
-      <set rarity="rare">WAW</set>
+      <set num="179" rarity="rare">WAW</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -2083,7 +2083,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
     </card>
     <card>
       <name>Blinding Majesty</name>
-      <set rarity="common">WAW</set>
+      <set num="11" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2101,7 +2101,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
     </card>
     <card>
       <name>Blossoming Conscience</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="12" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2120,7 +2120,7 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Brazen Confidence</name>
-      <set rarity="common">WAW</set>
+      <set num="181" rarity="common">WAW</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -2140,7 +2140,7 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
     </card>
     <card>
       <name>Citadel Outburst</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="115" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2158,7 +2158,7 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
     </card>
     <card>
       <name>Citadel Penitent</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="13" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2178,7 +2178,7 @@ When enchanted creature dies, target opponent may pay 3 life. If they don’t, r
     </card>
     <card>
       <name>Citadel Repository</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="151" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2197,7 +2197,7 @@ WB, Pay 2 life: Create a token that’s a copy of target token you control. Acti
     </card>
     <card>
       <name>Crafty Cutthroat</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="83" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2217,7 +2217,7 @@ WB, Pay 2 life: Create a token that’s a copy of target token you control. Acti
     </card>
     <card>
       <name>Declivity</name>
-      <set rarity="common">WAW</set>
+      <set num="45" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2236,7 +2236,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Earthen Curiosity</name>
-      <set rarity="common">WAW</set>
+      <set num="153" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2255,7 +2255,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
     </card>
     <card>
       <name>Epitaph Hermit</name>
-      <set rarity="common">WAW</set>
+      <set num="3" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2275,7 +2275,7 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
     </card>
     <card>
       <name>Etchings on the Citadel Walls</name>
-      <set rarity="rare">WAW</set>
+      <set num="48" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2294,7 +2294,7 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
     </card>
     <card>
       <name>Eteres&apos; Chronicler</name>
-      <set rarity="rare">WAW</set>
+      <set num="154" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2314,7 +2314,7 @@ When Epitaph Hermit dies, put it on the bottom of its owner’s library.</text>
     </card>
     <card>
       <name>Existence Flutter</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="15" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2335,7 +2335,7 @@ Exile Existence Flutter: Exile target nonland permanent you control, then return
     </card>
     <card>
       <name>Flameweaver Maverick</name>
-      <set rarity="common">WAW</set>
+      <set num="118" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2355,7 +2355,7 @@ Ploy—Up to two target creatures can’t block this turn. Draw a card. (When th
     </card>
     <card>
       <name>Grifters&apos; Ambush</name>
-      <set rarity="common">WAW</set>
+      <set num="119" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2376,7 +2376,7 @@ Ploy—Up to two target creatures can’t block this turn. Draw a card. (When th
     </card>
     <card>
       <name>Ilcan Avenger</name>
-      <set rarity="common">WAW</set>
+      <set num="157" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2396,7 +2396,7 @@ Augmented — {5}: If Ilcan Avenger has no +1/+1 counters on it, put three +1/+1
     </card>
     <card>
       <name>Ilcan Resolution</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="158" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2415,7 +2415,7 @@ At the beginning of your end step, if a creature died under your control this tu
     </card>
     <card>
       <name>Irresistible Calling</name>
-      <set rarity="common">WAW</set>
+      <set num="123" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2435,7 +2435,7 @@ When Irresistible Calling enters, pursue Wonder. (Reveal a basic land or Wonder 
     </card>
     <card>
       <name>Manuela, the Known</name>
-      <set rarity="mythic">WAW</set>
+      <set num="202" rarity="mythic">WAW</set>
       <prop>
         <colors>WUR</colors>
         <manacost>URW</manacost>
@@ -2456,7 +2456,7 @@ When Irresistible Calling enters, pursue Wonder. (Reveal a basic land or Wonder 
     </card>
     <card>
       <name>Mental Unmooring</name>
-      <set rarity="common">WAW</set>
+      <set num="56" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2475,7 +2475,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
     </card>
     <card>
       <name>Mossdrudge Ambusher</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="161" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2496,7 +2496,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
     </card>
     <card>
       <name>Music of the Deepholt</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="57" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2515,7 +2515,7 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
     </card>
     <card>
       <name>New Tensuo Clergy</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="91" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2535,7 +2535,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Out of Options</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="29" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2555,7 +2555,7 @@ Enchanted creature can’t attack or block.
     </card>
     <card>
       <name>Pain of Death</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="125" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2573,7 +2573,7 @@ Enchanted creature can’t attack or block.
     </card>
     <card>
       <name>Playful Chiaykyaich</name>
-      <set rarity="mythic">WAW</set>
+      <set num="94" rarity="mythic">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2594,7 +2594,7 @@ Augmented — At the beginning of each end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Power&apos;s Promise</name>
-      <set rarity="common">WAW</set>
+      <set num="95" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2613,7 +2613,7 @@ Draw a card, then pursue Wonder. (Reveal a basic land or Wonder card you own fro
     </card>
     <card>
       <name>Remain Steady</name>
-      <set rarity="mythic">WAW</set>
+      <set num="96" rarity="mythic">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2633,7 +2633,7 @@ Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1
     </card>
     <card>
       <name>Retreat to the Borderholt</name>
-      <set rarity="rare">WAW</set>
+      <set num="32" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2651,7 +2651,7 @@ Whenever a creature you control dies, exile it. Then if it didn’t have a +1/+1
     </card>
     <card>
       <name>Ritz, Queen of Thieves</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="130" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2671,7 +2671,7 @@ Whenever a creature you control dies, if it attacked this turn, exile the top ca
     </card>
     <card>
       <name>Rogues&apos; Gallery</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="97" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2689,7 +2689,7 @@ Whenever a creature you control dies, if it attacked this turn, exile the top ca
     </card>
     <card>
       <name>Searing Dream</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="133" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2708,7 +2708,7 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
     </card>
     <card>
       <name>Seeker of the Pools</name>
-      <set rarity="common">WAW</set>
+      <set num="66" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2728,7 +2728,7 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
     </card>
     <card>
       <name>Skredhound</name>
-      <set rarity="common">WAW</set>
+      <set num="217" rarity="common">WAW</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2747,7 +2747,7 @@ Whenever a creature you control enters, Searing Dream deals 1 damage to each opp
     </card>
     <card>
       <name>Spacewind Aurora</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="219" rarity="uncommon">WAW</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2767,7 +2767,7 @@ Whenever enchanted creature deals combat damage to an opponent, you may return t
     </card>
     <card>
       <name>Spinning of the Stars</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="221" rarity="uncommon">WAW</set>
       <prop>
         <colors>WUB</colors>
         <color>WUB</color>
@@ -2785,7 +2785,7 @@ Whenever enchanted creature deals combat damage to an opponent, you may return t
     </card>
     <card>
       <name>Suggestible Mark</name>
-      <set rarity="common">WAW</set>
+      <set num="100" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2805,7 +2805,7 @@ When Suggestible Mark dies, pursue Wonder. (Reveal a basic land or Wonder card y
     </card>
     <card>
       <name>Swirling Smokewalker</name>
-      <set rarity="rare">WAW</set>
+      <set num="223" rarity="rare">WAW</set>
       <prop>
         <colors>WBR</colors>
         <color>WBR</color>
@@ -2824,7 +2824,7 @@ When Suggestible Mark dies, pursue Wonder. (Reveal a basic land or Wonder card y
     </card>
     <card>
       <name>The Deepmist Record</name>
-      <set rarity="mythic">WAW</set>
+      <set num="46" rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2843,7 +2843,7 @@ You may cast The Deepmist Record from your graveyard by paying WUBRG rather than
     </card>
     <card>
       <name>The Gateway Pictographs</name>
-      <set rarity="rare">WAW</set>
+      <set num="198" rarity="rare">WAW</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2862,7 +2862,7 @@ At the beginning of combat on your turn, if you control three or more creatures,
     </card>
     <card>
       <name>The Shimmering Sky</name>
-      <set rarity="rare">WAW</set>
+      <set num="214" rarity="rare">WAW</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2882,7 +2882,7 @@ When The Shimmering Sky leaves the battlefield, you gain 5 life and you draw a c
     </card>
     <card>
       <name>Tranquil Cloudray</name>
-      <set rarity="common">WAW</set>
+      <set num="37" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2902,7 +2902,7 @@ Augmented — Whenever Tranquil Cloudray enters or attacks, if you’ve spent WU
     </card>
     <card>
       <name>Wave of Wisps</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="227" rarity="uncommon">WAW</set>
       <prop>
         <colors>WBR</colors>
         <color>WBR</color>
@@ -2920,7 +2920,7 @@ Augmented — Whenever Tranquil Cloudray enters or attacks, if you’ve spent WU
     </card>
     <card>
       <name>Wish for Discord</name>
-      <set rarity="rare">WAW</set>
+      <set num="141" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2940,7 +2940,7 @@ If Wish for Discord emerged from a creature with toughness 2 or greater, wheneve
     </card>
     <card>
       <name>Wishtouched Outcast</name>
-      <set rarity="rare">WAW</set>
+      <set num="109" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2960,7 +2960,7 @@ At the beginning of your upkeep, pursue Wonder. When you do, you lose life equal
     </card>
     <card>
       <name>Wonder Road</name>
-      <set rarity="rare">WAW</set>
+      <set num="175" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2979,7 +2979,7 @@ Untap target land you control. Put three +1/+1 counters on it. It becomes a 0/0 
     </card>
     <card>
       <name>Worldsoul Phoenix</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="143" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2999,7 +2999,7 @@ You may cast Worldsoul Phoenix from your graveyard by paying WUBRG rather than p
     </card>
     <card>
       <name>Worldsoul Song</name>
-      <set rarity="rare">WAW</set>
+      <set num="41" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3019,7 +3019,7 @@ You may cast Worldsoul Song from your graveyard by paying WUBRG rather than payi
     </card>
     <card>
       <name>Worldsoul&apos;s Sorrow</name>
-      <set rarity="rare">WAW</set>
+      <set num="110" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3038,7 +3038,7 @@ You may cast creature cards from your graveyard by paying WUBRG rather than payi
     </card>
     <card>
       <name>Aechmi, Ilcan Innovator</name>
-      <set rarity="rare">WAW</set>
+      <set num="112" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3059,7 +3059,7 @@ When Aechmi dies, you may discard your hand. If you do, draw cards equal to the 
     </card>
     <card>
       <name>Ageless Harbinger</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="178" rarity="uncommon">WAW</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -3079,7 +3079,7 @@ Spells you cast with mana value 5 or greater cost {2} less to cast.</text>
     </card>
     <card>
       <name>Alpine Salvager</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="76" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3100,7 +3100,7 @@ Spells you cast with mana value 5 or greater cost {2} less to cast.</text>
     </card>
     <card>
       <name>Broken Tranquility</name>
-      <set rarity="common">WAW</set>
+      <set num="149" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3119,7 +3119,7 @@ Put a +1/+1 counter on target creature you control. It deals damage equal to its
     </card>
     <card>
       <name>Chance-in-Hell</name>
-      <set rarity="mythic" splitterPath="/Chance-in-Hell.jpg" >WAW</set>
+      <set num="79" rarity="mythic" splitterPath="/Chance-in-Hell.jpg" >WAW</set>
       <prop>
         <colors>B</colors>
         <manacost>3B</manacost>
@@ -3137,7 +3137,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
     </card>
     <card>
       <name>Wish for a Spark</name>
-      <set rarity="mythic" splitterPath="/Wish for a Spark.jpg" >WAW</set>
+      <set num="79" rarity="mythic" splitterPath="/Wish for a Spark.jpg" >WAW</set>
       <prop>
         <colors>UBR</colors>
         <manacost></manacost>
@@ -3155,7 +3155,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
     </card>
     <card>
       <name>Clever Willweaver</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="81" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3174,7 +3174,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
     </card>
     <card>
       <name>Cloudeater Drake</name>
-      <set rarity="common">WAW</set>
+      <set num="43" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3191,11 +3191,11 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
-      <set rarity="rare">WAW</set>
+      <set num="184" rarity="rare">WAW</set>
       <prop>
         <colors>WBRG</colors>
         <color>WBRG</color>
@@ -3213,7 +3213,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Contemplative Pause</name>
-      <set rarity="common">WAW</set>
+      <set num="44" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3232,7 +3232,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Cutthroat Obsession</name>
-      <set rarity="rare">WAW</set>
+      <set num="185" rarity="rare">WAW</set>
       <prop>
         <colors>UBRG</colors>
         <color>UBRG</color>
@@ -3251,7 +3251,7 @@ Whenever a creature you control becomes blocked, defending player discards a car
     </card>
     <card>
       <name>Deepholt Encounter</name>
-      <set rarity="common">WAW</set>
+      <set num="186" rarity="common">WAW</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3271,7 +3271,7 @@ Whenever a creature you control becomes blocked, defending player discards a car
     </card>
     <card>
       <name>Effigy of Dead Homes</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="188" rarity="uncommon">WAW</set>
       <prop>
         <colors>BRG</colors>
         <color>BRG</color>
@@ -3289,7 +3289,7 @@ Whenever a creature you control becomes blocked, defending player discards a car
     </card>
     <card>
       <name>Endless Enigma</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="190" rarity="uncommon">WAW</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -3309,7 +3309,7 @@ When Endless Enigma enters, you may shuffle a card from your hand into your libr
     </card>
     <card>
       <name>Flowering Germinus</name>
-      <set rarity="common">WAW</set>
+      <set num="195" rarity="common">WAW</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -3329,7 +3329,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Forgotten Worlds&apos; Love</name>
-      <set rarity="rare">WAW</set>
+      <set num="197" rarity="rare">WAW</set>
       <prop>
         <colors>WUBR</colors>
         <color>WUBR</color>
@@ -3349,7 +3349,7 @@ Whenever you cast an instant or sorcery spell with a noted mana value, copy that
     </card>
     <card>
       <name>Ilcan Ghostbound</name>
-      <set rarity="rare">WAW</set>
+      <set num="50" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3369,7 +3369,7 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
     </card>
     <card>
       <name>Ilcan Loyalist</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="121" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3389,7 +3389,7 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
     </card>
     <card>
       <name>Incandescent Spite</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="200" rarity="uncommon">WAW</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -3407,7 +3407,7 @@ You may cast sorcery and Spirit spells as though they had flash.</text>
     </card>
     <card>
       <name>Khiare, Last of the Lost</name>
-      <set rarity="mythic">WAW</set>
+      <set num="4" rarity="mythic">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3428,7 +3428,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
     </card>
     <card>
       <name>Kindly Skywinder</name>
-      <set rarity="common">WAW</set>
+      <set num="21" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3444,11 +3444,11 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="59" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3468,7 +3468,7 @@ GW: You may put a land card from your hand onto the battlefield. If you do, retu
     </card>
     <card>
       <name>New Tensuo Pathlayer</name>
-      <set rarity="common">WAW</set>
+      <set num="162" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3488,7 +3488,7 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
     </card>
     <card>
       <name>New Worlds, New Friends</name>
-      <set rarity="common">WAW</set>
+      <set num="28" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3506,7 +3506,7 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
     </card>
     <card>
       <name>Norr, Ajha&apos;s Lieutenant</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="92" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3525,7 +3525,7 @@ When New Tensuo Pathlayer enters, pursue Wonder, then you may put a land card fr
     </card>
     <card>
       <name>Numberless Procession</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="207" rarity="uncommon">WAW</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -3545,7 +3545,7 @@ When Numberless Procession leaves the battlefield, create a 3/3 green Beast crea
     </card>
     <card>
       <name>Overwhelming Force</name>
-      <set rarity="rare">WAW</set>
+      <set num="93" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3564,7 +3564,7 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
     </card>
     <card>
       <name>Painful Memory</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="208" rarity="uncommon">WAW</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3583,7 +3583,7 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
     </card>
     <card>
       <name>Pensive Swordmaster</name>
-      <set rarity="common">WAW</set>
+      <set num="126" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3603,7 +3603,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Redefinition</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="65" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3623,7 +3623,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="166" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3644,7 +3644,7 @@ Reach</text>
     </card>
     <card>
       <name>Silent Memoriam</name>
-      <set rarity="rare">WAW</set>
+      <set num="215" rarity="rare">WAW</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -3664,7 +3664,7 @@ When Silent Memoriam dies, if it was a creature, return it to the battlefield un
     </card>
     <card>
       <name>Skyscrape</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="218" rarity="uncommon">WAW</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -3684,7 +3684,7 @@ Skyscrape can block only creatures with flying.</text>
     </card>
     <card>
       <name>Stardust Haze</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="33" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3704,7 +3704,7 @@ Reflect 2W (2W: Create a token copy of this enchantment, except it’s a 1/1 Won
     </card>
     <card>
       <name>Sunset Study</name>
-      <set rarity="rare">WAW</set>
+      <set num="136" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3723,7 +3723,7 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
     </card>
     <card>
       <name>Tenuous Partners</name>
-      <set rarity="common">WAW</set>
+      <set num="101" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3742,7 +3742,7 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
     </card>
     <card>
       <name>The Borderholt Obelisks</name>
-      <set rarity="rare">WAW</set>
+      <set num="180" rarity="rare">WAW</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -3760,7 +3760,7 @@ Augmented — {5}, Sacrifice Sunset Study: Put each card exiled with Sunset Stud
     </card>
     <card>
       <name>The Citadel&apos;s Geometry</name>
-      <set rarity="rare">WAW</set>
+      <set num="183" rarity="rare">WAW</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3779,7 +3779,7 @@ During your turn, you decide if and how creatures with lost counters on them blo
     </card>
     <card>
       <name>Thing in the Birches</name>
-      <set rarity="rare">WAW</set>
+      <set num="224" rarity="rare">WAW</set>
       <prop>
         <colors>WUBG</colors>
         <color>WUBG</color>
@@ -3799,7 +3799,7 @@ When Thing in the Birches dies, you may exile it. If you do, exile any number of
     </card>
     <card>
       <name>Warpwyrm</name>
-      <set rarity="rare">WAW</set>
+      <set num="226" rarity="rare">WAW</set>
       <prop>
         <colors>WURG</colors>
         <color>WURG</color>
@@ -3820,7 +3820,7 @@ When Warpwyrm enters, pursue Wonder. (Reveal a basic land or Wonder card you own
     </card>
     <card>
       <name>Wish for Family</name>
-      <set rarity="rare">WAW</set>
+      <set num="105" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3841,7 +3841,7 @@ When Wish for Family enters, you may search your library for a Spirit card, reve
     </card>
     <card>
       <name>Wish for Fury</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="142" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3862,7 +3862,7 @@ If Wish for Fury emerged from a creature with power 4 or greater, it can’t be 
     </card>
     <card>
       <name>Wish for Safety</name>
-      <set rarity="common">WAW</set>
+      <set num="6" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3883,7 +3883,7 @@ When Wish for Safety enters, scry 1.</text>
     </card>
     <card>
       <name>Wizened Trundler</name>
-      <set rarity="mythic">WAW</set>
+      <set num="40" rarity="mythic">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3904,7 +3904,7 @@ When Wish for Safety enters, scry 1.</text>
     </card>
     <card>
       <name>A Promise</name>
-      <set rarity="mythic">WAW</set>
+      <set num="211" rarity="mythic">WAW</set>
       <prop>
         <colors>WUBRG</colors>
         <color>WUBRG</color>
@@ -3923,7 +3923,7 @@ When Wish for Safety enters, scry 1.</text>
     </card>
     <card>
       <name>Aechmi&apos;s Creativity</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="113" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3942,7 +3942,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
     </card>
     <card>
       <name>Aether Spring</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="177" rarity="uncommon">WAW</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -3960,7 +3960,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
     </card>
     <card>
       <name>Ageless Caretaker</name>
-      <set rarity="rare">WAW</set>
+      <set num="8" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3981,7 +3981,7 @@ Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="114" rarity="uncommon">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4001,7 +4001,7 @@ Impetus 4R (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Cathexis, Soul Aspect</name>
-      <set rarity="rare">WAW</set>
+      <set num="182" rarity="rare">WAW</set>
       <prop>
         <colors>WUBRG</colors>
         <manacost>WUBRG</manacost>
@@ -4021,7 +4021,7 @@ Impetus 4R (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Curious Observer</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="231" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4041,7 +4041,7 @@ Hexproof, vigilance</text>
     </card>
     <card>
       <name>Destructive Desire</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="152" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4060,7 +4060,7 @@ Creatures you control get +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Elder Beast&apos;s Approach</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="86" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4078,7 +4078,7 @@ Creatures you control get +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Elusive Harbinger</name>
-      <set rarity="rare">WAW</set>
+      <set num="189" rarity="rare">WAW</set>
       <prop>
         <colors>WUB</colors>
         <color>WUB</color>
@@ -4098,7 +4098,7 @@ Creatures you control that share a name with a card in your graveyard or another
     </card>
     <card>
       <name>Enlightenment Iterator</name>
-      <set rarity="common">WAW</set>
+      <set num="232" rarity="common">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4118,7 +4118,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Eteres, Planar Analyst</name>
-      <set rarity="mythic">WAW</set>
+      <set num="191" rarity="mythic">WAW</set>
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
@@ -4138,7 +4138,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Excess of Potential</name>
-      <set rarity="rare">WAW</set>
+      <set num="192" rarity="rare">WAW</set>
       <prop>
         <colors>URG</colors>
         <color>URG</color>
@@ -4157,7 +4157,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Faceless Watchtower</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="194" rarity="uncommon">WAW</set>
       <prop>
         <colors>WUG</colors>
         <color>WUG</color>
@@ -4177,7 +4177,7 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
     </card>
     <card>
       <name>Font of Boons</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="196" rarity="uncommon">WAW</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -4196,7 +4196,7 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
     </card>
     <card>
       <name>Give Out</name>
-      <set rarity="rare">WAW</set>
+      <set num="17" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4216,7 +4216,7 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
     </card>
     <card>
       <name>Glorious Moment</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="199" rarity="uncommon">WAW</set>
       <prop>
         <colors>WUBRG</colors>
         <color>WUBRG</color>
@@ -4235,7 +4235,7 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
     </card>
     <card>
       <name>Ilcan Soulshear</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="89" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4256,7 +4256,7 @@ When Faceless Watchtower enters, put a +1/+1 counter on target creature. If that
     </card>
     <card>
       <name>Ilcan Stalwart</name>
-      <set rarity="common">WAW</set>
+      <set num="122" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4276,7 +4276,7 @@ When Ilcan Stalwart dies, if it had no +1/+1 counters on it, return it to the ba
     </card>
     <card>
       <name>Immensity</name>
-      <set rarity="common">WAW</set>
+      <set num="159" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4298,7 +4298,7 @@ When Immensity enters, choose up to one.
     </card>
     <card>
       <name>Leyseeker</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="54" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4318,7 +4318,7 @@ Impetus XXU (You may cast this from your graveyard as a sorcery with only the te
     </card>
     <card>
       <name>Limitless Manadrinker</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="201" rarity="uncommon">WAW</set>
       <prop>
         <colors>URG</colors>
         <color>URG</color>
@@ -4338,7 +4338,7 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
     </card>
     <card>
       <name>Merciless Axon</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="203" rarity="uncommon">WAW</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -4357,7 +4357,7 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
     </card>
     <card>
       <name>Migratory Bloom</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="205" rarity="uncommon">WAW</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -4377,7 +4377,7 @@ When Migratory Bloom enters, if it’s not a token, create a token that’s a co
     </card>
     <card>
       <name>Miraculous Strength</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="206" rarity="uncommon">WAW</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -4395,7 +4395,7 @@ When Migratory Bloom enters, if it’s not a token, create a token that’s a co
     </card>
     <card>
       <name>Myriad Reflections</name>
-      <set rarity="rare">WAW</set>
+      <set num="58" rarity="rare">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4414,7 +4414,7 @@ Exile Myriad Reflections.</text>
     </card>
     <card>
       <name>New Tensuo Collaborator</name>
-      <set rarity="mythic">WAW</set>
+      <set num="124" rarity="mythic">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4434,7 +4434,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
     </card>
     <card>
       <name>New Tensuo Physician</name>
-      <set rarity="rare">WAW</set>
+      <set num="163" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4454,7 +4454,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>New Tensuo Vanguard</name>
-      <set rarity="common">WAW</set>
+      <set num="27" rarity="common">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4474,7 +4474,7 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
     </card>
     <card>
       <name>Perceptual Distortion</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="63" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4495,7 +4495,7 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
     </card>
     <card>
       <name>Placid Sunbask</name>
-      <set rarity="common">WAW</set>
+      <set num="209" rarity="common">WAW</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -4515,7 +4515,7 @@ Whenever a land or another Wonder you control enters, put a +1/+1 counter on Pla
     </card>
     <card>
       <name>Planar Geometer</name>
-      <set rarity="common">WAW</set>
+      <set num="64" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4535,7 +4535,7 @@ Whenever you cast an instant, sorcery, or Wonder spell, draw a card, then discar
     </card>
     <card>
       <name>Skyview Visitor</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="69" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4556,7 +4556,7 @@ Whenever you cast a green or red spell, untap up to two target permanents.</text
     </card>
     <card>
       <name>Starsea Slayer</name>
-      <set rarity="rare">WAW</set>
+      <set num="233" rarity="rare">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4577,7 +4577,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
     </card>
     <card>
       <name>Starseeker Deva</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="35" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4594,11 +4594,11 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="168" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4618,7 +4618,7 @@ Impetus—3UR, Discard a card. (You may cast this from your graveyard as a sorce
     </card>
     <card>
       <name>The Deepmist Structures</name>
-      <set rarity="rare">WAW</set>
+      <set num="187" rarity="rare">WAW</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4638,7 +4638,7 @@ At the beginning of your first main phase, return target card from your graveyar
     </card>
     <card>
       <name>Vivid Revivification</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="225" rarity="uncommon">WAW</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4656,7 +4656,7 @@ At the beginning of your first main phase, return target card from your graveyar
     </card>
     <card>
       <name>Vrep</name>
-      <set rarity="mythic">WAW</set>
+      <set num="169" rarity="mythic">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4677,7 +4677,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
     </card>
     <card>
       <name>Wish for Death</name>
-      <set rarity="rare">WAW</set>
+      <set num="104" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4697,7 +4697,7 @@ When Wish for Death enters, all creatures get -8/-8 until end of turn. If it eme
     </card>
     <card>
       <name>Wish for Destruction</name>
-      <set rarity="common">WAW</set>
+      <set num="140" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4716,7 +4716,7 @@ Wish for Destruction deals 6 damage to target creature and 2 damage to up to one
     </card>
     <card>
       <name>Wish for Relief</name>
-      <set rarity="common">WAW</set>
+      <set num="107" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4737,7 +4737,7 @@ Choose one —
     </card>
     <card>
       <name>Wish for Revenge</name>
-      <set rarity="common">WAW</set>
+      <set num="108" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4757,7 +4757,7 @@ When Wish for Revenge enters, it deals 1 damage to up to one target creature. If
     </card>
     <card>
       <name>Wish for Wealth</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="174" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4777,7 +4777,7 @@ When Wish for Revenge enters, it deals 1 damage to up to one target creature. If
     </card>
     <card>
       <name>Ajha, the Wish for Home</name>
-      <set rarity="mythic">WAW</set>
+      <set num="9" rarity="mythic">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4798,7 +4798,7 @@ When Ajha enters, return any number of target creature cards with total mana val
     </card>
     <card>
       <name>Citadel Amnoctix</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="80" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4818,7 +4818,7 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
     </card>
     <card>
       <name>Fascinated Immortal</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="88" rarity="uncommon">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4838,7 +4838,7 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
     </card>
     <card>
       <name>Gilded Ancient</name>
-      <set rarity="common">WAW</set>
+      <set num="156" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4859,7 +4859,7 @@ Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder
     </card>
     <card>
       <name>Ilcan Szcygite</name>
-      <set rarity="rare">WAW</set>
+      <set num="90" rarity="rare">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4880,7 +4880,7 @@ When Ilcan Szcygite enters and at the beginning of your upkeep, put a +1/+1 coun
     </card>
     <card>
       <name>New Tensuo Calmkeeper</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="25" rarity="uncommon">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4900,7 +4900,7 @@ When New Tensuo Calmkeeper enters, create a 3/3 green Beast creature token and a
     </card>
     <card>
       <name>Polymorphic Wispweaver</name>
-      <set rarity="common">WAW</set>
+      <set num="128" rarity="common">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4920,7 +4920,7 @@ When New Tensuo Calmkeeper enters, create a 3/3 green Beast creature token and a
     </card>
     <card>
       <name>Skyview Chronomancer</name>
-      <set rarity="mythic">WAW</set>
+      <set num="68" rarity="mythic">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4941,7 +4941,7 @@ Ploy—If it isn’t an extra turn, take an extra turn after this one. (When thi
     </card>
     <card>
       <name>Starsea Bloomqueen</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="70" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4962,7 +4962,7 @@ Ploy—If it isn’t an extra turn, take an extra turn after this one. (When thi
     </card>
     <card>
       <name>Wish for Authority</name>
-      <set rarity="common">WAW</set>
+      <set num="74" rarity="common">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4982,7 +4982,7 @@ When Wish for Authority enters, tap up to one target creature and put a stun cou
     </card>
     <card>
       <name>Wish for Eternity</name>
-      <set rarity="common">WAW</set>
+      <set num="171" rarity="common">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5002,7 +5002,7 @@ When Wish for Eternity enters, you gain 7 life.</text>
     </card>
     <card>
       <name>Wish for Strength</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="172" rarity="uncommon">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5023,7 +5023,7 @@ If Wish for Strength emerged from a creature with power 4 or greater, it can’t
     </card>
     <card>
       <name>Wish for Transformation</name>
-      <set rarity="rare">WAW</set>
+      <set num="173" rarity="rare">WAW</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5043,7 +5043,7 @@ When Wish for Transformation enters, search your library for a non-Spirit creatu
     </card>
     <card>
       <name>Paradel Prism</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="5" rarity="uncommon">WAW</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5063,7 +5063,7 @@ When Paradel Prism enters, target opponent sacrifices a monocolored permanent, t
     </card>
     <card>
       <name>Planar Resurrection</name>
-      <set rarity="mythic">WAW</set>
+      <set num="210" rarity="mythic">WAW</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -5081,7 +5081,7 @@ When Paradel Prism enters, target opponent sacrifices a monocolored permanent, t
     </card>
     <card>
       <name>Wish for Power</name>
-      <set rarity="common">WAW</set>
+      <set num="106" rarity="common">WAW</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5101,7 +5101,7 @@ Ward—Sacrifice a nontoken creature.</text>
     </card>
     <card>
       <name>Sailing the Starsea</name>
-      <set rarity="rare">WAW</set>
+      <set num="131" rarity="rare">WAW</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5119,7 +5119,7 @@ Ward—Sacrifice a nontoken creature.</text>
     </card>
     <card>
       <name>Starsea Leviathan</name>
-      <set rarity="uncommon">WAW</set>
+      <set num="71" rarity="uncommon">WAW</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5139,7 +5139,7 @@ When Starsea Leviathan enters, you may pursue Wonder. If you don’t, draw a car
     </card>
     <card>
       <name>Stymied Purpose</name>
-      <set rarity="rare">WAW</set>
+      <set num="36" rarity="rare">WAW</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5158,7 +5158,7 @@ When Starsea Leviathan enters, you may pursue Wonder. If you don’t, draw a car
     </card>
     <card>
       <name>Starshine Wisp</name>
-      <set rarity="common">WAW</set>
+      <set num="222" rarity="common">WAW</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>

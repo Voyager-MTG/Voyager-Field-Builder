@@ -11,7 +11,7 @@
 
     <card>
       <name>Gift of Wilderness</name>
-      <set rarity="common">PVR</set>
+      <set num="148" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -32,7 +32,7 @@ Enchanted creature gets +3/+2 and has haste.</text>
     </card>
     <card>
       <name>Disregarded Project</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="11" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -49,11 +49,11 @@ UW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from multicolored
-Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying WWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Epoch Ending</name>
-      <set rarity="mythic">PVR</set>
+      <set num="17" rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -69,11 +69,11 @@ WHITERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
-Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying WWWWWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Gathering Olorosaurs</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="192" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -90,11 +90,11 @@ UG07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Gathering Olorosaurs enters with two +1/+1 counters on it if no mana from land sources were spent to cast it.
-Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying GGG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Heirloom of the Obsolete</name>
-      <set rarity="common">PVR</set>
+      <set num="276" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -115,7 +115,7 @@ Equip {4}</text>
     </card>
     <card>
       <name>Abstraction Peeler</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="273" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -134,7 +134,7 @@ Equip {4}</text>
     </card>
     <card>
       <name>Recovered Guardian</name>
-      <set rarity="common">PVR</set>
+      <set num="285" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -150,11 +150,11 @@ Equip {4}</text>
 CA03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Retopology {6} (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+      <text>Retopology {6} (Cast a copy of this from your graveyard by exiling it and paying {6}. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Prophetic Prism</name>
-      <set rarity="rare">PVR</set>
+      <set num="283" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -173,7 +173,7 @@ CA03</notes>
     </card>
     <card>
       <name>Height Map</name>
-      <set rarity="common">PVR</set>
+      <set num="300" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -192,7 +192,7 @@ CA03</notes>
     </card>
     <card>
       <name>Anivir, Forgotten Savior</name>
-      <set rarity="mythic">PVR</set>
+      <set num="227" rarity="mythic">PVR</set>
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
@@ -214,7 +214,7 @@ OTHERRARE</notes>
     </card>
     <card>
       <name>Extruded Skyscraper</name>
-      <set rarity="common">PVR</set>
+      <set num="295" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -235,7 +235,7 @@ UA04</notes>
     </card>
     <card>
       <name>Nilshroud Absorption</name>
-      <set rarity="common">PVR</set>
+      <set num="65" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -255,7 +255,7 @@ Draw a card, then discard a card.</text>
     </card>
     <card>
       <name>Awakened Marauder</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="95" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -276,7 +276,7 @@ Whenever another artifact you control enters, put a +1/+1 counter on Awakened Ma
     </card>
     <card>
       <name>Prepackaged Assembly</name>
-      <set rarity="rare">PVR</set>
+      <set num="128" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -291,11 +291,11 @@ Whenever another artifact you control enters, put a +1/+1 counter on Awakened Ma
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Sun Pouncer</name>
-      <set rarity="common">PVR</set>
+      <set num="173" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -316,7 +316,7 @@ Whenever your complexity is three or greater, untap Sun Pouncer. This ability tr
     </card>
     <card>
       <name>Tatu-Peba</name>
-      <set rarity="common">PVR</set>
+      <set num="175" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -336,7 +336,7 @@ CR03</notes>
     </card>
     <card>
       <name>Graceful Coelurosaur</name>
-      <set rarity="common">PVR</set>
+      <set num="149" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -356,7 +356,7 @@ CR04</notes>
     </card>
     <card>
       <name>Downscaled Matrongon</name>
-      <set rarity="common">PVR</set>
+      <set num="144" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -373,11 +373,11 @@ CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
-Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Harsurfir Scavenger</name>
-      <set rarity="common">PVR</set>
+      <set num="151" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -397,7 +397,7 @@ CR06</notes>
     </card>
     <card>
       <name>Hellish Inferngon</name>
-      <set rarity="common">PVR</set>
+      <set num="154" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -417,7 +417,7 @@ CR07</notes>
     </card>
     <card>
       <name>Swiftfoot Striker</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="174" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -437,7 +437,7 @@ UR07</notes>
     </card>
     <card>
       <name>Maeverano Herdmate</name>
-      <set rarity="common">PVR</set>
+      <set num="158" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -456,7 +456,7 @@ UR07</notes>
     </card>
     <card>
       <name>Stonehewn Colossus</name>
-      <set rarity="common">PVR</set>
+      <set num="172" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -476,7 +476,7 @@ CR10</notes>
     </card>
     <card>
       <name>Coordinated Hunt</name>
-      <set rarity="common">PVR</set>
+      <set num="142" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -494,7 +494,7 @@ CR10</notes>
     </card>
     <card>
       <name>Spoils of Scarcity</name>
-      <set rarity="common">PVR</set>
+      <set num="171" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -516,7 +516,7 @@ CR13</notes>
     </card>
     <card>
       <name>Nilshroud Conflagration</name>
-      <set rarity="common">PVR</set>
+      <set num="160" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -536,7 +536,7 @@ You may sacrifice a land. If you do, search your library for a basic land card o
     </card>
     <card>
       <name>Overharvest</name>
-      <set rarity="common">PVR</set>
+      <set num="163" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -555,7 +555,7 @@ Draw a card if this is the only noncreature spell you’ve cast this turn.</text
     </card>
     <card>
       <name>Into the Mines</name>
-      <set rarity="common">PVR</set>
+      <set num="155" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -575,7 +575,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Tragedy of the Commons</name>
-      <set rarity="common">PVR</set>
+      <set num="178" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -595,7 +595,7 @@ Creatures you control get +2/+0 until end of turn.</text>
     </card>
     <card>
       <name>Render Flesh</name>
-      <set rarity="common">PVR</set>
+      <set num="166" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -616,7 +616,7 @@ CR18</notes>
     </card>
     <card>
       <name>Bevelled Cliffs</name>
-      <set rarity="common">PVR</set>
+      <set num="288" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -637,7 +637,7 @@ LANDCYCLECOMMON</notes>
     </card>
     <card>
       <name>Cubic Flames</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="143" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -657,7 +657,7 @@ Cubic Flames deals 2 damage to each creature.</text>
     </card>
     <card>
       <name>Tesseractapillar</name>
-      <set rarity="common">PVR</set>
+      <set num="222" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -677,7 +677,7 @@ Whenever you cast an Aura or Equipment spell, you get {V}. (Spend {V} to cast co
     </card>
     <card>
       <name>Charging Argosaur</name>
-      <set rarity="common">PVR</set>
+      <set num="183" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -697,7 +697,7 @@ CG04</notes>
     </card>
     <card>
       <name>Lush Stamengon</name>
-      <set rarity="common">PVR</set>
+      <set num="201" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -716,7 +716,7 @@ CG04</notes>
     </card>
     <card>
       <name>Humongous Detritivore</name>
-      <set rarity="common">PVR</set>
+      <set num="197" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -737,7 +737,7 @@ Humongous Detritivore gets +2+1 as long as there are eight or more cards in your
     </card>
     <card>
       <name>Herald of the Restored Age</name>
-      <set rarity="common">PVR</set>
+      <set num="196" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -757,7 +757,7 @@ CG09</notes>
     </card>
     <card>
       <name>Apex of Antiquity</name>
-      <set rarity="common">PVR</set>
+      <set num="181" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -777,7 +777,7 @@ CG10</notes>
     </card>
     <card>
       <name>Crude Onslaught</name>
-      <set rarity="common">PVR</set>
+      <set num="184" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -798,7 +798,7 @@ Enchanted creature has trample.</text>
     </card>
     <card>
       <name>Primal Power</name>
-      <set rarity="common">PVR</set>
+      <set num="215" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -819,7 +819,7 @@ You may cast Primal Power from your graveyard if your complexity is three or gre
     </card>
     <card>
       <name>Dawngon Infusion</name>
-      <set rarity="common">PVR</set>
+      <set num="185" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -839,7 +839,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Burrow Deep</name>
-      <set rarity="common">PVR</set>
+      <set num="182" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -855,11 +855,11 @@ CG15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target card from your graveyard to your hand.
-Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying 1GG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Overlaid Bridge</name>
-      <set rarity="common">PVR</set>
+      <set num="209" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -879,7 +879,7 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
     </card>
     <card>
       <name>Plummeting Smash</name>
-      <set rarity="common">PVR</set>
+      <set num="212" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -900,7 +900,7 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
     </card>
     <card>
       <name>Mesh Rot</name>
-      <set rarity="common">PVR</set>
+      <set num="204" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -919,7 +919,7 @@ Whenever enchanted land is tapped for mana, choose a color among cards in your g
     </card>
     <card>
       <name>Specular Shack</name>
-      <set rarity="common">PVR</set>
+      <set num="310" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -940,7 +940,7 @@ LANDCYCLECOMMON</notes>
     </card>
     <card>
       <name>Virgin Media</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="225" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -959,7 +959,7 @@ UG09</notes>
     </card>
     <card>
       <name>Laggymorph</name>
-      <set rarity="common">PVR</set>
+      <set num="199" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -979,7 +979,7 @@ CG01</notes>
     </card>
     <card>
       <name>Polystone Quarry</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="280" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -999,7 +999,7 @@ The first Vertex spell you cast each turn has “Add two mana in any combination
     </card>
     <card>
       <name>Blazefoxes of Moz</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="137" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1020,7 +1020,7 @@ Blazefoxes of Moz gets +2/+0 as long as your complexity is three or greater. (Yo
     </card>
     <card>
       <name>Sunbound Swarm</name>
-      <set rarity="rare">PVR</set>
+      <set num="265" rarity="rare">PVR</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1040,7 +1040,7 @@ Flying, double strike, vigilance, trample, haste, protection from tokens and fro
     </card>
     <card>
       <name>Overclocked Dragon</name>
-      <set rarity="rare">PVR</set>
+      <set num="162" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <manacost>3RR // RV/GV/B</manacost>
@@ -1058,7 +1058,7 @@ Melt deals 3 damage to any target.</text>
     </card>
     <card>
       <name>Geometric Singularity</name>
-      <set rarity="rare">PVR</set>
+      <set num="147" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1073,11 +1073,11 @@ Melt deals 3 damage to any target.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Geometric Singularity deals X damage to any target.
-Retopology XR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology XR (Cast a copy of this from your graveyard by exiling it and paying XR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Mana Void</name>
-      <set rarity="mythic">PVR</set>
+      <set num="159" rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1096,7 +1096,7 @@ You may tap lands you don’t control for mana. Activate abilities this way only
     </card>
     <card>
       <name>Emerging Wildlife</name>
-      <set rarity="common">PVR</set>
+      <set num="188" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1114,11 +1114,11 @@ DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Emerging Wildlife enters, put a +1/+1 counter on target creature.
-Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying 2GG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Elder Gigantops</name>
-      <set rarity="common">PVR</set>
+      <set num="187" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1138,7 +1138,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Stampeding Goliath</name>
-      <set rarity="common">PVR</set>
+      <set num="218" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1159,7 +1159,7 @@ When Stampeding Goliath enters, you get {V/U}. (Spend {V} to cast copies of Vert
     </card>
     <card>
       <name>Territorial Primarch</name>
-      <set rarity="rare">PVR</set>
+      <set num="221" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1179,7 +1179,7 @@ Whenever you play a land, scry 2 if it’s your upkeep, or put a +1/+1 counter o
     </card>
     <card>
       <name>Slipstream Enigma</name>
-      <set rarity="rare">PVR</set>
+      <set num="83" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <manacost>U // 2UV/GV/W</manacost>
@@ -1197,7 +1197,7 @@ Target creature loses all abilities until end of turn.</text>
     </card>
     <card>
       <name>Armament of Armageddon</name>
-      <set rarity="mythic">PVR</set>
+      <set num="2" rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1218,7 +1218,7 @@ At the beginning of your upkeep, if Armament of Armageddon was cast from your ha
     </card>
     <card>
       <name>Escape the Nilshroud</name>
-      <set rarity="mythic">PVR</set>
+      <set num="111" rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1236,7 +1236,7 @@ At the beginning of your upkeep, if Armament of Armageddon was cast from your ha
     </card>
     <card>
       <name>Sacred Signs</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="168" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1256,7 +1256,7 @@ UR10</notes>
     </card>
     <card>
       <name>Felygon Sentinel</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="21" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1277,7 +1277,7 @@ Activated abilities of nonland permanents cost {1} more to activate.</text>
     </card>
     <card>
       <name>Parallaxadaisical Dengon</name>
-      <set rarity="rare">PVR</set>
+      <set num="210" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1298,7 +1298,7 @@ Sacrifice a land: Mill a card. If the milled card is a creature card, you may ca
     </card>
     <card>
       <name>Orchard Vixen</name>
-      <set rarity="common">PVR</set>
+      <set num="161" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1315,11 +1315,11 @@ CR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice Orchard Vixen, discard a card: Draw a card.
-Retopology RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology RR (Cast a copy of this from your graveyard by exiling it and paying RR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>The Downscaling</name>
-      <set rarity="rare">PVR</set>
+      <set num="12" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1337,7 +1337,7 @@ Retopology RR (Cast a copy of this from your graveyard by exiling it and paying 
     </card>
     <card>
       <name>Font of Decadence</name>
-      <set rarity="rare">PVR</set>
+      <set num="23" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1357,7 +1357,7 @@ Whenever Font of Decadence attacks, it gains first strike until end of turn. Eac
     </card>
     <card>
       <name>Prawth, Planar Decimator</name>
-      <set rarity="mythic">PVR</set>
+      <set num="252" rarity="mythic">PVR</set>
       <prop>
         <colors>UB</colors>
         <manacost>3UB</manacost>
@@ -1378,7 +1378,7 @@ OTHERRARE</notes>
     </card>
     <card>
       <name>Cache Dredger</name>
-      <set rarity="rare">PVR</set>
+      <set num="99" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1397,7 +1397,7 @@ OTHERRARE</notes>
     </card>
     <card>
       <name>Horizon Collector</name>
-      <set rarity="common">PVR</set>
+      <set num="277" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1416,7 +1416,7 @@ OTHERRARE</notes>
     </card>
     <card>
       <name>A Populated World</name>
-      <set rarity="rare">PVR</set>
+      <set num="213" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1434,7 +1434,7 @@ OTHERRARE</notes>
     </card>
     <card>
       <name>Imperial Excommunicator</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="243" rarity="uncommon">PVR</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1455,7 +1455,7 @@ Sacrifice a nonartifact permanent, Exile an artifact card from your graveyard an
     </card>
     <card>
       <name>Revitalised Cryptid</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="256" rarity="uncommon">PVR</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -1475,7 +1475,7 @@ ARCUNSET1</notes>
     </card>
     <card>
       <name>Stick Retriever</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="262" rarity="uncommon">PVR</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -1492,11 +1492,11 @@ ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Stick Retriever enters, create a 1/1 white Human creature token for each creature card in your graveyard.
-Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Nilshroud Predator</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="248" rarity="uncommon">PVR</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -1516,7 +1516,7 @@ ARCUNSET1</notes>
     </card>
     <card>
       <name>Urwrapir Matriarch</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="271" rarity="uncommon">PVR</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -1537,7 +1537,7 @@ Whenever your complexity is three or greater, create a 3/3 green Dinosaur creatu
     </card>
     <card>
       <name>Uverngon&apos;s Messenger</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="272" rarity="uncommon">PVR</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -1558,7 +1558,7 @@ Uverngon’s Messenger gets +1/+1 and has hexproof as long as a spell or ability
     </card>
     <card>
       <name>Rastira Depths Trawler</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="254" rarity="uncommon">PVR</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -1578,7 +1578,7 @@ ARCUNSET1</notes>
     </card>
     <card>
       <name>Extinct Rebel</name>
-      <set rarity="rare">PVR</set>
+      <set num="146" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1597,7 +1597,7 @@ ARCUNSET1</notes>
     </card>
     <card>
       <name>Slumbering Dreadblade</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="260" rarity="uncommon">PVR</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -1613,12 +1613,12 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 This permanent is a 3/3 Zombie Soldier artifact creature if an artifact entered this turn.</text>
     </card>
     <card>
       <name>Nightmarish Terrain</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="246" rarity="uncommon">PVR</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -1638,7 +1638,7 @@ Whenever a creature token you control enters, it deals damage equal to its power
     </card>
     <card>
       <name>Savage Pike</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="257" rarity="uncommon">PVR</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -1659,7 +1659,7 @@ Equip {2}, {T}</text>
     </card>
     <card>
       <name>Prawth&apos;s Research Station</name>
-      <set rarity="rare">PVR</set>
+      <set num="282" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1677,7 +1677,7 @@ Equip {2}, {T}</text>
     </card>
     <card>
       <name>Symmetric Construction</name>
-      <set rarity="rare">PVR</set>
+      <set num="266" rarity="rare">PVR</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -1695,7 +1695,7 @@ Equip {2}, {T}</text>
     </card>
     <card>
       <name>Defragment</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="234" rarity="uncommon">PVR</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1714,7 +1714,7 @@ ARCUNSET2</notes>
     </card>
     <card>
       <name>Obsolete Renaissance</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="250" rarity="uncommon">PVR</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -1735,7 +1735,7 @@ You may cast Aura spells from your graveyard if they target enchanted permanent.
     </card>
     <card>
       <name>Burn Barren</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="230" rarity="uncommon">PVR</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1755,7 +1755,7 @@ Burn Barren deals 4 damage to any target and you gain 4 life.</text>
     </card>
     <card>
       <name>Settle Inhospitable Lands</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="258" rarity="uncommon">PVR</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -1775,7 +1775,7 @@ ARCUNSET2</notes>
     </card>
     <card>
       <name>Urwrapir Explorations</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="270" rarity="uncommon">PVR</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -1791,11 +1791,11 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards. You may play an additional land this turn.
-Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying 1G/UG/UG/UG/U. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Friend Collector</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="241" rarity="uncommon">PVR</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -1815,7 +1815,7 @@ ARCUNSET1</notes>
     </card>
     <card>
       <name>Witness of the Obsolete</name>
-      <set rarity="common">PVR</set>
+      <set num="45" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1835,7 +1835,7 @@ CW10</notes>
     </card>
     <card>
       <name>Asset Manager</name>
-      <set rarity="common">PVR</set>
+      <set num="3" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1852,11 +1852,11 @@ CW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Asset Manager enters, create a 1/1 white Human creature token.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Chronicler of the Obsolete</name>
-      <set rarity="common">PVR</set>
+      <set num="6" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1876,7 +1876,7 @@ CW07</notes>
     </card>
     <card>
       <name>Consecrated Farmland</name>
-      <set rarity="common">PVR</set>
+      <set num="8" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1897,7 +1897,7 @@ Enchanted permanent has ward {2}.</text>
     </card>
     <card>
       <name>Tainted Bureaucrat</name>
-      <set rarity="common">PVR</set>
+      <set num="39" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1917,7 +1917,7 @@ CW06 </notes>
     </card>
     <card>
       <name>Desperate Pathfinding</name>
-      <set rarity="common">PVR</set>
+      <set num="9" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1934,11 +1934,11 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
-      <set rarity="common">PVR</set>
+      <set num="13" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1959,7 +1959,7 @@ Creatures can’t block this permanent unless their controller pays {1} for each
     </card>
     <card>
       <name>Energy Tax</name>
-      <set rarity="common">PVR</set>
+      <set num="16" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1978,7 +1978,7 @@ CW18</notes>
     </card>
     <card>
       <name>Felygon Scientist</name>
-      <set rarity="common">PVR</set>
+      <set num="20" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1999,7 +1999,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
     </card>
     <card>
       <name>Harsh Sentence</name>
-      <set rarity="common">PVR</set>
+      <set num="24" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2018,7 +2018,7 @@ CW15</notes>
     </card>
     <card>
       <name>Hierarchic Extortion</name>
-      <set rarity="common">PVR</set>
+      <set num="27" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2039,7 +2039,7 @@ CW18</notes>
     </card>
     <card>
       <name>Erfex Cartographer</name>
-      <set rarity="common">PVR</set>
+      <set num="18" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2060,7 +2060,7 @@ When Erfex Cartographer enters, you may discard a card. If you do, search your l
     </card>
     <card>
       <name>Quintarchal Bodyguard</name>
-      <set rarity="common">PVR</set>
+      <set num="31" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2081,7 +2081,7 @@ This permanent has double strike if its attacking.</text>
     </card>
     <card>
       <name>Shelter from the Elements</name>
-      <set rarity="common">PVR</set>
+      <set num="37" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2100,7 +2100,7 @@ CW13</notes>
     </card>
     <card>
       <name>Harsurfir Ferrier</name>
-      <set rarity="common">PVR</set>
+      <set num="25" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2120,7 +2120,7 @@ CW03</notes>
     </card>
     <card>
       <name>Trapped in the Nilshroud</name>
-      <set rarity="common">PVR</set>
+      <set num="41" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2140,7 +2140,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Warden of Inefficiencies</name>
-      <set rarity="common">PVR</set>
+      <set num="44" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2161,7 +2161,7 @@ CW01</notes>
     </card>
     <card>
       <name>Saturated Savannah</name>
-      <set rarity="common">PVR</set>
+      <set num="308" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2182,7 +2182,7 @@ LANDCYCLECOMMON</notes>
     </card>
     <card>
       <name>Memory Hole</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="58" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2201,7 +2201,7 @@ UU09</notes>
     </card>
     <card>
       <name>Occluded Bog</name>
-      <set rarity="common">PVR</set>
+      <set num="302" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2223,7 +2223,7 @@ When Occluded Bog enters, exile up to one target card from a graveyard.
     </card>
     <card>
       <name>Delete</name>
-      <set rarity="common">PVR</set>
+      <set num="104" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2242,7 +2242,7 @@ CB12</notes>
     </card>
     <card>
       <name>Kinematic Constrictor</name>
-      <set rarity="common">PVR</set>
+      <set num="118" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2262,7 +2262,7 @@ When Kinematic Constrictor dies, put a +1/+1 counter on up to one target artifac
     </card>
     <card>
       <name>Nocturngon Infusion</name>
-      <set rarity="common">PVR</set>
+      <set num="123" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2282,7 +2282,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Sentence to Oblivion</name>
-      <set rarity="common">PVR</set>
+      <set num="131" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2301,7 +2301,7 @@ Exile target creature or planeswalker.</text>
     </card>
     <card>
       <name>Backface Culling</name>
-      <set rarity="common">PVR</set>
+      <set num="96" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2317,12 +2317,12 @@ CB15</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Sacrifice this permanent: Draw a card.</text>
     </card>
     <card>
       <name>Bleak Return</name>
-      <set rarity="common">PVR</set>
+      <set num="97" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2337,11 +2337,11 @@ Sacrifice this permanent: Draw a card.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
-Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying 1BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Bog Snapper</name>
-      <set rarity="common">PVR</set>
+      <set num="98" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2358,11 +2358,11 @@ CB02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Bog Snapper dies, up to one target creature gets -1/-1 until end of turn.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Conscripted Serpengon</name>
-      <set rarity="common">PVR</set>
+      <set num="100" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2382,7 +2382,7 @@ CB01</notes>
     </card>
     <card>
       <name>Ngonification</name>
-      <set rarity="common">PVR</set>
+      <set num="120" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2401,7 +2401,7 @@ CB17</notes>
     </card>
     <card>
       <name>Witness to Nil</name>
-      <set rarity="common">PVR</set>
+      <set num="135" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2422,7 +2422,7 @@ CB14</notes>
     </card>
     <card>
       <name>Despawn</name>
-      <set rarity="common">PVR</set>
+      <set num="105" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2440,7 +2440,7 @@ CB14</notes>
     </card>
     <card>
       <name>Nilshroud Mulcher</name>
-      <set rarity="common">PVR</set>
+      <set num="121" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2461,7 +2461,7 @@ When Nilshroud Mulcher enters or dies, target player mills two cards.</text>
     </card>
     <card>
       <name>Soul Taker</name>
-      <set rarity="common">PVR</set>
+      <set num="132" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2482,7 +2482,7 @@ Menace</text>
     </card>
     <card>
       <name>Rastira Scavenger</name>
-      <set rarity="common">PVR</set>
+      <set num="129" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2503,7 +2503,7 @@ When this permanent leaves the battlefield, you get {V/W}. (Spend {V} to cast co
     </card>
     <card>
       <name>Planetary Harvester</name>
-      <set rarity="common">PVR</set>
+      <set num="126" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2523,7 +2523,7 @@ CB07</notes>
     </card>
     <card>
       <name>Defiled Revengon</name>
-      <set rarity="common">PVR</set>
+      <set num="103" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2544,7 +2544,7 @@ Whenever you spend four or more mana to cast a spell or activate an ability, eac
     </card>
     <card>
       <name>Feasting Ruingon</name>
-      <set rarity="common">PVR</set>
+      <set num="112" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2565,7 +2565,7 @@ Whenever this permanent deals damage to a player, target player mills that many 
     </card>
     <card>
       <name>Uverngon, Quintarch Usurper</name>
-      <set rarity="rare">PVR</set>
+      <set num="42" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2585,7 +2585,7 @@ An opponent with complexity three or greater can’t cast spells or activate abi
     </card>
     <card>
       <name>Nurbs&apos; Familiar</name>
-      <set rarity="rare">PVR</set>
+      <set num="207" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2604,7 +2604,7 @@ An opponent with complexity three or greater can’t cast spells or activate abi
     </card>
     <card>
       <name>Boundary Break</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="4" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2623,7 +2623,7 @@ UW10</notes>
     </card>
     <card>
       <name>Draw Distance</name>
-      <set rarity="rare">PVR</set>
+      <set num="236" rarity="rare">PVR</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -2638,11 +2638,11 @@ UW10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target nonland permanent with mana value 3 or less.
-Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Waypoint of Nil</name>
-      <set rarity="rare">PVR</set>
+      <set num="90" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2661,7 +2661,7 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
     </card>
     <card>
       <name>Erfex Cemetery</name>
-      <set rarity="common">PVR</set>
+      <set num="109" rarity="common">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2680,7 +2680,7 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
     </card>
     <card>
       <name>Rasteriser</name>
-      <set rarity="common">PVR</set>
+      <set num="284" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2702,7 +2702,7 @@ Whenever a player casts a noncreature spell that isn’t a copy, exile it. Then 
     </card>
     <card>
       <name>Recursive Steppe</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="306" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2724,7 +2724,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Felygon Reclaimer</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="240" rarity="uncommon">PVR</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2745,7 +2745,7 @@ Whenever Felygon Reclaimer attacks, you may sacrifice a land or exile a land car
     </card>
     <card>
       <name>Dread Discovery</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="106" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2766,7 +2766,7 @@ If a library has twenty or fewer cards in it, add BBB.</text>
     </card>
     <card>
       <name>Apocalypse Engine</name>
-      <set rarity="mythic">PVR</set>
+      <set num="94" rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2785,7 +2785,7 @@ BLACKRARE8</notes>
     </card>
     <card>
       <name>Anivir&apos;s Warning</name>
-      <set rarity="rare">PVR</set>
+      <set num="136" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2804,7 +2804,7 @@ REDRARE13</notes>
     </card>
     <card>
       <name>Null Terminator</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="124" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2824,7 +2824,7 @@ Exile target creature or planeswalker. Scry 2.</text>
     </card>
     <card>
       <name>Normal Mapper</name>
-      <set rarity="common">PVR</set>
+      <set num="206" rarity="common">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2844,7 +2844,7 @@ CG07</notes>
     </card>
     <card>
       <name>Irticull&apos;s Crypt</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="278" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2864,7 +2864,7 @@ CG07</notes>
     </card>
     <card>
       <name>Nilshroud Storm</name>
-      <set rarity="rare">PVR</set>
+      <set num="67" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2883,7 +2883,7 @@ BLUERARE10</notes>
     </card>
     <card>
       <name>Erfex Summons</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="239" rarity="uncommon">PVR</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -2902,7 +2902,7 @@ ARCUNSET2</notes>
     </card>
     <card>
       <name>Boolean Lake</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="289" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2924,7 +2924,7 @@ UU, {T}, Sacrifice Boolean Lake: Search your library for a card with the same na
     </card>
     <card>
       <name>Obfuscated Pier</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="301" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2946,7 +2946,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Origin Point</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="303" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2968,7 +2968,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Garden of Nurbs</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="298" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2990,7 +2990,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Island</name>
-      <set rarity="">PVR</set>
+      <set num="313" rarity="">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3008,7 +3008,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="">PVR</set>
+      <set num="315" rarity="">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3026,7 +3026,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="">PVR</set>
+      <set num="314" rarity="">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3044,7 +3044,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="">PVR</set>
+      <set num="316" rarity="">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3062,7 +3062,7 @@ LANDCYCLEUNCOMMON</notes>
     </card>
     <card>
       <name>Wrecking Rover</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="180" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3084,7 +3084,7 @@ When Wrecking Rover leaves the battlefield, sacrifice a land.</text>
     </card>
     <card>
       <name>Burning Devastatasaur</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="138" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3105,7 +3105,7 @@ Whenever Burning Devastatasaur attacks, you may sacrifice a land or exile a land
     </card>
     <card>
       <name>Harsurfir&apos;s Folly</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="152" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3122,11 +3122,11 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="141" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3146,7 +3146,7 @@ UR05</notes>
     </card>
     <card>
       <name>Terror of Harsurfir</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="176" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3168,7 +3168,7 @@ Whenever Terror of Harsurfir deals combat damage to a player, you get an amount 
     </card>
     <card>
       <name>Spawn Volcano</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="170" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3188,7 +3188,7 @@ Spawn Volcano deals 6 damage to any target.</text>
     </card>
     <card>
       <name>Chromatic Channel</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="140" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3207,7 +3207,7 @@ UR11</notes>
     </card>
     <card>
       <name>Heart of Harsurfir</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="153" rarity="uncommon">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3226,7 +3226,7 @@ UR12</notes>
     </card>
     <card>
       <name>Leaping Carnosaur</name>
-      <set rarity="common">PVR</set>
+      <set num="156" rarity="common">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3247,7 +3247,7 @@ Whenever Leaping Carnosaur attacks, it gets +1/+0 until end of turn for each Din
     </card>
     <card>
       <name>Subsurface Spawning</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="220" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3263,11 +3263,11 @@ UG08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.
-Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying {X}. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Excessive Decadence</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="51" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3283,11 +3283,11 @@ UU07</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player mills twice X cards.
-Retopology XU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology XU (Cast a copy of this from your graveyard by exiling it and paying XU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Resplendent Dawn</name>
-      <set rarity="rare">PVR</set>
+      <set num="34" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3305,7 +3305,7 @@ Retopology XU (Cast a copy of this from your graveyard by exiling it and paying 
     </card>
     <card>
       <name>Senescence Vessel</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="130" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3326,7 +3326,7 @@ Equip {1}, {T}</text>
     </card>
     <card>
       <name>Prefabricated Pryntir</name>
-      <set rarity="mythic">PVR</set>
+      <set num="214" rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3348,7 +3348,7 @@ Whenever a permanent you control becomes the target of a spell, create a token t
     </card>
     <card>
       <name>Erfex Regenerator</name>
-      <set rarity="rare">PVR</set>
+      <set num="189" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <manacost>1G // GV/GV/B</manacost>
@@ -3365,7 +3365,7 @@ Search your library for a creature card, reveal it, put it into your hand, then 
     </card>
     <card>
       <name>Guardian of Erfex Fens</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="194" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3385,7 +3385,7 @@ UG03</notes>
     </card>
     <card>
       <name>Asset Export</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="47" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3401,11 +3401,11 @@ UU08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw X cards, where X is the amount of mana spent to cast this spell, then discard a card.
-Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Edravir, Last of the Obsolete</name>
-      <set rarity="rare">PVR</set>
+      <set num="107" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3425,7 +3425,7 @@ Whenever a spell or ability puts a nontoken card into a player’s hand, if that
     </card>
     <card>
       <name>Melodic Unwrapper</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="57" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3446,7 +3446,7 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
     </card>
     <card>
       <name>Geometry Nodes</name>
-      <set rarity="rare">PVR</set>
+      <set num="193" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3464,7 +3464,7 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
     </card>
     <card>
       <name>Urwrapir Looters</name>
-      <set rarity="common">PVR</set>
+      <set num="89" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3485,7 +3485,7 @@ CU03</notes>
     </card>
     <card>
       <name>Sparrow Spires</name>
-      <set rarity="mythic">PVR</set>
+      <set num="261" rarity="mythic">PVR</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -3505,7 +3505,7 @@ Whenever three or more creatures you control deal combat damage to a player, cre
     </card>
     <card>
       <name>Mirrortusk</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="64" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3526,7 +3526,7 @@ UU03</notes>
     </card>
     <card>
       <name>Rastira Trawler</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="77" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3547,7 +3547,7 @@ Whenever Rastira Trawler attacks, exile target noncreature, nonland card from yo
     </card>
     <card>
       <name>Rastira Reconstructor</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="76" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3568,7 +3568,7 @@ UU06</notes>
     </card>
     <card>
       <name>Productive Throng</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="30" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3589,7 +3589,7 @@ At the beginning of your end step, put a +1/+1 counter on target creature unless
     </card>
     <card>
       <name>Malevolent Beseecher</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="119" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3610,7 +3610,7 @@ Deathtouch, lifelink</text>
     </card>
     <card>
       <name>Erfex Revenant</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="110" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3631,7 +3631,7 @@ UB03</notes>
     </card>
     <card>
       <name>Hierarch of Expiration</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="117" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3648,11 +3648,11 @@ UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Hatebloom Titangon</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="116" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3673,7 +3673,7 @@ Hatebloom Titangon gets +3/+3 if a library has twenty or fewer cards in it.</tex
     </card>
     <card>
       <name>Ego Eroder</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="108" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3690,11 +3690,11 @@ UB06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ego Eroder enters, look at target player’s hand. You may choose a noncreature, nonland card from it. Exile that card until Ego Eroder leaves the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Cruel Condor</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="102" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3715,7 +3715,7 @@ Whenever one or more creatures you control die, each opponent loses 1 life and y
     </card>
     <card>
       <name>Oblivion Zealot</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="29" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3736,7 +3736,7 @@ When Oblivion Zealot enters, search your library for up to three basic Plains ca
     </card>
     <card>
       <name>Pattern Processing</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="211" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3756,7 +3756,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Erfex, Rotting Realm</name>
-      <set rarity="rare">PVR</set>
+      <set num="294" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3777,7 +3777,7 @@ Whenever you spend four or more mana to cast a spell or activate an ability, put
     </card>
     <card>
       <name>Rastira, the World Moat</name>
-      <set rarity="rare">PVR</set>
+      <set num="305" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3797,7 +3797,7 @@ LANDCYCLERARE</notes>
     </card>
     <card>
       <name>Harsurfir, Godly Quarry</name>
-      <set rarity="rare">PVR</set>
+      <set num="299" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3818,7 +3818,7 @@ LANDCYCLERARE</notes>
     </card>
     <card>
       <name>Urwrapir, Restored Wilderness</name>
-      <set rarity="rare">PVR</set>
+      <set num="311" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3839,7 +3839,7 @@ LANDCYCLERARE</notes>
     </card>
     <card>
       <name>Domination Center</name>
-      <set rarity="rare">PVR</set>
+      <set num="292" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3859,7 +3859,7 @@ LANDCYCLERARE</notes>
     </card>
     <card>
       <name>Advocate of Heresy</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="93" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3879,7 +3879,7 @@ UB10</notes>
     </card>
     <card>
       <name>Nilshroud Traversal</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="122" rarity="uncommon">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3897,7 +3897,7 @@ UB10</notes>
     </card>
     <card>
       <name>Catechesis Engine</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="5" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3917,7 +3917,7 @@ Whenever Catechesis Engine attacks, you may sacrifice a land or exile a land car
     </card>
     <card>
       <name>Hierarch of Exultation</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="26" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3934,11 +3934,11 @@ UW03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Hierarch of Exultation or another permanent you control leaves the battlefield, you gain 1 life.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Serrated Angel</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="36" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3959,7 +3959,7 @@ Flying, vigilance</text>
     </card>
     <card>
       <name>Scavenged Technology</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="35" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3979,7 +3979,7 @@ Enchanted creature has double strike.</text>
     </card>
     <card>
       <name>Tithing Protocol</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="40" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3999,7 +3999,7 @@ At the beginning of each end step, if no spells were cast this turn, sacrifice T
     </card>
     <card>
       <name>Erfex Reclaimer</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="19" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4019,7 +4019,7 @@ UW05</notes>
     </card>
     <card>
       <name>Felygon, Utopian Sprawl</name>
-      <set rarity="rare">PVR</set>
+      <set num="296" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4039,7 +4039,7 @@ WHITERARE12</notes>
     </card>
     <card>
       <name>Maturing Ankylosaur</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="203" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4059,7 +4059,7 @@ UG01</notes>
     </card>
     <card>
       <name>Urwrapir Warden</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="224" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4079,7 +4079,7 @@ Whenever you cast a Dinosaur spell, draw a card.</text>
     </card>
     <card>
       <name>Sifter Wurm</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="217" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4100,7 +4100,7 @@ When Sifter Wurm enters, scry 3, then reveal the top card of your library. You g
     </card>
     <card>
       <name>Lost in Geometry</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="200" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4120,7 +4120,7 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
     </card>
     <card>
       <name>Self-Intersector</name>
-      <set rarity="rare">PVR</set>
+      <set num="287" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4139,7 +4139,7 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
     </card>
     <card>
       <name>Self-Assembling Phoenix</name>
-      <set rarity="rare">PVR</set>
+      <set num="169" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4159,7 +4159,7 @@ Each attacking creature doesn’t untap during its controller’s next untap ste
     </card>
     <card>
       <name>Render Time</name>
-      <set rarity="mythic">PVR</set>
+      <set num="80" rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4178,7 +4178,7 @@ End the turn. (Exile all spells and abilities from the stack, including this car
     </card>
     <card>
       <name>Reject Input</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="79" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4198,7 +4198,7 @@ You get {V/U}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Shoal Summoner</name>
-      <set rarity="rare">PVR</set>
+      <set num="38" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <manacost>1W // WV/GV/B</manacost>
@@ -4215,7 +4215,7 @@ Put a +1/+1 counter on each creature you control.</text>
     </card>
     <card>
       <name>Withered Scorngon</name>
-      <set rarity="rare">PVR</set>
+      <set num="134" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <manacost>2B // 1BV/GV/U</manacost>
@@ -4232,7 +4232,7 @@ Return target creature card with mana value 3 or less from your graveyard to the
     </card>
     <card>
       <name>Cruelean&apos;s Enforcer</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="274" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4252,7 +4252,7 @@ Equip {3}, {T}</text>
     </card>
     <card>
       <name>Empty Scene</name>
-      <set rarity="mythic">PVR</set>
+      <set num="293" rarity="mythic">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4271,7 +4271,7 @@ Equip {3}, {T}</text>
     </card>
     <card>
       <name>Cultivator&apos;s Caravan</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="275" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4291,7 +4291,7 @@ Crew 3 (Tap any number of other creatures you control with total power 3 or grea
     </card>
     <card>
       <name>Pot of Wishes</name>
-      <set rarity="rare">PVR</set>
+      <set num="281" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4309,7 +4309,7 @@ Crew 3 (Tap any number of other creatures you control with total power 3 or grea
     </card>
     <card>
       <name>Boundless Ocean</name>
-      <set rarity="common">PVR</set>
+      <set num="290" rarity="common">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4330,7 +4330,7 @@ LANDCYCLECOMMON</notes>
     </card>
     <card>
       <name>Buffer Zone</name>
-      <set rarity="common">PVR</set>
+      <set num="49" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4350,7 +4350,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
       <name>Extrude Wisdom</name>
-      <set rarity="common">PVR</set>
+      <set num="52" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4366,11 +4366,11 @@ CU15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.
-Retopology UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UU (Cast a copy of this from your graveyard by exiling it and paying UU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Manaqueduct</name>
-      <set rarity="common">PVR</set>
+      <set num="56" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4392,7 +4392,7 @@ CU14</notes>
     </card>
     <card>
       <name>Migrating Songon</name>
-      <set rarity="common">PVR</set>
+      <set num="63" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4413,7 +4413,7 @@ Whenever Migrating Songon deals combat damage to a player, you get {V}. (Spend {
     </card>
     <card>
       <name>Packet Loss</name>
-      <set rarity="common">PVR</set>
+      <set num="72" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4432,7 +4432,7 @@ CU16</notes>
     </card>
     <card>
       <name>Hyperbolic Jumper</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="53" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4449,12 +4449,12 @@ UU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 If you’ve cast a spell this turn and it wasn’t your main phase, this permanent has flying.</text>
     </card>
     <card>
       <name>Raving Crab</name>
-      <set rarity="common">PVR</set>
+      <set num="78" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4474,7 +4474,7 @@ CU02</notes>
     </card>
     <card>
       <name>Urwrapir Ambusher</name>
-      <set rarity="common">PVR</set>
+      <set num="88" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4494,7 +4494,7 @@ CU04</notes>
     </card>
     <card>
       <name>Seafloor Scrounger</name>
-      <set rarity="common">PVR</set>
+      <set num="81" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4511,11 +4511,11 @@ BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Seafloor Scrounger gets +1/+1 if a spell or ability put a nontoken card into your hand this turn.
-Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying 2UU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Security Breach</name>
-      <set rarity="common">PVR</set>
+      <set num="82" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4535,7 +4535,7 @@ Counter target spell.</text>
     </card>
     <card>
       <name>Obsolete Sentinel</name>
-      <set rarity="common">PVR</set>
+      <set num="70" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4556,7 +4556,7 @@ Whenever this permanent deals damage to a player or planeswalker, draw a card.</
     </card>
     <card>
       <name>Squid Squad</name>
-      <set rarity="common">PVR</set>
+      <set num="84" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4577,7 +4577,7 @@ Whenever your complexity is three or greater, you may tap or untap target perman
     </card>
     <card>
       <name>Nurbs&apos; Collector</name>
-      <set rarity="common">PVR</set>
+      <set num="69" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4598,7 +4598,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
     </card>
     <card>
       <name>Overfisher</name>
-      <set rarity="common">PVR</set>
+      <set num="71" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4620,7 +4620,7 @@ Vigilance
     </card>
     <card>
       <name>Mesh Warper</name>
-      <set rarity="rare">PVR</set>
+      <set num="60" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4640,7 +4640,7 @@ Discard a card: Untap Mesh Warper. Then if your complexity is three or greater, 
     </card>
     <card>
       <name>Rastira Fiend</name>
-      <set rarity="common">PVR</set>
+      <set num="75" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4660,7 +4660,7 @@ BLUECOMMON</notes>
     </card>
     <card>
       <name>Tidal Drift</name>
-      <set rarity="common">PVR</set>
+      <set num="86" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4680,7 +4680,7 @@ If your complexity is three or greater, draw a card. (Your complexity is the num
     </card>
     <card>
       <name>Submerged Titangill</name>
-      <set rarity="common">PVR</set>
+      <set num="85" rarity="common">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4701,7 +4701,7 @@ CU09</notes>
     </card>
     <card>
       <name>Procedural Generation</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="253" rarity="uncommon">PVR</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -4721,7 +4721,7 @@ Exile Procedural Generation.</text>
     </card>
     <card>
       <name>Pool of Becoming</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="304" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4741,7 +4741,7 @@ Basic lands you control are the chosen land type in addition to their other type
     </card>
     <card>
       <name>Unlock the Quarternion</name>
-      <set rarity="rare">PVR</set>
+      <set num="268" rarity="rare">PVR</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -4760,7 +4760,7 @@ Target player draws four cards, gains 4 life, and gets {V/B}. (Spend {V} to cast
     </card>
     <card>
       <name>Turbulence Algorithm</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="87" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4780,7 +4780,7 @@ Whenever Turbulence Algorithm attacks, you may put the cards in your hand on the
     </card>
     <card>
       <name>Nurbs, the Wild King</name>
-      <set rarity="rare">PVR</set>
+      <set num="249" rarity="rare">PVR</set>
       <prop>
         <colors>URG</colors>
         <color>URG</color>
@@ -4802,7 +4802,7 @@ Whenever Turbulence Algorithm attacks, you may put the cards in your hand on the
     </card>
     <card>
       <name>Kinema, Queen Eternal</name>
-      <set rarity="rare">PVR</set>
+      <set num="245" rarity="rare">PVR</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -4822,7 +4822,7 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
     </card>
     <card>
       <name>Cruelean, Ruler of None</name>
-      <set rarity="rare">PVR</set>
+      <set num="233" rarity="rare">PVR</set>
       <prop>
         <colors>WBR</colors>
         <color>WBR</color>
@@ -4843,7 +4843,7 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
     </card>
     <card>
       <name>Abandonmare</name>
-      <set rarity="rare">PVR</set>
+      <set num="91" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4859,11 +4859,11 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
       </prop>
       <tablerow>2</tablerow>
       <text>When Abandonmare enters, each player discards two cards.
-Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Skirweigh, Abyssal Tsar</name>
-      <set rarity="rare">PVR</set>
+      <set num="259" rarity="rare">PVR</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4883,7 +4883,7 @@ Pay 1 life: Untap target nonland permanent you control without a stun counter on
     </card>
     <card>
       <name>Systems Collapse</name>
-      <set rarity="rare">PVR</set>
+      <set num="133" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4905,7 +4905,7 @@ Pay 1 life: Untap target nonland permanent you control without a stun counter on
     </card>
     <card>
       <name>Middleware Distributor</name>
-      <set rarity="rare">PVR</set>
+      <set num="62" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4925,7 +4925,7 @@ Middleware Distributor gets +1/+1 for each nontoken card a spell or ability has 
     </card>
     <card>
       <name>Quintarchs&apos; Decree</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="33" rarity="uncommon">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4944,7 +4944,7 @@ UW09</notes>
     </card>
     <card>
       <name>Quintarchal Pariah</name>
-      <set rarity="rare">PVR</set>
+      <set num="32" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4963,7 +4963,7 @@ UW09</notes>
     </card>
     <card>
       <name>Irticull&apos;s Vanguard</name>
-      <set rarity="rare">PVR</set>
+      <set num="28" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4979,11 +4979,11 @@ UW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Irticull’s Vanguard enters, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.
-Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying 1WWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocide</name>
-      <set rarity="rare">PVR</set>
+      <set num="14" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5001,7 +5001,7 @@ Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and payin
     </card>
     <card>
       <name>Edravir&apos;s Lynchpin</name>
-      <set rarity="rare">PVR</set>
+      <set num="15" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5020,7 +5020,7 @@ Whenever you cast a spell spending an amount of mana greater than its mana value
     </card>
     <card>
       <name>Urban Majesty</name>
-      <set rarity="rare">PVR</set>
+      <set num="269" rarity="rare">PVR</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -5040,7 +5040,7 @@ When enchanted creature dies, create five 1/1 white Human creature tokens.</text
     </card>
     <card>
       <name>Lord of the World Moat</name>
-      <set rarity="rare">PVR</set>
+      <set num="54" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5061,7 +5061,7 @@ Whenever this permanent becomes tapped, scry X, where X is this permanent’s ma
     </card>
     <card>
       <name>Amphibious Emulator</name>
-      <set rarity="rare">PVR</set>
+      <set num="46" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5081,7 +5081,7 @@ Whenever this permanent deals damage to a player or planeswalker, create a token
     </card>
     <card>
       <name>Luddite Infiltrator</name>
-      <set rarity="rare">PVR</set>
+      <set num="55" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5101,7 +5101,7 @@ When Luddite Infiltrator enters, exile target instant or sorcery card from your 
     </card>
     <card>
       <name>Abstraction Breaker</name>
-      <set rarity="rare">PVR</set>
+      <set num="92" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5122,7 +5122,7 @@ Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.</
     </card>
     <card>
       <name>Flesh Centrifuge</name>
-      <set rarity="rare">PVR</set>
+      <set num="113" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5142,7 +5142,7 @@ When Flesh Centrifuge enters, it deals 3 damage to any target and you gain 3 lif
     </card>
     <card>
       <name>Thassaraptor</name>
-      <set rarity="rare">PVR</set>
+      <set num="177" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5163,7 +5163,7 @@ DINOCURVE?</notes>
     </card>
     <card>
       <name>Harsurfir Overseer</name>
-      <set rarity="rare">PVR</set>
+      <set num="150" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5182,7 +5182,7 @@ DINOCURVE?</notes>
     </card>
     <card>
       <name>Lévy Paths</name>
-      <set rarity="mythic">PVR</set>
+      <set num="157" rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5204,7 +5204,7 @@ If X is 4 or greater, do all of the above.</text>
     </card>
     <card>
       <name>Usurp the Quintarchy</name>
-      <set rarity="rare">PVR</set>
+      <set num="179" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5222,7 +5222,7 @@ If X is 4 or greater, do all of the above.</text>
     </card>
     <card>
       <name>Into Primal Archives</name>
-      <set rarity="rare">PVR</set>
+      <set num="198" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5241,7 +5241,7 @@ Whenever your complexity is three or greater, untap up to one target creature an
     </card>
     <card>
       <name>Optimise </name>
-      <set rarity="rare">PVR</set>
+      <set num="208" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5259,7 +5259,7 @@ Whenever your complexity is three or greater, untap up to one target creature an
     </card>
     <card>
       <name>Marching Cubes</name>
-      <set rarity="mythic">PVR</set>
+      <set num="202" rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5278,7 +5278,7 @@ ASSIGN</notes>
     </card>
     <card>
       <name>Rastira Mauler</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="216" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5298,7 +5298,7 @@ UG05</notes>
     </card>
     <card>
       <name>Irticull, Shadow Sultan</name>
-      <set rarity="rare">PVR</set>
+      <set num="244" rarity="rare">PVR</set>
       <prop>
         <colors>M</colors>
         <manacost>1WBG // V/RV/GX</manacost>
@@ -5317,7 +5317,7 @@ Exile each creature card in your graveyard with mana value X or less. For each c
     </card>
     <card>
       <name>Graphical Fidelity</name>
-      <set rarity="rare">PVR</set>
+      <set num="114" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5336,7 +5336,7 @@ Exile each creature card in your graveyard with mana value X or less. For each c
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="">PVR</set>
+      <set num="312" rarity="">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5354,7 +5354,7 @@ Exile each creature card in your graveyard with mana value X or less. For each c
     </card>
     <card>
       <name>Tyrannoscorpius Rex</name>
-      <set rarity="rare">PVR</set>
+      <set num="223" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5369,11 +5369,11 @@ Exile each creature card in your graveyard with mana value X or less. For each c
         <notes>GREENRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Retopology GGGG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+      <text>Retopology GGGG (Cast a copy of this from your graveyard by exiling it and paying GGGG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Bitrot, Nilshroud Parasite</name>
-      <set rarity="mythic">PVR</set>
+      <set num="229" rarity="mythic">PVR</set>
       <prop>
         <colors>BR</colors>
         <manacost>2BR</manacost>
@@ -5394,7 +5394,7 @@ Exile each creature card in your graveyard with mana value X or less. For each c
     </card>
     <card>
       <name>The Metaball</name>
-      <set rarity="rare">PVR</set>
+      <set num="205" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5413,7 +5413,7 @@ Exile each creature card in your graveyard with mana value X or less. For each c
     </card>
     <card>
       <name>Fertile Progengon</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="190" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5434,7 +5434,7 @@ Whenever your complexity is three or greater, create a 1/1 white Human creature 
     </card>
     <card>
       <name>Deified Dicraeosaur</name>
-      <set rarity="rare">PVR</set>
+      <set num="235" rarity="rare">PVR</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -5456,7 +5456,7 @@ DINOCURVE?</notes>
     </card>
     <card>
       <name>Prawth&apos;s Ultimatum</name>
-      <set rarity="rare">PVR</set>
+      <set num="127" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5474,7 +5474,7 @@ DINOCURVE?</notes>
     </card>
     <card>
       <name>Backwards Companion</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="228" rarity="uncommon">PVR</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -5495,7 +5495,7 @@ Whenever one or more cards are put into an opponent’s graveyard from anywhere,
     </card>
     <card>
       <name>Novel Perspectives</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="68" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5515,7 +5515,7 @@ Whenever a nontoken card is put into your hand and wasn’t drawn, you may tap N
     </card>
     <card>
       <name>Felygon Skyswarm</name>
-      <set rarity="common">PVR</set>
+      <set num="22" rarity="common">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5536,7 +5536,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, tap 
     </card>
     <card>
       <name>Dynotopic Stampede</name>
-      <set rarity="rare">PVR</set>
+      <set num="145" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5556,7 +5556,7 @@ Whenever Dynotopic Stampede enters or attacks, destroy up to one target land. It
     </card>
     <card>
       <name>Cadix, the Raze-Rager</name>
-      <set rarity="rare">PVR</set>
+      <set num="139" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5578,7 +5578,7 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
     </card>
     <card>
       <name>Quintarchal Ascension</name>
-      <set rarity="rare">PVR</set>
+      <set num="74" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5596,7 +5596,7 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
     </card>
     <card>
       <name>Calf of the Restored Age</name>
-      <set rarity="rare">PVR</set>
+      <set num="231" rarity="rare">PVR</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -5615,7 +5615,7 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
     </card>
     <card>
       <name>Buffer Overflow</name>
-      <set rarity="rare">PVR</set>
+      <set num="48" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5630,11 +5630,11 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>If it isn’t an extra turn, take an extra turn after this one.
-Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUUUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Duplicate Specialty</name>
-      <set rarity="rare">PVR</set>
+      <set num="50" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5649,11 +5649,11 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>
-      <set rarity="rare">PVR</set>
+      <set num="232" rarity="rare">PVR</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -5672,7 +5672,7 @@ Whenever an opponent loses life, you may tap Corrupted Protocol. If you do, you 
     </card>
     <card>
       <name>Discover the Obsolete</name>
-      <set rarity="mythic">PVR</set>
+      <set num="10" rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5690,7 +5690,7 @@ Whenever an opponent loses life, you may tap Corrupted Protocol. If you do, you 
     </card>
     <card>
       <name>Suffocating Pollution</name>
-      <set rarity="rare">PVR</set>
+      <set num="264" rarity="rare">PVR</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -5709,7 +5709,7 @@ Whenever a player casts a spell from their hand, they get {V/W}. Then they disca
     </card>
     <card>
       <name>Paleoartistic Masterpiece</name>
-      <set rarity="rare">PVR</set>
+      <set num="279" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5730,7 +5730,7 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
     </card>
     <card>
       <name>Rogue Process</name>
-      <set rarity="rare">PVR</set>
+      <set num="286" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5746,11 +5746,11 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying CCC. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Rhystic Palace</name>
-      <set rarity="rare">PVR</set>
+      <set num="307" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5771,7 +5771,7 @@ Rhystic Palace enters tapped.
     </card>
     <card>
       <name>Ancient Activator</name>
-      <set rarity="rare">PVR</set>
+      <set num="226" rarity="rare">PVR</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -5790,7 +5790,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Deprecated Dump</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="291" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5810,7 +5810,7 @@ Whenever you tap Deprecated Dump for mana, add {C}.</text>
     </card>
     <card>
       <name>Conquex, Broken Mandate</name>
-      <set rarity="rare">PVR</set>
+      <set num="7" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5832,7 +5832,7 @@ Equip artifact creature {1}, {T}</text>
     </card>
     <card>
       <name>Hallway Thomasson</name>
-      <set rarity="mythic">PVR</set>
+      <set num="242" rarity="mythic">PVR</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -5851,7 +5851,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Nilshroud Apex</name>
-      <set rarity="mythic">PVR</set>
+      <set num="247" rarity="mythic">PVR</set>
       <prop>
         <colors>M</colors>
         <manacost>BR // B/RV/GV/B</manacost>
@@ -5868,7 +5868,7 @@ At the beginning of your upkeep, Wound deals 1 damage to each opponent.</text>
     </card>
     <card>
       <name>Guzzle Giblets</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="195" rarity="uncommon">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5890,7 +5890,7 @@ You draw cards equal to the sacrificed creature’s power, get an amount of {V} 
     </card>
     <card>
       <name>Deprecated Harvest</name>
-      <set rarity="rare">PVR</set>
+      <set num="186" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5910,7 +5910,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Albedo Arbalest</name>
-      <set rarity="mythic">PVR</set>
+      <set num="1" rarity="mythic">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5936,7 +5936,7 @@ III — Enchantment — Target player gains 5 life.</text>
     </card>
     <card>
       <name>Occult Occlusion</name>
-      <set rarity="mythic">PVR</set>
+      <set num="125" rarity="mythic">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5963,7 +5963,7 @@ Target player sacrifices a nontoken creature or enchantment.</text>
     </card>
     <card>
       <name>Metallic Mirage</name>
-      <set rarity="mythic">PVR</set>
+      <set num="61" rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5990,7 +5990,7 @@ Add CCC.</text>
     </card>
     <card>
       <name>Roughness Rails</name>
-      <set rarity="mythic">PVR</set>
+      <set num="167" rarity="mythic">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6017,7 +6017,7 @@ Roughness Rails deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Subsurface Scattering</name>
-      <set rarity="mythic">PVR</set>
+      <set num="219" rarity="mythic">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6043,7 +6043,7 @@ III — Enchantment — You may put a land card from your graveyard or hand onto
     </card>
     <card>
       <name>Voracious Mollusk</name>
-      <set rarity="rare">PVR</set>
+      <set num="43" rarity="rare">PVR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6063,7 +6063,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Flagstones of the Broken Age</name>
-      <set rarity="rare">PVR</set>
+      <set num="297" rarity="rare">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6082,7 +6082,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Memory Spike</name>
-      <set rarity="rare">PVR</set>
+      <set num="59" rarity="rare">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6101,7 +6101,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Nilshroud Mockery</name>
-      <set rarity="mythic">PVR</set>
+      <set num="66" rarity="mythic">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6120,7 +6120,7 @@ BLUERARE</notes>
     </card>
     <card>
       <name>Grim Tutor</name>
-      <set rarity="rare">PVR</set>
+      <set num="115" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6139,7 +6139,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Crashing Rot</name>
-      <set rarity="rare">PVR</set>
+      <set num="101" rarity="rare">PVR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6158,7 +6158,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Rapid Terraforming</name>
-      <set rarity="rare">PVR</set>
+      <set num="164" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6179,7 +6179,7 @@ At the beginning of the end step, sacrifice Rapid Terraforming.</text>
     </card>
     <card>
       <name>Relentless Consumption</name>
-      <set rarity="rare">PVR</set>
+      <set num="165" rarity="rare">PVR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6199,7 +6199,7 @@ NEWCARD</notes>
     </card>
     <card>
       <name>Friends Unfettered</name>
-      <set rarity="rare">PVR</set>
+      <set num="191" rarity="rare">PVR</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6218,7 +6218,7 @@ GREENRARE</notes>
     </card>
     <card>
       <name>Shard of Conquex</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="309" rarity="uncommon">PVR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6238,7 +6238,7 @@ WUBRG, {T}, Sacrifice Shard of Conquex: It deals 5 damage to any target and you 
     </card>
     <card>
       <name>Prefabrication</name>
-      <set rarity="uncommon">PVR</set>
+      <set num="73" rarity="uncommon">PVR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6257,7 +6257,7 @@ UU06 Storm Crowed</notes>
     </card>
     <card>
       <name>Ray Tracing</name>
-      <set rarity="mythic">PVR</set>
+      <set num="255" rarity="mythic">PVR</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -6276,7 +6276,7 @@ Until end of turn, you may cast spells exiled this way.</text>
     </card>
     <card>
       <name>Tromping Iguanodon</name>
-      <set rarity="mythic">PVR</set>
+      <set num="267" rarity="mythic">PVR</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -6297,7 +6297,7 @@ Until end of turn, you may cast spells exiled this way.</text>
     </card>
     <card>
       <name>Perpetual Cycle</name>
-      <set rarity="mythic">PVR</set>
+      <set num="251" rarity="mythic">PVR</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -6316,7 +6316,7 @@ Rather than pay an amount of mana, you may sacrifice that many permanents instea
     </card>
     <card>
       <name>Sudden Emergence</name>
-      <set rarity="mythic">PVR</set>
+      <set num="263" rarity="mythic">PVR</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -6335,7 +6335,7 @@ If five or more permanents incremented your complexity this turn, you may cast a
     </card>
     <card>
       <name>Envoy of Debauchery</name>
-      <set rarity="mythic">PVR</set>
+      <set num="237" rarity="mythic">PVR</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -6351,13 +6351,13 @@ If five or more permanents incremented your complexity this turn, you may cast a
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Defender, haste
 {2}, {T}: Each opponent loses 3 life and you gain 3 life. Activate only if you control three or more artifacts.</text>
     </card>
     <card>
       <name>Eons of Ancestry</name>
-      <set rarity="mythic">PVR</set>
+      <set num="238" rarity="mythic">PVR</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>

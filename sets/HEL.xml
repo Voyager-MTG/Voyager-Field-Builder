@@ -11,7 +11,7 @@
 
     <card>
       <name>Radiant Chains</name>
-      <set rarity="common">HEL</set>
+      <set num="26" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -29,7 +29,7 @@
     </card>
     <card>
       <name>Dutybound Lich</name>
-      <set rarity="common">HEL</set>
+      <set num="17" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -50,7 +50,7 @@ Maybe make 4/2</notes>
     </card>
     <card>
       <name>Crypt Defenders</name>
-      <set rarity="common">HEL</set>
+      <set num="11" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -69,7 +69,7 @@ Maybe make 4/2</notes>
     </card>
     <card>
       <name>Kinnamon&apos;s Stitched</name>
-      <set rarity="common">HEL</set>
+      <set num="24" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -88,7 +88,7 @@ Maybe make 4/2</notes>
     </card>
     <card>
       <name>Duskrider Cavalry</name>
-      <set rarity="common">HEL</set>
+      <set num="16" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -110,7 +110,7 @@ Feedback: activated feels slightly disconnected.</notes>
     </card>
     <card>
       <name>Smoke Whisperer</name>
-      <set rarity="common">HEL</set>
+      <set num="34" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -130,7 +130,7 @@ When this creature enters, you may exile another target creature. Return it to t
     </card>
     <card>
       <name>Faithful Gaze</name>
-      <set rarity="common">HEL</set>
+      <set num="18" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -149,7 +149,7 @@ Enchanted creature has lifelink and “When this creature dies, return it to the
     </card>
     <card>
       <name>Welcoming Touch</name>
-      <set rarity="common">HEL</set>
+      <set num="41" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -167,7 +167,7 @@ Enchanted creature has lifelink and “When this creature dies, return it to the
     </card>
     <card>
       <name>Skyclaws</name>
-      <set rarity="common">HEL</set>
+      <set num="33" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -187,7 +187,7 @@ When this creature enters, if it isn’t a token, you may sacrifice another crea
     </card>
     <card>
       <name>Upholder of Rites</name>
-      <set rarity="common">HEL</set>
+      <set num="39" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -207,7 +207,7 @@ Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
       <name>Return the Forsaken</name>
-      <set rarity="common">HEL</set>
+      <set num="29" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -225,7 +225,7 @@ Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
       <name>Hungering Sentinel</name>
-      <set rarity="common">HEL</set>
+      <set num="21" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -244,7 +244,7 @@ Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
       <name>Tranquil Repose</name>
-      <set rarity="common">HEL</set>
+      <set num="38" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -264,7 +264,7 @@ When enchanted creature is sacrificed, you draw a card.</text>
     </card>
     <card>
       <name>Doubling Imp</name>
-      <set rarity="common">HEL</set>
+      <set num="51" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -284,7 +284,7 @@ When this creature dies, you may draw a card. If you do, discard a card.</text>
     </card>
     <card>
       <name>Orbisfaber&apos;s Hellspawn</name>
-      <set rarity="common">HEL</set>
+      <set num="70" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -304,7 +304,7 @@ When this creature enters, return up to one target creature to its owner’s han
     </card>
     <card>
       <name>Secret Dealings</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="76" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -324,7 +324,7 @@ Exile Secret Dealings.</text>
     </card>
     <card>
       <name>Warping Whisper</name>
-      <set rarity="common">HEL</set>
+      <set num="82" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -346,7 +346,7 @@ Maybe change Art</notes>
     </card>
     <card>
       <name>Bloodied Stalker</name>
-      <set rarity="common">HEL</set>
+      <set num="42" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -366,7 +366,7 @@ This creature can’t be blocked by creatures with greater power.</text>
     </card>
     <card>
       <name>Gigas Screamer</name>
-      <set rarity="common">HEL</set>
+      <set num="60" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -386,7 +386,7 @@ This creature can’t be blocked by creatures with greater power.</text>
     </card>
     <card>
       <name>Drag Under</name>
-      <set rarity="common">HEL</set>
+      <set num="52" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -405,7 +405,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Fractured Epiphany</name>
-      <set rarity="common">HEL</set>
+      <set num="57" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -426,7 +426,7 @@ Discard a card, then draw three cards.</text>
     </card>
     <card>
       <name>Last Sip</name>
-      <set rarity="common">HEL</set>
+      <set num="65" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -445,7 +445,7 @@ Counter target creature spell.</text>
     </card>
     <card>
       <name>Osavotus&apos;s Pet</name>
-      <set rarity="common">HEL</set>
+      <set num="73" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -468,7 +468,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Gloom Fracture</name>
-      <set rarity="common">HEL</set>
+      <set num="61" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -487,7 +487,7 @@ Counter target noncreature spell unless its controller pays {X}.</text>
     </card>
     <card>
       <name>End&apos;s Embrace</name>
-      <set rarity="common">HEL</set>
+      <set num="53" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -506,7 +506,7 @@ Counter target spell.</text>
     </card>
     <card>
       <name>Puppet Weaver</name>
-      <set rarity="common">HEL</set>
+      <set num="111" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -526,7 +526,7 @@ This creature has +2/+0 as long as there are eight or more cards in your graveya
     </card>
     <card>
       <name>Return for Duty</name>
-      <set rarity="common">HEL</set>
+      <set num="113" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -546,7 +546,7 @@ Exile Return for Duty.</text>
     </card>
     <card>
       <name>Wandering Lich</name>
-      <set rarity="common">HEL</set>
+      <set num="121" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -568,7 +568,7 @@ Whenever you put a pact counter on a creature, each opponent loses 1 life.</text
     </card>
     <card>
       <name>Repurposed Bloodrinker</name>
-      <set rarity="common">HEL</set>
+      <set num="153" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -588,7 +588,7 @@ When this creature dies, target player loses 2 life.</text>
     </card>
     <card>
       <name>Bloodied Corpse</name>
-      <set rarity="common">HEL</set>
+      <set num="85" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -608,7 +608,7 @@ This creature has +1/+0 as long as a creature died this turn.</text>
     </card>
     <card>
       <name>Phylactery Crafter</name>
-      <set rarity="common">HEL</set>
+      <set num="110" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -628,7 +628,7 @@ When this creature enters, create a 2/2 white Zombie creature token with lifelin
     </card>
     <card>
       <name>Bloodthirsty Dragon</name>
-      <set rarity="common">HEL</set>
+      <set num="88" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -649,7 +649,7 @@ When this creature enters, each opponent loses 2 life and you gain 2 life.</text
     </card>
     <card>
       <name>Skeletonfy</name>
-      <set rarity="common">HEL</set>
+      <set num="117" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -668,7 +668,7 @@ Create a 1/1 black Skeleton creature token.</text>
     </card>
     <card>
       <name>Moon Renegade</name>
-      <set rarity="common">HEL</set>
+      <set num="108" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -687,7 +687,7 @@ Create a 1/1 black Skeleton creature token.</text>
     </card>
     <card>
       <name>Deathless Ceremony</name>
-      <set rarity="common">HEL</set>
+      <set num="93" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -706,7 +706,7 @@ Surveil 2. (Look at the top two cards of your library, then put any number of th
     </card>
     <card>
       <name>Embodiment of Hell</name>
-      <set rarity="common">HEL</set>
+      <set num="99" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -727,7 +727,7 @@ When this enchantment is put into the graveyard from the battlefield, target pla
     </card>
     <card>
       <name>Through the Skull</name>
-      <set rarity="common">HEL</set>
+      <set num="120" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -747,7 +747,7 @@ When this enchantment is put into the graveyard from the battlefield, target pla
     </card>
     <card>
       <name>Sign in Blood</name>
-      <set rarity="common">HEL</set>
+      <set num="116" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -765,7 +765,7 @@ When this enchantment is put into the graveyard from the battlefield, target pla
     </card>
     <card>
       <name>Zeramander&apos;s Spawn</name>
-      <set rarity="common">HEL</set>
+      <set num="164" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -785,7 +785,7 @@ During your turn, this creature has first strike.</text>
     </card>
     <card>
       <name>Magma Spray</name>
-      <set rarity="common">HEL</set>
+      <set num="146" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -803,7 +803,7 @@ During your turn, this creature has first strike.</text>
     </card>
     <card>
       <name>Burst Forth</name>
-      <set rarity="common">HEL</set>
+      <set num="132" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -823,7 +823,7 @@ During your turn, this creature has first strike.</text>
     </card>
     <card>
       <name>Bloodclot Traveler</name>
-      <set rarity="common">HEL</set>
+      <set num="128" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -842,7 +842,7 @@ During your turn, this creature has first strike.</text>
     </card>
     <card>
       <name>Aloof Ichormancer</name>
-      <set rarity="common">HEL</set>
+      <set num="84" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -862,7 +862,7 @@ Whenever you cast a noncreature spell, this creature deals 1 damage to target pl
     </card>
     <card>
       <name>Salvaged Legionnaire</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="30" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -882,7 +882,7 @@ Whenever you cast a noncreature spell, this creature deals 1 damage to target pl
     </card>
     <card>
       <name>Vampire Hemoblade</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="160" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -902,7 +902,7 @@ Whenever you discard one or more cards, put that many +1/+1 counters on this cre
     </card>
     <card>
       <name>Burning Walker</name>
-      <set rarity="common">HEL</set>
+      <set num="131" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -922,7 +922,7 @@ When this creature enters, it deals 3 damage to target player or planeswalker.</
     </card>
     <card>
       <name>Reduce to Embers</name>
-      <set rarity="common">HEL</set>
+      <set num="152" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -940,7 +940,7 @@ When this creature enters, it deals 3 damage to target player or planeswalker.</
     </card>
     <card>
       <name>Unshackled Desire</name>
-      <set rarity="common">HEL</set>
+      <set num="159" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -963,7 +963,7 @@ https://www.artstation.com/artwork/Po83RL
     </card>
     <card>
       <name>Nightmare Webbing</name>
-      <set rarity="common">HEL</set>
+      <set num="188" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -983,7 +983,7 @@ https://www.artstation.com/artwork/Po83RL
     </card>
     <card>
       <name>Aggressive Foraging</name>
-      <set rarity="common">HEL</set>
+      <set num="166" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1002,7 +1002,7 @@ Target creature you control deals damage equal to its power to target creature y
     </card>
     <card>
       <name>Skittering Skullsifter</name>
-      <set rarity="common">HEL</set>
+      <set num="196" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1022,7 +1022,7 @@ When this creature dies, create a 2/1 green Spider creature token with reach.</t
     </card>
     <card>
       <name>Predator&apos;s Gaze</name>
-      <set rarity="common">HEL</set>
+      <set num="190" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1042,7 +1042,7 @@ Enchanted creature gets +1/+0 and has vigilance.</text>
     </card>
     <card>
       <name>Invigorating Essence</name>
-      <set rarity="common">HEL</set>
+      <set num="185" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1060,7 +1060,7 @@ Enchanted creature gets +1/+0 and has vigilance.</text>
     </card>
     <card>
       <name>Quarter Crasher</name>
-      <set rarity="common">HEL</set>
+      <set num="191" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1080,7 +1080,7 @@ When this creature enters, draw a card.</text>
     </card>
     <card>
       <name>Decomposing Guardian</name>
-      <set rarity="common">HEL</set>
+      <set num="173" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1102,7 +1102,7 @@ Decomposing Guardian can’t block.</notes>
     </card>
     <card>
       <name>Disturb the Undergrowth</name>
-      <set rarity="common">HEL</set>
+      <set num="175" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1126,7 +1126,7 @@ Decomposing Guardian can’t block.</notes>
     </card>
     <card>
       <name>Smeltingtree</name>
-      <set rarity="common">HEL</set>
+      <set num="198" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1146,7 +1146,7 @@ When this creature enters, destroy up to one target artifact or enchantment.</te
     </card>
     <card>
       <name>Bloodied Overgrowth</name>
-      <set rarity="common">HEL</set>
+      <set num="168" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1166,7 +1166,7 @@ If this spell’s spectacle cost was paid, you may put a land card from your han
     </card>
     <card>
       <name>Bone Collector</name>
-      <set rarity="rare">HEL</set>
+      <set num="44" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1186,7 +1186,7 @@ Whenever this creature attacks, each player draws a card.</text>
     </card>
     <card>
       <name>Bloodroot Demon</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="169" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1206,7 +1206,7 @@ Trample, haste</text>
     </card>
     <card>
       <name>Lich&apos;s Assembly</name>
-      <set rarity="rare">HEL</set>
+      <set num="66" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1226,7 +1226,7 @@ Sacrifice this enchantment: The next spell you cast this turn can be cast as tho
     </card>
     <card>
       <name>Capricious Count</name>
-      <set rarity="common">HEL</set>
+      <set num="134" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1246,7 +1246,7 @@ Whenever this creature deals combat damage to a player, you may discard a card. 
     </card>
     <card>
       <name>Faber&apos;s Hatching</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="54" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1265,7 +1265,7 @@ Flashback 2U (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Craftiness of the Meek</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="47" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1284,7 +1284,7 @@ Flashback 2U (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Fides, Bloodied Confidant</name>
-      <set rarity="rare">HEL</set>
+      <set num="19" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1307,7 +1307,7 @@ Whenever a nontoken creature you control dies, create a 2/2 white Zombie creatur
     </card>
     <card>
       <name>Repulsive Blast</name>
-      <set rarity="rare">HEL</set>
+      <set num="227" rarity="rare">HEL</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1326,7 +1326,7 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
     </card>
     <card>
       <name>Forlorn Scouring</name>
-      <set rarity="rare">HEL</set>
+      <set num="101" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1344,7 +1344,7 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
     </card>
     <card>
       <name>Mad Summoner</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="145" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1364,7 +1364,7 @@ Whenever you put a pact counter on a creature you control, exile the top card of
     </card>
     <card>
       <name>Orbisfaber&apos;s Corruption</name>
-      <set rarity="common">HEL</set>
+      <set num="69" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1382,7 +1382,7 @@ Whenever you put a pact counter on a creature you control, exile the top card of
     </card>
     <card>
       <name>Misleading Mist</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="68" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1400,7 +1400,7 @@ Whenever you put a pact counter on a creature you control, exile the top card of
     </card>
     <card>
       <name>Secure Mortality</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="32" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1419,7 +1419,7 @@ Return target creature card from your graveyard to the battlefield tapped.</text
     </card>
     <card>
       <name>Skullspeaker</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="231" rarity="uncommon">HEL</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1439,7 +1439,7 @@ Whenever another creature you control dies, this creature deals 1 damage to targ
     </card>
     <card>
       <name>Shamble En Masse</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="230" rarity="uncommon">HEL</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1462,7 +1462,7 @@ Sacrifice two creatures: Draw a card and you lose 1 life. Activate only as a sor
     </card>
     <card>
       <name>Aged Warmage</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="206" rarity="uncommon">HEL</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -1481,7 +1481,7 @@ Sacrifice two creatures: Draw a card and you lose 1 life. Activate only as a sor
     </card>
     <card>
       <name>Demonic Influence</name>
-      <set rarity="common">HEL</set>
+      <set num="95" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1500,7 +1500,7 @@ Enchanted creature gets +2/-2 and has haste.</text>
     </card>
     <card>
       <name>Whispering Walls</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="122" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1520,7 +1520,7 @@ Enchanted creature gets +2/-2 and has haste.</text>
     </card>
     <card>
       <name>Hellfire Ant</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="103" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1540,7 +1540,7 @@ Whenever another creature enters under your control, up to one target creature g
     </card>
     <card>
       <name>Culling Demon</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="91" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1560,7 +1560,7 @@ When this creature enters, each opponent discards a card.</text>
     </card>
     <card>
       <name>Ichorous Tyrant</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="105" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1580,7 +1580,7 @@ When this creature enters, target player sacrifices a creature of their choice a
     </card>
     <card>
       <name>Cryptborn Bones</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="210" rarity="uncommon">HEL</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -1603,7 +1603,7 @@ You may cast this creature from your graveyard if you attacked with creatures wi
     </card>
     <card>
       <name>Eternal Slayer</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="141" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1624,7 +1624,7 @@ This creature can’t block.
     </card>
     <card>
       <name>Rambunctious Bonewalkers</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="148" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1648,7 +1648,7 @@ At the beginning of combat on your turn, you may pay {1} and exile a Skeleton ca
     </card>
     <card>
       <name>Zeramander&apos;s Infiltrator</name>
-      <set rarity="common">HEL</set>
+      <set num="162" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1668,7 +1668,7 @@ At the beginning of combat on your turn, you may pay {1} and exile a Skeleton ca
     </card>
     <card>
       <name>Unflinching Bloodlust</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="157" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1686,7 +1686,7 @@ At the beginning of combat on your turn, you may pay {1} and exile a Skeleton ca
     </card>
     <card>
       <name>Repulsive Drake</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="228" rarity="uncommon">HEL</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -1707,7 +1707,7 @@ When this creature dies, you may return another target card from your graveyard 
     </card>
     <card>
       <name>Composting Hellion</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="172" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1727,7 +1727,7 @@ At the beginning of combat on your turn, you may discard a card or sacrifice ano
     </card>
     <card>
       <name>Stranded Hatchling</name>
-      <set rarity="common">HEL</set>
+      <set num="200" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1746,7 +1746,7 @@ At the beginning of combat on your turn, you may discard a card or sacrifice ano
     </card>
     <card>
       <name>Eafems&apos; Brood</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="177" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1767,7 +1767,7 @@ This creature can’t be blocked by more than one creature.
     </card>
     <card>
       <name>Disembodied Lich</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="212" rarity="uncommon">HEL</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -1788,7 +1788,7 @@ Whenever this creature deals combat damage to a player, you may draw a card. If 
     </card>
     <card>
       <name>Widespread Cataclysm</name>
-      <set rarity="common">HEL</set>
+      <set num="123" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1810,7 +1810,7 @@ Choose two —
     </card>
     <card>
       <name>Fling Through Hell</name>
-      <set rarity="rare">HEL</set>
+      <set num="100" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1828,7 +1828,7 @@ Choose two —
     </card>
     <card>
       <name>Overwhelming Consumption</name>
-      <set rarity="common">HEL</set>
+      <set num="147" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1847,7 +1847,7 @@ Exile the top two cards of your library. You may play those cards until the end 
     </card>
     <card>
       <name>Smoldering Tormentor</name>
-      <set rarity="mythic">HEL</set>
+      <set num="119" rarity="mythic">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1870,7 +1870,7 @@ This creature can’t attack or block unless there are two or more pact counters
     </card>
     <card>
       <name>Davriel&apos;s Dealbroker</name>
-      <set rarity="mythic">HEL</set>
+      <set num="138" rarity="mythic">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1891,7 +1891,7 @@ Whenever this creature deals combat damage to a player, you may discard a card. 
     </card>
     <card>
       <name>Demonlord Silfidiae</name>
-      <set rarity="mythic">HEL</set>
+      <set num="174" rarity="mythic">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1911,7 +1911,7 @@ Demonlord Silfidiae can’t be blocked by creatures with power 2 or less.</text>
     </card>
     <card>
       <name>Bonemarrow Hydra</name>
-      <set rarity="mythic">HEL</set>
+      <set num="170" rarity="mythic">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1931,7 +1931,7 @@ Sacrifice another creature: This creature must be blocked this turn if able. Put
     </card>
     <card>
       <name>Cryptkeepers Vow</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="12" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1952,7 +1952,7 @@ Sacrifice another creature: This creature must be blocked this turn if able. Put
     </card>
     <card>
       <name>Tenacious Legion</name>
-      <set rarity="rare">HEL</set>
+      <set num="37" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1971,7 +1971,7 @@ Sacrifice another creature: This creature must be blocked this turn if able. Put
     </card>
     <card>
       <name>Watchdog Liches</name>
-      <set rarity="rare">HEL</set>
+      <set num="40" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1991,7 +1991,7 @@ This creature gets +2/+2 as long as you control no other creatures named Watchdo
     </card>
     <card>
       <name>Bones to Flesh</name>
-      <set rarity="rare">HEL</set>
+      <set num="171" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2009,7 +2009,7 @@ This creature gets +2/+2 as long as you control no other creatures named Watchdo
     </card>
     <card>
       <name>Hibernating Dragon</name>
-      <set rarity="rare">HEL</set>
+      <set num="63" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2030,7 +2030,7 @@ At the beginning of your end step, surveil 1. (Look at the top card of your libr
     </card>
     <card>
       <name>March From Beyond</name>
-      <set rarity="rare">HEL</set>
+      <set num="107" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2051,7 +2051,7 @@ Whenever a creature you control dies, return it the battlefield tapped under you
     </card>
     <card>
       <name>Demonic Vortex</name>
-      <set rarity="rare">HEL</set>
+      <set num="96" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2072,7 +2072,7 @@ Whenever a creature you control dies, return it the battlefield tapped under you
     </card>
     <card>
       <name>Cerebral Devilfish</name>
-      <set rarity="rare">HEL</set>
+      <set num="89" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2092,7 +2092,7 @@ When this creature enters, target player discards X cards. Put X +1/+1 counters 
     </card>
     <card>
       <name>Rattler&apos;s Crusade</name>
-      <set rarity="rare">HEL</set>
+      <set num="150" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2111,7 +2111,7 @@ Skeletons you control get +1/+0 and and have trample.</text>
     </card>
     <card>
       <name>Calcinere, World Burner</name>
-      <set rarity="rare">HEL</set>
+      <set num="133" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2131,7 +2131,7 @@ Whenever Calcinere enters or attacks, you may exile a land card from your gravey
     </card>
     <card>
       <name>Invigorating Corpsemancer</name>
-      <set rarity="rare">HEL</set>
+      <set num="144" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2150,7 +2150,7 @@ Whenever Calcinere enters or attacks, you may exile a land card from your gravey
     </card>
     <card>
       <name>Viscera Blast</name>
-      <set rarity="rare">HEL</set>
+      <set num="161" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2171,7 +2171,7 @@ Viscera Blast deals X damage to target player and up to one target creature that
     </card>
     <card>
       <name>Cliff-Pit Hanger</name>
-      <set rarity="rare">HEL</set>
+      <set num="135" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2194,7 +2194,7 @@ At the beginning of your end step, sacrifice a creature unless you discard a car
     </card>
     <card>
       <name>Aggravator of Herds</name>
-      <set rarity="rare">HEL</set>
+      <set num="165" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2214,7 +2214,7 @@ Creature heavy topened combo / midrange value</notes>
     </card>
     <card>
       <name>Savage Snapper</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="193" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2234,7 +2234,7 @@ This creature can’t be blocked by creatures with power 2 or less.</text>
     </card>
     <card>
       <name>Crackshot Skeleton</name>
-      <set rarity="common">HEL</set>
+      <set num="136" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2254,7 +2254,7 @@ At the beginning of combat on your turn, target Skeleton you control gets +1/+0 
     </card>
     <card>
       <name>Gaping Skimmer</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="58" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2277,7 +2277,7 @@ When this creature enters, return up to one target creature to its owner’s han
     </card>
     <card>
       <name>Rattletroop</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="151" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2301,7 +2301,7 @@ Other Skeletons you control get +1/+1.</text>
     </card>
     <card>
       <name>Begin Again</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="167" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2325,7 +2325,7 @@ Exile Begin Again.</text>
     </card>
     <card>
       <name>Fabricated Phylactery</name>
-      <set rarity="rare">HEL</set>
+      <set num="240" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2344,7 +2344,7 @@ Exile Begin Again.</text>
     </card>
     <card>
       <name>Thicket Taker</name>
-      <set rarity="mythic">HEL</set>
+      <set num="201" rarity="mythic">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2366,7 +2366,7 @@ Whenever this creature attacks, up to one other target creature you control deal
     </card>
     <card>
       <name>Twisted Underling</name>
-      <set rarity="common">HEL</set>
+      <set num="80" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2385,7 +2385,7 @@ Whenever this creature attacks, up to one other target creature you control deal
     </card>
     <card>
       <name>Retributive Hellknight</name>
-      <set rarity="common">HEL</set>
+      <set num="27" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2404,7 +2404,7 @@ Whenever this creature attacks, up to one other target creature you control deal
     </card>
     <card>
       <name>Unhinged Giant</name>
-      <set rarity="common">HEL</set>
+      <set num="158" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2426,7 +2426,7 @@ Sorcery clause</notes>
     </card>
     <card>
       <name>Skittering Hellflayer</name>
-      <set rarity="common">HEL</set>
+      <set num="118" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2446,7 +2446,7 @@ Sorcery clause</notes>
     </card>
     <card>
       <name>Crypt Vessel</name>
-      <set rarity="common">HEL</set>
+      <set num="239" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2467,7 +2467,7 @@ When this creature dies, put a card exiled by it on top of your library.</text>
     </card>
     <card>
       <name>Infected Wolf</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="184" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2487,7 +2487,7 @@ Whenever this creature deals combat damage to a player, if it doesn’t have a +
     </card>
     <card>
       <name>Adapted Servant</name>
-      <set rarity="rare">HEL</set>
+      <set num="237" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2510,7 +2510,7 @@ Change tails mode? Lower power?</notes>
     </card>
     <card>
       <name>Broken Shortsword</name>
-      <set rarity="common">HEL</set>
+      <set num="238" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2531,7 +2531,7 @@ Equip {1}</text>
     </card>
     <card>
       <name>Dreaded Savior</name>
-      <set rarity="rare">HEL</set>
+      <set num="15" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2553,7 +2553,7 @@ Equip {1}</text>
     </card>
     <card>
       <name>Saintly Remains</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="229" rarity="uncommon">HEL</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2573,7 +2573,7 @@ When this creature enters the battlefield, create two 2/2 white Zombie creature 
     </card>
     <card>
       <name>Blood Petunia</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="208" rarity="uncommon">HEL</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2594,7 +2594,7 @@ When this creature enters, search your library for a basic land card, reveal it,
     </card>
     <card>
       <name>Maddening Descent</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="221" rarity="uncommon">HEL</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2612,7 +2612,7 @@ When this creature enters, search your library for a basic land card, reveal it,
     </card>
     <card>
       <name>Spitting Hellfire</name>
-      <set rarity="common">HEL</set>
+      <set num="155" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2631,7 +2631,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Grafted Boneshatterer</name>
-      <set rarity="common">HEL</set>
+      <set num="242" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2651,7 +2651,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Inflaming Smite</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="217" rarity="uncommon">HEL</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2671,7 +2671,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Provoking the Masses</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="225" rarity="uncommon">HEL</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2689,7 +2689,7 @@ Spitting Hellfire deals 4 damage to target creature or planeswalker.</text>
     </card>
     <card>
       <name>Immortal Oath</name>
-      <set rarity="rare">HEL</set>
+      <set num="215" rarity="rare">HEL</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2708,7 +2708,7 @@ Whenever you gain life, target player mills that many cards.</text>
     </card>
     <card>
       <name>Crashing Murmurer</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="209" rarity="uncommon">HEL</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2727,7 +2727,7 @@ Whenever you gain life, target player mills that many cards.</text>
     </card>
     <card>
       <name>Frenzied Predation</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="213" rarity="uncommon">HEL</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -2747,7 +2747,7 @@ Enchanted creature can’t block.</text>
     </card>
     <card>
       <name>Marsh Grower</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="223" rarity="uncommon">HEL</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2767,7 +2767,7 @@ Enchanted creature can’t block.</text>
     </card>
     <card>
       <name>Legion Bonecracker</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="220" rarity="uncommon">HEL</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -2787,7 +2787,7 @@ Sacrifice another creature or discard a card: Put a +1/+1 counter on this creatu
     </card>
     <card>
       <name>Malicious Mimicry</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="222" rarity="uncommon">HEL</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2805,7 +2805,7 @@ Sacrifice another creature or discard a card: Put a +1/+1 counter on this creatu
     </card>
     <card>
       <name>Vengeful Grovekeeper</name>
-      <set rarity="rare">HEL</set>
+      <set num="236" rarity="rare">HEL</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2828,7 +2828,7 @@ Whenever this creature attacks, reveal the top four cards of your library. You m
     </card>
     <card>
       <name>Tanglemess Hydra</name>
-      <set rarity="rare">HEL</set>
+      <set num="232" rarity="rare">HEL</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2848,7 +2848,7 @@ This creature enters with X +1/+1 counters on it. Then add X mana in any combina
     </card>
     <card>
       <name>Unholy Communion</name>
-      <set rarity="rare">HEL</set>
+      <set num="235" rarity="rare">HEL</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2867,7 +2867,7 @@ Whenever a creature you control dies, target opponent loses 1 life and you gain 
     </card>
     <card>
       <name>Infusing Ritual</name>
-      <set rarity="rare">HEL</set>
+      <set num="218" rarity="rare">HEL</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2886,7 +2886,7 @@ UR, Sacrifice this enchantment: Add three mana of any one color.</text>
     </card>
     <card>
       <name>Thought Scour</name>
-      <set rarity="common">HEL</set>
+      <set num="78" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2905,7 +2905,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Schefelix, Abyssal Retriever</name>
-      <set rarity="rare">HEL</set>
+      <set num="31" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2926,7 +2926,7 @@ Watchlist/red flag</notes>
     </card>
     <card>
       <name>Crumbling Monstrosity</name>
-      <set rarity="rare">HEL</set>
+      <set num="137" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2946,7 +2946,7 @@ Sacrifice another Skeleton: This creature deals 1 damage to any target.</text>
     </card>
     <card>
       <name>Twisted Guardian</name>
-      <set rarity="rare">HEL</set>
+      <set num="203" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2970,7 +2970,7 @@ When this creature dies, search your library for a basic land card, reveal it, p
     </card>
     <card>
       <name>Mirumea, Ambush Master</name>
-      <set rarity="rare">HEL</set>
+      <set num="187" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2991,7 +2991,7 @@ When Mirumea enters, put X +1/+1 counters on it and destroy up to X target artif
     </card>
     <card>
       <name>Davriel, the Pactmaker</name>
-      <set rarity="mythic">HEL</set>
+      <set num="92" rarity="mythic">HEL</set>
       <prop>
         <colors>B</colors>
         <manacost>1BB</manacost>
@@ -3013,7 +3013,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Overgrowing Burial</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="256" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3032,7 +3032,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Submerging Grotto</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="265" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3051,7 +3051,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Tunneling Hideaway</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="268" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3070,7 +3070,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Slumbering Lavafields</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="262" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3089,7 +3089,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Striking Waterfalls</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="264" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3108,7 +3108,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Winding Quagmire</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="269" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3127,7 +3127,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Despairing Marsh</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="247" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3146,7 +3146,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Rotting Mineshaft</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="260" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3165,7 +3165,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Receding Coastline</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="259" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3184,7 +3184,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="common">HEL</set>
+      <set num="250" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3202,7 +3202,7 @@ Reanimator/midrange value piece</notes>
     </card>
     <card>
       <name>Castle Salus&apos;s Catacombs</name>
-      <set rarity="rare">HEL</set>
+      <set num="10" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3221,7 +3221,7 @@ Whenever you gain life for the first time each turn, put a +1/+1 counter on targ
     </card>
     <card>
       <name>Hellemental</name>
-      <set rarity="rare">HEL</set>
+      <set num="102" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3244,7 +3244,7 @@ When this creature dies, create two 1/1 black Skeleton creature tokens.</text>
     </card>
     <card>
       <name>Silfidiae&apos;s Influence</name>
-      <set rarity="rare">HEL</set>
+      <set num="194" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3264,7 +3264,7 @@ When this creature dies, create two 1/1 black Skeleton creature tokens.</text>
     </card>
     <card>
       <name>Kinnamon&apos;s Influence</name>
-      <set rarity="rare">HEL</set>
+      <set num="23" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3284,7 +3284,7 @@ When this creature dies, create two 1/1 black Skeleton creature tokens.</text>
     </card>
     <card>
       <name>Morideus&apos;s Influence</name>
-      <set rarity="rare">HEL</set>
+      <set num="109" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3306,7 +3306,7 @@ https://www.deviantart.com/austenmengler/art/The-Dead-Come-469872905</notes>
     </card>
     <card>
       <name>Undue, Death Devourer</name>
-      <set rarity="mythic">HEL</set>
+      <set num="234" rarity="mythic">HEL</set>
       <prop>
         <colors>WBG</colors>
         <manacost>1WBG</manacost>
@@ -3328,7 +3328,7 @@ hate piece/counters</notes>
     </card>
     <card>
       <name>Imposing Asylum</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="251" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3347,7 +3347,7 @@ hate piece/counters</notes>
     </card>
     <card>
       <name>Agonizing Pit</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="244" rarity="uncommon">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3366,7 +3366,7 @@ hate piece/counters</notes>
     </card>
     <card>
       <name>Impending Return</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="216" rarity="uncommon">HEL</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -3384,7 +3384,7 @@ hate piece/counters</notes>
     </card>
     <card>
       <name>Hallowed Mist</name>
-      <set rarity="mythic">HEL</set>
+      <set num="20" rarity="mythic">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3406,7 +3406,7 @@ hate piece/counters</notes>
     </card>
     <card>
       <name>Rescede, Coffen of Kings</name>
-      <set rarity="mythic">HEL</set>
+      <set num="74" rarity="mythic">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3427,7 +3427,7 @@ Creatures with counters on them lose all abilities and have base power and tough
     </card>
     <card>
       <name>Fiendish Scheming</name>
-      <set rarity="rare">HEL</set>
+      <set num="56" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3445,7 +3445,7 @@ Creatures with counters on them lose all abilities and have base power and tough
     </card>
     <card>
       <name>Abyssal Captain</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="1" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3466,7 +3466,7 @@ Creatures you control with pact counters on them have +1/+1.</text>
     </card>
     <card>
       <name>Ashen Watcher</name>
-      <set rarity="common">HEL</set>
+      <set num="2" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3486,7 +3486,7 @@ Creatures you control with pact counters on them have +1/+1.</text>
     </card>
     <card>
       <name>Assume Power</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="3" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3507,7 +3507,7 @@ Little weak from a constructed sense</notes>
     </card>
     <card>
       <name>Awoken Pariah</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="4" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3527,7 +3527,7 @@ Flying, vigilance</text>
     </card>
     <card>
       <name>Blood Heron</name>
-      <set rarity="common">HEL</set>
+      <set num="6" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3547,7 +3547,7 @@ Flying, vigilance</text>
     </card>
     <card>
       <name>Bloodied Lieutenant</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="8" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3567,7 +3567,7 @@ Whenever you discard a card or a creature you control dies, put a +1/+1 counter 
     </card>
     <card>
       <name>Blessing of Blood and Steel</name>
-      <set rarity="common">HEL</set>
+      <set num="5" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3588,7 +3588,7 @@ Whenever enchanted creature deals combat damage to a player, choose one —
     </card>
     <card>
       <name>Bloodguard of Salus</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="7" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3608,7 +3608,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
     </card>
     <card>
       <name>Bloodlord Kinnamon</name>
-      <set rarity="mythic">HEL</set>
+      <set num="9" rarity="mythic">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3630,7 +3630,7 @@ Flying</text>
     </card>
     <card>
       <name>Donum-Dei, Lake of Blood</name>
-      <set rarity="rare">HEL</set>
+      <set num="98" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3649,7 +3649,7 @@ WUBRG, Sacrifice Donum-Dei: Draw three cards.</text>
     </card>
     <card>
       <name>Deeptomb Guardian</name>
-      <set rarity="common">HEL</set>
+      <set num="13" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3669,7 +3669,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Desperate Sealing</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="14" rarity="uncommon">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3689,7 +3689,7 @@ When this enchantment enters, exile another target nonland permanent an opponent
     </card>
     <card>
       <name>Ignosco, Death&apos;s Absolution</name>
-      <set rarity="rare">HEL</set>
+      <set num="22" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3711,7 +3711,7 @@ WW: Exile target creature card in your graveyard with mana value X or less, wher
     </card>
     <card>
       <name>Processing Revenant</name>
-      <set rarity="common">HEL</set>
+      <set num="25" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3731,7 +3731,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Return from Ash</name>
-      <set rarity="common">HEL</set>
+      <set num="28" rarity="common">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3752,7 +3752,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Sorin, Vengeful Sangrablade</name>
-      <set rarity="mythic">HEL</set>
+      <set num="35" rarity="mythic">HEL</set>
       <prop>
         <colors>W</colors>
         <manacost>3WW</manacost>
@@ -3777,7 +3777,7 @@ Vengeful Sangrablade or Vampiric Paragon</notes>
     </card>
     <card>
       <name>Soul Devouring Core</name>
-      <set rarity="rare">HEL</set>
+      <set num="36" rarity="rare">HEL</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3798,7 +3798,7 @@ arguably too weak</notes>
     </card>
     <card>
       <name>Bloodmoon Champion</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="43" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3819,7 +3819,7 @@ Creatures you control with pact counters on them have hexproof.</text>
     </card>
     <card>
       <name>Callous Willbreaker</name>
-      <set rarity="rare">HEL</set>
+      <set num="45" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3839,7 +3839,7 @@ When this creature enters, target player reveals their hand. You may choose a no
     </card>
     <card>
       <name>Corrupted Nightwing</name>
-      <set rarity="common">HEL</set>
+      <set num="46" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3860,7 +3860,7 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
     </card>
     <card>
       <name>Creeping Frost</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="48" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3880,7 +3880,7 @@ Enchanted creature has -5/-0.
     </card>
     <card>
       <name>Deceptive Shadow</name>
-      <set rarity="common">HEL</set>
+      <set num="49" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3900,7 +3900,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Demonlord Orbisfaber</name>
-      <set rarity="mythic">HEL</set>
+      <set num="50" rarity="mythic">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3924,7 +3924,7 @@ Demonlord Orbisfaber can’t be blocked except by three or more creatures.</text
     </card>
     <card>
       <name>Fervens, the Boiling Lake</name>
-      <set rarity="rare">HEL</set>
+      <set num="55" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3947,7 +3947,7 @@ As long as it’s not your turn, Fervens is an Island land. (It’s not a creatu
     </card>
     <card>
       <name>Ghastly Tide</name>
-      <set rarity="common">HEL</set>
+      <set num="59" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3967,7 +3967,7 @@ As long as it’s not your turn, Fervens is an Island land. (It’s not a creatu
     </card>
     <card>
       <name>Hellish Mistwarper</name>
-      <set rarity="rare">HEL</set>
+      <set num="62" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3990,7 +3990,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Icicle Crasher</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="64" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4010,7 +4010,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Orbisfaber&apos;s Influence</name>
-      <set rarity="rare">HEL</set>
+      <set num="71" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4032,7 +4032,7 @@ Add 1 cost if much</notes>
     </card>
     <card>
       <name>Osavotus, Contract Dealer</name>
-      <set rarity="mythic">HEL</set>
+      <set num="72" rarity="mythic">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4057,7 +4057,7 @@ Whenever Osavotus attacks, each player draws three cards. Then each opponent dis
     </card>
     <card>
       <name>Rotting Leviathan</name>
-      <set rarity="rare">HEL</set>
+      <set num="75" rarity="rare">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4077,7 +4077,7 @@ When this creature leaves the battlefield, discard three cards.</text>
     </card>
     <card>
       <name>Shadowbender Lich</name>
-      <set rarity="common">HEL</set>
+      <set num="77" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4097,7 +4097,7 @@ Whenever a creature you control with a pact counter on it attacks, defending pla
     </card>
     <card>
       <name>Lurking Mistwalker</name>
-      <set rarity="common">HEL</set>
+      <set num="67" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4116,7 +4116,7 @@ Whenever a creature you control with a pact counter on it attacks, defending pla
     </card>
     <card>
       <name>Tundra Screecher</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="79" rarity="uncommon">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4137,7 +4137,7 @@ Whenever this creature attacks, you may tap or untap target permanent.</text>
     </card>
     <card>
       <name>Unidentifiable Mass</name>
-      <set rarity="common">HEL</set>
+      <set num="81" rarity="common">HEL</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4155,7 +4155,7 @@ Whenever this creature attacks, you may tap or untap target permanent.</text>
     </card>
     <card>
       <name>Abyssal Smoke</name>
-      <set rarity="common">HEL</set>
+      <set num="83" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4175,7 +4175,7 @@ When this creature enters, you may sacrifice a land. If you do, draw a card.</te
     </card>
     <card>
       <name>Bloodsoaked Mass</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="86" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4195,7 +4195,7 @@ Whenever a creature dies, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
       <name>Bloodstarved Ghoul</name>
-      <set rarity="rare">HEL</set>
+      <set num="87" rarity="rare">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4215,7 +4215,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Chaining Hellspawn</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="90" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4236,7 +4236,7 @@ Whenever a creature you control with a pact counter on it dies, target player di
     </card>
     <card>
       <name>Demonic Butcher</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="94" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4256,7 +4256,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Demonlord Morideus</name>
-      <set rarity="mythic">HEL</set>
+      <set num="97" rarity="mythic">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4278,7 +4278,7 @@ Menace</text>
     </card>
     <card>
       <name>Husked Consumer</name>
-      <set rarity="common">HEL</set>
+      <set num="104" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4298,7 +4298,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Ichorsplosion</name>
-      <set rarity="common">HEL</set>
+      <set num="106" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4317,7 +4317,7 @@ Destroy target creature.</text>
     </card>
     <card>
       <name>Resilient Rot</name>
-      <set rarity="common">HEL</set>
+      <set num="112" rarity="common">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4337,7 +4337,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Rotten Insight</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="114" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4357,7 +4357,7 @@ Surveil 1.</notes>
     </card>
     <card>
       <name>Scouring Flames</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="115" rarity="uncommon">HEL</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4378,7 +4378,7 @@ Surveil 2. When you do, target creature gets -3/-3 until end of turn. (To survei
     </card>
     <card>
       <name>Ashen Crasher</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="124" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4399,7 +4399,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Bemused Gorger</name>
-      <set rarity="common">HEL</set>
+      <set num="125" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4419,7 +4419,7 @@ When this creature enters, create a 1/1 black Skeleton creature token.</text>
     </card>
     <card>
       <name>Blazing Raid</name>
-      <set rarity="common">HEL</set>
+      <set num="126" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4438,7 +4438,7 @@ Create a 1/1 black Skeleton creature token.</text>
     </card>
     <card>
       <name>Bloodbag Slaughterer</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="127" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4458,7 +4458,7 @@ Whenever this creature deals combat damage to a player, that player loses 3 life
     </card>
     <card>
       <name>Bloodthirsty Howler</name>
-      <set rarity="rare">HEL</set>
+      <set num="129" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4480,7 +4480,7 @@ Whenever a player sacrifices a permanent, this creature deals 1 damage to each o
     </card>
     <card>
       <name>Bone Brigade</name>
-      <set rarity="common">HEL</set>
+      <set num="130" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4500,7 +4500,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Demonlord Zeramander</name>
-      <set rarity="mythic">HEL</set>
+      <set num="139" rarity="mythic">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4522,7 +4522,7 @@ Trample</text>
     </card>
     <card>
       <name>Dweller&apos;s Hound</name>
-      <set rarity="common">HEL</set>
+      <set num="140" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4542,7 +4542,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Hateful Amalgam</name>
-      <set rarity="mythic">HEL</set>
+      <set num="142" rarity="mythic">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4565,7 +4565,7 @@ Whenever you put a pact counter on a nontoken creature you control, create a tok
     </card>
     <card>
       <name>Ignition Devil</name>
-      <set rarity="rare">HEL</set>
+      <set num="143" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4587,7 +4587,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Ransack the Tombs</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="149" rarity="uncommon">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4608,7 +4608,7 @@ Choose one —
     </card>
     <card>
       <name>Skittering Demon</name>
-      <set rarity="common">HEL</set>
+      <set num="154" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4629,7 +4629,7 @@ Creatures you control with pact counters on them have trample.</text>
     </card>
     <card>
       <name>Twisted Eruption</name>
-      <set rarity="common">HEL</set>
+      <set num="156" rarity="common">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4647,7 +4647,7 @@ Creatures you control with pact counters on them have trample.</text>
     </card>
     <card>
       <name>Zeramander&apos;s Influence</name>
-      <set rarity="rare">HEL</set>
+      <set num="163" rarity="rare">HEL</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4668,7 +4668,7 @@ Creatures you control with pact counters on them have trample.</text>
     </card>
     <card>
       <name>Eafem, Lethal Arachne</name>
-      <set rarity="rare">HEL</set>
+      <set num="176" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4689,7 +4689,7 @@ Whenever a nontoken creature you control dies, create a 2/1 green Spider creatur
     </card>
     <card>
       <name>Explosive Might</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="178" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4709,7 +4709,7 @@ Turn into a fight that returns the thing at sorc if need redesign</notes>
     </card>
     <card>
       <name>Ferocious Maneater</name>
-      <set rarity="common">HEL</set>
+      <set num="179" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4731,7 +4731,7 @@ This creature can’t be blocked by creatures with power 2 or less.</text>
     </card>
     <card>
       <name>From Beneath the Woods</name>
-      <set rarity="rare">HEL</set>
+      <set num="180" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4750,7 +4750,7 @@ Search your library for a creature card with mana value equal to or less than X 
     </card>
     <card>
       <name>Gnarled Hydra</name>
-      <set rarity="rare">HEL</set>
+      <set num="181" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4773,7 +4773,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Gnarledroot Demon</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="182" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4793,7 +4793,7 @@ Creatures you control with pact counters on them have “{T}: Add one mana of an
     </card>
     <card>
       <name>Harvesting Revenant</name>
-      <set rarity="common">HEL</set>
+      <set num="183" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4815,7 +4815,7 @@ Whenever a creature you control with a pact counter on it dies, put a +1/+1 coun
     </card>
     <card>
       <name>Midnight Stalker</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="186" rarity="uncommon">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4836,7 +4836,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Overwhelming Presence</name>
-      <set rarity="common">HEL</set>
+      <set num="189" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4855,7 +4855,7 @@ Put three +1/+1 counters on target creature you control.</text>
     </card>
     <card>
       <name>Rattling Gorger</name>
-      <set rarity="common">HEL</set>
+      <set num="192" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4876,7 +4876,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Skittering Host</name>
-      <set rarity="common">HEL</set>
+      <set num="195" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4896,7 +4896,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Skullcrushing Fiend</name>
-      <set rarity="common">HEL</set>
+      <set num="197" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4916,7 +4916,7 @@ Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or abil
     </card>
     <card>
       <name>Splintering Growth</name>
-      <set rarity="common">HEL</set>
+      <set num="199" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4936,7 +4936,7 @@ Whenever this creature attacks, it gets +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Valley Lurker</name>
-      <set rarity="common">HEL</set>
+      <set num="204" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4956,7 +4956,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Vicaroam, the Crushing Vines</name>
-      <set rarity="rare">HEL</set>
+      <set num="205" rarity="rare">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4977,7 +4977,7 @@ XGG, {T}: Put X +1/+1 counters on Vicaroam.</text>
     </card>
     <card>
       <name>Anord, Maddening Lich</name>
-      <set rarity="rare">HEL</set>
+      <set num="207" rarity="rare">HEL</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -5000,7 +5000,7 @@ Whenever you sacrifice a creature, you may draw a card and lose 1 life.</text>
     </card>
     <card>
       <name>Deerstalker</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="211" rarity="uncommon">HEL</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -5021,7 +5021,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
     </card>
     <card>
       <name>Galvanized Necrowing</name>
-      <set rarity="rare">HEL</set>
+      <set num="214" rarity="rare">HEL</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -5041,7 +5041,7 @@ At the beginning of your end step, if three or more cards were put into your gra
     </card>
     <card>
       <name>Intruding Undergrowth</name>
-      <set rarity="rare">HEL</set>
+      <set num="219" rarity="rare">HEL</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -5059,7 +5059,7 @@ At the beginning of your end step, if three or more cards were put into your gra
     </card>
     <card>
       <name>Monstrous Invocation</name>
-      <set rarity="rare">HEL</set>
+      <set num="224" rarity="rare">HEL</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -5080,7 +5080,7 @@ You may put a creature card with mana value 4 or less from your hand onto the ba
     </card>
     <card>
       <name>Remains of Despair</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="226" rarity="uncommon">HEL</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -5099,7 +5099,7 @@ Flashback XBR (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Thickets Ghostcaller</name>
-      <set rarity="uncommon">HEL</set>
+      <set num="233" rarity="uncommon">HEL</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -5120,7 +5120,7 @@ Flashback XBR (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Foreboding Milestone</name>
-      <set rarity="common">HEL</set>
+      <set num="241" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5139,7 +5139,7 @@ Flashback XBR (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Servant of Laceration</name>
-      <set rarity="common">HEL</set>
+      <set num="243" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5159,7 +5159,7 @@ Flashback XBR (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Collapsing Citadel</name>
-      <set rarity="rare">HEL</set>
+      <set num="245" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5178,7 +5178,7 @@ RW, {T}: Collapsing Citadel deals 1 damage to each opponent and planeswalker you
     </card>
     <card>
       <name>Cresting Spires</name>
-      <set rarity="rare">HEL</set>
+      <set num="246" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5197,7 +5197,7 @@ RW, {T}: Collapsing Citadel deals 1 damage to each opponent and planeswalker you
     </card>
     <card>
       <name>Drained Crevace</name>
-      <set rarity="rare">HEL</set>
+      <set num="248" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5216,7 +5216,7 @@ UR, {T}: Until end of turn, target creature you control gains flying and haste. 
     </card>
     <card>
       <name>Fields of Bone</name>
-      <set rarity="rare">HEL</set>
+      <set num="249" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5235,7 +5235,7 @@ BG, {T}: Put a +1/+1 counter on target creature you control. Then if it has thre
     </card>
     <card>
       <name>Imposing Clearing</name>
-      <set rarity="rare">HEL</set>
+      <set num="252" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5254,7 +5254,7 @@ BG, {T}: Put a +1/+1 counter on target creature you control. Then if it has thre
     </card>
     <card>
       <name>Island</name>
-      <set rarity="common">HEL</set>
+      <set num="253" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5272,7 +5272,7 @@ BG, {T}: Put a +1/+1 counter on target creature you control. Then if it has thre
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="common">HEL</set>
+      <set num="254" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5290,7 +5290,7 @@ BG, {T}: Put a +1/+1 counter on target creature you control. Then if it has thre
     </card>
     <card>
       <name>Mysterious Altar</name>
-      <set rarity="rare">HEL</set>
+      <set num="255" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5311,7 +5311,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Perpetual Depths</name>
-      <set rarity="rare">HEL</set>
+      <set num="257" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5330,7 +5330,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="common">HEL</set>
+      <set num="258" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5348,7 +5348,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Shrine of Unburial</name>
-      <set rarity="rare">HEL</set>
+      <set num="261" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5367,7 +5367,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Sparse Weblands</name>
-      <set rarity="rare">HEL</set>
+      <set num="263" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5388,7 +5388,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="common">HEL</set>
+      <set num="266" rarity="common">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5406,7 +5406,7 @@ GU, {T}: Draw a card. Activate this ability only if a creature you control dealt
     </card>
     <card>
       <name>Sweltering Shoals</name>
-      <set rarity="rare">HEL</set>
+      <set num="267" rarity="rare">HEL</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5425,7 +5425,7 @@ WU, {T}: Target player mills two cards. Then if that player’s graveyard has tw
     </card>
     <card>
       <name>Thread the Undergrowth</name>
-      <set rarity="common">HEL</set>
+      <set num="202" rarity="common">HEL</set>
       <prop>
         <colors>G</colors>
         <color>G</color>

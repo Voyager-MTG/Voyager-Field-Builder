@@ -11,7 +11,7 @@
 
     <card>
       <name>Bone Prophet</name>
-      <set rarity="rare">ITD</set>
+      <set num="67" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -30,7 +30,7 @@
     </card>
     <card>
       <name>Emergent Anomaly</name>
-      <set rarity="rare">ITD</set>
+      <set num="93" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -52,7 +52,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Priest of Perfection</name>
-      <set rarity="rare">ITD</set>
+      <set num="147" rarity="rare">ITD</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -73,7 +73,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Far-Off Factory</name>
-      <set rarity="rare">ITD</set>
+      <set num="172" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -92,7 +92,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Contagious Murder</name>
-      <set rarity="rare">ITD</set>
+      <set num="69" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -111,7 +111,7 @@ When Contagious Murder leaves your graveyard during your turn, copy it. You may 
     </card>
     <card>
       <name>Endless Distortion Line</name>
-      <set rarity="rare">ITD</set>
+      <set num="157" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -132,7 +132,7 @@ Crew—Tap four other artifacts you control.</text>
     </card>
     <card>
       <name>Matryoshka Crawler</name>
-      <set rarity="rare">ITD</set>
+      <set num="163" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -151,7 +151,7 @@ Crew—Tap four other artifacts you control.</text>
     </card>
     <card>
       <name>Sorting Servant</name>
-      <set rarity="rare">ITD</set>
+      <set num="165" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -170,7 +170,7 @@ Crew—Tap four other artifacts you control.</text>
     </card>
     <card>
       <name>Rattlefiend</name>
-      <set rarity="rare">ITD</set>
+      <set num="164" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -190,7 +190,7 @@ When Rattlefiend dies, if it had base toughness 2 or greater, create a token cop
     </card>
     <card>
       <name>Doorwarden</name>
-      <set rarity="rare">ITD</set>
+      <set num="3" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -211,7 +211,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Eyes Scorched from Divinity</name>
-      <set rarity="rare">ITD</set>
+      <set num="5" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -232,7 +232,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Mechanised Hunter</name>
-      <set rarity="rare">ITD</set>
+      <set num="53" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -253,7 +253,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Deepmind Oracle</name>
-      <set rarity="rare">ITD</set>
+      <set num="40" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -275,7 +275,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>New-Life Acolyte</name>
-      <set rarity="rare">ITD</set>
+      <set num="56" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -296,7 +296,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Thought-Theft</name>
-      <set rarity="rare">ITD</set>
+      <set num="84" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -315,7 +315,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>The Red Door</name>
-      <set rarity="rare">ITD</set>
+      <set num="148" rarity="rare">ITD</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -336,7 +336,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Door to Clear Skies</name>
-      <set rarity="rare">ITD</set>
+      <set num="41" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -356,7 +356,7 @@ You may return an untapped Island you control to its owner’s hand rather than 
     </card>
     <card>
       <name>Dreamlured Giant</name>
-      <set rarity="rare">ITD</set>
+      <set num="156" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -378,7 +378,7 @@ You may return an untapped Island you control to its owner’s hand rather than 
     </card>
     <card>
       <name>The Gardener&apos;s Saga</name>
-      <set rarity="rare">ITD</set>
+      <set num="174" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -399,7 +399,7 @@ III — Search your library for a non-Saga land card and put it onto the battlef
     </card>
     <card>
       <name>Binding Decision</name>
-      <set rarity="rare">ITD</set>
+      <set num="15" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -417,7 +417,7 @@ III — Search your library for a non-Saga land card and put it onto the battlef
     </card>
     <card>
       <name>Inexorable Pressure</name>
-      <set rarity="rare">ITD</set>
+      <set num="50" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -438,7 +438,7 @@ When this creature enters, creatures and enchantments you don’t control lose a
     </card>
     <card>
       <name>Vertigomancer</name>
-      <set rarity="rare">ITD</set>
+      <set num="166" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -458,7 +458,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Unsightly Mutate</name>
-      <set rarity="rare">ITD</set>
+      <set num="62" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -478,7 +478,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Beacon Dreamer</name>
-      <set rarity="rare">ITD</set>
+      <set num="13" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -498,7 +498,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Restlessness</name>
-      <set rarity="rare">ITD</set>
+      <set num="31" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -516,7 +516,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Secrets of Radiance</name>
-      <set rarity="rare">ITD</set>
+      <set num="149" rarity="rare">ITD</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -535,7 +535,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Yklev, In a Strange Land</name>
-      <set rarity="rare">ITD</set>
+      <set num="12" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -555,7 +555,7 @@ Deep dwelling — As long as your library contains a number of cards less than o
     </card>
     <card>
       <name>Suffocating Gaze</name>
-      <set rarity="rare">ITD</set>
+      <set num="83" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -574,7 +574,7 @@ Destroy target creature or planeswalker.</text>
     </card>
     <card>
       <name>Vaga, True Prophet</name>
-      <set rarity="rare">ITD</set>
+      <set num="134" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -595,7 +595,7 @@ Destroy target creature or planeswalker.</text>
     </card>
     <card>
       <name>Arbiter</name>
-      <set rarity="rare">ITD</set>
+      <set num="2" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -616,7 +616,7 @@ Destroy target creature or planeswalker.</text>
     </card>
     <card>
       <name>Chimerism</name>
-      <set rarity="rare">ITD</set>
+      <set num="17" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -634,7 +634,7 @@ Destroy target creature or planeswalker.</text>
     </card>
     <card>
       <name>Foreboding Monolith</name>
-      <set rarity="rare">ITD</set>
+      <set num="160" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -653,7 +653,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Rite of Resurrection</name>
-      <set rarity="rare">ITD</set>
+      <set num="81" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -671,7 +671,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Overcome All</name>
-      <set rarity="rare">ITD</set>
+      <set num="146" rarity="rare">ITD</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -690,7 +690,7 @@ Create a token copy of the returned creature, except it isn’t legendary and ha
     </card>
     <card>
       <name>Lammasu, Dream-Stilled</name>
-      <set rarity="rare">ITD</set>
+      <set num="51" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -711,7 +711,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Ichor-Drowned</name>
-      <set rarity="rare">ITD</set>
+      <set num="120" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -731,7 +731,7 @@ Deep dwelling — {T}: Add one mana of any color. Activate only if your library 
     </card>
     <card>
       <name>Unfair Judgment</name>
-      <set rarity="rare">ITD</set>
+      <set num="37" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -750,7 +750,7 @@ Exile target creature if it’s attacking or if you paid this spell’s addition
     </card>
     <card>
       <name>Horrific Punishment</name>
-      <set rarity="rare">ITD</set>
+      <set num="75" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -768,7 +768,7 @@ Exile target creature if it’s attacking or if you paid this spell’s addition
     </card>
     <card>
       <name>Lamplure</name>
-      <set rarity="rare">ITD</set>
+      <set num="123" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -787,7 +787,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Somnonaut Drone</name>
-      <set rarity="rare">ITD</set>
+      <set num="106" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -807,7 +807,7 @@ When this creature enters, if it’s not a token, create a token copy of it. Exi
     </card>
     <card>
       <name>Observation Agent</name>
-      <set rarity="rare">ITD</set>
+      <set num="127" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -828,7 +828,7 @@ When this creature dies, draw a card if there are five or more lands in your rea
     </card>
     <card>
       <name>Mirror Eater</name>
-      <set rarity="rare">ITD</set>
+      <set num="101" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -848,7 +848,7 @@ Whenever this creature attacks, you may create a tapped and attacking token copy
     </card>
     <card>
       <name>Volcanic Steambed</name>
-      <set rarity="rare">ITD</set>
+      <set num="182" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -868,7 +868,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Far-off Door</name>
-      <set rarity="rare">ITD</set>
+      <set num="158" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -887,7 +887,7 @@ Far-off Door has all loyalty abilities of nonartifact permanents you control.</t
     </card>
     <card>
       <name>A Blossoming of Flowers</name>
-      <set rarity="rare">ITD</set>
+      <set num="139" rarity="rare">ITD</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -907,7 +907,7 @@ Whenever this creature attacks, you may search your library for a basic land car
     </card>
     <card>
       <name>Symbiotic Host</name>
-      <set rarity="rare">ITD</set>
+      <set num="60" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -927,7 +927,7 @@ When Symbiotic Host leaves your graveyard during your turn or dies, create a 1/1
     </card>
     <card>
       <name>Identity Shatter</name>
-      <set rarity="rare">ITD</set>
+      <set num="97" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -947,7 +947,7 @@ When Symbiotic Host leaves your graveyard during your turn or dies, create a 1/1
     </card>
     <card>
       <name>Corpse-Shell Container</name>
-      <set rarity="rare">ITD</set>
+      <set num="154" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -967,7 +967,7 @@ Equip {4}</text>
     </card>
     <card>
       <name>Feast of Butterflies</name>
-      <set rarity="rare">ITD</set>
+      <set num="24" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -986,7 +986,7 @@ Create two 1/1 white Nightmare creature tokens with lifelink and “This creatur
     </card>
     <card>
       <name>Mycelial Coating</name>
-      <set rarity="rare">ITD</set>
+      <set num="126" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1006,7 +1006,7 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
     </card>
     <card>
       <name>Ashiok, Dream Feaster</name>
-      <set rarity="rare">ITD</set>
+      <set num="65" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <manacost>2BB</manacost>
@@ -1025,7 +1025,7 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
     </card>
     <card>
       <name>Echo of Distorted Outcomes</name>
-      <set rarity="rare">ITD</set>
+      <set num="23" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -1045,7 +1045,7 @@ Enchanted creature has +1/+1 for each land in your realm. (Your realm consists o
     </card>
     <card>
       <name>Edge of a Precipice</name>
-      <set rarity="rare">ITD</set>
+      <set num="43" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1066,7 +1066,7 @@ Exile Edge of a Precipice.</text>
     </card>
     <card>
       <name>Hall of the Hands</name>
-      <set rarity="rare">ITD</set>
+      <set num="175" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1086,7 +1086,7 @@ Exile Edge of a Precipice.</text>
     </card>
     <card>
       <name>Eightfold Sight</name>
-      <set rarity="rare">ITD</set>
+      <set num="44" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1107,7 +1107,7 @@ Whenever enchanted creature deals combat damage to a player, draw a card. Then s
     </card>
     <card>
       <name>Ashiok, Lone Dreamer</name>
-      <set rarity="rare">ITD</set>
+      <set num="38" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <manacost>1UU</manacost>
@@ -1126,7 +1126,7 @@ Whenever enchanted creature deals combat damage to a player, draw a card. Then s
     </card>
     <card>
       <name>Collapsed Chaos</name>
-      <set rarity="rare">ITD</set>
+      <set num="153" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1146,7 +1146,7 @@ Whenever you cast a spell with mana value 1, copy it. You may choose new targets
     </card>
     <card>
       <name>Aspect of Logic</name>
-      <set rarity="rare">ITD</set>
+      <set num="152" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1167,7 +1167,7 @@ WUBRG: This creature gets +5/+5 and gains trample until end of turn.</text>
     </card>
     <card>
       <name>Angel of Dying Flames</name>
-      <set rarity="rare">ITD</set>
+      <set num="89" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1188,7 +1188,7 @@ Whenever this creature deals combat damage to a player, return it to its owner�
     </card>
     <card>
       <name>Fracture of Divinity</name>
-      <set rarity="rare">ITD</set>
+      <set num="49" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1210,7 +1210,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Warden of Scorching Days</name>
-      <set rarity="rare">ITD</set>
+      <set num="110" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1231,7 +1231,7 @@ Whenever Warden of Scorching Days enters or attacks, discard a card, then draw a
     </card>
     <card>
       <name>Stretching Tangle</name>
-      <set rarity="rare">ITD</set>
+      <set num="181" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1251,7 +1251,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Awakened Fiend</name>
-      <set rarity="rare">ITD</set>
+      <set num="113" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1272,7 +1272,7 @@ You may play land cards from your graveyard. Whenever you do, put a +1/+1 counte
     </card>
     <card>
       <name>Faceless</name>
-      <set rarity="rare">ITD</set>
+      <set num="46" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1292,7 +1292,7 @@ When this enchantment leaves the battlefield, draw a card.</text>
     </card>
     <card>
       <name>Angel of the Forest</name>
-      <set rarity="rare">ITD</set>
+      <set num="63" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1312,7 +1312,7 @@ Whenever Angel of the Forest leaves your graveyard during your turn or attacks, 
     </card>
     <card>
       <name>Firmament-Rending Blade</name>
-      <set rarity="rare">ITD</set>
+      <set num="159" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1332,7 +1332,7 @@ Equip {3}</text>
     </card>
     <card>
       <name>Moonbreaker</name>
-      <set rarity="rare">ITD</set>
+      <set num="102" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1353,7 +1353,7 @@ Whenever this creature deals combat damage to a player, that player sacrifices f
     </card>
     <card>
       <name>Watching Wolf</name>
-      <set rarity="rare">ITD</set>
+      <set num="135" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1373,7 +1373,7 @@ Watching Wolf can’t blocked by creatures with power 2 or less.</text>
     </card>
     <card>
       <name>Tormented Saviour</name>
-      <set rarity="rare">ITD</set>
+      <set num="36" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1394,7 +1394,7 @@ At the beginning of your end step, if a creature you control died this turn, you
     </card>
     <card>
       <name>Pestilent Meeting</name>
-      <set rarity="rare">ITD</set>
+      <set num="129" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1413,7 +1413,7 @@ Search your library for a basic land card and put it onto the battlefield tapped
     </card>
     <card>
       <name>Ajaxala, Cunning Puppeteer</name>
-      <set rarity="rare">ITD</set>
+      <set num="138" rarity="rare">ITD</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -1433,7 +1433,7 @@ Deep Dwelling — Ajaxala can’t be blocked as long as your library contains a 
     </card>
     <card>
       <name>Avaz, Moontouched Prince</name>
-      <set rarity="rare">ITD</set>
+      <set num="66" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1456,7 +1456,7 @@ Whenever this creature attacks, put a loyalty counter on it and mill a card.
     </card>
     <card>
       <name>Firmament Sculptor</name>
-      <set rarity="rare">ITD</set>
+      <set num="48" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1477,7 +1477,7 @@ Whenever a time counter is removed from Firmament Sculptor, create a token copy 
     </card>
     <card>
       <name>Defensive Denizen</name>
-      <set rarity="rare">ITD</set>
+      <set num="19" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1497,7 +1497,7 @@ Whenever a time counter is removed from Firmament Sculptor, create a token copy 
     </card>
     <card>
       <name>Abstracter of Thought</name>
-      <set rarity="rare">ITD</set>
+      <set num="1" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1517,7 +1517,7 @@ Once each turn, if you would draw a card while your library has no cards in it, 
     </card>
     <card>
       <name>Shifting Silverscape</name>
-      <set rarity="rare">ITD</set>
+      <set num="179" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1537,7 +1537,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>To Be Forgotten in a Dream</name>
-      <set rarity="rare">ITD</set>
+      <set num="35" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1556,7 +1556,7 @@ Each player creates a tapped 3/3 white Illusion creature token.</text>
     </card>
     <card>
       <name>Tyrant of Long Death</name>
-      <set rarity="rare">ITD</set>
+      <set num="133" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1576,7 +1576,7 @@ Whenever Tyrant of Long Death enters or attacks, conjure a duplicate of target n
     </card>
     <card>
       <name>Antisun&apos;s Domain</name>
-      <set rarity="rare">ITD</set>
+      <set num="167" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1595,7 +1595,7 @@ When Antisun’s Domain enters, if you control five or more lands with different
     </card>
     <card>
       <name>Celestial Messenger</name>
-      <set rarity="rare">ITD</set>
+      <set num="16" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1617,7 +1617,7 @@ W/BW/BW/BW/BW/B, Pay 5 life: If this creature is an Angel, it becomes an Archon 
     </card>
     <card>
       <name>Forgotten Prophet</name>
-      <set rarity="rare">ITD</set>
+      <set num="117" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1637,7 +1637,7 @@ When this creature attacks, you may put a loyalty counter on each permanent you 
     </card>
     <card>
       <name>001, Errant Spark-Engine</name>
-      <set rarity="rare">ITD</set>
+      <set num="137" rarity="rare">ITD</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -1657,7 +1657,7 @@ You may cast 001, Errant Spark-Engine from your graveyard by removing two loyalt
     </card>
     <card>
       <name>Star-Binding Command</name>
-      <set rarity="rare">ITD</set>
+      <set num="33" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1679,7 +1679,7 @@ You may cast 001, Errant Spark-Engine from your graveyard by removing two loyalt
     </card>
     <card>
       <name>Desolate Meeting</name>
-      <set rarity="rare">ITD</set>
+      <set num="20" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1699,7 +1699,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
     </card>
     <card>
       <name>The Pact</name>
-      <set rarity="rare">ITD</set>
+      <set num="128" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1717,7 +1717,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
     </card>
     <card>
       <name>Tyrant&apos;s Rage</name>
-      <set rarity="rare">ITD</set>
+      <set num="108" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1735,7 +1735,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
     </card>
     <card>
       <name>Saylthe, Twice-Drowned</name>
-      <set rarity="rare">ITD</set>
+      <set num="59" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1755,7 +1755,7 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
     </card>
     <card>
       <name>Water-Witch&apos;s Bargain</name>
-      <set rarity="rare">ITD</set>
+      <set num="136" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1773,7 +1773,7 @@ Deep Dwelling — Once each turn, when you cast an instant or sorcery spell, unt
     </card>
     <card>
       <name>Drown in Self Reflection</name>
-      <set rarity="rare">ITD</set>
+      <set num="42" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1792,7 +1792,7 @@ Whenever Drown in Self Reflection leaves your graveyard during your turn, you ma
     </card>
     <card>
       <name>Fleeting Merriment</name>
-      <set rarity="rare">ITD</set>
+      <set num="95" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1814,7 +1814,7 @@ III — Discard two cards at the beginning of your next end step.</text>
     </card>
     <card>
       <name>Unmasking Divinity</name>
-      <set rarity="rare">ITD</set>
+      <set num="85" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1835,7 +1835,7 @@ III — You lose 2 life and draw a card.</text>
     </card>
     <card>
       <name>Cleaver, Sword-Saint</name>
-      <set rarity="rare">ITD</set>
+      <set num="68" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1857,7 +1857,7 @@ Deathtouch
     </card>
     <card>
       <name>The Living Enigma</name>
-      <set rarity="rare">ITD</set>
+      <set num="99" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1877,7 +1877,7 @@ The Living Enigma enters with a number of +1/+1 counters on it equal to the numb
     </card>
     <card>
       <name>Tithetaker Angel</name>
-      <set rarity="rare">ITD</set>
+      <set num="34" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1897,7 +1897,7 @@ Whenever Tithetaker Angel enters or attacks, choose creature, artifact, enchantm
     </card>
     <card>
       <name>Infested Heart</name>
-      <set rarity="rare">ITD</set>
+      <set num="122" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1915,7 +1915,7 @@ Whenever Tithetaker Angel enters or attacks, choose creature, artifact, enchantm
     </card>
     <card>
       <name>Cursed Range</name>
-      <set rarity="rare">ITD</set>
+      <set num="169" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1935,7 +1935,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Desolate Expanse</name>
-      <set rarity="rare">ITD</set>
+      <set num="170" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1955,7 +1955,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Beseech the Divine</name>
-      <set rarity="rare">ITD</set>
+      <set num="14" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1974,7 +1974,7 @@ Each player creates a 1/1 colorless Faerie Horror creature token with flying and
     </card>
     <card>
       <name>Imprisoned Aspect</name>
-      <set rarity="rare">ITD</set>
+      <set num="121" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1994,7 +1994,7 @@ Whenever a time counter is removed from Imprisoned Aspect, put a +1/+1 counter o
     </card>
     <card>
       <name>Mire in Sorrow</name>
-      <set rarity="rare">ITD</set>
+      <set num="54" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2013,7 +2013,7 @@ Deep Dwelling — If your library contains a number of cards less than or equal 
     </card>
     <card>
       <name>Harbinger of Doubt</name>
-      <set rarity="rare">ITD</set>
+      <set num="119" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2034,7 +2034,7 @@ Creatures you control have reach.</text>
     </card>
     <card>
       <name>The Living Coffin</name>
-      <set rarity="rare">ITD</set>
+      <set num="162" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2053,7 +2053,7 @@ Sacrifice a nonland permanent: You may play an additional land this turn.</text>
     </card>
     <card>
       <name>Decrepid Terraformer</name>
-      <set rarity="rare">ITD</set>
+      <set num="141" rarity="rare">ITD</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2073,7 +2073,7 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
     </card>
     <card>
       <name>Find the Corrupt Heart</name>
-      <set rarity="rare">ITD</set>
+      <set num="116" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2093,7 +2093,7 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
     </card>
     <card>
       <name>Scion of the Unknowable</name>
-      <set rarity="rare">ITD</set>
+      <set num="130" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2114,7 +2114,7 @@ You may cast this creature from your graveyard by exiling four land cards from y
     </card>
     <card>
       <name>Lighting the False Sun</name>
-      <set rarity="rare">ITD</set>
+      <set num="28" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2135,7 +2135,7 @@ You may put a nonland permanent card with mana value 2 or less from your hand on
     </card>
     <card>
       <name>Embrace Rebirth</name>
-      <set rarity="rare">ITD</set>
+      <set num="115" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2157,7 +2157,7 @@ III — You may put a permanent card from your hand onto the battlefield.</text>
     </card>
     <card>
       <name>Corvid Defacer</name>
-      <set rarity="rare">ITD</set>
+      <set num="70" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2177,7 +2177,7 @@ When Corvid Defacer dies, if it wasn’t the target of a spell this turn, return
     </card>
     <card>
       <name>Deepgrowth Animist</name>
-      <set rarity="rare">ITD</set>
+      <set num="114" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2197,7 +2197,7 @@ When Corvid Defacer dies, if it wasn’t the target of a spell this turn, return
     </card>
     <card>
       <name>Embryonic Mound</name>
-      <set rarity="rare">ITD</set>
+      <set num="171" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2217,7 +2217,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Forlorn Battlefield</name>
-      <set rarity="rare">ITD</set>
+      <set num="173" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2237,7 +2237,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Seek Understanding</name>
-      <set rarity="rare">ITD</set>
+      <set num="32" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2256,7 +2256,7 @@ Whenever one or more non-Horror creatures you control deal combat damage to a pl
     </card>
     <card>
       <name>Prowling Shade</name>
-      <set rarity="rare">ITD</set>
+      <set num="80" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2277,7 +2277,7 @@ Whenever one or more non-Horror creatures you control deal combat damage to a pl
     </card>
     <card>
       <name>Smokeplume Crustacean</name>
-      <set rarity="rare">ITD</set>
+      <set num="105" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2297,7 +2297,7 @@ Once each turn, whenever this creature or another creature you control enters, y
     </card>
     <card>
       <name>Living Bog</name>
-      <set rarity="rare">ITD</set>
+      <set num="176" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2317,7 +2317,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Ghostspitter</name>
-      <set rarity="rare">ITD</set>
+      <set num="25" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2337,7 +2337,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Petition the Abominable</name>
-      <set rarity="rare">ITD</set>
+      <set num="57" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2358,7 +2358,7 @@ When you next cast an instant or sorcery spell this turn, it gains “If this sp
     </card>
     <card>
       <name>Longlegs</name>
-      <set rarity="rare">ITD</set>
+      <set num="77" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2378,7 +2378,7 @@ Whenever Longlegs enters or attacks, each opponent sacrifices a creature.</text>
     </card>
     <card>
       <name>Heliach, The Sunspitter</name>
-      <set rarity="rare">ITD</set>
+      <set num="96" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2398,7 +2398,7 @@ When this creature enters, you may sacrifice another creature. When you do, this
     </card>
     <card>
       <name>Lord of Rust</name>
-      <set rarity="rare">ITD</set>
+      <set num="100" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2418,7 +2418,7 @@ When this creature dies, target player may have it deal damage equal to its powe
     </card>
     <card>
       <name>Abstracted Rapture</name>
-      <set rarity="rare">ITD</set>
+      <set num="87" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2437,7 +2437,7 @@ Creatures you control gain haste until end of turn.</text>
     </card>
     <card>
       <name>The Nowhere Girl</name>
-      <set rarity="rare">ITD</set>
+      <set num="145" rarity="rare">ITD</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2457,7 +2457,7 @@ Whenever one or more creatures you control deal combat damage to an opponent, dr
     </card>
     <card>
       <name>Somnibiotic Emergence</name>
-      <set rarity="rare">ITD</set>
+      <set num="131" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2476,7 +2476,7 @@ Search your library for a creature card with mana value less than or equal to th
     </card>
     <card>
       <name>Exiled Trickster</name>
-      <set rarity="rare">ITD</set>
+      <set num="45" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2497,7 +2497,7 @@ When this creature enters, exile up to one target instant or sorcery card in you
     </card>
     <card>
       <name>Cascade Coherency Failure</name>
-      <set rarity="rare">ITD</set>
+      <set num="92" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2518,7 +2518,7 @@ When this creature enters, exile up to one target instant or sorcery card in you
     </card>
     <card>
       <name>Experience Infinite Time</name>
-      <set rarity="rare">ITD</set>
+      <set num="143" rarity="rare">ITD</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2537,7 +2537,7 @@ Flashback 3WWUU (You may cast this card from your graveyard for its flashback co
     </card>
     <card>
       <name>Novice Dream-Binder</name>
-      <set rarity="rare">ITD</set>
+      <set num="29" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2556,7 +2556,7 @@ Flashback 3WWUU (You may cast this card from your graveyard for its flashback co
     </card>
     <card>
       <name>Bladecraft Scion</name>
-      <set rarity="rare">ITD</set>
+      <set num="91" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2577,7 +2577,7 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
     </card>
     <card>
       <name>Gravewalking</name>
-      <set rarity="rare">ITD</set>
+      <set num="74" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2596,7 +2596,7 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
     </card>
     <card>
       <name>Moonlight Oracle</name>
-      <set rarity="rare">ITD</set>
+      <set num="55" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2616,7 +2616,7 @@ Deep Dwelling — Whenever one or more cards are put into your graveyard from yo
     </card>
     <card>
       <name>Strange Wayfarer</name>
-      <set rarity="rare">ITD</set>
+      <set num="132" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2636,7 +2636,7 @@ When this creature enters or dies, create a tapped colorless land token named Ev
     </card>
     <card>
       <name>Reshape Reality</name>
-      <set rarity="rare">ITD</set>
+      <set num="58" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2655,7 +2655,7 @@ If it isn’t an extra turn, take an extra turn after this one.</text>
     </card>
     <card>
       <name>Figure of Some Importance</name>
-      <set rarity="rare">ITD</set>
+      <set num="47" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2675,7 +2675,7 @@ When this creature enters, if it was cast or entered from your hand, each player
     </card>
     <card>
       <name>One of Keys</name>
-      <set rarity="rare">ITD</set>
+      <set num="30" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2696,7 +2696,7 @@ Whenever this creature deals combat damage to a player, you may search your libr
     </card>
     <card>
       <name>Unceasing Observation</name>
-      <set rarity="rare">ITD</set>
+      <set num="61" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2717,7 +2717,7 @@ Whenever this creature deals combat damage to a player, you may search your libr
     </card>
     <card>
       <name>Distortion World</name>
-      <set rarity="rare">ITD</set>
+      <set num="22" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2737,7 +2737,7 @@ At the beginning of each player’s upkeep, they may put a card they own exiled 
     </card>
     <card>
       <name>Cloudscape Observer</name>
-      <set rarity="rare">ITD</set>
+      <set num="39" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2759,7 +2759,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Celestial Realm</name>
-      <set rarity="rare">ITD</set>
+      <set num="168" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2779,7 +2779,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Goddess of Puppet Strings</name>
-      <set rarity="rare">ITD</set>
+      <set num="72" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -2799,7 +2799,7 @@ changed</notes>
     </card>
     <card>
       <name>The Gardener, Waning</name>
-      <set rarity="rare">ITD</set>
+      <set num="118" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <manacost>XG</manacost>
@@ -2819,7 +2819,7 @@ changed</notes>
     </card>
     <card>
       <name>Ever-Burning Soul</name>
-      <set rarity="rare">ITD</set>
+      <set num="94" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -2838,7 +2838,7 @@ changed</notes>
     </card>
     <card>
       <name>Aeon, of the Living Coffin</name>
-      <set rarity="rare">ITD</set>
+      <set num="112" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <manacost>3GG</manacost>
@@ -2858,7 +2858,7 @@ changed</notes>
     </card>
     <card>
       <name>Phantom City</name>
-      <set rarity="rare">ITD</set>
+      <set num="177" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2878,7 +2878,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Liferoot Gnawer</name>
-      <set rarity="rare">ITD</set>
+      <set num="98" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2899,7 +2899,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Living Heart</name>
-      <set rarity="rare">ITD</set>
+      <set num="124" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2919,7 +2919,7 @@ Your maximum hand size is two.</text>
     </card>
     <card>
       <name>Cryptbreaking</name>
-      <set rarity="rare">ITD</set>
+      <set num="18" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2937,7 +2937,7 @@ Your maximum hand size is two.</text>
     </card>
     <card>
       <name>Animus Conflagration</name>
-      <set rarity="rare">ITD</set>
+      <set num="90" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2955,7 +2955,7 @@ Your maximum hand size is two.</text>
     </card>
     <card>
       <name>Ancient Forerunner</name>
-      <set rarity="rare">ITD</set>
+      <set num="88" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2978,7 +2978,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>The Ephemeral Piper</name>
-      <set rarity="rare">ITD</set>
+      <set num="142" rarity="rare">ITD</set>
       <prop>
         <colors>WUG</colors>
         <manacost>1GWU</manacost>
@@ -2999,7 +2999,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
     </card>
     <card>
       <name>Wyrm&apos;s Death</name>
-      <set rarity="rare">ITD</set>
+      <set num="151" rarity="rare">ITD</set>
       <prop>
         <colors>BRG</colors>
         <color>BRG</color>
@@ -3018,7 +3018,7 @@ You may have this spell deals 3 damage to each other creature if there are five 
     </card>
     <card>
       <name>Interstellar Drifter</name>
-      <set rarity="rare">ITD</set>
+      <set num="144" rarity="rare">ITD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -3039,7 +3039,7 @@ Whenever this creature deals combat damage to a player, that player sacrifices a
     </card>
     <card>
       <name>Crackling Serpent</name>
-      <set rarity="rare">ITD</set>
+      <set num="155" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3059,7 +3059,7 @@ Whenever one or more creatures you control deal combat damage to a player, that 
     </card>
     <card>
       <name>Reflective Savannah</name>
-      <set rarity="rare">ITD</set>
+      <set num="178" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3079,7 +3079,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Shortcut Through Hell</name>
-      <set rarity="rare">ITD</set>
+      <set num="180" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3099,7 +3099,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>MX-04, Electric Usurper</name>
-      <set rarity="rare">ITD</set>
+      <set num="8" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <manacost>5</manacost>
@@ -3119,7 +3119,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Wandering Moon </name>
-      <set rarity="rare">ITD</set>
+      <set num="11" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3140,7 +3140,7 @@ Lands you control are Swamps.</text>
     </card>
     <card>
       <name>Like Butterflies on Strings </name>
-      <set rarity="rare">ITD</set>
+      <set num="52" rarity="rare">ITD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3161,7 +3161,7 @@ When Like Butterflies on Strings deals combat damage to a player, if it entered 
     </card>
     <card>
       <name>Veteran Bloodhunter</name>
-      <set rarity="rare">ITD</set>
+      <set num="86" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3181,7 +3181,7 @@ When Veteran Bloodhunter enters, conjure a card named Drain into your hand. (It�
     </card>
     <card>
       <name>Infiltration Agent</name>
-      <set rarity="rare">ITD</set>
+      <set num="76" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3202,7 +3202,7 @@ This creature can’t be blocked if an opponent has lost life this this turn.</t
     </card>
     <card>
       <name>Piercing Betrayal</name>
-      <set rarity="rare">ITD</set>
+      <set num="79" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3222,7 +3222,7 @@ Draw two cards.
     </card>
     <card>
       <name>Sentinel of Dead Lands</name>
-      <set rarity="rare">ITD</set>
+      <set num="104" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3242,7 +3242,7 @@ At the beginning of your end step, if you haven’t cast a noncreature spell thi
     </card>
     <card>
       <name>Towersmog Ghoul</name>
-      <set rarity="rare">ITD</set>
+      <set num="107" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3262,7 +3262,7 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
     </card>
     <card>
       <name>Weight of Tradition</name>
-      <set rarity="rare">ITD</set>
+      <set num="111" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3282,7 +3282,7 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
     </card>
     <card>
       <name>Callous Observer</name>
-      <set rarity="rare">ITD</set>
+      <set num="140" rarity="rare">ITD</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3303,7 +3303,7 @@ This creature gets +1/+1 for each instant and sorcery card in your graveyard.</t
     </card>
     <card>
       <name>Siltcurrent Obsession</name>
-      <set rarity="rare">ITD</set>
+      <set num="150" rarity="rare">ITD</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -3323,7 +3323,7 @@ Overcoalesce 6GU (You may cast this from your graveyard for 6GU. If you do, chan
     </card>
     <card>
       <name>Insubstantial Glimpse</name>
-      <set rarity="rare">ITD</set>
+      <set num="27" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3344,7 +3344,7 @@ When Insubstantial Glimpse deals combat damage to a player, if it entered this t
     </card>
     <card>
       <name>Maktel and the Unknowable</name>
-      <set rarity="rare">ITD</set>
+      <set num="125" rarity="rare">ITD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3366,7 +3366,7 @@ When Insubstantial Glimpse deals combat damage to a player, if it entered this t
     </card>
     <card>
       <name>Protostar Bombardment</name>
-      <set rarity="rare">ITD</set>
+      <set num="103" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3385,7 +3385,7 @@ Whenever a creature an opponent controls dies, its controller loses 2 life unles
     </card>
     <card>
       <name>Eye of the Abominable</name>
-      <set rarity="rare">ITD</set>
+      <set num="71" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3404,7 +3404,7 @@ When Eye of the Abominable enters, return target creature card from your graveya
     </card>
     <card>
       <name>Meet the Beyond</name>
-      <set rarity="rare">ITD</set>
+      <set num="7" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3423,7 +3423,7 @@ When Eye of the Abominable enters, return target creature card from your graveya
     </card>
     <card>
       <name>Illuminant Master</name>
-      <set rarity="rare">ITD</set>
+      <set num="26" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3445,7 +3445,7 @@ Whenever this creature attacks alone, it gets +1/+1 until end of turn for each N
     </card>
     <card>
       <name>Unexpected Passenger</name>
-      <set rarity="rare">ITD</set>
+      <set num="109" rarity="rare">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3465,7 +3465,7 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
     </card>
     <card>
       <name>Necromantic Overspill</name>
-      <set rarity="rare">ITD</set>
+      <set num="78" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3483,7 +3483,7 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
     </card>
     <card>
       <name>Devoted Numena</name>
-      <set rarity="rare">ITD</set>
+      <set num="21" rarity="rare">ITD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3503,7 +3503,7 @@ When this creature enters, exile another target nonland permanent until this cre
     </card>
     <card>
       <name>Replicant</name>
-      <set rarity="common">ITD</set>
+      <set num="9" rarity="common">ITD</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3525,7 +3525,7 @@ When this creature enters, exile another target nonland permanent until this cre
     </card>
     <card>
       <name>Drain</name>
-      <set rarity="">ITD</set>
+      <set num="1" rarity="">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3544,7 +3544,7 @@ When this creature enters, exile another target nonland permanent until this cre
     </card>
     <card>
       <name>Spark</name>
-      <set rarity="">ITD</set>
+      <set num="2" rarity="">ITD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3563,7 +3563,7 @@ When this creature enters, exile another target nonland permanent until this cre
     </card>
     <card>
       <name>Through Violence</name>
-      <set rarity="common">ITD</set>
+      <set num="10" rarity="common">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3583,7 +3583,7 @@ new</notes>
     </card>
     <card>
       <name>Spite-Crowned Champion</name>
-      <set rarity="rare">ITD</set>
+      <set num="82" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3603,7 +3603,7 @@ When this creature attacks, if it has power 4 or greater and no counters on it, 
     </card>
     <card>
       <name>Grasping Eternity</name>
-      <set rarity="rare">ITD</set>
+      <set num="73" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3625,7 +3625,7 @@ At the beginning of your end step, if you gained life this turn, choose one—
     </card>
     <card>
       <name>The Gardener, Crowned</name>
-      <set rarity="rare">ITD</set>
+      <set num="6" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <manacost>15</manacost>
@@ -3646,7 +3646,7 @@ At the beginning of your end step, if you gained life this turn, choose one—
     </card>
     <card>
       <name>The Howling Door</name>
-      <set rarity="rare">ITD</set>
+      <set num="161" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3667,7 +3667,7 @@ Put a burden counter on The Howling Door: You lose 1 life for each burden counte
     </card>
     <card>
       <name>The Eternal Echo</name>
-      <set rarity="rare">ITD</set>
+      <set num="4" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
         <manacost>4</manacost>
@@ -3689,7 +3689,7 @@ Put a burden counter on The Howling Door: You lose 1 life for each burden counte
     </card>
     <card>
       <name>Apocalypse of the Forest</name>
-      <set rarity="rare">ITD</set>
+      <set num="64" rarity="rare">ITD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>

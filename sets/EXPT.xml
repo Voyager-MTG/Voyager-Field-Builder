@@ -11,7 +11,7 @@
 
     <card>
       <name>Falling Sparks</name>
-      <set rarity="rare">EXPT</set>
+      <set num="92" rarity="rare">EXPT</set>
       <prop>
         <colors>RI</colors>
         <color>RI</color>
@@ -29,7 +29,7 @@
     </card>
     <card>
       <name>Soul Splintering</name>
-      <set rarity="rare">EXPT</set>
+      <set num="103" rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -47,7 +47,7 @@
     </card>
     <card>
       <name>Towing Steladiuys</name>
-      <set rarity="common">EXPT</set>
+      <set num="104" rarity="common">EXPT</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -67,7 +67,7 @@
     </card>
     <card>
       <name>Information Recovery Crew</name>
-      <set rarity="common">EXPT</set>
+      <set num="40" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -87,7 +87,7 @@ Whenever this creature deals combat damage to a player, look at the top two card
     </card>
     <card>
       <name>Exuberant Archaeologist</name>
-      <set rarity="common">EXPT</set>
+      <set num="31" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -108,7 +108,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
     </card>
     <card>
       <name>Tepid Tamer</name>
-      <set rarity="common">EXPT</set>
+      <set num="74" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -128,7 +128,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
     </card>
     <card>
       <name>Striking Reflection</name>
-      <set rarity="common">EXPT</set>
+      <set num="70" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -147,7 +147,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
     </card>
     <card>
       <name>Unbothered Alchemist</name>
-      <set rarity="common">EXPT</set>
+      <set num="76" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -166,7 +166,7 @@ When this creature enters the battlefield, exile up to one target nonland card f
     </card>
     <card>
       <name>Scouting Party</name>
-      <set rarity="common">EXPT</set>
+      <set num="61" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -187,7 +187,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
     </card>
     <card>
       <name>Back to Market</name>
-      <set rarity="common">EXPT</set>
+      <set num="12" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -205,7 +205,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
     </card>
     <card>
       <name>Center Mass</name>
-      <set rarity="common">EXPT</set>
+      <set num="16" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -223,7 +223,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
     </card>
     <card>
       <name>Murky Politics</name>
-      <set rarity="common">EXPT</set>
+      <set num="54" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -241,7 +241,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
     </card>
     <card>
       <name>Memory Restored</name>
-      <set rarity="rare">EXPT</set>
+      <set num="50" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -259,7 +259,7 @@ Channel — {2}, Discard this card: Search your library for a Fault card, reveal
     </card>
     <card>
       <name>Neverbloom</name>
-      <set rarity="rare">EXPT</set>
+      <set num="96" rarity="rare">EXPT</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -279,7 +279,7 @@ Whenever a land enters under your control for the second time each turn, blank u
     </card>
     <card>
       <name>The Lost Heir</name>
-      <set rarity="rare">EXPT</set>
+      <set num="47" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -299,7 +299,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
     </card>
     <card>
       <name>Unveiling</name>
-      <set rarity="rare">EXPT</set>
+      <set num="77" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -322,7 +322,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
     </card>
     <card>
       <name>To Survive in Some Form</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="75" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -340,7 +340,7 @@ Once each turn, if an opponent would cast a spell from anywhere other than their
     </card>
     <card>
       <name>Eschewer of Form</name>
-      <set rarity="rare">EXPT</set>
+      <set num="29" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -361,7 +361,7 @@ Whenever Eschewer of Form deals combat damage to a player, you may embrace a car
     </card>
     <card>
       <name>Era, Hymn to Creation</name>
-      <set rarity="rare">EXPT</set>
+      <set num="28" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -384,7 +384,7 @@ Whenever a token you control attacks, each opponent loses 1 life.</text>
     </card>
     <card>
       <name>Infraruin Predator</name>
-      <set rarity="rare">EXPT</set>
+      <set num="41" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -405,7 +405,7 @@ https://www.deviantart.com/bonniesband/art/RW-Lovely-Arps-1005539176</notes>
     </card>
     <card>
       <name>Sealed Deepborn</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="62" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -425,7 +425,7 @@ https://www.deviantart.com/eneyra/art/Experimental-sketch-1134781090</notes>
     </card>
     <card>
       <name>Kaiju Sighting</name>
-      <set rarity="rare">EXPT</set>
+      <set num="45" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -446,7 +446,7 @@ Create an X/X silver Fish creature token, where X is the number of permanents yo
     </card>
     <card>
       <name>Interstellar Traveller</name>
-      <set rarity="rare">EXPT</set>
+      <set num="43" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -467,7 +467,7 @@ When Interstellar Traveller enters, if it was cast, create a token that’s a co
     </card>
     <card>
       <name>The Depths Talk Loudly</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="20" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -489,7 +489,7 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
     </card>
     <card>
       <name>Lost in Dreams of Life</name>
-      <set rarity="mythic">EXPT</set>
+      <set num="48" rarity="mythic">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -507,7 +507,7 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
     </card>
     <card>
       <name>Iridescent Summit</name>
-      <set rarity="rare">EXPT</set>
+      <set num="44" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -526,7 +526,7 @@ At the beginning of your end step, you may exile target card from your graveyard
     </card>
     <card>
       <name>One Last Sunset</name>
-      <set rarity="rare">EXPT</set>
+      <set num="97" rarity="rare">EXPT</set>
       <prop>
         <colors>WRI</colors>
         <color>WRI</color>
@@ -544,7 +544,7 @@ At the beginning of your end step, you may exile target card from your graveyard
     </card>
     <card>
       <name>Winged Turtle</name>
-      <set rarity="mythic">EXPT</set>
+      <set num="81" rarity="mythic">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -565,7 +565,7 @@ Whenever you create a token that doesn’t share a name with a token you control
     </card>
     <card>
       <name>Wandering Dislocation</name>
-      <set rarity="common">EXPT</set>
+      <set num="79" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -586,7 +586,7 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
     </card>
     <card>
       <name>Sundown</name>
-      <set rarity="mythic">EXPT</set>
+      <set num="7" rarity="mythic">EXPT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -605,7 +605,7 @@ Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Against the Night</name>
-      <set rarity="rare">EXPT</set>
+      <set num="9" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -623,7 +623,7 @@ Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Warping Wolf</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="80" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -642,7 +642,7 @@ Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Risen Earthdragon</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="100" rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -663,7 +663,7 @@ When this creature enters, if it was cast, mirror twice. (Create a token thats a
     </card>
     <card>
       <name>Shell&apos;s Scraping</name>
-      <set rarity="rare">EXPT</set>
+      <set num="65" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -682,7 +682,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Illuminant Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="112" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -700,7 +700,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Ivory Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="113" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -718,7 +718,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Searing Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="115" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -736,7 +736,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Silent Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="116" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -754,7 +754,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Twisted Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="118" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -772,7 +772,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Verdant Spire</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="119" rarity="uncommon">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -790,7 +790,7 @@ This spell deals damage to any target equal to the number of tokens you control.
     </card>
     <card>
       <name>Swirling Moon</name>
-      <set rarity="rare">EXPT</set>
+      <set num="71" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -810,7 +810,7 @@ Whenever a nonbasic land becomes tapped, if it wasn’t tapped for {I}, put a st
     </card>
     <card>
       <name>Sever the Oracle</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="64" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -829,7 +829,7 @@ Untap up to two lands.</text>
     </card>
     <card>
       <name>Curious Dexteria</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="19" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -850,7 +850,7 @@ Whenever an opponent casts an artifact or enchantment spell, draw a card unless 
     </card>
     <card>
       <name>Searing Sigils</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="63" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -870,7 +870,7 @@ https://www.deviantart.com/nele-diel/art/Fiery-Sky-899411024</notes>
     </card>
     <card>
       <name>Distant Vulture</name>
-      <set rarity="rare">EXPT</set>
+      <set num="22" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -890,7 +890,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Extant Surveyor</name>
-      <set rarity="rare">EXPT</set>
+      <set num="30" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -911,7 +911,7 @@ Whenever this creature deals combat damage to an opponent, put up to one target 
     </card>
     <card>
       <name>Hopeless Summit</name>
-      <set rarity="common">EXPT</set>
+      <set num="38" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -931,7 +931,7 @@ Flashback—3II, Tap two untapped silver creatures you control. (You may cast th
     </card>
     <card>
       <name>Lost Cause</name>
-      <set rarity="common">EXPT</set>
+      <set num="46" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -951,7 +951,7 @@ When you sacrifice this enchantment, search your library for a basic land card, 
     </card>
     <card>
       <name>Sieve</name>
-      <set rarity="common">EXPT</set>
+      <set num="67" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -970,7 +970,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Draconic Reflection</name>
-      <set rarity="common">EXPT</set>
+      <set num="23" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -990,7 +990,7 @@ Tap three untapped creatures you control: Target opponent loses 1 life and you g
     </card>
     <card>
       <name>Sryyn Spawner</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="69" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1011,7 +1011,7 @@ When this creature dies, create a 2/2 silver Insect Plant token with decayed. (I
     </card>
     <card>
       <name>Algael-leael</name>
-      <set rarity="common">EXPT</set>
+      <set num="10" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1032,7 +1032,7 @@ When this creature enters, create a 2/2 silver Insect Plant creature token with 
     </card>
     <card>
       <name>Insect Plant Token</name>
-      <set rarity="common">EXPT</set>
+      <set num="42" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1051,7 +1051,7 @@ When this creature enters, create a 2/2 silver Insect Plant creature token with 
     </card>
     <card>
       <name>Syphroid</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="72" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1071,7 +1071,7 @@ When Syphroid enters, destroy up to one target enchantment or planeswalker.</tex
     </card>
     <card>
       <name>Tellavia Balwar</name>
-      <set rarity="common">EXPT</set>
+      <set num="73" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1091,7 +1091,7 @@ Exile four cards from your graveyard: This creature gets +4/+0 and loses defende
     </card>
     <card>
       <name>Refraction Mech</name>
-      <set rarity="rare">EXPT</set>
+      <set num="57" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1114,7 +1114,7 @@ This creature gets +1/+0 for each token you control.
     </card>
     <card>
       <name>Writhing Sight</name>
-      <set rarity="common">EXPT</set>
+      <set num="84" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1134,7 +1134,7 @@ Channel — 2I, Discard this: Draw two cards. Activate only if you control a tok
     </card>
     <card>
       <name>Wall Token</name>
-      <set rarity="common">EXPT</set>
+      <set num="107" rarity="common">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1153,7 +1153,7 @@ Channel — 2I, Discard this: Draw two cards. Activate only if you control a tok
     </card>
     <card>
       <name>Xylem Attendant</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="85" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1172,7 +1172,7 @@ Channel — 2I, Discard this: Draw two cards. Activate only if you control a tok
     </card>
     <card>
       <name>Clifftop Pishogue</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="90" rarity="uncommon">EXPT</set>
       <prop>
         <colors>UI</colors>
         <color>UI</color>
@@ -1197,7 +1197,7 @@ Other creatures you control whose base power and toughness aren’t equal have h
     </card>
     <card>
       <name>Malevolent Knowledge</name>
-      <set rarity="rare">EXPT</set>
+      <set num="95" rarity="rare">EXPT</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -1217,7 +1217,7 @@ Flashback—IB, Sacrifice a token. (You may cast this card from your graveyard f
     </card>
     <card>
       <name>Shadow Eater</name>
-      <set rarity="common">EXPT</set>
+      <set num="102" rarity="common">EXPT</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -1239,7 +1239,7 @@ Multicolor</notes>
     </card>
     <card>
       <name>Mirrored Magic</name>
-      <set rarity="rare">EXPT</set>
+      <set num="51" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1259,7 +1259,7 @@ Whenever this enchantment leaves the battlefield, draw a card.</text>
     </card>
     <card>
       <name>Siege Crossbow</name>
-      <set rarity="common">EXPT</set>
+      <set num="66" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1279,7 +1279,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>The Demon Within</name>
-      <set rarity="rare">EXPT</set>
+      <set num="91" rarity="rare">EXPT</set>
       <prop>
         <colors>UI</colors>
         <color>UI</color>
@@ -1300,7 +1300,7 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Unending Toils</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="5" rarity="uncommon">EXPT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1318,7 +1318,7 @@ Flashback IU (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Beautiful Headhuntress</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="88" rarity="uncommon">EXPT</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -1342,7 +1342,7 @@ Lands you control with a nonbasic land type have “{T}: Add one mana of any typ
     </card>
     <card>
       <name>Wisped Wings</name>
-      <set rarity="common">EXPT</set>
+      <set num="82" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1363,7 +1363,7 @@ Channel — 1I, Discard this: Target creature gets +2/-2 until end of turn.</tex
     </card>
     <card>
       <name>Scholigaunt</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="60" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1384,7 +1384,7 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
     </card>
     <card>
       <name>Godhead&apos;s Interdiction</name>
-      <set rarity="rare">EXPT</set>
+      <set num="36" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1402,7 +1402,7 @@ When this creature enters, create two 2/2 Insect Plant creature tokens with deca
     </card>
     <card>
       <name>Incessant Intercession</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="93" rarity="uncommon">EXPT</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -1424,7 +1424,7 @@ Channel — IB, Discard this: Until end of turn, target creature gets +X/-X, whe
     </card>
     <card>
       <name>Duet of Loss and Life</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="24" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1444,7 +1444,7 @@ When this creature escapes, create a token that’s a copy of target creature ca
     </card>
     <card>
       <name>Abstracted Mark</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="87" rarity="uncommon">EXPT</set>
       <prop>
         <colors>RI</colors>
         <color>RI</color>
@@ -1466,7 +1466,7 @@ Whenever you attack with two or more creatures, this creature deals 2 damage to 
     </card>
     <card>
       <name>Whimsy Unbound</name>
-      <set rarity="rare">EXPT</set>
+      <set num="105" rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -1488,7 +1488,7 @@ Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token yo
     </card>
     <card>
       <name>Shapeshifter Token</name>
-      <set rarity="common">EXPT</set>
+      <set num="1" rarity="common">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1507,7 +1507,7 @@ Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token yo
     </card>
     <card>
       <name>Robot Token</name>
-      <set rarity="common">EXPT</set>
+      <set num="106" rarity="common">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1527,7 +1527,7 @@ Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token yo
     </card>
     <card>
       <name>Sample Skimmer</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="59" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1548,7 +1548,7 @@ When this creature deals combat damage to an opponent, you may draw a card from 
     </card>
     <card>
       <name>Sentinel of the Afterlife</name>
-      <set rarity="rare">EXPT</set>
+      <set num="101" rarity="rare">EXPT</set>
       <prop>
         <colors>BI</colors>
         <color>BI</color>
@@ -1570,7 +1570,7 @@ When this creature deals combat damage to an opponent, that player discards a ca
     </card>
     <card>
       <name>Our Fates Change</name>
-      <set rarity="rare">EXPT</set>
+      <set num="98" rarity="rare">EXPT</set>
       <prop>
         <colors>GI</colors>
         <color>GI</color>
@@ -1590,7 +1590,7 @@ When this creature deals combat damage to an opponent, that player discards a ca
     </card>
     <card>
       <name>Caught in the Confusion</name>
-      <set rarity="rare">EXPT</set>
+      <set num="89" rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -1612,7 +1612,7 @@ When this enchantment is no longer on the battlefield, return the exiled card to
     </card>
     <card>
       <name>Madness Broadcaster</name>
-      <set rarity="rare">EXPT</set>
+      <set num="94" rarity="rare">EXPT</set>
       <prop>
         <colors>BRI</colors>
         <color>BRI</color>
@@ -1634,7 +1634,7 @@ At the beginning of your end step, you may discard a card. If you do, draw a car
     </card>
     <card>
       <name>Reflection Tender</name>
-      <set rarity="rare">EXPT</set>
+      <set num="99" rarity="rare">EXPT</set>
       <prop>
         <colors>WI</colors>
         <color>WI</color>
@@ -1656,7 +1656,7 @@ Creature tokens you control get +1/+1 and have vigilance.</text>
     </card>
     <card>
       <name>The Usurper</name>
-      <set rarity="rare">EXPT</set>
+      <set num="78" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1676,7 +1676,7 @@ This creature must be blocked if able.</text>
     </card>
     <card>
       <name>The Chanter of Paths</name>
-      <set rarity="rare">EXPT</set>
+      <set num="17" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -1696,7 +1696,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="">EXPT</set>
+      <set num="2" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1714,7 +1714,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Island</name>
-      <set rarity="">EXPT</set>
+      <set num="3" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1732,7 +1732,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="">EXPT</set>
+      <set num="4" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1750,7 +1750,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="">EXPT</set>
+      <set num="6" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1768,7 +1768,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="">EXPT</set>
+      <set num="8" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1786,7 +1786,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Fault</name>
-      <set rarity="">EXPT</set>
+      <set num="32" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1804,7 +1804,7 @@ Once each turn, whenever one or more cards are put into a sanctum from anywhere,
     </card>
     <card>
       <name>Sanctuary of Nectars</name>
-      <set rarity="">EXPT</set>
+      <set num="122" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1827,7 +1827,7 @@ https://www.deviantart.com/knowyouare/art/Light-Conquers-Darkness-254447378</not
     </card>
     <card>
       <name>Sanctuary of Resonance</name>
-      <set rarity="">EXPT</set>
+      <set num="123" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1850,7 +1850,7 @@ https://www.deviantart.com/atarts/art/Duel-at-the-bell-of-the-gods-473285102</no
     </card>
     <card>
       <name>Sanctuary of Moonlight</name>
-      <set rarity="">EXPT</set>
+      <set num="121" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1873,7 +1873,7 @@ https://www.deviantart.com/jaygraphixx/art/Sacrosanct-808101978</notes>
     </card>
     <card>
       <name>Sanctuary of Scales</name>
-      <set rarity="">EXPT</set>
+      <set num="124" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1896,7 +1896,7 @@ https://www.deviantart.com/benedickbana/art/Ancient-City-Forest-858161681</notes
     </card>
     <card>
       <name>Sanctuary of Journeys</name>
-      <set rarity="">EXPT</set>
+      <set num="120" rarity="">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1919,7 +1919,7 @@ https://www.deviantart.com/lecristal/art/pro-meus-Amice-Juraj-Capela-506875349</
     </card>
     <card>
       <name>Bygone Monoliths</name>
-      <set rarity="rare">EXPT</set>
+      <set num="108" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1941,7 +1941,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Foreboding Falls</name>
-      <set rarity="rare">EXPT</set>
+      <set num="111" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1963,7 +1963,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Forbidding Spires</name>
-      <set rarity="rare">EXPT</set>
+      <set num="110" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1984,7 +1984,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Suffocating Path</name>
-      <set rarity="rare">EXPT</set>
+      <set num="117" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2004,7 +2004,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Dreaded Clearing</name>
-      <set rarity="rare">EXPT</set>
+      <set num="109" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2024,7 +2024,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Mooyan Curry</name>
-      <set rarity="common">EXPT</set>
+      <set num="53" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2042,7 +2042,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
     </card>
     <card>
       <name>Yaiba Robo</name>
-      <set rarity="common">EXPT</set>
+      <set num="86" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2062,7 +2062,7 @@ At the beginning of combat on your turn, up to one target creature gains first s
     </card>
     <card>
       <name>Blooming Peculiarity</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="14" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2083,7 +2083,7 @@ When enchanted creature dies, if you controlled it, return Blooming Peculiarity 
     </card>
     <card>
       <name>Mark of Insanity</name>
-      <set rarity="rare">EXPT</set>
+      <set num="49" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2103,7 +2103,7 @@ You may return a Fault you control to its owners hand rather than pay this spell
     </card>
     <card>
       <name>Nildiver</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="55" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2120,11 +2120,11 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>
-      <set rarity="rare">EXPT</set>
+      <set num="114" rarity="rare">EXPT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2144,7 +2144,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
     </card>
     <card>
       <name>Ashen Wisps</name>
-      <set rarity="common">EXPT</set>
+      <set num="11" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2163,7 +2163,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Fyndhorn Betrayer</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="35" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2182,7 +2182,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Groaning Lullaby</name>
-      <set rarity="rare">EXPT</set>
+      <set num="37" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2202,7 +2202,7 @@ If a card or token would be put into a graveyard from anywhere, its owner put it
     </card>
     <card>
       <name>Moonlight Charm</name>
-      <set rarity="common">EXPT</set>
+      <set num="52" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2223,7 +2223,7 @@ If a card or token would be put into a graveyard from anywhere, its owner put it
     </card>
     <card>
       <name>Spiteful Coil-Servants</name>
-      <set rarity="common">EXPT</set>
+      <set num="68" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2243,7 +2243,7 @@ Whenever Spiteful Coil-Servants’s toughness decreases, it deals that much dama
     </card>
     <card>
       <name>Ego Entwined</name>
-      <set rarity="rare">EXPT</set>
+      <set num="26" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2263,7 +2263,7 @@ https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fi.pinimg.com%
     </card>
     <card>
       <name>Reto-Polo</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="58" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2283,7 +2283,7 @@ Enchanted permanent is a copy of the chosen permanent.</text>
     </card>
     <card>
       <name>Identity Granter</name>
-      <set rarity="mythic">EXPT</set>
+      <set num="39" rarity="mythic">EXPT</set>
       <prop>
         <colors>I</colors>
         <manacost>2I</manacost>
@@ -2304,7 +2304,7 @@ https://us1-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Fwww.victoryar
     </card>
     <card>
       <name>Empty Body Practitioner</name>
-      <set rarity="common">EXPT</set>
+      <set num="27" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2326,7 +2326,7 @@ When Empty Body Practitioner enters, choose one—
     </card>
     <card>
       <name>Raging Rubigrug</name>
-      <set rarity="rare">EXPT</set>
+      <set num="56" rarity="rare">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2346,7 +2346,7 @@ Whenever Raging Rubigrug becomes the target of a spell for the first time each t
     </card>
     <card>
       <name>Ferryman&apos;s Price</name>
-      <set rarity="common">EXPT</set>
+      <set num="34" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2366,7 +2366,7 @@ Whenever Raging Rubigrug becomes the target of a spell for the first time each t
     </card>
     <card>
       <name>Dessigry</name>
-      <set rarity="common">EXPT</set>
+      <set num="21" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2386,7 +2386,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
     </card>
     <card>
       <name>Woods&apos; Procession</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="83" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2404,7 +2404,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
     </card>
     <card>
       <name>Blank</name>
-      <set rarity="common">EXPT</set>
+      <set num="13" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2422,7 +2422,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
     </card>
     <card>
       <name>Edification</name>
-      <set rarity="common">EXPT</set>
+      <set num="25" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2442,7 +2442,7 @@ When Dessigry enters, create a 1/1 silver Drake creature token with flying.</tex
     </card>
     <card>
       <name>Canyon Crustacean</name>
-      <set rarity="common">EXPT</set>
+      <set num="15" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2464,7 +2464,7 @@ Fault|Basic Land – Fault
     </card>
     <card>
       <name>Cowering Lightbringer</name>
-      <set rarity="uncommon">EXPT</set>
+      <set num="18" rarity="uncommon">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -2484,7 +2484,7 @@ Fault|Basic Land – Fault
     </card>
     <card>
       <name>Faulty Recreation</name>
-      <set rarity="common">EXPT</set>
+      <set num="33" rarity="common">EXPT</set>
       <prop>
         <colors>I</colors>
         <color>I</color>

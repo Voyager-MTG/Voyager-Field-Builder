@@ -11,7 +11,7 @@
 
     <card>
       <name>Sword of the Royalty</name>
-      <set rarity="mythic">HOD</set>
+      <set num="287" rarity="mythic">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31,7 +31,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Knight Exemplar</name>
-      <set rarity="rare">HOD</set>
+      <set num="18" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -55,7 +55,7 @@ Other Knight creatures you control get +1/+1 and have indestructible.</text>
     </card>
     <card>
       <name>Arbiter of the Meek</name>
-      <set rarity="rare">HOD</set>
+      <set num="3" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -77,7 +77,7 @@ Whenever you create a token outside of your reserves, create a token that’s a 
     </card>
     <card>
       <name>Sandrock Blacksmith</name>
-      <set rarity="rare">HOD</set>
+      <set num="32" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -99,7 +99,7 @@ Equipment you control have “Sacrifice this Equipment: Equipped creature gains 
     </card>
     <card>
       <name>Sapner Vindicator</name>
-      <set rarity="rare">HOD</set>
+      <set num="33" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -122,7 +122,7 @@ Exile three cards from your graveyard: Sapner Vindicator becomes an artifact unt
     </card>
     <card>
       <name>Call to War</name>
-      <set rarity="rare">HOD</set>
+      <set num="8" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -144,7 +144,7 @@ Escape—4WW, Exile X cards from your graveyard. (You may cast this card from yo
     </card>
     <card>
       <name>Regal Lion</name>
-      <set rarity="rare">HOD</set>
+      <set num="30" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -168,7 +168,7 @@ When Regal Lion enters, other permanents you control gain indestructible until e
     </card>
     <card>
       <name>Leon Terrel, Unspoken Heir</name>
-      <set rarity="rare">HOD</set>
+      <set num="21" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -192,7 +192,7 @@ Other creature tokens you control get +1/+1 and have vigilance.</text>
     </card>
     <card>
       <name>Scorched Earth</name>
-      <set rarity="rare">HOD</set>
+      <set num="34" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -215,7 +215,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>The Aciesblade</name>
-      <set rarity="mythic">HOD</set>
+      <set num="1" rarity="mythic">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -236,7 +236,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Leon&apos;s Claim</name>
-      <set rarity="mythic">HOD</set>
+      <set num="22" rarity="mythic">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -260,7 +260,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Mirrorkin&apos;s Bargain</name>
-      <set rarity="rare">HOD</set>
+      <set num="67" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -281,7 +281,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Sovereign Echomage</name>
-      <set rarity="rare">HOD</set>
+      <set num="77" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -302,7 +302,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Idol of Forgotten Gods</name>
-      <set rarity="rare">HOD</set>
+      <set num="58" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -325,7 +325,7 @@ Sycophant, sycophant (Whenever this permanent deals damage to a player or planes
     </card>
     <card>
       <name>Takers of Voice</name>
-      <set rarity="rare">HOD</set>
+      <set num="78" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -348,7 +348,7 @@ Whenever Takers of Voice enters, gain control of target nonland permanent for as
     </card>
     <card>
       <name>Wilmot Nye, the Crafty</name>
-      <set rarity="rare">HOD</set>
+      <set num="84" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -370,7 +370,7 @@ Creatures you control can’t be blocked unless each creature with lesser power 
     </card>
     <card>
       <name>Inquisitive Otter</name>
-      <set rarity="rare">HOD</set>
+      <set num="59" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -393,7 +393,7 @@ Inquisitive Otter has all triggered abilities of other creatures you control not
     </card>
     <card>
       <name>Geistwald Kraken</name>
-      <set rarity="rare">HOD</set>
+      <set num="55" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -414,7 +414,7 @@ Whenever you draw a card, tap target nonland permanent and put a stun counter on
     </card>
     <card>
       <name>Beachside Drake</name>
-      <set rarity="rare">HOD</set>
+      <set num="45" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -437,7 +437,7 @@ Flying
     </card>
     <card>
       <name>Marilye, Heirloom Pilferer</name>
-      <set rarity="mythic">HOD</set>
+      <set num="66" rarity="mythic">HOD</set>
       <prop>
         <colors>U</colors>
         <manacost>3UU</manacost>
@@ -462,7 +462,7 @@ As long as it’s your turn, Marilye is a 3/2 Elf Rogue creature with hexproof a
     </card>
     <card>
       <name>Domineering Mirrorkin</name>
-      <set rarity="mythic">HOD</set>
+      <set num="51" rarity="mythic">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -484,7 +484,7 @@ Whenever an opponent casts their first creature spell each turn, create a token 
     </card>
     <card>
       <name>Royal Seeker</name>
-      <set rarity="mythic">HOD</set>
+      <set num="74" rarity="mythic">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -507,7 +507,7 @@ At the beginning of each opponent’s upkeep, draw a card unless that player has
     </card>
     <card>
       <name>Unending Malice</name>
-      <set rarity="rare">HOD</set>
+      <set num="117" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -528,7 +528,7 @@ At the beginning of each opponent’s upkeep, draw a card unless that player has
     </card>
     <card>
       <name>Petula Vance, the Solemn Joke</name>
-      <set rarity="rare">HOD</set>
+      <set num="102" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -551,7 +551,7 @@ Whenever Petula Vance attacks, exile another attacking creature you control. If 
     </card>
     <card>
       <name>Thriving Hyena</name>
-      <set rarity="rare">HOD</set>
+      <set num="115" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -574,7 +574,7 @@ Whenever a creature you control dies, you may discard a card if that creature en
     </card>
     <card>
       <name>Taken by House Vance</name>
-      <set rarity="rare">HOD</set>
+      <set num="113" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -597,7 +597,7 @@ Whenever a creature you control dies, you may discard a card if that creature en
     </card>
     <card>
       <name>Vance Informant</name>
-      <set rarity="rare">HOD</set>
+      <set num="119" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -620,7 +620,7 @@ Whenever Vance Informant deals combat damage to a player or planeswalker, mill t
     </card>
     <card>
       <name>Sapner Hexcrafter</name>
-      <set rarity="rare">HOD</set>
+      <set num="109" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -642,7 +642,7 @@ Whenever you copy a spell that was targeting a creature you control, you draw a 
     </card>
     <card>
       <name>Plaskett Trickster</name>
-      <set rarity="rare">HOD</set>
+      <set num="104" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -664,7 +664,7 @@ Whenever Plaskett Trickster deals combat damage to a player or planeswalker, def
     </card>
     <card>
       <name>Virulent Hexer</name>
-      <set rarity="rare">HOD</set>
+      <set num="122" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -688,7 +688,7 @@ When Virulent Hexer enters, choose one —
     </card>
     <card>
       <name>Closure</name>
-      <set rarity="mythic">HOD</set>
+      <set num="89" rarity="mythic">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -711,7 +711,7 @@ If it’s your turn, end the turn. (Exile all spells and abilities from the stac
     </card>
     <card>
       <name>Knight of the Endless War</name>
-      <set rarity="mythic">HOD</set>
+      <set num="97" rarity="mythic">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -733,7 +733,7 @@ Whenever a nontoken creature you control dies, create a token that’s a copy of
     </card>
     <card>
       <name>Waldemar, Forgotten Heir</name>
-      <set rarity="mythic" splitterPath="/Waldemar, Forgotten Heir.jpg" >HOD</set>
+      <set num="124" rarity="mythic" splitterPath="/Waldemar, Forgotten Heir.jpg" >HOD</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -753,7 +753,7 @@ When Waldemar dies, each opponent discards a card.
     </card>
     <card>
       <name>Waldemar, Jaded Prince</name>
-      <set rarity="mythic" splitterPath="/Waldemar, Jaded Prince.jpg" >HOD</set>
+      <set num="124" rarity="mythic" splitterPath="/Waldemar, Jaded Prince.jpg" >HOD</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -773,7 +773,7 @@ When Waldemar dies, each opponent discards a card.
     </card>
     <card>
       <name>Fervent Demagogue</name>
-      <set rarity="rare">HOD</set>
+      <set num="142" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -795,7 +795,7 @@ When Waldemar dies, each opponent discards a card.
     </card>
     <card>
       <name>Caryl Rey, the Rose</name>
-      <set rarity="rare">HOD</set>
+      <set num="136" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -818,7 +818,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
     </card>
     <card>
       <name>Ardleby Gatekeeper</name>
-      <set rarity="rare">HOD</set>
+      <set num="128" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -839,7 +839,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
     </card>
     <card>
       <name>Geistwald Deceiver</name>
-      <set rarity="rare">HOD</set>
+      <set num="144" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -857,11 +857,11 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>
-      <set rarity="rare">HOD</set>
+      <set num="164" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -884,7 +884,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
     </card>
     <card>
       <name>Standoff at Beachside</name>
-      <set rarity="rare">HOD</set>
+      <set num="158" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -906,7 +906,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
     </card>
     <card>
       <name>William&apos;s Epiphany</name>
-      <set rarity="rare">HOD</set>
+      <set num="167" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -928,7 +928,7 @@ Escape—3R, Exile X other cards from your graveyard. (You may cast this card fr
     </card>
     <card>
       <name>Blazing Phoenix</name>
-      <set rarity="rare">HOD</set>
+      <set num="133" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -952,7 +952,7 @@ Escape—{R}, Exile six other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Thorough Conflagration</name>
-      <set rarity="mythic">HOD</set>
+      <set num="161" rarity="mythic">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -973,7 +973,7 @@ Escape—{R}, Exile six other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Herald of Storms</name>
-      <set rarity="mythic">HOD</set>
+      <set num="147" rarity="mythic">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -998,7 +998,7 @@ Escape—2RR, Exile eight other cards from your graveyard. (You may cast this ca
     </card>
     <card>
       <name>House Negotiations</name>
-      <set rarity="rare">HOD</set>
+      <set num="187" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1019,7 +1019,7 @@ Enchanted creature has “Whenever this creature deals combat damage to a player
     </card>
     <card>
       <name>Quirky Chameleon</name>
-      <set rarity="rare">HOD</set>
+      <set num="194" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1041,7 +1041,7 @@ Enchanted creature has “Whenever this creature deals combat damage to a player
     </card>
     <card>
       <name>Ranulf, the Seed of Sapner</name>
-      <set rarity="rare">HOD</set>
+      <set num="195" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1064,7 +1064,7 @@ Landfall — Whenever a land you control enters, return target card from your gr
     </card>
     <card>
       <name>Geistwald Amalgam</name>
-      <set rarity="rare">HOD</set>
+      <set num="184" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1086,7 +1086,7 @@ Escape—4G, Exile X other cards from your graveyard. X can’t be 0. (You may c
     </card>
     <card>
       <name>Geistwald Abomination</name>
-      <set rarity="rare">HOD</set>
+      <set num="183" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1108,7 +1108,7 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
     </card>
     <card>
       <name>Choice of Salvations</name>
-      <set rarity="rare">HOD</set>
+      <set num="175" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1128,7 +1128,7 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
     </card>
     <card>
       <name>Chorus of the Silberwald</name>
-      <set rarity="rare">HOD</set>
+      <set num="176" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1150,7 +1150,7 @@ Whenever Chorus of the Silberwald deals combat damage to a player or planeswalke
     </card>
     <card>
       <name>Blight-Tipped Hunter</name>
-      <set rarity="rare">HOD</set>
+      <set num="170" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1172,7 +1172,7 @@ Whenever Blight-Tipped Hunter deals damage to a player, that player gets that ma
     </card>
     <card>
       <name>Sapner Trapper</name>
-      <set rarity="mythic">HOD</set>
+      <set num="202" rarity="mythic">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1195,7 +1195,7 @@ Other permanents you control have bloom.</text>
     </card>
     <card>
       <name>One with the Geistwald</name>
-      <set rarity="mythic">HOD</set>
+      <set num="192" rarity="mythic">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1217,7 +1217,7 @@ Whenever enchanted player spends their sixteenth total mana during a turn, creat
     </card>
     <card>
       <name>Oriel Rivers, Wings of Worth</name>
-      <set rarity="rare">HOD</set>
+      <set num="210" rarity="rare">HOD</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -1241,7 +1241,7 @@ At the beginning of each end step, draw a card if two or more creatures died und
     </card>
     <card>
       <name>Elias Plaskett, Hidden Blade</name>
-      <set rarity="rare">HOD</set>
+      <set num="212" rarity="rare">HOD</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -1264,7 +1264,7 @@ If a creature would enter under an opponent’s control and wasn’t cast from t
     </card>
     <card>
       <name>Wulfric Hook, Lord of Ends</name>
-      <set rarity="rare">HOD</set>
+      <set num="217" rarity="rare">HOD</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -1291,7 +1291,7 @@ If a creature would enter under an opponent’s control and wasn’t cast from t
     </card>
     <card>
       <name>The Empty Throne of Phyre</name>
-      <set rarity="rare">HOD</set>
+      <set num="219" rarity="rare">HOD</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -1312,7 +1312,7 @@ Whenever a creature you control enters, if you didn’t cast it and it wasn’t 
     </card>
     <card>
       <name>Capac Suyay, Grim Seeker</name>
-      <set rarity="mythic">HOD</set>
+      <set num="223" rarity="mythic">HOD</set>
       <prop>
         <colors>WG</colors>
         <manacost>1GW</manacost>
@@ -1336,7 +1336,7 @@ Whenever a creature you control enters, if you didn’t cast it and it wasn’t 
     </card>
     <card>
       <name>Roul Banefort, the Stern</name>
-      <set rarity="rare">HOD</set>
+      <set num="224" rarity="rare">HOD</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -1359,7 +1359,7 @@ Whenever you attack with three or more other Knights, you may return target card
     </card>
     <card>
       <name>Conrad Whitaker, Protector</name>
-      <set rarity="rare">HOD</set>
+      <set num="226" rarity="rare">HOD</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -1382,7 +1382,7 @@ Whenever you cast a spell that targets another creature you control, create a to
     </card>
     <card>
       <name>Minna Radcliff, the Swift</name>
-      <set rarity="rare">HOD</set>
+      <set num="229" rarity="rare">HOD</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -1405,7 +1405,7 @@ Whenever Minna Radcliff enters, if you cast her, exile X cards of your library, 
     </card>
     <card>
       <name>Gosfridus Turnberry</name>
-      <set rarity="rare">HOD</set>
+      <set num="233" rarity="rare">HOD</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -1428,7 +1428,7 @@ Whenever Gosfridus Turnberry enters or you attack with one or more nontoken crea
     </card>
     <card>
       <name>Alger Perle, Lord of Truetower</name>
-      <set rarity="rare">HOD</set>
+      <set num="235" rarity="rare">HOD</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -1451,7 +1451,7 @@ Other legendary creatures you control get +1/+0.
     </card>
     <card>
       <name>Dovizia Attwater, the Learned</name>
-      <set rarity="rare">HOD</set>
+      <set num="239" rarity="rare">HOD</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -1473,7 +1473,7 @@ Whenever a creature you control enters, it gets +2/+2 until end of turn.</text>
     </card>
     <card>
       <name>Daring General</name>
-      <set rarity="rare">HOD</set>
+      <set num="249" rarity="rare">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -1497,7 +1497,7 @@ Escape—RGW, Exile four other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>In Defiance</name>
-      <set rarity="rare">HOD</set>
+      <set num="261" rarity="rare">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -1519,7 +1519,7 @@ Whenever a creature you control dies, draw a card, then discard a card.</text>
     </card>
     <card>
       <name>Inspiring Castellan</name>
-      <set rarity="rare">HOD</set>
+      <set num="262" rarity="rare">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -1542,7 +1542,7 @@ At the beginning of your upkeep, you may forsake. If you do, reveal the top card
     </card>
     <card>
       <name>Edict of the Mirrorkin</name>
-      <set rarity="rare">HOD</set>
+      <set num="254" rarity="rare">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -1566,7 +1566,7 @@ Draw a card for each creature that died under your control this turn.</text>
     </card>
     <card>
       <name>Bamboozle</name>
-      <set rarity="rare">HOD</set>
+      <set num="242" rarity="rare">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -1588,7 +1588,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Whisperer of Armies</name>
-      <set rarity="rare">HOD</set>
+      <set num="280" rarity="rare">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -1611,7 +1611,7 @@ Whenever you attack, Armies you control gain trample until end of turn if their 
     </card>
     <card>
       <name>Weight of War</name>
-      <set rarity="rare">HOD</set>
+      <set num="279" rarity="rare">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -1633,7 +1633,7 @@ Enchanted player can’t gain life, spells they cast cost {2} more to cast, and 
     </card>
     <card>
       <name>Scars of Wars Past</name>
-      <set rarity="rare">HOD</set>
+      <set num="271" rarity="rare">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -1654,7 +1654,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Succession Scandal</name>
-      <set rarity="rare">HOD</set>
+      <set num="276" rarity="rare">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -1675,7 +1675,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Castle Delta Agitator</name>
-      <set rarity="rare">HOD</set>
+      <set num="245" rarity="rare">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -1698,7 +1698,7 @@ Whenever Castle Delta Agitator deals combat damage to a player or planeswalker, 
     </card>
     <card>
       <name>Cherrywood Elite</name>
-      <set rarity="rare">HOD</set>
+      <set num="246" rarity="rare">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -1721,7 +1721,7 @@ At the beginning of each end step, you may discard a card. If you do, return Che
     </card>
     <card>
       <name>Stoic at Graven Laughs</name>
-      <set rarity="rare">HOD</set>
+      <set num="275" rarity="rare">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -1746,7 +1746,7 @@ Whenever Stoic at Graven Laughs enters, attacks, or an opponent discards one or 
     </card>
     <card>
       <name>The Crown of Skyspire</name>
-      <set rarity="rare">HOD</set>
+      <set num="248" rarity="rare">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -1769,7 +1769,7 @@ Equip {4}</text>
     </card>
     <card>
       <name>Nye Scoundrel</name>
-      <set rarity="rare">HOD</set>
+      <set num="265" rarity="rare">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -1792,7 +1792,7 @@ Whenever a creature you control becomes blocked, you may exile it. If you do, re
     </card>
     <card>
       <name>Decisive Judgment</name>
-      <set rarity="rare">HOD</set>
+      <set num="250" rarity="rare">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -1813,7 +1813,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Bennet Terrel, the High King</name>
-      <set rarity="mythic">HOD</set>
+      <set num="243" rarity="mythic">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -1835,7 +1835,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Bistra Sapner, the Flourishing</name>
-      <set rarity="mythic">HOD</set>
+      <set num="244" rarity="mythic">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -1857,7 +1857,7 @@ You have bloom. (Whenever you cast a spell that targets yourself, you may pay th
     </card>
     <card>
       <name>Delora Vance, Lord of Laughs</name>
-      <set rarity="mythic">HOD</set>
+      <set num="251" rarity="mythic">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -1880,7 +1880,7 @@ At the beginning of each end step, if you lost 4 or more life this turn, create 
     </card>
     <card>
       <name>Edith Rey, the Just</name>
-      <set rarity="mythic">HOD</set>
+      <set num="255" rarity="mythic">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -1902,7 +1902,7 @@ Edith Rey escapes with a flying counter on her if a creature exiled with her esc
     </card>
     <card>
       <name>Elric Nye, the Pirate King</name>
-      <set rarity="mythic">HOD</set>
+      <set num="256" rarity="mythic">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -1925,7 +1925,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>Castle on the Delta</name>
-      <set rarity="rare">HOD</set>
+      <set num="291" rarity="rare">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1946,7 +1946,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>Skyspire Keep</name>
-      <set rarity="rare">HOD</set>
+      <set num="299" rarity="rare">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1968,7 +1968,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>King&apos;s Rock Castle</name>
-      <set rarity="rare">HOD</set>
+      <set num="297" rarity="rare">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -1989,7 +1989,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>Hall of Graven Laughs</name>
-      <set rarity="rare">HOD</set>
+      <set num="295" rarity="rare">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2010,7 +2010,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>Fort Sapner</name>
-      <set rarity="rare">HOD</set>
+      <set num="294" rarity="rare">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2031,7 +2031,7 @@ Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’
     </card>
     <card>
       <name>Slabman Stoneplate</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="286" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2052,7 +2052,7 @@ Equip creature {3}</text>
     </card>
     <card>
       <name>Clearing in the Glade</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="292" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2073,7 +2073,7 @@ Equip creature {3}</text>
     </card>
     <card>
       <name>Important Parcel</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="284" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2093,7 +2093,7 @@ Equip creature {3}</text>
     </card>
     <card>
       <name>Overflowing Sanctuary</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="298" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2114,7 +2114,7 @@ Equip creature {3}</text>
     </card>
     <card>
       <name>Extravagent Airship</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="282" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2135,7 +2135,7 @@ At the beginning of combat on your turn, you may return a creature you control t
     </card>
     <card>
       <name>Travelcart&apos;s Care</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="38" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2155,7 +2155,7 @@ At the beginning of combat on your turn, you may return a creature you control t
     </card>
     <card>
       <name>Whitaker Elite</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="41" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2177,7 +2177,7 @@ Whenever another Knight you control enters, put a +1/+1 counter on target creatu
     </card>
     <card>
       <name>Switching Shifts</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="35" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2198,7 +2198,7 @@ Escape—2W, Exile four other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Terrel Battlemage</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="36" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2220,7 +2220,7 @@ Escape—2W, Exile four other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Imani Whitaker</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="15" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2244,7 +2244,7 @@ Escape—2W, Exile four other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Noble Griffin</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="25" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2267,7 +2267,7 @@ Whenever an opponent casts a spell, if the amount of mana spent to cast it was l
     </card>
     <card>
       <name>Paragon of Stories</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="28" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2290,7 +2290,7 @@ At the beginning of combat on your turn, you may forsake. If you do, put a +1/+1
     </card>
     <card>
       <name>Wystan Terrel, the Occultist</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="42" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2314,7 +2314,7 @@ Sacrifice a creature: Wystan Terrel gains indestructible until end of turn.</tex
     </card>
     <card>
       <name>Heart of Banefort</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="12" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2336,7 +2336,7 @@ Whenever you cast or copy a noncreature spell, create a 1/1 blue Scout creature 
     </card>
     <card>
       <name>Trust in the Future</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="40" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2358,7 +2358,7 @@ Escape—2W, Exile three other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>Left to Wander</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="20" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2378,7 +2378,7 @@ Escape—2W, Exile three other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>In Hopeful Caress</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="17" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2398,7 +2398,7 @@ When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an o
     </card>
     <card>
       <name>Lost at Sea</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="63" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2418,7 +2418,7 @@ When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an o
     </card>
     <card>
       <name>Nye Battlemage</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="70" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2440,7 +2440,7 @@ When In Hopeful Caress enters, exile target nonland, nonlegendary permanent an o
     </card>
     <card>
       <name>Many-faced Blade</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="65" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2462,7 +2462,7 @@ When Many-faced Blade dies, draw a card.</text>
     </card>
     <card>
       <name>Flittering Distraction</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="54" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2485,7 +2485,7 @@ Whenever you cast a spell, if the amount of mana spent to cast it was less than 
     </card>
     <card>
       <name>Pilferer of Shrouded Coasts</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="72" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2507,7 +2507,7 @@ Whenever Pilferer of Shrouded Coasts deals combat damage to a player or planeswa
     </card>
     <card>
       <name>Attwater Drakerider</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="44" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2529,7 +2529,7 @@ Whenever one or more creatures you control deal combat damage to an opponent or 
     </card>
     <card>
       <name>Disappointing Show</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="50" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2550,7 +2550,7 @@ Whenever one or more creatures you control deal combat damage to an opponent or 
     </card>
     <card>
       <name>Town Busybody</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="81" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2573,7 +2573,7 @@ When Town Busybody enters, tap target creature.</text>
     </card>
     <card>
       <name>Lodema, Diamond of the Nye</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="62" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2597,7 +2597,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
     </card>
     <card>
       <name>Grasp of the Mirrorkin</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="57" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2617,7 +2617,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
     </card>
     <card>
       <name>Beginning of a Grand Heist</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="46" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2638,7 +2638,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
     </card>
     <card>
       <name>Grand Snail Race at Riverdale</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="56" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2659,7 +2659,7 @@ Whenever one or more creatures you control deal combat damage to a player, put t
     </card>
     <card>
       <name>Vance Soulsapper</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="121" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2682,7 +2682,7 @@ Whenever another creature you control dies, Vance Soulsapper deals 1 damage to t
     </card>
     <card>
       <name>Vance Battlemage</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="118" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2704,7 +2704,7 @@ Whenever another creature you control dies, Vance Soulsapper deals 1 damage to t
     </card>
     <card>
       <name>Voyage to the End of the World</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="123" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2724,7 +2724,7 @@ Whenever another creature you control dies, Vance Soulsapper deals 1 damage to t
     </card>
     <card>
       <name>Massacre at King&apos;s Rock</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="98" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2745,7 +2745,7 @@ Whenever another creature you control dies, Vance Soulsapper deals 1 damage to t
     </card>
     <card>
       <name>Reaper of Graven Laughs</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="106" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2767,7 +2767,7 @@ When Reaper of Graven Laughs enters, create a 1/1 blue Scout token in your reser
     </card>
     <card>
       <name>Fueled by Vengeance</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="96" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2788,7 +2788,7 @@ Enchanted creature gets +2/+0 and has “Whenever this creature dies, create a t
     </card>
     <card>
       <name>On the Knife&apos;s Edge</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="100" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2808,7 +2808,7 @@ Enchanted creature gets +2/+0 and has “Whenever this creature dies, create a t
     </card>
     <card>
       <name>Whitaker Devoted</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="126" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2830,7 +2830,7 @@ Lifelink</text>
     </card>
     <card>
       <name>Plaskett Barber</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="103" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2854,7 +2854,7 @@ When Plaskett Barber enters, choose one —
     </card>
     <card>
       <name>Tacit Scorpion</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="112" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2877,7 +2877,7 @@ When Tacit Scorpion dies, it deals 2 damage to each opponent and you gain 2 life
     </card>
     <card>
       <name>Alder, Vance&apos;s Claw</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="85" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2901,7 +2901,7 @@ Token creatures you control have sycophant. (Whenever this creature deals damage
     </card>
     <card>
       <name>Binding Lightning</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="132" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2923,7 +2923,7 @@ Escape—2R, Exile three other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>Torch</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="162" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2944,7 +2944,7 @@ Torch deals 4 damage to target creature or planeswalker.  If a permanent dealt d
     </card>
     <card>
       <name>William Rey, Lover to All</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="166" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2966,7 +2966,7 @@ Whenever William Rey attacks, you may mill three cards. You may play one card mi
     </card>
     <card>
       <name>All-Out Charge</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="127" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2986,7 +2986,7 @@ Whenever William Rey attacks, you may mill three cards. You may play one card mi
     </card>
     <card>
       <name>Drenched Euphoria</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="140" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3008,7 +3008,7 @@ Escape—1R, Exile two other cards from your graveyard.  (You may cast this card
     </card>
     <card>
       <name>Death&apos;s Sting Captain </name>
-      <set rarity="uncommon">HOD</set>
+      <set num="138" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3029,7 +3029,7 @@ Escape—1R, Exile two other cards from your graveyard.  (You may cast this card
     </card>
     <card>
       <name>Rey Battlemages</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="155" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3051,7 +3051,7 @@ Escape—1R, Exile two other cards from your graveyard.  (You may cast this card
     </card>
     <card>
       <name>Seeker of Blood</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="157" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3074,7 +3074,7 @@ Whenever you cast a noncreature spell, untap Seeker of Blood.</text>
     </card>
     <card>
       <name>Radcliff Electromancer</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="153" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3097,7 +3097,7 @@ At the beginning of your end step, you may forsake. If you do, Radcliff Electrom
     </card>
     <card>
       <name>Catastrophic Dragon</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="137" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3120,7 +3120,7 @@ Whenever Catastrophic Dragon attacks, you may sacrifice a permanent. If you do, 
     </card>
     <card>
       <name>Raving Bomber</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="154" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3143,7 +3143,7 @@ Whenever you sacrifice a permanent, target creature can’t block this turn.</te
     </card>
     <card>
       <name>Beacon of Greatness</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="130" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3166,7 +3166,7 @@ Whenever you sacrifice a permanent, target creature can’t block this turn.</te
     </card>
     <card>
       <name>Turnberry Mediator</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="207" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3188,7 +3188,7 @@ Escape—3G, Exile seven other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>The Call to Adventure</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="172" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3209,7 +3209,7 @@ Whenever The Call to Adventure enters during combat or a creature you control de
     </card>
     <card>
       <name>Foliage Decoy</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="180" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3229,7 +3229,7 @@ Whenever The Call to Adventure enters during combat or a creature you control de
     </card>
     <card>
       <name>Encroach Upon </name>
-      <set rarity="uncommon">HOD</set>
+      <set num="178" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3249,7 +3249,7 @@ Whenever The Call to Adventure enters during combat or a creature you control de
     </card>
     <card>
       <name>Hunter&apos;s Expertise</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="188" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3271,7 +3271,7 @@ Escape—2G, Exile three other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>Attwater Elite</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="169" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3293,7 +3293,7 @@ At the beginning of your end step, if you attacked this turn, put a +1/+1 counte
     </card>
     <card>
       <name>Sapner Battlemage</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="200" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3315,7 +3315,7 @@ At the beginning of your end step, if you attacked this turn, put a +1/+1 counte
     </card>
     <card>
       <name>Rey Hospitality </name>
-      <set rarity="uncommon">HOD</set>
+      <set num="198" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3335,7 +3335,7 @@ At the beginning of your end step, if you attacked this turn, put a +1/+1 counte
     </card>
     <card>
       <name>Fulchard Sapner, Gentle Giant</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="182" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3354,12 +3354,12 @@ At the beginning of your end step, if you attacked this turn, put a +1/+1 counte
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you cast or copy a noncreature spell, creatures you control get +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Turnberry Overseer</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="208" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3381,7 +3381,7 @@ When Turnberry Overseer enters, choose a name. Create a legendary 3/3 Knight cre
     </card>
     <card>
       <name>Silberwald Trailblazer</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="205" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3403,7 +3403,7 @@ Whenever Silberwald Trailblazer deals combat damage to a player or planeswalker,
     </card>
     <card>
       <name>Robust Oxen</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="199" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3426,7 +3426,7 @@ When Robust Oxen dies, distribute its counters among any number of creatures you
     </card>
     <card>
       <name>Gathering of Lost Souls</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="209" rarity="uncommon">HOD</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -3447,7 +3447,7 @@ Flashback—WU, Forsake (You may cast this card from your graveyard for its flas
     </card>
     <card>
       <name>Travelcart Guardian</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="211" rarity="uncommon">HOD</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -3468,7 +3468,7 @@ Flashback—WU, Forsake (You may cast this card from your graveyard for its flas
     </card>
     <card>
       <name>Vindictive Spiral</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="214" rarity="uncommon">HOD</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -3491,7 +3491,7 @@ Flashback—WU, Forsake (You may cast this card from your graveyard for its flas
     </card>
     <card>
       <name>Guide of Neglected Hopes</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="213" rarity="uncommon">HOD</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -3513,7 +3513,7 @@ When Guide of Neglected Hopes enters, return target instant, sorcery, or creatur
     </card>
     <card>
       <name>Hook Ironmantle</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="216" rarity="uncommon">HOD</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3535,7 +3535,7 @@ Whenever you cast a spell with mana value 5 or greater, each opponent discards a
     </card>
     <card>
       <name>Artillery Shot</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="215" rarity="uncommon">HOD</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3556,7 +3556,7 @@ Reveal the top card of your library until you reveal a nonland card with mana va
     </card>
     <card>
       <name>Break Out</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="218" rarity="uncommon">HOD</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -3576,7 +3576,7 @@ Reveal the top card of your library until you reveal a nonland card with mana va
     </card>
     <card>
       <name>Phyre Armiger</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="221" rarity="uncommon">HOD</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -3598,7 +3598,7 @@ Whenever a creature you control enters, if you didn’t cast it from your hand, 
     </card>
     <card>
       <name>Bistra&apos;s Commander</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="222" rarity="uncommon">HOD</set>
       <prop>
         <colors>WUBRG</colors>
         <color>WUBRG</color>
@@ -3622,7 +3622,7 @@ Other Knights you control get +1/+1.</text>
     </card>
     <card>
       <name>Standing Army</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="225" rarity="uncommon">HOD</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -3643,7 +3643,7 @@ Exile three tokens from your reserves: Choose a name. Create a legendary 3/3 Kni
     </card>
     <card>
       <name>Whitaker Cavalry</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="228" rarity="uncommon">HOD</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -3664,7 +3664,7 @@ Exile three tokens from your reserves: Choose a name. Create a legendary 3/3 Kni
     </card>
     <card>
       <name>Proof of Divinity</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="227" rarity="uncommon">HOD</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -3688,7 +3688,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Radcliff Dragoncaller</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="231" rarity="uncommon">HOD</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -3710,7 +3710,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Naval Artillery</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="230" rarity="uncommon">HOD</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -3732,7 +3732,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Dirt to Flesh</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="232" rarity="uncommon">HOD</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3752,7 +3752,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Restorative Hexer</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="234" rarity="uncommon">HOD</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3775,7 +3775,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Kirsa, the Sword of Perle</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="236" rarity="uncommon">HOD</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -3797,7 +3797,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each noncreat
     </card>
     <card>
       <name>Renodet, the Shield of Perle</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="237" rarity="uncommon">HOD</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -3820,7 +3820,7 @@ Whenever one or more legendary creatures you control attacks, exile the top card
     </card>
     <card>
       <name>Hillcrest Vanguard</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="240" rarity="uncommon">HOD</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -3842,7 +3842,7 @@ If a creature entering the battlefield or dealing combat damage to an opponent c
     </card>
     <card>
       <name>Attwater Warsworn</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="238" rarity="uncommon">HOD</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -3863,7 +3863,7 @@ If a creature entering the battlefield or dealing combat damage to an opponent c
     </card>
     <card>
       <name>Cherrywood Groundskeeper</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="247" rarity="uncommon">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -3886,7 +3886,7 @@ Creatures you control have “{T}: Add one mana of any color. You can’t spend 
     </card>
     <card>
       <name>Sapner Decree</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="270" rarity="uncommon">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -3910,7 +3910,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Terrel Decree</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="277" rarity="uncommon">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -3934,7 +3934,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Vance Decree</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="278" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -3958,7 +3958,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Rey Decree</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="268" rarity="uncommon">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -3982,7 +3982,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Respected Captain</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="267" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4005,7 +4005,7 @@ Whenever Respected Captain attacks, create two 1/1 blue Scout creature tokens th
     </card>
     <card>
       <name>Oaksworn Phantom</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="266" rarity="uncommon">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -4029,7 +4029,7 @@ Escape—1RGW, Exile four other cards from your graveyard. (You may cast this ca
     </card>
     <card>
       <name>Glory on Bloodied Wings</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="259" rarity="uncommon">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -4052,7 +4052,7 @@ At the beginning of each end step, create a 1/1 blue Scout creature token if you
     </card>
     <card>
       <name>Secluded Arachnomorph</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="273" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -4075,7 +4075,7 @@ When Secluded Arachnomorph enters, Secluded Arachnomorph deals 3 damage to targe
     </card>
     <card>
       <name>Explore the Great Unknown</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="257" rarity="uncommon">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -4096,7 +4096,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Faceless Mirrorkin</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="258" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4119,7 +4119,7 @@ You may have Faceless Mirrorkin enter as a copy of any creature on the battlefie
     </card>
     <card>
       <name>Azra Seasonkeeper</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="241" rarity="uncommon">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -4142,7 +4142,7 @@ Whenever you cast or copy a noncreature spell, target creature you control gets 
     </card>
     <card>
       <name>Sacred Avenger</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="269" rarity="uncommon">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -4165,7 +4165,7 @@ Equip—Forsake. (Sacrifice creatures with total toughness three or more.)</text
     </card>
     <card>
       <name>Nye Decree</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="264" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4189,7 +4189,7 @@ Tricolor</notes>
     </card>
     <card>
       <name>Disciple of Entwined Souls</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="252" rarity="uncommon">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -4212,7 +4212,7 @@ Menace, double strike</text>
     </card>
     <card>
       <name>Scorned Redeemer</name>
-      <set rarity="common">HOD</set>
+      <set num="272" rarity="common">HOD</set>
       <prop>
         <colors>WRG</colors>
         <color>WRG</color>
@@ -4235,7 +4235,7 @@ Mountaincycling {2}, Forestcycling {2}, Plainscycling {2} ({2}, Discard this car
     </card>
     <card>
       <name>Dreamstalker</name>
-      <set rarity="common">HOD</set>
+      <set num="253" rarity="common">HOD</set>
       <prop>
         <colors>UBR</colors>
         <color>UBR</color>
@@ -4257,7 +4257,7 @@ Islandcycling {2}, Swampcycling {2}, Mountaincycling {2} ({2}, Discard this card
     </card>
     <card>
       <name>Skulking Smuggler</name>
-      <set rarity="common">HOD</set>
+      <set num="274" rarity="common">HOD</set>
       <prop>
         <colors>UBG</colors>
         <color>UBG</color>
@@ -4279,7 +4279,7 @@ Swampcycling {2}, Forestcycling {2}, Islandcycling {2} ({2}, Discard this card: 
     </card>
     <card>
       <name>Meeting of Powers</name>
-      <set rarity="common">HOD</set>
+      <set num="263" rarity="common">HOD</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -4300,7 +4300,7 @@ Plainscycling {2}, Swampcycling {2}, Forestcycling {2} ({2}, Discard this card: 
     </card>
     <card>
       <name>Highborn Sovereign</name>
-      <set rarity="common">HOD</set>
+      <set num="260" rarity="common">HOD</set>
       <prop>
         <colors>WUR</colors>
         <color>WUR</color>
@@ -4322,7 +4322,7 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
     </card>
     <card>
       <name>Crossroads of Identity</name>
-      <set rarity="common">HOD</set>
+      <set num="293" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4341,7 +4341,7 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
     </card>
     <card>
       <name>Whitaker Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="329" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4364,7 +4364,7 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
     </card>
     <card>
       <name>Ardleby Hold</name>
-      <set rarity="">HOD</set>
+      <set num="330" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4385,7 +4385,7 @@ House Phyre</notes>
     </card>
     <card>
       <name>Beachside Castle</name>
-      <set rarity="">HOD</set>
+      <set num="331" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4407,7 +4407,7 @@ House Radcliff</notes>
     </card>
     <card>
       <name>Castle of Death&apos;s Sting</name>
-      <set rarity="">HOD</set>
+      <set num="332" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4429,7 +4429,7 @@ House Hook</notes>
     </card>
     <card>
       <name>Castle of Shrouded Coasts</name>
-      <set rarity="">HOD</set>
+      <set num="333" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4451,7 +4451,7 @@ House Plaskett</notes>
     </card>
     <card>
       <name>Cloudkissed Keep</name>
-      <set rarity="">HOD</set>
+      <set num="334" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4473,7 +4473,7 @@ House Banefort</notes>
     </card>
     <card>
       <name>Hall of Flowing Streams</name>
-      <set rarity="">HOD</set>
+      <set num="335" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4494,7 +4494,7 @@ House Attwater</notes>
     </card>
     <card>
       <name>Riverdale Fortress</name>
-      <set rarity="">HOD</set>
+      <set num="336" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4516,7 +4516,7 @@ House Rivers</notes>
     </card>
     <card>
       <name>Sandrock Castle</name>
-      <set rarity="">HOD</set>
+      <set num="337" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4538,7 +4538,7 @@ House Whitaker</notes>
     </card>
     <card>
       <name>Truetower Castle</name>
-      <set rarity="">HOD</set>
+      <set num="338" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4559,7 +4559,7 @@ House Perle</notes>
     </card>
     <card>
       <name>Turnberry Citadel</name>
-      <set rarity="">HOD</set>
+      <set num="339" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4581,7 +4581,7 @@ House Turnberry
     </card>
     <card>
       <name>Dreadship Vessel</name>
-      <set rarity="common">HOD</set>
+      <set num="281" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4602,7 +4602,7 @@ Exile two cards from your graveyard: Dreadship Vessel becomes an artifact creatu
     </card>
     <card>
       <name>Hulking Vessel</name>
-      <set rarity="common">HOD</set>
+      <set num="283" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4623,7 +4623,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Writ of Supplies</name>
-      <set rarity="common">HOD</set>
+      <set num="290" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4643,7 +4643,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>War Map</name>
-      <set rarity="common">HOD</set>
+      <set num="288" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4663,7 +4663,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Wealthy Slabman</name>
-      <set rarity="common">HOD</set>
+      <set num="289" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4684,7 +4684,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Terrel Recruit</name>
-      <set rarity="common">HOD</set>
+      <set num="37" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4705,7 +4705,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
     </card>
     <card>
       <name>Blade of Riverdale</name>
-      <set rarity="common">HOD</set>
+      <set num="47" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4727,7 +4727,7 @@ Flying</text>
     </card>
     <card>
       <name>Hardy Bear</name>
-      <set rarity="common">HOD</set>
+      <set num="146" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4749,7 +4749,7 @@ Flying</text>
     </card>
     <card>
       <name>Resolute Elk</name>
-      <set rarity="common">HOD</set>
+      <set num="197" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4771,7 +4771,7 @@ Flying</text>
     </card>
     <card>
       <name>Glimpse</name>
-      <set rarity="common">HOD</set>
+      <set num="11" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4790,7 +4790,7 @@ Flying</text>
     </card>
     <card>
       <name>Royal Send-Off</name>
-      <set rarity="common">HOD</set>
+      <set num="75" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4814,7 +4814,7 @@ Surveil 2, then draw three cards.</text>
     </card>
     <card>
       <name>Blessing at Graven Laughs</name>
-      <set rarity="common">HOD</set>
+      <set num="86" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4838,7 +4838,7 @@ Surveil 2, then draw three cards.</text>
     </card>
     <card>
       <name>Beguiling Soulmage</name>
-      <set rarity="common">HOD</set>
+      <set num="131" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4860,7 +4860,7 @@ Menace</text>
     </card>
     <card>
       <name>Guerrilla Ambush</name>
-      <set rarity="common">HOD</set>
+      <set num="186" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4882,7 +4882,7 @@ Menace</text>
     </card>
     <card>
       <name>Manacles of Stilled Fury</name>
-      <set rarity="common">HOD</set>
+      <set num="23" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4904,7 +4904,7 @@ Enchanted creature can’t attack or block.
     </card>
     <card>
       <name>Dealings at the Delta</name>
-      <set rarity="common">HOD</set>
+      <set num="49" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4927,7 +4927,7 @@ Enchanted creature can’t attack or block.
     </card>
     <card>
       <name>Duplicitous Crow</name>
-      <set rarity="common">HOD</set>
+      <set num="94" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4950,7 +4950,7 @@ Sycophant (Whenever this creature deals damage to a player or planeswalker, the 
     </card>
     <card>
       <name>Bounty Setter</name>
-      <set rarity="common">HOD</set>
+      <set num="134" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4971,7 +4971,7 @@ Sycophant (Whenever this creature deals damage to a player or planeswalker, the 
     </card>
     <card>
       <name>Bout on the Deck</name>
-      <set rarity="common">HOD</set>
+      <set num="171" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4991,7 +4991,7 @@ Sycophant (Whenever this creature deals damage to a player or planeswalker, the 
     </card>
     <card>
       <name>Give Penance</name>
-      <set rarity="common">HOD</set>
+      <set num="10" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5013,7 +5013,7 @@ Exile target nonland permanent.</text>
     </card>
     <card>
       <name>Lucky Break</name>
-      <set rarity="common">HOD</set>
+      <set num="64" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5033,7 +5033,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Debt Collection</name>
-      <set rarity="common">HOD</set>
+      <set num="91" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5053,7 +5053,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Vance Devotee</name>
-      <set rarity="common">HOD</set>
+      <set num="165" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5074,7 +5074,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Cherrywood Purification</name>
-      <set rarity="common">HOD</set>
+      <set num="174" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5096,7 +5096,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Impaling Lance</name>
-      <set rarity="common">HOD</set>
+      <set num="16" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5119,7 +5119,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Show of Might</name>
-      <set rarity="common">HOD</set>
+      <set num="76" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5142,7 +5142,7 @@ Choose a name. Create a legendary 3/3 Knight creature token that’s all colors 
     </card>
     <card>
       <name>Pull unto Death</name>
-      <set rarity="common">HOD</set>
+      <set num="105" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5164,7 +5164,7 @@ Whenever enchanted creature dies, you gain 3 life.</text>
     </card>
     <card>
       <name>Teller of Infinite Tales</name>
-      <set rarity="common">HOD</set>
+      <set num="160" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5185,7 +5185,7 @@ Whenever enchanted creature dies, you gain 3 life.</text>
     </card>
     <card>
       <name>Master the Old Ways</name>
-      <set rarity="common">HOD</set>
+      <set num="191" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5207,7 +5207,7 @@ Escape—1G, Exile two other cards from your graveyard.  (You may cast this card
     </card>
     <card>
       <name>Call of the King</name>
-      <set rarity="common">HOD</set>
+      <set num="7" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5230,7 +5230,7 @@ Legendary creatures and Knights you control have vigilance.</text>
     </card>
     <card>
       <name>Naval Diplomacy</name>
-      <set rarity="common">HOD</set>
+      <set num="69" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5253,7 +5253,7 @@ Legendary creatures and Knights you control have vigilance.</text>
     </card>
     <card>
       <name>Sandrock Infantry</name>
-      <set rarity="common">HOD</set>
+      <set num="107" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5275,7 +5275,7 @@ Legendary creatures and Knights you control have vigilance.</text>
     </card>
     <card>
       <name>Summer Tryst</name>
-      <set rarity="common">HOD</set>
+      <set num="159" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5297,7 +5297,7 @@ Escape—1R, Discard a card, Exile three other cards from your graveyard. (You m
     </card>
     <card>
       <name>Fort Sapner Caretaker</name>
-      <set rarity="common">HOD</set>
+      <set num="181" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5319,7 +5319,7 @@ When Fort Sapner Caretaker enters, draw a card.</text>
     </card>
     <card>
       <name>Roul&apos;s High Guard</name>
-      <set rarity="common">HOD</set>
+      <set num="31" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5342,7 +5342,7 @@ Whenever you cast a noncreature spell, you gain 1 life.</text>
     </card>
     <card>
       <name>Kidnapping</name>
-      <set rarity="common">HOD</set>
+      <set num="60" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5363,7 +5363,7 @@ Enchanted creature loses all abilities and is a 1/1 green Peasant.</text>
     </card>
     <card>
       <name>Devious Cutthroat</name>
-      <set rarity="common">HOD</set>
+      <set num="92" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5385,7 +5385,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
     </card>
     <card>
       <name>Innocent Rendezvous</name>
-      <set rarity="common">HOD</set>
+      <set num="148" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5406,7 +5406,7 @@ Exile the top three cards of your library. You may play them until the end of yo
     </card>
     <card>
       <name>Instill with Integrity</name>
-      <set rarity="common">HOD</set>
+      <set num="189" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5426,7 +5426,7 @@ Exile the top three cards of your library. You may play them until the end of yo
     </card>
     <card>
       <name>Truetower Warden</name>
-      <set rarity="common">HOD</set>
+      <set num="39" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5448,7 +5448,7 @@ Vigilance, lifelink</text>
     </card>
     <card>
       <name>Tormentor of Tales</name>
-      <set rarity="common">HOD</set>
+      <set num="80" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5470,7 +5470,7 @@ When Tormentor of Tales enters, surveil 2.</text>
     </card>
     <card>
       <name>Warden of Fort Sapner</name>
-      <set rarity="common">HOD</set>
+      <set num="125" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5492,7 +5492,7 @@ Whenever you cast or copy a noncreature spell, put a +1/+1 counter on Warden of 
     </card>
     <card>
       <name>Truetower Lookout</name>
-      <set rarity="common">HOD</set>
+      <set num="163" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5514,7 +5514,7 @@ When Truetower Lookout enters, exile the top card of your library. You may play 
     </card>
     <card>
       <name>Silberwald Ranger</name>
-      <set rarity="common">HOD</set>
+      <set num="204" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5536,7 +5536,7 @@ Whenever one or more creatures you control enter, if they weren’t cast from yo
     </card>
     <card>
       <name>Banefort Skywarden</name>
-      <set rarity="common">HOD</set>
+      <set num="4" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5554,11 +5554,11 @@ Whenever one or more creatures you control enter, if they weren’t cast from yo
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
+Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
     </card>
     <card>
       <name>Vance Racketeers</name>
-      <set rarity="common">HOD</set>
+      <set num="83" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5580,7 +5580,7 @@ Vance Racketeers can’t be blocked.</text>
     </card>
     <card>
       <name>Turnberry Legionnaire</name>
-      <set rarity="common">HOD</set>
+      <set num="116" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5603,7 +5603,7 @@ Whenever you cast a spell with mana value 5 or greater, you may return Turnberry
     </card>
     <card>
       <name>Phyre Sellsword</name>
-      <set rarity="common">HOD</set>
+      <set num="152" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5625,7 +5625,7 @@ Whenever you cast a spell with mana value 5 or greater, Phyre Sellsword deals 2 
     </card>
     <card>
       <name>Flowing Streams Halberdier</name>
-      <set rarity="common">HOD</set>
+      <set num="179" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5647,7 +5647,7 @@ When Flowing Streams Halberdier enters, target creature gets +2/+0 and gains tra
     </card>
     <card>
       <name>Knight of Skyspire</name>
-      <set rarity="common">HOD</set>
+      <set num="19" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5669,7 +5669,7 @@ Escape—4W, Exile five other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Enduring Turtle</name>
-      <set rarity="common">HOD</set>
+      <set num="52" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5692,7 +5692,7 @@ Escape—4W, Exile five other cards from your graveyard. (You may cast this card
     </card>
     <card>
       <name>Sanguine Chalice</name>
-      <set rarity="common">HOD</set>
+      <set num="108" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5713,7 +5713,7 @@ At the beginning of your upkeep, Sanguine Chalice deals 1 damage to each opponen
     </card>
     <card>
       <name>Call of the Rose</name>
-      <set rarity="common">HOD</set>
+      <set num="135" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5734,7 +5734,7 @@ Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble cre
     </card>
     <card>
       <name>Qualified Windrigger</name>
-      <set rarity="common">HOD</set>
+      <set num="193" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5756,7 +5756,7 @@ Whenever Qualified Windrigger deals combat damage to a player, untap up to two l
     </card>
     <card>
       <name>Honored Eagle</name>
-      <set rarity="common">HOD</set>
+      <set num="13" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5779,7 +5779,7 @@ When Honored Eagle enters, create a 1/1 blue Scout creature token.</text>
     </card>
     <card>
       <name>Nye Recruit</name>
-      <set rarity="common">HOD</set>
+      <set num="71" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5800,7 +5800,7 @@ When Honored Eagle enters, create a 1/1 blue Scout creature token.</text>
     </card>
     <card>
       <name>Vance Recruit</name>
-      <set rarity="common">HOD</set>
+      <set num="120" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5822,7 +5822,7 @@ When Honored Eagle enters, create a 1/1 blue Scout creature token.</text>
     </card>
     <card>
       <name>Measured Strike</name>
-      <set rarity="common">HOD</set>
+      <set num="150" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5844,7 +5844,7 @@ Measured Strike deals 4 damage to any target.</text>
     </card>
     <card>
       <name>Geistwald Explorer</name>
-      <set rarity="common">HOD</set>
+      <set num="185" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5866,7 +5866,7 @@ Escape—5G, Exile four other cards from your graveyard.  (You may cast this car
     </card>
     <card>
       <name>Battle for the Aciesblade</name>
-      <set rarity="common">HOD</set>
+      <set num="5" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5890,7 +5890,7 @@ Escape—5G, Exile four other cards from your graveyard.  (You may cast this car
     </card>
     <card>
       <name>Thugs at the Shrouded Coast</name>
-      <set rarity="common">HOD</set>
+      <set num="79" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5911,7 +5911,7 @@ Escape—5G, Exile four other cards from your graveyard.  (You may cast this car
     </card>
     <card>
       <name>Terrifying Mongrel</name>
-      <set rarity="common">HOD</set>
+      <set num="114" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5933,7 +5933,7 @@ Whenever Terrifying Mongrel enters, if you attacked this turn, each opponent sac
     </card>
     <card>
       <name>Battle Scars</name>
-      <set rarity="common">HOD</set>
+      <set num="129" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5955,7 +5955,7 @@ Escape—2R, Exile two other cards from your graveyard. (You may cast this card 
     </card>
     <card>
       <name>Spellwild Ouphe</name>
-      <set rarity="common">HOD</set>
+      <set num="206" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5976,7 +5976,7 @@ Escape—2R, Exile two other cards from your graveyard. (You may cast this card 
     </card>
     <card>
       <name>Overcoming Squire</name>
-      <set rarity="common">HOD</set>
+      <set num="26" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5998,7 +5998,7 @@ Escape—3W, Exile three other cards from your graveyard. (You may cast this car
     </card>
     <card>
       <name>Castle Delta Lookout</name>
-      <set rarity="common">HOD</set>
+      <set num="48" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6020,7 +6020,7 @@ Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, d
     </card>
     <card>
       <name>Sever the Legacy</name>
-      <set rarity="common">HOD</set>
+      <set num="110" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6043,7 +6043,7 @@ Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, d
     </card>
     <card>
       <name>Gleaming Courage</name>
-      <set rarity="common">HOD</set>
+      <set num="145" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6063,7 +6063,7 @@ Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, d
     </card>
     <card>
       <name>Call to Strength</name>
-      <set rarity="common">HOD</set>
+      <set num="173" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6086,7 +6086,7 @@ Choose one —
     </card>
     <card>
       <name>Overzealous Page</name>
-      <set rarity="common">HOD</set>
+      <set num="27" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6111,7 +6111,7 @@ Choose one —
     </card>
     <card>
       <name>Vance Mentor</name>
-      <set rarity="common">HOD</set>
+      <set num="82" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6135,7 +6135,7 @@ Vigilance</text>
     </card>
     <card>
       <name>Slabman Muscle</name>
-      <set rarity="common">HOD</set>
+      <set num="111" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6157,7 +6157,7 @@ Flying</text>
     </card>
     <card>
       <name>Rey Recruit</name>
-      <set rarity="common">HOD</set>
+      <set num="156" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6179,7 +6179,7 @@ Flying</text>
     </card>
     <card>
       <name>Replenishing Camp</name>
-      <set rarity="common">HOD</set>
+      <set num="196" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6201,7 +6201,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Charitable Faerie</name>
-      <set rarity="common">HOD</set>
+      <set num="9" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6223,7 +6223,7 @@ When Charitable Faerie enters, surveil 2.</text>
     </card>
     <card>
       <name>Ardent Warsworn</name>
-      <set rarity="common">HOD</set>
+      <set num="43" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6245,7 +6245,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
     </card>
     <card>
       <name>Fleshborne Horror</name>
-      <set rarity="common">HOD</set>
+      <set num="95" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6267,7 +6267,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
     </card>
     <card>
       <name>Kirsa&apos;s Page</name>
-      <set rarity="common">HOD</set>
+      <set num="149" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6290,7 +6290,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
     </card>
     <card>
       <name>Sapner Recruit</name>
-      <set rarity="common">HOD</set>
+      <set num="201" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6312,7 +6312,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
     </card>
     <card>
       <name>Hopeful Spouse</name>
-      <set rarity="common">HOD</set>
+      <set num="14" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6332,7 +6332,7 @@ Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you ma
     </card>
     <card>
       <name>King&apos;s Rock Warden</name>
-      <set rarity="common">HOD</set>
+      <set num="61" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6354,7 +6354,7 @@ Sacrifice a token: Surveil 2.</text>
     </card>
     <card>
       <name>Catharsis of Grief</name>
-      <set rarity="common">HOD</set>
+      <set num="88" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6376,7 +6376,7 @@ Draw two cards.</text>
     </card>
     <card>
       <name>Expendable Army</name>
-      <set rarity="common">HOD</set>
+      <set num="141" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6398,7 +6398,7 @@ At the beginning of your end step, create a 1/1 blue Scout creature token in you
     </card>
     <card>
       <name>Cloudkissed Tracker</name>
-      <set rarity="common">HOD</set>
+      <set num="177" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6420,7 +6420,7 @@ Ward {2}</text>
     </card>
     <card>
       <name>Brotherly Comradery</name>
-      <set rarity="common">HOD</set>
+      <set num="6" rarity="common">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6441,7 +6441,7 @@ When Brotherly Comradery enters or enchanted creature attacks, create a 1/1 blue
     </card>
     <card>
       <name>Monarch-Wing Retainer</name>
-      <set rarity="common">HOD</set>
+      <set num="68" rarity="common">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6464,7 +6464,7 @@ Whenever Monarch-Wing Retainer enters, tap target permanent and put a stun count
     </card>
     <card>
       <name>Overt Warning</name>
-      <set rarity="common">HOD</set>
+      <set num="101" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6485,7 +6485,7 @@ If you attacked this turn, instead that player reveals their hand. You choose a 
     </card>
     <card>
       <name>Death&apos;s Sting Diplomacy</name>
-      <set rarity="common">HOD</set>
+      <set num="139" rarity="common">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6505,7 +6505,7 @@ If you attacked this turn, instead that player reveals their hand. You choose a 
     </card>
     <card>
       <name>Aggressive Urge</name>
-      <set rarity="common">HOD</set>
+      <set num="168" rarity="common">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6526,7 +6526,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Dishonorable End</name>
-      <set rarity="common">HOD</set>
+      <set num="93" rarity="common">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6546,7 +6546,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Deadly Interrogation</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="90" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6565,7 +6565,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Refuse to Yield</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="29" rarity="uncommon">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6587,7 +6587,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Everturning Crane</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="53" rarity="uncommon">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6610,7 +6610,7 @@ When Everturning Crane enters, tap up to three target nonland permanents. Put a 
     </card>
     <card>
       <name>Mockery of Innocence</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="99" rarity="uncommon">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6633,7 +6633,7 @@ When Mockery of Innocence enters, you may destroy target creature. You gain life
     </card>
     <card>
       <name>Perle Retainer</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="151" rarity="uncommon">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6654,7 +6654,7 @@ When Mockery of Innocence enters, you may destroy target creature. You gain life
     </card>
     <card>
       <name>Show of Aggression</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="203" rarity="uncommon">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6676,7 +6676,7 @@ When Mockery of Innocence enters, you may destroy target creature. You gain life
     </card>
     <card>
       <name>Approach of the Newly Crowned</name>
-      <set rarity="rare">HOD</set>
+      <set num="2" rarity="rare">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6697,7 +6697,7 @@ At the beginning of your end step, create a 1/1 blue Scout creature token in you
     </card>
     <card>
       <name>Read the Wingbeats</name>
-      <set rarity="rare">HOD</set>
+      <set num="73" rarity="rare">HOD</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6719,7 +6719,7 @@ Whenever you cast a spell during an opponent’s turn, create a 1/1 blue Scout c
     </card>
     <card>
       <name>Bounty Collector</name>
-      <set rarity="rare">HOD</set>
+      <set num="87" rarity="rare">HOD</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6741,7 +6741,7 @@ When Bounty Collector dies, create a token that’s a copy of it in your reserve
     </card>
     <card>
       <name>Gaze Upon Greatness</name>
-      <set rarity="rare">HOD</set>
+      <set num="143" rarity="rare">HOD</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6762,7 +6762,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Long Night&apos;s Rest</name>
-      <set rarity="rare">HOD</set>
+      <set num="190" rarity="rare">HOD</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6782,7 +6782,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Hexer&apos;s Cave</name>
-      <set rarity="uncommon">HOD</set>
+      <set num="296" rarity="uncommon">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6802,7 +6802,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Messenger of Absent Messages</name>
-      <set rarity="common">HOD</set>
+      <set num="285" rarity="common">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6823,7 +6823,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="">HOD</set>
+      <set num="300" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6843,7 +6843,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Island</name>
-      <set rarity="">HOD</set>
+      <set num="303" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6863,7 +6863,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="">HOD</set>
+      <set num="306" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6883,7 +6883,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="">HOD</set>
+      <set num="309" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6903,7 +6903,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="">HOD</set>
+      <set num="312" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6923,7 +6923,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Island2</name>
-      <set rarity="">HOD</set>
+      <set num="304" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6943,7 +6943,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Swamp2</name>
-      <set rarity="">HOD</set>
+      <set num="307" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6963,7 +6963,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Mountain2</name>
-      <set rarity="">HOD</set>
+      <set num="310" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6983,7 +6983,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Forest2</name>
-      <set rarity="">HOD</set>
+      <set num="313" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7003,7 +7003,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Plains3</name>
-      <set rarity="">HOD</set>
+      <set num="302" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7023,7 +7023,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Island3</name>
-      <set rarity="">HOD</set>
+      <set num="305" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7043,7 +7043,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Swamp3</name>
-      <set rarity="">HOD</set>
+      <set num="308" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7063,7 +7063,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Mountain3</name>
-      <set rarity="">HOD</set>
+      <set num="311" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7083,7 +7083,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Forest3</name>
-      <set rarity="">HOD</set>
+      <set num="314" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7103,7 +7103,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Plains2</name>
-      <set rarity="">HOD</set>
+      <set num="301" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7123,7 +7123,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Vance Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="328" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7146,7 +7146,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Turnberry Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="327" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7169,7 +7169,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Terrel Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="326" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7192,7 +7192,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Sapner Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="325" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7215,7 +7215,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Rivers Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="324" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7238,7 +7238,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Rey Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="323" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7261,7 +7261,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Radcliff Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="322" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7284,7 +7284,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Plaskett Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="321" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7307,7 +7307,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Phyre Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="320" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7330,7 +7330,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Attwater Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="315" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7353,7 +7353,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Perle House Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="319" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7376,7 +7376,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Nye Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="318" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7399,7 +7399,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Hook Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="317" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7422,7 +7422,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Banefort Sigil</name>
-      <set rarity="">HOD</set>
+      <set num="316" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7445,7 +7445,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Hann, Herald of the Conqueror</name>
-      <set rarity="mythic">HOD</set>
+      <set num="220" rarity="mythic">HOD</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -7468,7 +7468,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Marilye&apos;s Revelation</name>
-      <set rarity="mythic">HOD</set>
+      <set num="24" rarity="mythic">HOD</set>
       <prop>
         <colors>W</colors>
         <color>W</color>

@@ -11,7 +11,7 @@
 
     <card>
       <name>Heretical Urdon</name>
-      <set rarity="common">AKT</set>
+      <set num="19" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -32,7 +32,7 @@ WORK</notes>
     </card>
     <card>
       <name>Heart of Prithite</name>
-      <set rarity="common" splitterPath="/Heart of Prithite.jpg" >AKT</set>
+      <set num="17" rarity="common" splitterPath="/Heart of Prithite.jpg" >AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -53,7 +53,7 @@ WORK</notes>
     </card>
     <card>
       <name>Ur-Gifted Surgeon</name>
-      <set rarity="common" splitterPath="/Ur-Gifted Surgeon.jpg" >AKT</set>
+      <set num="17" rarity="common" splitterPath="/Ur-Gifted Surgeon.jpg" >AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -76,7 +76,7 @@ COMMONPRITHITECYCLE</notes>
     </card>
     <card>
       <name>Put Under Custody</name>
-      <set rarity="common">AKT</set>
+      <set num="38" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -96,7 +96,7 @@ When Put Under Custody enters, exile up to one target creature or planeswalker u
     </card>
     <card>
       <name>Protect the Uninjected</name>
-      <set rarity="common">AKT</set>
+      <set num="37" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -119,7 +119,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Invoke Martial Law</name>
-      <set rarity="common">AKT</set>
+      <set num="23" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -142,7 +142,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Tarnished Subverter</name>
-      <set rarity="common">AKT</set>
+      <set num="83" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -164,7 +164,7 @@ LIZARDTYPE</notes>
     </card>
     <card>
       <name>Old Guard Guru</name>
-      <set rarity="common">AKT</set>
+      <set num="73" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -187,7 +187,7 @@ When Old Guard Recruiter enters, you may embrace a card in your hand with a crea
     </card>
     <card>
       <name>Pensive Engine</name>
-      <set rarity="common">AKT</set>
+      <set num="76" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -207,7 +207,7 @@ CU13</notes>
     </card>
     <card>
       <name>Method Actor</name>
-      <set rarity="common">AKT</set>
+      <set num="68" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -228,7 +228,7 @@ CU06</notes>
     </card>
     <card>
       <name>Culture Industry</name>
-      <set rarity="common">AKT</set>
+      <set num="48" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -250,7 +250,7 @@ When Culture Industry enters, if you control an artifact or enchantment, return 
     </card>
     <card>
       <name>Negate</name>
-      <set rarity="common">AKT</set>
+      <set num="72" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -270,7 +270,7 @@ SPOTLIGHT</notes>
     </card>
     <card>
       <name>Indoctrinate</name>
-      <set rarity="common">AKT</set>
+      <set num="61" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -292,7 +292,7 @@ BLUECOMMON
     </card>
     <card>
       <name>Mobile Home</name>
-      <set rarity="common">AKT</set>
+      <set num="70" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -314,7 +314,7 @@ Mobile Home gets +1/+0 as long as you control an enchantment.</text>
     </card>
     <card>
       <name>Mind of Prithite</name>
-      <set rarity="common" splitterPath="/Mind of Prithite.jpg" >AKT</set>
+      <set num="69" rarity="common" splitterPath="/Mind of Prithite.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -335,7 +335,7 @@ Mobile Home gets +1/+0 as long as you control an enchantment.</text>
     </card>
     <card>
       <name>Ur-Gifted Theologian</name>
-      <set rarity="common" splitterPath="/Ur-Gifted Theologian.jpg" >AKT</set>
+      <set num="69" rarity="common" splitterPath="/Ur-Gifted Theologian.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -358,7 +358,7 @@ COMMONPRITHITECYCLE</notes>
     </card>
     <card>
       <name>Unbending Will </name>
-      <set rarity="common">AKT</set>
+      <set num="87" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -381,7 +381,7 @@ WIZARDTYPE</notes>
     </card>
     <card>
       <name>Wind Tunnels</name>
-      <set rarity="common">AKT</set>
+      <set num="88" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -404,7 +404,7 @@ BLUECOMMON</notes>
     </card>
     <card>
       <name>Malevolent Plumber</name>
-      <set rarity="common">AKT</set>
+      <set num="113" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -426,7 +426,7 @@ CB01</notes>
     </card>
     <card>
       <name>Old Guard Cutthroat</name>
-      <set rarity="common">AKT</set>
+      <set num="118" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -447,7 +447,7 @@ CB02</notes>
     </card>
     <card>
       <name>Sewage Surveyor</name>
-      <set rarity="common">AKT</set>
+      <set num="124" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -469,7 +469,7 @@ When Sewage Surveyor enters, mill three cards.</text>
     </card>
     <card>
       <name>Old Guard Partisan</name>
-      <set rarity="common">AKT</set>
+      <set num="119" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -491,7 +491,7 @@ When Old Guard Partisan enters, it deals 2 damage to up to one target that was d
     </card>
     <card>
       <name>Highrise Electrician</name>
-      <set rarity="common">AKT</set>
+      <set num="105" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -512,7 +512,7 @@ CITIZENTYPE</notes>
     </card>
     <card>
       <name>Faraway Emissary</name>
-      <set rarity="common">AKT</set>
+      <set num="103" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -534,7 +534,7 @@ When Faraway Emissary enters, each player discards a card.</text>
     </card>
     <card>
       <name>Disdainful Throng</name>
-      <set rarity="common">AKT</set>
+      <set num="101" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -557,7 +557,7 @@ When Disdainful Throng enters, target creature you don’t control gets -X/-X un
     </card>
     <card>
       <name>Crushing Doubt</name>
-      <set rarity="common">AKT</set>
+      <set num="96" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -576,7 +576,7 @@ CB12</notes>
     </card>
     <card>
       <name>Deliver Omen</name>
-      <set rarity="common">AKT</set>
+      <set num="99" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -599,7 +599,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Absorb Umwelt</name>
-      <set rarity="common">AKT</set>
+      <set num="89" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -619,7 +619,7 @@ Surveil 1. (Look at the top card of your library. You may put it into your grave
     </card>
     <card>
       <name>Thoughtlich&apos;s Suggestion</name>
-      <set rarity="common">AKT</set>
+      <set num="126" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -638,7 +638,7 @@ CB15</notes>
     </card>
     <card>
       <name>Cultivate Culture</name>
-      <set rarity="common">AKT</set>
+      <set num="97" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -659,7 +659,7 @@ CB16</notes>
     </card>
     <card>
       <name>Claws of Prithite</name>
-      <set rarity="common" splitterPath="/Claws of Prithite.jpg" >AKT</set>
+      <set num="92" rarity="common" splitterPath="/Claws of Prithite.jpg" >AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -680,7 +680,7 @@ CB16</notes>
     </card>
     <card>
       <name>Ur-Gifted Guide</name>
-      <set rarity="common" splitterPath="/Ur-Gifted Guide.jpg" >AKT</set>
+      <set num="92" rarity="common" splitterPath="/Ur-Gifted Guide.jpg" >AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -703,7 +703,7 @@ COMMONPRITHITECYCLE</notes>
     </card>
     <card>
       <name>Highway Courier</name>
-      <set rarity="common" splitterPath="/Highway Courier.jpg" >AKT</set>
+      <set num="141" rarity="common" splitterPath="/Highway Courier.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -726,7 +726,7 @@ Defender
     </card>
     <card>
       <name>Callwolf Courier</name>
-      <set rarity="common" splitterPath="/Callwolf Courier.jpg" >AKT</set>
+      <set num="141" rarity="common" splitterPath="/Callwolf Courier.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -750,7 +750,7 @@ WEREWOLFTYPE</notes>
     </card>
     <card>
       <name>Rapid Response</name>
-      <set rarity="common">AKT</set>
+      <set num="155" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -773,7 +773,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Urdon-Thief Tollmaster</name>
-      <set rarity="common" splitterPath="/Urdon-Thief Tollmaster.jpg" >AKT</set>
+      <set num="168" rarity="common" splitterPath="/Urdon-Thief Tollmaster.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -795,7 +795,7 @@ Menace
     </card>
     <card>
       <name>Urdon-Thief Batterer</name>
-      <set rarity="common" splitterPath="/Urdon-Thief Batterer.jpg" >AKT</set>
+      <set num="168" rarity="common" splitterPath="/Urdon-Thief Batterer.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -819,7 +819,7 @@ Trample
     </card>
     <card>
       <name>Curious Qualiaform</name>
-      <set rarity="common">AKT</set>
+      <set num="132" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -844,7 +844,7 @@ Whenever you cast a spell from anywhere other than your hand, liberate Curious Q
     </card>
     <card>
       <name>Hazenwyld Occultist</name>
-      <set rarity="common" splitterPath="/Hazenwyld Occultist.jpg" >AKT</set>
+      <set num="139" rarity="common" splitterPath="/Hazenwyld Occultist.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -866,7 +866,7 @@ Whenever you cast a spell from anywhere other than your hand, liberate Curious Q
     </card>
     <card>
       <name>Hazenwyld Atrocity</name>
-      <set rarity="common" splitterPath="/Hazenwyld Atrocity.jpg" >AKT</set>
+      <set num="139" rarity="common" splitterPath="/Hazenwyld Atrocity.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -891,7 +891,7 @@ Flying
     </card>
     <card>
       <name>Percithan Sentinel</name>
-      <set rarity="common">AKT</set>
+      <set num="150" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -913,7 +913,7 @@ Whenever Percithan Sentinel attacks, target creature token gains menace until en
     </card>
     <card>
       <name>Semiothaumaturge</name>
-      <set rarity="common">AKT</set>
+      <set num="159" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -935,7 +935,7 @@ Whenever you cast a noncreature spell, you may discard a card. If you do, draw a
     </card>
     <card>
       <name>Greivance</name>
-      <set rarity="common">AKT</set>
+      <set num="138" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -957,7 +957,7 @@ Greivance gets +2/+2 as long as another permanent you control left the battlefie
     </card>
     <card>
       <name>Transmuted Newt</name>
-      <set rarity="common">AKT</set>
+      <set num="165" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -980,7 +980,7 @@ When Transmuted Newt enters, it deals 2 damage to any target.</text>
     </card>
     <card>
       <name>Prithitian Jet</name>
-      <set rarity="common">AKT</set>
+      <set num="153" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -999,7 +999,7 @@ CR11</notes>
     </card>
     <card>
       <name>Romp</name>
-      <set rarity="common">AKT</set>
+      <set num="156" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1019,7 +1019,7 @@ That creature deals 4 damage to any target.</text>
     </card>
     <card>
       <name>Urdonic Raze</name>
-      <set rarity="common">AKT</set>
+      <set num="170" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1040,7 +1040,7 @@ CR14</notes>
     </card>
     <card>
       <name>Wistful Yearning</name>
-      <set rarity="common">AKT</set>
+      <set num="172" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1059,7 +1059,7 @@ CR15</notes>
     </card>
     <card>
       <name>Prithitian Vigor</name>
-      <set rarity="common">AKT</set>
+      <set num="154" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1078,7 +1078,7 @@ CR16</notes>
     </card>
     <card>
       <name>Maw of Prithite</name>
-      <set rarity="common" splitterPath="/Maw of Prithite.jpg" >AKT</set>
+      <set num="146" rarity="common" splitterPath="/Maw of Prithite.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1099,7 +1099,7 @@ CR16</notes>
     </card>
     <card>
       <name>Ur-Gifted Enforcer</name>
-      <set rarity="common" splitterPath="/Ur-Gifted Enforcer.jpg" >AKT</set>
+      <set num="146" rarity="common" splitterPath="/Ur-Gifted Enforcer.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1122,7 +1122,7 @@ COMMONPRITHITECYCLE</notes>
     </card>
     <card>
       <name>Infuse with Identity</name>
-      <set rarity="common">AKT</set>
+      <set num="142" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -1145,7 +1145,7 @@ WIZARDTYPE</notes>
     </card>
     <card>
       <name>Mortarsire</name>
-      <set rarity="common">AKT</set>
+      <set num="196" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1166,7 +1166,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Sapient Stoneworks</name>
-      <set rarity="common">AKT</set>
+      <set num="203" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1188,7 +1188,7 @@ CITIZENTYPE
     </card>
     <card>
       <name>Tender to Old Groves</name>
-      <set rarity="common" splitterPath="/Tender to Old Groves.jpg" >AKT</set>
+      <set num="209" rarity="common" splitterPath="/Tender to Old Groves.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1210,7 +1210,7 @@ CITIZENTYPE
     </card>
     <card>
       <name>Protector of Old Groves</name>
-      <set rarity="common" splitterPath="/Protector of Old Groves.jpg" >AKT</set>
+      <set num="209" rarity="common" splitterPath="/Protector of Old Groves.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1234,7 +1234,7 @@ WEREWOLFTYPE</notes>
     </card>
     <card>
       <name>Hazard Technician</name>
-      <set rarity="uncommon" splitterPath="/Hazard Technician.jpg" >AKT</set>
+      <set num="186" rarity="uncommon" splitterPath="/Hazard Technician.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1256,7 +1256,7 @@ WEREWOLFTYPE</notes>
     </card>
     <card>
       <name>Hazardous Technician</name>
-      <set rarity="uncommon" splitterPath="/Hazardous Technician.jpg" >AKT</set>
+      <set num="186" rarity="uncommon" splitterPath="/Hazardous Technician.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1282,7 +1282,7 @@ Hazardous Technician gets +1/+1 for each artifact and/or enchantment you control
     </card>
     <card>
       <name>Hazenwyld Groundskeeper</name>
-      <set rarity="common">AKT</set>
+      <set num="188" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1303,7 +1303,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Wanderlusted Urdon</name>
-      <set rarity="common">AKT</set>
+      <set num="214" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1324,7 +1324,7 @@ DRAGONTYPE</notes>
     </card>
     <card>
       <name>Slumbering Farmer</name>
-      <set rarity="common">AKT</set>
+      <set num="207" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1344,7 +1344,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Scales of Prithite</name>
-      <set rarity="common" splitterPath="/Scales of Prithite.jpg" >AKT</set>
+      <set num="204" rarity="common" splitterPath="/Scales of Prithite.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1365,7 +1365,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Ur-Gifted Surveyor</name>
-      <set rarity="common" splitterPath="/Ur-Gifted Surveyor.jpg" >AKT</set>
+      <set num="204" rarity="common" splitterPath="/Ur-Gifted Surveyor.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1388,7 +1388,7 @@ COMMONPRITHITECYCLE</notes>
     </card>
     <card>
       <name>Partner&apos;s Tax Returns</name>
-      <set rarity="common">AKT</set>
+      <set num="199" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1411,7 +1411,7 @@ CITIZENTYPE</notes>
     </card>
     <card>
       <name>Thoughtglass Whip</name>
-      <set rarity="common">AKT</set>
+      <set num="211" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1433,7 +1433,7 @@ Equip {4}</text>
     </card>
     <card>
       <name>Survey New Lands</name>
-      <set rarity="common">AKT</set>
+      <set num="208" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1456,7 +1456,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Pound into Splinters</name>
-      <set rarity="common">AKT</set>
+      <set num="200" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1476,7 +1476,7 @@ Destroy target artifact, enchantment, or creature with flying.</text>
     </card>
     <card>
       <name>Propaganda Spreading</name>
-      <set rarity="common">AKT</set>
+      <set num="122" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1499,7 +1499,7 @@ CITIZENTYPE</notes>
     </card>
     <card>
       <name>Stellar Officer</name>
-      <set rarity="common">AKT</set>
+      <set num="41" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1522,7 +1522,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Heterodox Scholar</name>
-      <set rarity="common">AKT</set>
+      <set num="20" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1544,7 +1544,7 @@ HEXTYPE</notes>
     </card>
     <card>
       <name>Injector Evangel</name>
-      <set rarity="common">AKT</set>
+      <set num="21" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1568,7 +1568,7 @@ ADVISORTYPE
     </card>
     <card>
       <name>Parasite Socialite</name>
-      <set rarity="common">AKT</set>
+      <set num="31" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1591,7 +1591,7 @@ When Parasite Socialite leaves the battlefield, put its counters on target perma
     </card>
     <card>
       <name>Ithian Plague Doctor</name>
-      <set rarity="common">AKT</set>
+      <set num="25" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1612,7 +1612,7 @@ LIZARDTYPE</notes>
     </card>
     <card>
       <name>Property Surveyor</name>
-      <set rarity="common">AKT</set>
+      <set num="36" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1633,7 +1633,7 @@ When Property Surveyor enters, surveil 2.</text>
     </card>
     <card>
       <name>Campaign Strategist</name>
-      <set rarity="common">AKT</set>
+      <set num="7" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1655,7 +1655,7 @@ When Campaign Strategist enters, return another target permanent you control to 
     </card>
     <card>
       <name>Democratic Horde</name>
-      <set rarity="common">AKT</set>
+      <set num="8" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1676,7 +1676,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Hardened Veteran</name>
-      <set rarity="common">AKT</set>
+      <set num="16" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1697,7 +1697,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Urdonic Messenger</name>
-      <set rarity="common">AKT</set>
+      <set num="45" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1719,7 +1719,7 @@ When Urdonic Messenger enters, return target permanent card with mana value 3 or
     </card>
     <card>
       <name>Gatrix Terroriser</name>
-      <set rarity="common" splitterPath="/Gatrix Terroriser.jpg" >AKT</set>
+      <set num="55" rarity="common" splitterPath="/Gatrix Terroriser.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1741,7 +1741,7 @@ Gatrix Terroriser can’t be blocked.
     </card>
     <card>
       <name>Cunning Mastermind</name>
-      <set rarity="common" splitterPath="/Cunning Mastermind.jpg" >AKT</set>
+      <set num="55" rarity="common" splitterPath="/Cunning Mastermind.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1767,7 +1767,7 @@ Whenever this enters or transforms into Cunning Mastermind, draw a card, then di
     </card>
     <card>
       <name>Ithian Marketeer</name>
-      <set rarity="common">AKT</set>
+      <set num="63" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1789,7 +1789,7 @@ Prowess</text>
     </card>
     <card>
       <name>Eaveshopper</name>
-      <set rarity="common">AKT</set>
+      <set num="49" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1812,7 +1812,7 @@ When Eaveshopper enters, tap target creature you don’t control and put a stun 
     </card>
     <card>
       <name>Diaspora Recruiters</name>
-      <set rarity="common">AKT</set>
+      <set num="9" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -1836,7 +1836,7 @@ Related Cards: Recruit</notes>
     </card>
     <card>
       <name>Erysium Injection</name>
-      <set rarity="common">AKT</set>
+      <set num="52" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1857,7 +1857,7 @@ CU19
     </card>
     <card>
       <name>Arbor Battery</name>
-      <set rarity="common">AKT</set>
+      <set num="175" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1879,7 +1879,7 @@ CG02</notes>
     </card>
     <card>
       <name>Signal Officer</name>
-      <set rarity="common">AKT</set>
+      <set num="206" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1901,7 +1901,7 @@ When Signal Officer enters, surveil 1. (Look at the top card of your library. Yo
     </card>
     <card>
       <name>Orthodox Scholar</name>
-      <set rarity="common">AKT</set>
+      <set num="198" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1922,7 +1922,7 @@ HEXTYPE</notes>
     </card>
     <card>
       <name>Devotee of the God-Worm</name>
-      <set rarity="common">AKT</set>
+      <set num="180" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -1943,7 +1943,7 @@ CG10</notes>
     </card>
     <card>
       <name>Mourning Ithian</name>
-      <set rarity="common">AKT</set>
+      <set num="71" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -1965,7 +1965,7 @@ CU08</notes>
     </card>
     <card>
       <name>Mens Rea</name>
-      <set rarity="common">AKT</set>
+      <set num="114" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -1987,7 +1987,7 @@ INCARNATIONTYPE</notes>
     </card>
     <card>
       <name>Colossal Effort</name>
-      <set rarity="common">AKT</set>
+      <set num="94" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2006,7 +2006,7 @@ CB11</notes>
     </card>
     <card>
       <name>Urdonic Subjugation</name>
-      <set rarity="common">AKT</set>
+      <set num="171" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2025,7 +2025,7 @@ CR12</notes>
     </card>
     <card>
       <name>Thirst for Identity</name>
-      <set rarity="common">AKT</set>
+      <set num="84" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2044,7 +2044,7 @@ BLUECOMMON</notes>
     </card>
     <card>
       <name>Bleak Philosophy</name>
-      <set rarity="common">AKT</set>
+      <set num="90" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2065,7 +2065,7 @@ BLACKCOMMON
     </card>
     <card>
       <name>Leap</name>
-      <set rarity="common">AKT</set>
+      <set num="65" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -2085,7 +2085,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Drink Heresy</name>
-      <set rarity="common">AKT</set>
+      <set num="135" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2106,7 +2106,7 @@ CR17
     </card>
     <card>
       <name>Gift of Erysium</name>
-      <set rarity="common">AKT</set>
+      <set num="14" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2126,7 +2126,7 @@ CW17
     </card>
     <card>
       <name>Extract Erysium</name>
-      <set rarity="common">AKT</set>
+      <set num="12" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -2147,7 +2147,7 @@ CW19</notes>
     </card>
     <card>
       <name>Gigant&apos;s Wrath</name>
-      <set rarity="common">AKT</set>
+      <set num="185" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2166,7 +2166,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Denizen of New Akella</name>
-      <set rarity="common">AKT</set>
+      <set num="1" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2186,7 +2186,7 @@ Trample</text>
     </card>
     <card>
       <name>Rioting Ruins</name>
-      <set rarity="common">AKT</set>
+      <set num="281" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2205,7 +2205,7 @@ Trample</text>
     </card>
     <card>
       <name>Closed Community</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="266" rarity="uncommon">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2225,7 +2225,7 @@ Trample</text>
     </card>
     <card>
       <name>Vial of Erysium</name>
-      <set rarity="common">AKT</set>
+      <set num="262" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2246,7 +2246,7 @@ Trample</text>
     </card>
     <card>
       <name>Culture Collector</name>
-      <set rarity="common">AKT</set>
+      <set num="258" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2265,7 +2265,7 @@ Trample</text>
     </card>
     <card>
       <name>Callous Dismissor</name>
-      <set rarity="common">AKT</set>
+      <set num="91" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2287,7 +2287,7 @@ INCARNATIONTYPE</notes>
     </card>
     <card>
       <name>Lethal Force</name>
-      <set rarity="common">AKT</set>
+      <set num="143" rarity="common">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -2309,7 +2309,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Hazenwyld Beastmaster</name>
-      <set rarity="common" splitterPath="/Hazenwyld Beastmaster.jpg" >AKT</set>
+      <set num="187" rarity="common" splitterPath="/Hazenwyld Beastmaster.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2331,7 +2331,7 @@ When Hazenwyld Beastmaster enters or dies, create a tapped Treasure token.
     </card>
     <card>
       <name>Hazenwyld Ransacker</name>
-      <set rarity="common" splitterPath="/Hazenwyld Ransacker.jpg" >AKT</set>
+      <set num="187" rarity="common" splitterPath="/Hazenwyld Ransacker.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -2355,7 +2355,7 @@ WEREWOLFTYPE</notes>
     </card>
     <card>
       <name>Whispering Tutor</name>
-      <set rarity="common">AKT</set>
+      <set num="129" rarity="common">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -2377,7 +2377,7 @@ CB03</notes>
     </card>
     <card>
       <name>Registration Office</name>
-      <set rarity="common">AKT</set>
+      <set num="280" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -2397,7 +2397,7 @@ CB03</notes>
     </card>
     <card>
       <name>Disfigured Fur Merchant</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="224" rarity="uncommon">AKT</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2419,7 +2419,7 @@ WU: Exile another target Lizard you control, then return it to the battlefield t
     </card>
     <card>
       <name>Ryyr, Grand Accommodator</name>
-      <set rarity="rare">AKT</set>
+      <set num="246" rarity="rare">AKT</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2439,7 +2439,7 @@ NOBLECYC</notes>
     </card>
     <card>
       <name>Sarajex Rescuer</name>
-      <set rarity="uncommon" splitterPath="/Sarajex Rescuer.jpg" >AKT</set>
+      <set num="247" rarity="uncommon" splitterPath="/Sarajex Rescuer.jpg" >AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2461,7 +2461,7 @@ Whenever this attacks or transforms into Sarajex Rescuer, create a 1/1 white Sol
     </card>
     <card>
       <name>Sarajex Protector</name>
-      <set rarity="uncommon" splitterPath="/Sarajex Protector.jpg" >AKT</set>
+      <set num="247" rarity="uncommon" splitterPath="/Sarajex Protector.jpg" >AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2485,7 +2485,7 @@ Whenever Sarajex Protector attacks, you may discard a card. If you do, put a +1/
     </card>
     <card>
       <name>Spokesman of the Mothweft</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="250" rarity="uncommon">AKT</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2507,7 +2507,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Deradicalised Revenant</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="223" rarity="uncommon">AKT</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2529,7 +2529,7 @@ Deradicalised Revenant can’t be blocked.</text>
     </card>
     <card>
       <name>Callwolf Chanter</name>
-      <set rarity="uncommon" splitterPath="/Callwolf Chanter.jpg" >AKT</set>
+      <set num="221" rarity="uncommon" splitterPath="/Callwolf Chanter.jpg" >AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2551,7 +2551,7 @@ Whenever Callwolf Chanter attacks, exile the top card of your library. You may p
     </card>
     <card>
       <name>Skarrgsong</name>
-      <set rarity="uncommon" splitterPath="/Skarrgsong.jpg" >AKT</set>
+      <set num="221" rarity="uncommon" splitterPath="/Skarrgsong.jpg" >AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2575,7 +2575,7 @@ Skarrgsong can’t be blocked by creatures with power 2 or less.
     </card>
     <card>
       <name>Hyethian Protége</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="233" rarity="uncommon">AKT</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2597,7 +2597,7 @@ Whenever you cast a noncreature spell, other Wizards you control get +1/+1 until
     </card>
     <card>
       <name>Scathing Critique</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="248" rarity="uncommon">AKT</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -2619,7 +2619,7 @@ Pay 2 life, Sacrifice a creature, Embrace Scathing Critique from your hand: Draw
     </card>
     <card>
       <name>Godtouched Enforcer</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="228" rarity="uncommon">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2641,7 +2641,7 @@ Whenever Godtouched Enforcer attacks, choose a creature you control with lesser 
     </card>
     <card>
       <name>Sewer Consultant</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="249" rarity="uncommon">AKT</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -2664,7 +2664,7 @@ Whenever another Citizen card is put into your graveyard from anywhere, put a +1
     </card>
     <card>
       <name>Altar of Euthanasia</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="218" rarity="uncommon">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -2685,7 +2685,7 @@ HEXTYPE</notes>
     </card>
     <card>
       <name>Feral Communion</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="227" rarity="uncommon">AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2710,7 +2710,7 @@ WROk</notes>
     </card>
     <card>
       <name>Overworked Conditions</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="243" rarity="uncommon">AKT</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -2731,7 +2731,7 @@ At the beginning of your end step, you may exile three cards from your graveyard
     </card>
     <card>
       <name>Regeneration Programme</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="244" rarity="uncommon">AKT</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2754,7 +2754,7 @@ WORK</notes>
     </card>
     <card>
       <name>Zeitgeist&apos;s Judgment</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="256" rarity="uncommon">AKT</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -2775,7 +2775,7 @@ INCARNATIONTYPE</notes>
     </card>
     <card>
       <name>Northern Tactics</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="240" rarity="uncommon">AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -2796,7 +2796,7 @@ Tap two untapped creatures you control, Embrace Northern Tactics from your hand:
     </card>
     <card>
       <name>Twinbirth</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="253" rarity="uncommon">AKT</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2817,7 +2817,7 @@ LIZARDTYPE
     </card>
     <card>
       <name>Vrataport Mural</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="255" rarity="uncommon">AKT</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -2837,7 +2837,7 @@ HUMANTYPE</notes>
     </card>
     <card>
       <name>Consult the Cosmos</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="222" rarity="uncommon">AKT</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2858,7 +2858,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Grand Breakthrough</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="229" rarity="uncommon">AKT</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2879,7 +2879,7 @@ WIZARDTYPE</notes>
     </card>
     <card>
       <name>Atir, Heart of the Argent Court</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="265" rarity="uncommon">AKT</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -2901,7 +2901,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Gatrix, Nursery of the Artificial</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="273" rarity="uncommon">AKT</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -2923,7 +2923,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Hazenwyld, Callwolf Citadel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="274" rarity="uncommon">AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -2944,7 +2944,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Hyeth, Ithian Imperial Academy</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="275" rarity="uncommon">AKT</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -2965,7 +2965,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Ith, Entrance to the Heavens</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="276" rarity="uncommon">AKT</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -2986,7 +2986,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>ArkaiIxajaprataKgxrajatajex</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="264" rarity="uncommon">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -3007,7 +3007,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Disregard, Universal Workhouse</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="267" rarity="uncommon">AKT</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -3028,7 +3028,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Odajex, Omnisonder&apos;s Source</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="277" rarity="uncommon">AKT</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -3049,7 +3049,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Phterajex, Chancellor&apos;s Outpost</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="278" rarity="uncommon">AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -3071,7 +3071,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Vrataport, Failed Capital</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="286" rarity="uncommon">AKT</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -3092,7 +3092,7 @@ FELLOWLANDCYCLE</notes>
     </card>
     <card>
       <name>Omnibenevolent Vessel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="30" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3115,7 +3115,7 @@ When Omnibenevolent Vessel enters, put a +1/+1 counter on each other creature yo
     </card>
     <card>
       <name>Omnipotent Vessel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="120" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3138,7 +3138,7 @@ When Omnipotent Vessel enters, search your library for a card, put it into your 
     </card>
     <card>
       <name>Omnipresent Vessel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="197" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3161,7 +3161,7 @@ When Omnipresent Vessel enters, destroy target noncreature permanent.</text>
     </card>
     <card>
       <name>Omniscient Vessel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="75" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3184,7 +3184,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Forest</name>
-      <set rarity="">AKT</set>
+      <set num="287" rarity="">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3202,7 +3202,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Island</name>
-      <set rarity="">AKT</set>
+      <set num="288" rarity="">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3220,7 +3220,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Plains</name>
-      <set rarity="">AKT</set>
+      <set num="290" rarity="">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3238,7 +3238,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Swamp</name>
-      <set rarity="">AKT</set>
+      <set num="291" rarity="">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3256,7 +3256,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Mountain</name>
-      <set rarity="">AKT</set>
+      <set num="289" rarity="">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3274,7 +3274,7 @@ When Omniscient Vessel enters, return another target permanent to its owner’s 
     </card>
     <card>
       <name>Intergenerational Violence</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="111" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3296,7 +3296,7 @@ Whenever a creature dies, that creature deals 1 damage to each of your opponents
     </card>
     <card>
       <name>Svakaratajex Emissary</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="43" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3318,7 +3318,7 @@ UW01</notes>
     </card>
     <card>
       <name>Policy Scrutiniser</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="33" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3339,7 +3339,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>God-Worm Bulwark</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="15" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3361,7 +3361,7 @@ HEXTYPE</notes>
     </card>
     <card>
       <name>Ithian Eulogist</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="24" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3382,7 +3382,7 @@ LIZARDTYPE</notes>
     </card>
     <card>
       <name>Lightning&apos;s Protection</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="26" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3401,7 +3401,7 @@ UW05</notes>
     </card>
     <card>
       <name>Herd Mentality</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="18" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3421,7 +3421,7 @@ At the beginning of combat on your turn, up to two target creatures of the chose
     </card>
     <card>
       <name>Memorial Service</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="28" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3444,7 +3444,7 @@ ADVISORTYPE</notes>
     </card>
     <card>
       <name>Found Family</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="13" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3463,7 +3463,7 @@ UW10</notes>
     </card>
     <card>
       <name>Pass Regulation</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="32" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -3485,7 +3485,7 @@ UW11
     </card>
     <card>
       <name>Gatrix Vaults</name>
-      <set rarity="uncommon" splitterPath="/Gatrix Vaults.jpg" >AKT</set>
+      <set num="56" rarity="uncommon" splitterPath="/Gatrix Vaults.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3505,7 +3505,7 @@ UW11
     </card>
     <card>
       <name>Gatrix Vaultwarden</name>
-      <set rarity="uncommon" splitterPath="/Gatrix Vaultwarden.jpg" >AKT</set>
+      <set num="56" rarity="uncommon" splitterPath="/Gatrix Vaultwarden.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3530,7 +3530,7 @@ Gatrix Vaultwarden doesn’t untap during your untap steps.
     </card>
     <card>
       <name>Qualia Hermitform</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="78" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3550,7 +3550,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Saviour of the Disfigured</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="79" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3571,7 +3571,7 @@ LIZARDTYPE</notes>
     </card>
     <card>
       <name>Essence Surgeon</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="53" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3593,7 +3593,7 @@ UU04
     </card>
     <card>
       <name>Old Guard Interrogator</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="74" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3615,7 +3615,7 @@ Exile a Human card from your graveyard: Until end of turn, Humans can’t be blo
     </card>
     <card>
       <name>Umweltenshifter</name>
-      <set rarity="mythic">AKT</set>
+      <set num="86" rarity="mythic">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3635,7 +3635,7 @@ Permanents you control are kindred and the chosen type in addition to their othe
     </card>
     <card>
       <name>Sensations Overwhelming</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="80" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -3656,7 +3656,7 @@ UU11 </notes>
     </card>
     <card>
       <name>Percival&apos;s Chosen</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="121" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3679,7 +3679,7 @@ When Percival’s Chosen dies, embrace it. (Exile it. You may play it on a later
     </card>
     <card>
       <name>Injector Evangelist</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="110" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3701,7 +3701,7 @@ When Injector Evangelist leaves the battlefield, liberate another target creatur
     </card>
     <card>
       <name>Jobseeker&apos;s Allowance</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="112" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3724,7 +3724,7 @@ UNCOMMONKINCYCLE</notes>
     </card>
     <card>
       <name>Seanced Politician</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="123" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3748,7 +3748,7 @@ UB04</notes>
     </card>
     <card>
       <name>Hired Bouncer</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="106" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3771,7 +3771,7 @@ When Hired Bouncer enters, if it was cast, each player sacrifices a creature.</t
     </card>
     <card>
       <name>Mental Sewage</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="115" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3791,7 +3791,7 @@ Whenever a creature you control dies, you gain 1 life.</text>
     </card>
     <card>
       <name>Traffic Warden</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="127" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -3812,7 +3812,7 @@ CITIZENTYPE</notes>
     </card>
     <card>
       <name>Urdonic Attendant</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="169" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3835,7 +3835,7 @@ When you cast your second non-Human spell in a turn, liberate Urdonic Attendant.
     </card>
     <card>
       <name>Unburdent Matriarch</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="167" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3856,7 +3856,7 @@ Dragons you control get +1/+1 and have haste.</text>
     </card>
     <card>
       <name>Motel Manager</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="148" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3877,7 +3877,7 @@ Motel Manager gets +1/+0 for each card you own in exile.</text>
     </card>
     <card>
       <name>Cunning Qualiaform</name>
-      <set rarity="uncommon" splitterPath="/Cunning Qualiaform.jpg" >AKT</set>
+      <set num="131" rarity="uncommon" splitterPath="/Cunning Qualiaform.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3899,7 +3899,7 @@ Motel Manager gets +1/+0 for each card you own in exile.</text>
     </card>
     <card>
       <name>Cunning Thoughtlich</name>
-      <set rarity="uncommon" splitterPath="/Cunning Thoughtlich.jpg" >AKT</set>
+      <set num="131" rarity="uncommon" splitterPath="/Cunning Thoughtlich.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3925,7 +3925,7 @@ Whenever Cunning Thoughtlich attacks, you may cast a card exiled by it.
     </card>
     <card>
       <name>Dragon Soldier</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="134" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3947,7 +3947,7 @@ Whenever Dragon Soldier attacks, another target attacking Soldier gets +3/+0 unt
     </card>
     <card>
       <name>Melting Pot</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="147" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -3969,7 +3969,7 @@ When Melting Pot enters, destroy up to one target nonbasic land. Its controller 
     </card>
     <card>
       <name>Host Farm Babysitter</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="191" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -3991,7 +3991,7 @@ GG, Sacrifice Host Farm Babysitter: Destroy target noncreature artifact or noncr
     </card>
     <card>
       <name>Hazenwyld Revelward</name>
-      <set rarity="uncommon" splitterPath="/Hazenwyld Revelward.jpg" >AKT</set>
+      <set num="189" rarity="uncommon" splitterPath="/Hazenwyld Revelward.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4013,7 +4013,7 @@ Vigilance, reach
     </card>
     <card>
       <name>Hazenwyld Reveller</name>
-      <set rarity="uncommon" splitterPath="/Hazenwyld Reveller.jpg" >AKT</set>
+      <set num="189" rarity="uncommon" splitterPath="/Hazenwyld Reveller.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4039,7 +4039,7 @@ UNCODOMY</notes>
     </card>
     <card>
       <name>Accommodation</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="174" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4059,7 +4059,7 @@ When Accommodation enters and at the beginning of your upkeep, create a colorles
     </card>
     <card>
       <name>Relentless Firefighter</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="201" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4081,7 +4081,7 @@ When Relentless Firefighter dies, surveil 2.
     </card>
     <card>
       <name>Inclusivity Consultant</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="192" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4104,7 +4104,7 @@ When Inclusivity Consultant enters, put up to one target card an opponent owns i
     </card>
     <card>
       <name>Trueblight Blessing</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="212" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4125,7 +4125,7 @@ Creatures you control get +2/+2 and gain trample until end of turn.</text>
     </card>
     <card>
       <name>Waste Management</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="215" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4148,7 +4148,7 @@ ARTIFICERTYPE</notes>
     </card>
     <card>
       <name>Shred</name>
-      <set rarity="common">AKT</set>
+      <set num="40" rarity="common">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4168,7 +4168,7 @@ SPOTLIGHT</notes>
     </card>
     <card>
       <name>Spread His Formula</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="82" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4188,7 +4188,7 @@ The next time target creature deals damage to an opponent this turn, you draw a 
     </card>
     <card>
       <name>Vanaja of Black Sunday</name>
-      <set rarity="rare">AKT</set>
+      <set num="254" rarity="rare">AKT</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -4211,7 +4211,7 @@ Whenever one or more Humans you control deal combat damage to a player, that pla
     </card>
     <card>
       <name>Erysian Designs</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="51" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4231,7 +4231,7 @@ Whenever you cast a transcended Erysite spell, draw two cards.</text>
     </card>
     <card>
       <name>Eusocial Signal</name>
-      <set rarity="mythic">AKT</set>
+      <set num="54" rarity="mythic">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4249,7 +4249,7 @@ Whenever you cast a transcended Erysite spell, draw two cards.</text>
     </card>
     <card>
       <name>Mask Identity</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="67" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4269,7 +4269,7 @@ Enchanted permanent is kindred and loses all other card types. (It still has its
     </card>
     <card>
       <name>The Urveil</name>
-      <set rarity="mythic">AKT</set>
+      <set num="285" rarity="mythic">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4289,7 +4289,7 @@ PENCILIN</notes>
     </card>
     <card>
       <name>Herongrand Transcended</name>
-      <set rarity="mythic">AKT</set>
+      <set num="231" rarity="mythic">AKT</set>
       <prop>
         <colors>UB</colors>
         <color>UB</color>
@@ -4313,7 +4313,7 @@ UB, Pay 1 life: Draw a card. Herongrand phases out. Activate only once each turn
     </card>
     <card>
       <name>Lyyrata, Progeny of Erys</name>
-      <set rarity="mythic">AKT</set>
+      <set num="239" rarity="mythic">AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -4336,7 +4336,7 @@ If Lyyrata usurped, creatures you control get +5000/+5000.</text>
     </card>
     <card>
       <name>PrithiteWordlyDicta</name>
-      <set rarity="rare">AKT</set>
+      <set num="152" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4360,7 +4360,7 @@ Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal
     </card>
     <card>
       <name>Triaja, Astral Apostate</name>
-      <set rarity="mythic">AKT</set>
+      <set num="252" rarity="mythic">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -4380,7 +4380,7 @@ Prithite’s Worldly Dicta deals damage to target creature or planeswalker equal
     </card>
     <card>
       <name>Akaaja, Steel Commander</name>
-      <set rarity="rare">AKT</set>
+      <set num="216" rarity="rare">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -4402,7 +4402,7 @@ Whenever you attack, put a +1/+1 counter on another target attacking Hex. Then d
     </card>
     <card>
       <name>Clutch Divinity</name>
-      <set rarity="rare">AKT</set>
+      <set num="93" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4422,7 +4422,7 @@ Mill five cards. For each card milled this way, put it into your hand unless an 
     </card>
     <card>
       <name>Split Ego</name>
-      <set rarity="mythic">AKT</set>
+      <set num="81" rarity="mythic">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4441,7 +4441,7 @@ Mill five cards. For each card milled this way, put it into your hand unless an 
     </card>
     <card>
       <name>Renewed Servitude</name>
-      <set rarity="rare">AKT</set>
+      <set num="245" rarity="rare">AKT</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -4461,7 +4461,7 @@ Exile target spell or nonland permanent that shares a card type with the exiled 
     </card>
     <card>
       <name>Witness Totality</name>
-      <set rarity="rare">AKT</set>
+      <set num="173" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4481,7 +4481,7 @@ At the beginning of your upkeep, Witness Totality deals 2 damage to each opponen
     </card>
     <card>
       <name>Original Position</name>
-      <set rarity="rare">AKT</set>
+      <set num="242" rarity="rare">AKT</set>
       <prop>
         <colors>WBG</colors>
         <color>WBG</color>
@@ -4501,7 +4501,7 @@ PENCILIN</notes>
     </card>
     <card>
       <name>Eyysapha, Syakir in Exile</name>
-      <set rarity="rare">AKT</set>
+      <set num="226" rarity="rare">AKT</set>
       <prop>
         <colors>WU</colors>
         <color>WU</color>
@@ -4525,7 +4525,7 @@ NOBLECYC</notes>
     </card>
     <card>
       <name>Hazenwyld Totem</name>
-      <set rarity="rare">AKT</set>
+      <set num="259" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4544,7 +4544,7 @@ PENCILIN</notes>
     </card>
     <card>
       <name>Heavy Tutelage</name>
-      <set rarity="rare">AKT</set>
+      <set num="59" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4563,7 +4563,7 @@ Draw four cards.</text>
     </card>
     <card>
       <name>Echo Eternity</name>
-      <set rarity="rare">AKT</set>
+      <set num="50" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -4583,7 +4583,7 @@ Create a token that’s a copy of target permanent you control.</text>
     </card>
     <card>
       <name>Erys&apos; Salvation</name>
-      <set rarity="mythic">AKT</set>
+      <set num="10" rarity="mythic">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4603,7 +4603,7 @@ SPOTLIGHT
     </card>
     <card>
       <name>Breathe Gravity</name>
-      <set rarity="rare">AKT</set>
+      <set num="6" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4623,7 +4623,7 @@ Return any number of nonland permanent cards with total mana value 6 or less fro
     </card>
     <card>
       <name>Ingest Infinity</name>
-      <set rarity="rare">AKT</set>
+      <set num="193" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4643,7 +4643,7 @@ Creatures you control get +2/+2 and gain trample until end of turn.</text>
     </card>
     <card>
       <name>Lukka, Godbonder</name>
-      <set rarity="mythic" splitterPath="/Lukka, Godbonder.jpg" >AKT</set>
+      <set num="144" rarity="mythic" splitterPath="/Lukka, Godbonder.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -4662,7 +4662,7 @@ Creatures you control get +2/+2 and gain trample until end of turn.</text>
     </card>
     <card>
       <name>The Last Aetherbeast</name>
-      <set rarity="mythic" splitterPath="/The Last Aetherbeast.jpg" >AKT</set>
+      <set num="144" rarity="mythic" splitterPath="/The Last Aetherbeast.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -4679,7 +4679,7 @@ Whenever The Last Aetherbeast deals combat damage to a player, put a loyalty cou
     </card>
     <card>
       <name>Defiant Roar</name>
-      <set rarity="common">AKT</set>
+      <set num="178" rarity="common">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4700,7 +4700,7 @@ URDONSONDER</notes>
     </card>
     <card>
       <name>Trounce</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="166" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4720,7 +4720,7 @@ Trounce deals 4 damage divided among one or two targets.</text>
     </card>
     <card>
       <name>High School</name>
-      <set rarity="rare">AKT</set>
+      <set num="190" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4738,7 +4738,7 @@ Trounce deals 4 damage divided among one or two targets.</text>
     </card>
     <card>
       <name>Therian Whispers</name>
-      <set rarity="rare">AKT</set>
+      <set num="125" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4756,7 +4756,7 @@ Trounce deals 4 damage divided among one or two targets.</text>
     </card>
     <card>
       <name>Thawion, Shield of Ur</name>
-      <set rarity="mythic">AKT</set>
+      <set num="251" rarity="mythic">AKT</set>
       <prop>
         <colors>WUG</colors>
         <color>WUG</color>
@@ -4777,7 +4777,7 @@ If an ability of a non-Dragon creature you control triggers, you may have that a
     </card>
     <card>
       <name>Unfair Birth</name>
-      <set rarity="rare">AKT</set>
+      <set num="128" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4795,7 +4795,7 @@ If an ability of a non-Dragon creature you control triggers, you may have that a
     </card>
     <card>
       <name>Self-Jailing Sire</name>
-      <set rarity="uncommon" splitterPath="/Self-Jailing Sire.jpg" >AKT</set>
+      <set num="158" rarity="uncommon" splitterPath="/Self-Jailing Sire.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4817,7 +4817,7 @@ Menace
     </card>
     <card>
       <name>That Gross Authentic Self</name>
-      <set rarity="uncommon" splitterPath="/That Gross Authentic Self.jpg" >AKT</set>
+      <set num="158" rarity="uncommon" splitterPath="/That Gross Authentic Self.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4840,7 +4840,7 @@ Sacrifice a creature: Exile the top card of your library. You may cast it. If yo
     </card>
     <card>
       <name>Channel the Call</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="130" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4860,7 +4860,7 @@ Whenever a permanent you control transforms or enters transformed, return Channe
     </card>
     <card>
       <name>Urdonsonder</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="213" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4879,7 +4879,7 @@ UG09</notes>
     </card>
     <card>
       <name>Frail Vassal</name>
-      <set rarity="common" splitterPath="/Frail Vassal.jpg" >AKT</set>
+      <set num="183" rarity="common" splitterPath="/Frail Vassal.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4901,7 +4901,7 @@ UG09</notes>
     </card>
     <card>
       <name>Protective Sire</name>
-      <set rarity="common" splitterPath="/Protective Sire.jpg" >AKT</set>
+      <set num="183" rarity="common" splitterPath="/Protective Sire.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -4925,7 +4925,7 @@ WEREWOLFTYPE</notes>
     </card>
     <card>
       <name>Novablast&apos;s Worldview</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="116" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -4947,7 +4947,7 @@ III — If you control the creature with the greatest power or tied for it, you 
     </card>
     <card>
       <name>Erys&apos; Worldview</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="11" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -4972,7 +4972,7 @@ III — If you control no non-Dragon creatures, you gain 5 life.
     </card>
     <card>
       <name>Hazenwyld&apos;s Worldview</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="140" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4996,7 +4996,7 @@ III — Transform target creature you control. When you do, it fights up to one 
     </card>
     <card>
       <name>Thawion&apos;s Worldview</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="210" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5020,7 +5020,7 @@ III — If there are eight or more creature types among non-Erysite creatures yo
     </card>
     <card>
       <name>Lukka&apos;s Worldview</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="66" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5044,7 +5044,7 @@ III — If you have 5 or more life than an opponent, gain control of target tapp
     </card>
     <card>
       <name>Infested Fortress</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="109" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5066,7 +5066,7 @@ Infested Fortress can’t attack or block unless you sacrifice a creature.</text
     </card>
     <card>
       <name>Suppressive Fire</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="163" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5088,7 +5088,7 @@ SOLDIERTYPE</notes>
     </card>
     <card>
       <name>Minister of Welfare</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="29" rarity="uncommon">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5110,7 +5110,7 @@ When Minister of Welfare enters, if an opponent has more cards in hand than you,
     </card>
     <card>
       <name>Abiogenesis</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="46" rarity="uncommon">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5133,7 +5133,7 @@ UNCOMMONKINCYCLE
     </card>
     <card>
       <name>Sapience Spreading</name>
-      <set rarity="rare">AKT</set>
+      <set num="202" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5153,7 +5153,7 @@ Tap an untapped Dragon you control: Add one mana of any color.</text>
     </card>
     <card>
       <name>Besotted Courtier</name>
-      <set rarity="rare">AKT</set>
+      <set num="5" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5174,7 +5174,7 @@ ADVISORTYPE
     </card>
     <card>
       <name>Omnificient Vessel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="149" rarity="uncommon">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5197,7 +5197,7 @@ When Omnificient Vessel enters, each player may discard their hand. Each player 
     </card>
     <card>
       <name>Gentrification</name>
-      <set rarity="rare">AKT</set>
+      <set num="184" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5215,7 +5215,7 @@ When Omnificient Vessel enters, each player may discard their hand. Each player 
     </card>
     <card>
       <name>Access Tunnel</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="263" rarity="uncommon">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5234,7 +5234,7 @@ When Omnificient Vessel enters, each player may discard their hand. Each player 
     </card>
     <card>
       <name>Siege of Percitha</name>
-      <set rarity="rare">AKT</set>
+      <set num="160" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5253,7 +5253,7 @@ SPOTLIGHT</notes>
     </card>
     <card>
       <name>Frail Friendship</name>
-      <set rarity="mythic">AKT</set>
+      <set num="182" rarity="mythic">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5272,7 +5272,7 @@ Once each turn, when you cast a spell with only one of the chosen types, reveal 
     </card>
     <card>
       <name>Karaja, Heroic Trueblight</name>
-      <set rarity="mythic">AKT</set>
+      <set num="236" rarity="mythic">AKT</set>
       <prop>
         <colors>WU</colors>
         <manacost>2WU</manacost>
@@ -5293,7 +5293,7 @@ Once each turn, when you cast a spell with only one of the chosen types, reveal 
     </card>
     <card>
       <name>Ithian Highblood</name>
-      <set rarity="rare">AKT</set>
+      <set num="62" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5314,7 +5314,7 @@ Prowess abilities of permanents you control also trigger whenever another Lizard
     </card>
     <card>
       <name>Mass Migration</name>
-      <set rarity="rare">AKT</set>
+      <set num="27" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5333,7 +5333,7 @@ LIZARDTYPE</notes>
     </card>
     <card>
       <name>Ineffable Spawning</name>
-      <set rarity="rare">AKT</set>
+      <set num="108" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5352,7 +5352,7 @@ INCARNATIONTYPE</notes>
     </card>
     <card>
       <name>Atraja the Mutable</name>
-      <set rarity="rare">AKT</set>
+      <set num="220" rarity="rare">AKT</set>
       <prop>
         <colors>BR</colors>
         <color>BR</color>
@@ -5374,7 +5374,7 @@ NOBLECYC</notes>
     </card>
     <card>
       <name>Ruthless Revenge</name>
-      <set rarity="rare">AKT</set>
+      <set num="157" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5395,7 +5395,7 @@ Sacrifice Ruthless Revenge, Discard a card: Draw a card.</text>
     </card>
     <card>
       <name>Aetherbeast Scholar</name>
-      <set rarity="rare">AKT</set>
+      <set num="47" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5417,7 +5417,7 @@ Whenever Aetherbeast Scholar deals combat damage to a player, each player may sh
     </card>
     <card>
       <name>Identity Connoisseur</name>
-      <set rarity="rare">AKT</set>
+      <set num="107" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5438,7 +5438,7 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
     </card>
     <card>
       <name>Ixaja&apos;s Stalwart</name>
-      <set rarity="rare">AKT</set>
+      <set num="194" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5460,7 +5460,7 @@ When Ixaja’s Stalwart enters, another target Hex you control gets +6/+5 and ga
     </card>
     <card>
       <name>Injector Lobbyist</name>
-      <set rarity="rare">AKT</set>
+      <set num="22" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -5483,7 +5483,7 @@ Spells of the chosen type cost {1} more to cast.</text>
     </card>
     <card>
       <name>Sustain Worldbalance</name>
-      <set rarity="rare">AKT</set>
+      <set num="4" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5501,7 +5501,7 @@ Spells of the chosen type cost {1} more to cast.</text>
     </card>
     <card>
       <name>Decay</name>
-      <set rarity="rare">AKT</set>
+      <set num="98" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5524,7 +5524,7 @@ Rather than sacrifice a permanent with a given quality, you may exile a card wit
     </card>
     <card>
       <name>Kasta of Infinite Sires</name>
-      <set rarity="rare" splitterPath="/Kasta of Infinite Sires.jpg" >AKT</set>
+      <set num="64" rarity="rare" splitterPath="/Kasta of Infinite Sires.jpg" >AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5546,7 +5546,7 @@ Rather than sacrifice a permanent with a given quality, you may exile a card wit
     </card>
     <card>
       <name>Bisapience Studies</name>
-      <set rarity="rare" splitterPath="/Bisapience Studies.jpg" >AKT</set>
+      <set num="64" rarity="rare" splitterPath="/Bisapience Studies.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5568,7 +5568,7 @@ Embrace Bisapience Studies. (Exile it. You may cast either half on a later turn 
     </card>
     <card>
       <name>Steal the Ur-Gift</name>
-      <set rarity="rare">AKT</set>
+      <set num="162" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5589,7 +5589,7 @@ Steal the Ur-Gift deals X damage to any target.
     </card>
     <card>
       <name>Lunette, Imperial Strategist</name>
-      <set rarity="rare">AKT</set>
+      <set num="238" rarity="rare">AKT</set>
       <prop>
         <colors>WR</colors>
         <color>WR</color>
@@ -5612,7 +5612,7 @@ When Lunette enters, create two 1/1 white Soldier creature tokens.
     </card>
     <card>
       <name>Detritus Dredger</name>
-      <set rarity="rare">AKT</set>
+      <set num="179" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5633,7 +5633,7 @@ For each card type among cards exiled by Detritus Dredger, it gets +1/+1 and hex
     </card>
     <card>
       <name>Glimpse of Equality</name>
-      <set rarity="rare">AKT</set>
+      <set num="58" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5653,7 +5653,7 @@ At the beginning of the end step, sacrifice Glimpse of Equality.</text>
     </card>
     <card>
       <name>Algaja, Lord of Disregard</name>
-      <set rarity="rare">AKT</set>
+      <set num="217" rarity="rare">AKT</set>
       <prop>
         <colors>BG</colors>
         <color>BG</color>
@@ -5675,7 +5675,7 @@ When Algaja enters, mill ten cards.</text>
     </card>
     <card>
       <name>Disaster Responder</name>
-      <set rarity="rare">AKT</set>
+      <set num="100" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5696,7 +5696,7 @@ CITIZENTYPE</notes>
     </card>
     <card>
       <name>Hyyiroe, Revolution&apos;s Steed</name>
-      <set rarity="mythic">AKT</set>
+      <set num="234" rarity="mythic">AKT</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -5719,7 +5719,7 @@ When Hyyiroe dies, Mill six cards. Put up to two creature cards with mana value 
     </card>
     <card>
       <name>Erys&apos; Memoirs</name>
-      <set rarity="mythic">AKT</set>
+      <set num="225" rarity="mythic">AKT</set>
       <prop>
         <colors>UR</colors>
         <color>UR</color>
@@ -5738,7 +5738,7 @@ Whenever you create one or more Dragon tokens, draw a card.</text>
     </card>
     <card>
       <name>Empathystorm</name>
-      <set rarity="rare">AKT</set>
+      <set num="136" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -5757,7 +5757,7 @@ At the beginning of your end step, choose left or right. Starting with you, each
     </card>
     <card>
       <name>King Platinum Sarajii</name>
-      <set rarity="mythic">AKT</set>
+      <set num="237" rarity="mythic">AKT</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -5781,7 +5781,7 @@ NOBLECYC
     </card>
     <card>
       <name>Old Guard Blackrod</name>
-      <set rarity="rare">AKT</set>
+      <set num="117" rarity="rare">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -5802,7 +5802,7 @@ Whenever Old Guard Blackrod attacks, surveil 2. If an Advisor is put into your g
     </card>
     <card>
       <name>Unextinct Cavern</name>
-      <set rarity="rare">AKT</set>
+      <set num="284" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5821,7 +5821,7 @@ Exile a card with a creature type from your graveyard: Until end of turn, Unexti
     </card>
     <card>
       <name>Submerged Spires</name>
-      <set rarity="rare" splitterPath="/Submerged Spires.jpg" >AKT</set>
+      <set num="282" rarity="rare" splitterPath="/Submerged Spires.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5843,7 +5843,7 @@ Submerged Spires enters tapped.
     </card>
     <card>
       <name>Emerged Stonepiler</name>
-      <set rarity="rare" splitterPath="/Emerged Stonepiler.jpg" >AKT</set>
+      <set num="282" rarity="rare" splitterPath="/Emerged Stonepiler.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5866,7 +5866,7 @@ Emerged Stonepiler can’t be blocked.
     </card>
     <card>
       <name>Denizen of New Akella Alt</name>
-      <set rarity="common">AKT</set>
+      <set num="2" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5887,7 +5887,7 @@ Trample</text>
     </card>
     <card>
       <name>Gigant Nestcrafter</name>
-      <set rarity="rare">AKT</set>
+      <set num="57" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5908,7 +5908,7 @@ When Gigant Nestcrafter enters, if it was cast, search your library for an artif
     </card>
     <card>
       <name>Homestead of the Meek</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="232" rarity="uncommon">AKT</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -5928,7 +5928,7 @@ Whenever you cast an artifact or enchantment spell, create a 1/1 green Hex Citiz
     </card>
     <card>
       <name>In Lukka&apos;s Thrall</name>
-      <set rarity="rare">AKT</set>
+      <set num="60" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -5948,7 +5948,7 @@ When you don’t control a creature with greater power than enchanted creature, 
     </card>
     <card>
       <name>Argent Court Enraged</name>
-      <set rarity="mythic">AKT</set>
+      <set num="219" rarity="mythic">AKT</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -5973,7 +5973,7 @@ If X is 6 or more, Argent Court Enraged becomes a 6/5 Artificer Noble creature w
     </card>
     <card>
       <name>Condemned Buildling</name>
-      <set rarity="rare">AKT</set>
+      <set num="177" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -5994,7 +5994,7 @@ GREENRARE</notes>
     </card>
     <card>
       <name>Exalted Extrusion</name>
-      <set rarity="rare">AKT</set>
+      <set num="137" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6012,7 +6012,7 @@ GREENRARE</notes>
     </card>
     <card>
       <name>Lightning Sarajii</name>
-      <set rarity="mythic">AKT</set>
+      <set num="195" rarity="mythic">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6034,7 +6034,7 @@ When Lightning dies, you gain 6 life and draw a card.</text>
     </card>
     <card>
       <name>Sired Poultry</name>
-      <set rarity="rare" splitterPath="/Sired Poultry.jpg" >AKT</set>
+      <set num="161" rarity="rare" splitterPath="/Sired Poultry.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6057,7 +6057,7 @@ Whenever another Werewolf you control enters, add {R} or {G}.
     </card>
     <card>
       <name>Vengeant Skarrgspawn</name>
-      <set rarity="rare" splitterPath="/Vengeant Skarrgspawn.jpg" >AKT</set>
+      <set num="161" rarity="rare" splitterPath="/Vengeant Skarrgspawn.jpg" >AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6081,7 +6081,7 @@ When Vengeant Skarrgspawn enters, put a +1/+1 counter on it for each other Werew
     </card>
     <card>
       <name>Gristle, Fierce Vassal</name>
-      <set rarity="rare" splitterPath="/Gristle, Fierce Vassal.jpg" >AKT</set>
+      <set num="230" rarity="rare" splitterPath="/Gristle, Fierce Vassal.jpg" >AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -6103,7 +6103,7 @@ Whenever Gristle, Fierce Vassal enters or attacks, draw a card for each transfor
     </card>
     <card>
       <name>Gristlethark, Godsire</name>
-      <set rarity="rare" splitterPath="/Gristlethark, Godsire.jpg" >AKT</set>
+      <set num="230" rarity="rare" splitterPath="/Gristlethark, Godsire.jpg" >AKT</set>
       <prop>
         <colors>RG</colors>
         <color>RG</color>
@@ -6129,7 +6129,7 @@ Whenever Gristlethark, Godsire enters or attacks, double the power of another ta
     </card>
     <card>
       <name>Novablast, Blade of Ur</name>
-      <set rarity="mythic">AKT</set>
+      <set num="241" rarity="mythic">AKT</set>
       <prop>
         <colors>WBR</colors>
         <color>WBR</color>
@@ -6150,7 +6150,7 @@ At the beginning of your upkeep, target opponent pays the cost of each ward abil
     </card>
     <card>
       <name>Prithitian Justiciar</name>
-      <set rarity="rare">AKT</set>
+      <set num="35" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6173,7 +6173,7 @@ You choose if creatures with a chosen name attack or block each combat and how t
     </card>
     <card>
       <name>Stellar Spymasters</name>
-      <set rarity="rare">AKT</set>
+      <set num="42" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6193,7 +6193,7 @@ You choose if creatures with a chosen name attack or block each combat and how t
     </card>
     <card>
       <name>Prithite&apos;s Summons</name>
-      <set rarity="mythic">AKT</set>
+      <set num="34" rarity="mythic">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6212,7 +6212,7 @@ You choose if creatures with a chosen name attack or block each combat and how t
     </card>
     <card>
       <name>Prithite, Grand Orator</name>
-      <set rarity="mythic">AKT</set>
+      <set num="151" rarity="mythic">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6232,7 +6232,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Exposed Ridge</name>
-      <set rarity="rare" splitterPath="/Exposed Ridge.jpg" >AKT</set>
+      <set num="272" rarity="rare" splitterPath="/Exposed Ridge.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6252,7 +6252,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Heziir, Heretic&apos;s Sanctum</name>
-      <set rarity="rare" splitterPath="/Heziir, Heretic's Sanctum.jpg" >AKT</set>
+      <set num="272" rarity="rare" splitterPath="/Heziir, Heretic's Sanctum.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6273,7 +6273,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Exposed City</name>
-      <set rarity="rare" splitterPath="/Exposed City.jpg" >AKT</set>
+      <set num="268" rarity="rare" splitterPath="/Exposed City.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6293,7 +6293,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Klata, God&apos;s Plaything</name>
-      <set rarity="rare" splitterPath="/Klata, God's Plaything.jpg" >AKT</set>
+      <set num="268" rarity="rare" splitterPath="/Klata, God's Plaything.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6314,7 +6314,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Exposed Graves</name>
-      <set rarity="rare" splitterPath="/Exposed Graves.jpg" >AKT</set>
+      <set num="270" rarity="rare" splitterPath="/Exposed Graves.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6334,7 +6334,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Stainlark, Tomb of Erys</name>
-      <set rarity="rare" splitterPath="/Stainlark, Tomb of Erys.jpg" >AKT</set>
+      <set num="270" rarity="rare" splitterPath="/Stainlark, Tomb of Erys.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6355,7 +6355,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Exposed Hinterland</name>
-      <set rarity="rare" splitterPath="/Exposed Hinterland.jpg" >AKT</set>
+      <set num="271" rarity="rare" splitterPath="/Exposed Hinterland.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6375,7 +6375,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Regarjex, Nest of Tyranny</name>
-      <set rarity="rare" splitterPath="/Regarjex, Nest of Tyranny.jpg" >AKT</set>
+      <set num="271" rarity="rare" splitterPath="/Regarjex, Nest of Tyranny.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6396,7 +6396,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Exposed Coast</name>
-      <set rarity="rare" splitterPath="/Exposed Coast.jpg" >AKT</set>
+      <set num="269" rarity="rare" splitterPath="/Exposed Coast.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6416,7 +6416,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Erythea, Justiciar&apos;s Rest</name>
-      <set rarity="rare" splitterPath="/Erythea, Justiciar's Rest.jpg" >AKT</set>
+      <set num="269" rarity="rare" splitterPath="/Erythea, Justiciar's Rest.jpg" >AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6437,7 +6437,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Prithite&apos;s Palace Lost</name>
-      <set rarity="mythic">AKT</set>
+      <set num="279" rarity="mythic">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6457,7 +6457,7 @@ Sacrifice a land: Exile the top card of your library. You may play it without pa
     </card>
     <card>
       <name>Thoughtlich&apos;s Backup</name>
-      <set rarity="rare">AKT</set>
+      <set num="261" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6477,7 +6477,7 @@ Whenever you cast a spell, if you control two or more other permanents that shar
     </card>
     <card>
       <name>Ilx, Mothweft Ambassador</name>
-      <set rarity="rare">AKT</set>
+      <set num="235" rarity="rare">AKT</set>
       <prop>
         <colors>WB</colors>
         <color>WB</color>
@@ -6502,7 +6502,7 @@ Flying</text>
     </card>
     <card>
       <name>Pillar of Worldbalance</name>
-      <set rarity="rare">AKT</set>
+      <set num="260" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6522,7 +6522,7 @@ Flying</text>
     </card>
     <card>
       <name>Assert Territory</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="176" rarity="uncommon">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6540,7 +6540,7 @@ Flying</text>
     </card>
     <card>
       <name>Condemn the Ungrateful</name>
-      <set rarity="mythic">AKT</set>
+      <set num="95" rarity="mythic">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6560,7 +6560,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Envoy of the Accord</name>
-      <set rarity="rare">AKT</set>
+      <set num="181" rarity="rare">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6579,7 +6579,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Untie the Moral Knot</name>
-      <set rarity="rare">AKT</set>
+      <set num="44" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6597,7 +6597,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Lukka&apos;s Ascension</name>
-      <set rarity="mythic">AKT</set>
+      <set num="145" rarity="mythic">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6615,7 +6615,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Platinum&apos;s Spymaster</name>
-      <set rarity="rare">AKT</set>
+      <set num="77" rarity="rare">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -6635,7 +6635,7 @@ Destroy all creatures.</text>
     </card>
     <card>
       <name>Reject the Stars</name>
-      <set rarity="rare">AKT</set>
+      <set num="39" rarity="rare">AKT</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -6656,7 +6656,7 @@ SPOTLIGHT</notes>
     </card>
     <card>
       <name>Grocery Shopper</name>
-      <set rarity="mythic" splitterPath="/Grocery Shopper.jpg" >AKT</set>
+      <set num="104" rarity="mythic" splitterPath="/Grocery Shopper.jpg" >AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6677,7 +6677,7 @@ SPOTLIGHT</notes>
     </card>
     <card>
       <name>Toxic Skavaratakla</name>
-      <set rarity="mythic" splitterPath="/Toxic Skavaratakla.jpg" >AKT</set>
+      <set num="104" rarity="mythic" splitterPath="/Toxic Skavaratakla.jpg" >AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6699,7 +6699,7 @@ Whenever another creature enters or blocks, it gets -0/-4 until end of turn.
     </card>
     <card>
       <name>Swiftpaw Striker</name>
-      <set rarity="mythic" splitterPath="/Swiftpaw Striker.jpg" >AKT</set>
+      <set num="164" rarity="mythic" splitterPath="/Swiftpaw Striker.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6721,7 +6721,7 @@ Whenever you play a card from exile, this creature gains double strike until end
     </card>
     <card>
       <name>Swiftmind Sage</name>
-      <set rarity="mythic" splitterPath="/Swiftmind Sage.jpg" >AKT</set>
+      <set num="164" rarity="mythic" splitterPath="/Swiftmind Sage.jpg" >AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6746,7 +6746,7 @@ Whenever Swiftmind Sage deals damage to an opponent, exile the top card of your 
     </card>
     <card>
       <name>Tranquil Marketplace</name>
-      <set rarity="rare">AKT</set>
+      <set num="283" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6765,7 +6765,7 @@ Whenever Swiftmind Sage deals damage to an opponent, exile the top card of your 
     </card>
     <card>
       <name>Omnipotence</name>
-      <set rarity="mythic">AKT</set>
+      <set num="3" rarity="mythic">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6783,7 +6783,7 @@ Whenever Swiftmind Sage deals damage to an opponent, exile the top card of your 
     </card>
     <card>
       <name>Death Drive</name>
-      <set rarity="rare">AKT</set>
+      <set num="133" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -6803,7 +6803,7 @@ Whenever you attack, create a token that’s a copy of another target attacking 
     </card>
     <card>
       <name>Separation of Worlds</name>
-      <set rarity="mythic">AKT</set>
+      <set num="205" rarity="mythic">AKT</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -6824,7 +6824,7 @@ Tap an unburdent creature you control: Add GGG.</text>
     </card>
     <card>
       <name>Callwolf Replica</name>
-      <set rarity="rare">AKT</set>
+      <set num="257" rarity="rare">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6844,7 +6844,7 @@ When Callwolf Replica dies, it deals damage equal to its power to each opponent.
     </card>
     <card>
       <name>Endless Vassals</name>
-      <set rarity="uncommon">AKT</set>
+      <set num="102" rarity="uncommon">AKT</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -6863,7 +6863,7 @@ UB10</notes>
     </card>
     <card>
       <name>Thoughtglass Shaper</name>
-      <set rarity="common">AKT</set>
+      <set num="85" rarity="common">AKT</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
