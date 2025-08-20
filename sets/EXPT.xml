@@ -521,7 +521,8 @@ Whenever one or more tokens you control deal combat damage to a player, you may 
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.</text>
+      <text>Pathbound—1II. Activate only if you have no cards in your graveyard with mana value 2 or 3. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+At the beginning of your end step, you may exile target card from your graveyard with mana value 4 or greater. If you do, create a trace of that card into your hand.</text>
     </card>
     <card>
       <name>One Last Sunset</name>
@@ -579,7 +580,8 @@ Whenever you create a token that doesn’t share a name with a token you control
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying
+      <text>Pathbound—1I. Activate only if a card that shares a creature type with this dealt damage to an opponent this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Flying
 Whenever this creature attacks, sift 1. (Look at the top card of your library. You may put that card into your sanctum.)</text>
     </card>
     <card>
@@ -598,7 +600,8 @@ Whenever this creature attacks, sift 1. (Look at the top card of your library. Y
         <notes>!designer Aanginer</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Discard your hand, then draw three cards.</text>
+      <text>Pathbound {2}, Activate only if there are no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Discard your hand, then draw three cards.</text>
     </card>
     <card>
       <name>Against the Night</name>
@@ -1481,7 +1484,7 @@ also, maybe 7 mana
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
-Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+Channel — IW, Discard this: Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shapeshifter Token</name>
@@ -2117,7 +2120,7 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>

@@ -242,7 +242,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>The Foxfolk children are born feral; They must spark their curiosity to join society. </notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 When this creature enters, create a 1/1 white Fox creature token.
 This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
@@ -283,7 +283,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature gets +0/+1 and has vigilance as long as you’ve illuminated white.</text>
     </card>
     <card>
@@ -306,7 +306,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {3}, {T}: Tap target creature. This ability costs {3} less to activate if you’ve illuminated white.</text>
     </card>
     <card>
@@ -655,7 +655,7 @@ When this creature enters, tap target creature an opponent controls and put a st
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.
 This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.</text>
     </card>
@@ -849,7 +849,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Destroy target creature or planeswalker if it has mana value 2 or less or if you’ve illuminated black.</text>
     </card>
     <card>
@@ -1023,7 +1023,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This spell costs {2} less to cast if you’ve illuminated black or if you control three or more black permanents.</text>
     </card>
     <card>
@@ -1099,7 +1099,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
         <tag>clanless;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
@@ -1228,7 +1228,7 @@ Target creature you control gains first strike and trample until end of turn. (T
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
@@ -1347,7 +1347,7 @@ v1.0 Whenever a spell or ability puts a card into your hand, you gain 2 life.
         <notes>It took years, but the kinfolk reignited a strength the elves of Vinimroth could never hold again.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Landfall — Whenever a land enters the battlefield under your control, this creature gets +1/+0 until end of turn. If you illuminated green, put a +1/+1 counter on this creature instead.</text>
     </card>
     <card>
@@ -1728,7 +1728,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.</text>
     </card>
     <card>
@@ -1859,7 +1859,7 @@ Create two 1/1 white and silver Insect creature tokens with flying and decayed. 
         <notes>Create a tapped token that’s a copy of target land if it’s basic or if you’ve illuminated silver. Then untap that token if you’ve illuminated silver.</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Target creature becomes an enchantment land. (It loses all other card types.) It gains “{T}: Add {I}.” If you’ve illuminated silver, it loses all abilities.</text>
     </card>
     <card>
@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token that’s a copy of a token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -2653,7 +2653,7 @@ Evoke W/BW/B (You may cast this spell for its evoke cost. If you do, it’s sacr
 steve</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Flying, haste
 This creature gets +1/+1 if you’ve illuminated red, and +1/+1 if you’ve illuminated silver. (If you’ve illuminated both, it gets +2/+2.)</text>
     </card>
@@ -2756,7 +2756,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token that’s a copy of a token you control.)
+• Mirror. (Create a token thats a copy of another token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -3194,7 +3194,7 @@ Equipped creature has healing 2. (Damage dealt by that creature also causes you 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature is all colors among other permanents you control.
 Whenever you cast a spell that is one or more colors, if you’ve illuminated any of that spell’s colors, put a +1/+1 counter on target creature you control.</text>
     </card>
@@ -3215,7 +3215,7 @@ Whenever you cast a spell that is one or more colors, if you’ve illuminated an
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantment token with “This is also a creature if you’ve illuminated silver.”</text>
     </card>
     <card>
@@ -3924,7 +3924,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Tokens you control have haste.
 Whenever you attack, draw a card from your sanctum or library, then discard a card. If you’ve illuminated silver, put a +1/+1 counter on this creature.</text>
     </card>
@@ -4122,7 +4122,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {T}: Add {C}.
 {T}, Sacrifice this land: Draw a card. Activate only if you’ve illuminated a color.</text>
     </card>
@@ -4736,7 +4736,7 @@ Explorer — When this creature attacks, if you control five or more differently
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This creature has power equal to the number of creatures you control.
 This creature has vigilance and flying as long as you’ve illuminated white.</text>
     </card>
@@ -4775,7 +4775,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 This spell costs {2} less to cast if you’ve illuminated white.
 Exile target nonland permanent.</text>
     </card>
@@ -5016,7 +5016,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 {T}: Add {C}. You can’t spend this mana to cast a noninstant, nonsorcery spell.
 4U, Sacrifice this creature: Draw three cards. Activate only if you’ve illuminated blue.</text>
     </card>
@@ -5089,7 +5089,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
       <text>Enchant creature
 When this enchantment enters, tap enchanted permanent.
 Enchanted permanent doesn’t untap during its controller’s untap step.
-When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Relentless Spellseeker</name>
@@ -5248,7 +5248,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
@@ -5308,7 +5308,7 @@ Explorer — 1B: Return this creature from your graveyard to the battlefield. Ac
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
 Creature tokens you control gain haste until end of turn.</text>
     </card>
@@ -5366,7 +5366,7 @@ Creature tokens you control gain haste until end of turn.</text>
         <notes>*probably* needs to be 5 mana &lt;3</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Whenever you attack, if you’ve illuminated black, each opponent loses 2 life and you gain 2 life. Otherwise each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -5683,7 +5683,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Haste
 {3}, {T}: This creature deals 1 damage to any target. This ability costs {T} less to activate if you’ve illuminated red.</text>
     </card>
@@ -5765,7 +5765,7 @@ Explorer — 1R: This creature gets +2/+0 and gains trample until end of turn. A
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Broodmages Furor</name>
@@ -5993,7 +5993,7 @@ Put a +1/+1 counter on each of up to X target creatures. (Then put this card int
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to one token you control. Then If you illuminated green, put a +1/+1 counter on each other creature you control. (This spell’s tokens can cause you to illuminate green before putting counters.)</text>
     </card>
     <card>
@@ -6069,7 +6069,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <notes>!exportname Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Vigilance
 Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, draw a card.</text>
     </card>
@@ -6223,7 +6223,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
         <notes>!exportname Korna Adventuring Historian</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Materialize 2 (Tap any number of other enchantments you control with total mana value 2 or more: This becomes a creature in addition to its other types until your next upkeep.)
+      <text>Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)
 Trample, vigilance
 Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with vigilance.</text>
     </card>
@@ -6651,7 +6651,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Haste
 Whenever this creature attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.         </text>
     </card>
@@ -6825,7 +6825,7 @@ Multicolor
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
+      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Flying, ward {1}
 This creature is all colors.
 For each color you’ve illuminated, this creature gets +1/+1.</text>

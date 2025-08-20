@@ -978,7 +978,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New Tensuo Luminary. This ability triggers only once each turn.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Prismatic Armor</name>
@@ -1453,7 +1453,7 @@ Ploy — Target opponent reveals their hand and discards a nonland card of your 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Deepmists Vindicator becomes blocked, [each opponent sacrifices a creature or planeswalker.]
-Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4B. Then exile it.)</text>
+Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Exhaust Desire</name>
@@ -1534,7 +1534,7 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Keyseeker enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Ilcan Resilience</name>
@@ -1593,7 +1593,7 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
 {T}: Mill a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Liberators of the Soul</name>
@@ -2531,7 +2531,7 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever New Tensuo Clergy or another creature you control dies, each opponent loses 1 life and you gain 1 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Out of Options</name>
@@ -3191,7 +3191,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -3444,7 +3444,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -3619,7 +3619,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       </prop>
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
@@ -3977,7 +3977,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -4450,7 +4450,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Physician enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Vanguard</name>
@@ -4470,7 +4470,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Vanguard enters, creatures you control get +1/+0 and gain first strike until end of turn.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Perceptual Distortion</name>
@@ -4594,7 +4594,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>
@@ -4673,7 +4673,7 @@ At the beginning of your first main phase, return target card from your graveyar
       <tablerow>2</tablerow>
       <text>Vrep can’t be blocked by more than one creature.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to Vrep’s power.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Wish for Death</name>

@@ -361,7 +361,9 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Lighthouse-398867729</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Illuminant Spire: Search your library for an Island card, put it onto the battlefield, then shuffle.</text>
@@ -379,7 +381,9 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Ivory Spire: Search your library for a Plains card, put it onto the battlefield, then shuffle.</text>
@@ -397,7 +401,9 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Castle-of-Illusions-1040129195</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Searing Spire: Search your library for a Mountain card, put it onto the battlefield, then shuffle.</text>
@@ -415,7 +421,9 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Tower-of-Silence-388926066</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Silent Spire: Search your library for a Swamp card, put it onto the battlefield, then shuffle.</text>
@@ -433,7 +441,9 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Temple-of-the-Moon-279269205</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Twisted Spire: Search your library for a Fault card, put it onto the battlefield, then shuffle.</text>
@@ -451,8 +461,318 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land - Spire </type>
         <maintype>Land</maintype>
-        <notes>https://www.deviantart.com/yanadhyana/art/Tree-of-Ancestors-363677527</notes>
+        <notes>!tag&lt;lair>spires
+!tag&lt;lairnumber> 3
+!tag&lt;lairauthor> fblthp the lost</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Verdant Spire: Search your library for a Forest card, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>True Blood of Saint Janus</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Exile up to two target cards from a single graveyard.
+{6}, {T}, Exile True Blood of Saint Janus: Cast a copy of a spell with mana value X or less exiled by True Blood of Saint Janus, where X is the number of cards exiled by True Blood of Saint Janus. Activate only as sorcery.</text>
+    </card>
+    <card>
+      <name>The Heart of Ischav</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When The Heart of Ischav enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
+{T}: Add one mana of any color basic lands you control could produce.
+{T}, Pay 1 life: Return a basic land card exiled with The Heart of Ischav to your hand.</text>
+    </card>
+    <card>
+      <name>Found Family</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes>WHITEUNCOMMON
+UW10</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target nonland permanent with a creature type. Its owner embraces it.</text>
+    </card>
+    <card>
+      <name>Delete</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes>BLACKCOMMON
+CB12</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power or toughness 2 or less.</text>
+    </card>
+    <card>
+      <name>The Calm Belt</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Realm </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this realm enters, choose a card name.
+Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.</text>
+    </card>
+    <card>
+      <name>Wanderer&apos;s Shrine</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Pay 1 life, Sacrifice Wanderer’s Shrine: Put a basic land card you own from your sanctum onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Falling Sparks</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors>RI</colors>
+        <color>RI</color>
+        <manacost>X1IR</manacost>
+        <cost>X1IR</cost>
+        <mana>X1IR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes>!designer TVP</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Converge — Falling Sparks deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
+    </card>
+    <card>
+      <name>Sundown</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1RR</manacost>
+        <cost>1RR</cost>
+        <mana>1RR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes>!designer Aanginer
+
+https://www.deviantart.com/ryky/art/ALL-COMMISSIONS-FOR-75-USD-READ-DESCRIPTIONS-744213721</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pathbound {2}. Activate only if there are no other cards in your sanctum.
+Discard your hand, then draw three cards.</text>
+    </card>
+    <card>
+      <name>Restored Plains</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes>!tapped</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When this land enters, surveil 1.
+({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Restored Island</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Island </type>
+        <maintype>Land</maintype>
+        <notes>!tapped</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When this land enters, surveil 1.
+({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Restored Swamp</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes>!tapped
+</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When this land enters, surveil 1.
+({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Restored Mountain</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Mountain </type>
+        <maintype>Land</maintype>
+        <notes>!tapped</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When this land enters, surveil 1.
+({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Restored Fault</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Fault </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When Restored Fault enters, surveil 1.
+({T}: Add {I}.)</text>
+    </card>
+    <card>
+      <name>Restored Forest</name>
+      <set rarity="mythic">LAIR</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Forest </type>
+        <maintype>Land</maintype>
+        <notes>!tapped</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+This land enters tapped.
+When this land enters, surveil 1.
+({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>Tyrant of Long Death</name>
+      <set rarity="">LAIR</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3GG</manacost>
+        <cost>3GG</cost>
+        <mana>3GG</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+        <notes>!ocean
+!tag&lt;champion> aanginer
+!tag&lt;is> champion
+!designer Trewq</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Impending 5—1G 
+Whenever Tyrant of Long Death enters or attacks, conjure a duplicate of target nontoken land you control into your hand.</text>
     </card>

@@ -162,7 +162,7 @@ IG: Mirror//Tokens</text>
       <reverse-related>Promise of Hunger</reverse-related>
       <reverse-related>Waterscape Mystic</reverse-related>
       <reverse-related> Coiled Sight</reverse-related>
-      <reverse-related> Waterscape Mystic // Coiled Sight</reverse-related>
+      <reverse-related> Waterscape Mystic  Coiled Sight</reverse-related>
     </card>
     <card>
       <name>Drake-05 FOE</name>
@@ -246,7 +246,7 @@ IG: Mirror//Tokens</text>
       <token>1</token>
       <reverse-related>Adventurous Pair</reverse-related>
       <reverse-related>Emigrating Pilgrim</reverse-related>
-      <reverse-related>Emigrating Pilgrim // Free to Fly</reverse-related>
+      <reverse-related>Emigrating Pilgrim  Free to Fly</reverse-related>
       <reverse-related count="2">Calign</reverse-related>
       <reverse-related>Aerial Assurance</reverse-related>
       <reverse-related>Ignelscor Witch</reverse-related>
@@ -352,7 +352,7 @@ IG: Mirror//Tokens</text>
       <token>1</token>
       <reverse-related>Hedgecrow</reverse-related>
       <reverse-related>Scaled Rippler</reverse-related>
-      <reverse-related>Scaled Ripper // Lunging Mitosis</reverse-related>
+      <reverse-related>Scaled Ripper  Lunging Mitosis</reverse-related>
       <reverse-related>Lizturbance</reverse-related>
     </card>
     <card>
