@@ -1934,7 +1934,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>

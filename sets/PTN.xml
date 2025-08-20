@@ -584,25 +584,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
 {4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
     </card>
     <card>
-      <name>PTN Plains</name>
-      <set num="260" rarity="">PTN</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-        <notes>!exportname PTN Plains</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PTN Plains 2</name>
+      <name>Plains</name>
       <set num="261" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -614,14 +596,32 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Plains 2
+        <notes>PTN Plains</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set num="260" rarity="">PTN</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes>PTN Plains 2
 !subname Plains 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Island</name>
+      <name>Island</name>
       <set num="262" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -633,13 +633,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Island</notes>
+        <notes>PTN Island</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Island 2</name>
+      <name>Island</name>
       <set num="263" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -651,32 +651,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Island 2
+        <notes>PTN Island 2
 !subname Island 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Swamp</name>
-      <set num="264" rarity="">PTN</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-        <notes>!exportname PTN Swamp</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>PTN Swamp 2</name>
+      <name>Swamp</name>
       <set num="265" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -688,14 +670,32 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Swamp 2
+        <notes>PTN Swamp</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set num="264" rarity="">PTN</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes>PTN Swamp 2
 !subname Swamp 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Mountain</name>
+      <name>Mountain</name>
       <set num="266" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -707,13 +707,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Mountain</notes>
+        <notes>PTN Mountain</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Mountain 2</name>
+      <name>Mountain</name>
       <set num="267" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -725,14 +725,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Mountain 2
+        <notes>PTN Mountain 2
 !subname Mountain 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Forest</name>
+      <name>Forest</name>
       <set num="268" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -744,13 +744,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Forest</notes>
+        <notes>PTN Forest</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Forest 2</name>
+      <name>Forest</name>
       <set num="269" rarity="">PTN</set>
       <prop>
         <colors></colors>
@@ -762,7 +762,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Forest 2
+        <notes>PTN Forest 2
 !subname Forest 2</notes>
       </prop>
       <tablerow>0</tablerow>

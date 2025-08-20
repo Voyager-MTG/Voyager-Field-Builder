@@ -18,7 +18,7 @@
       <reverse-related>Chirps, Spice Seeker</reverse-related>
     </card>
     <card>
-      <name>Beast-01 FOE</name>
+      <name>Beast FOE</name>
       <set num="23">FOE</set>
       <prop>
         <colors>G</colors>
@@ -26,7 +26,7 @@
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!related Lasting Discovery;Outlands Caretaker;Brightblossom Enclave;
-!exportname Beast-01</notes>
+Beast-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -34,9 +34,10 @@
       <reverse-related>Lasting Discovery</reverse-related>
       <reverse-related>Outlands Caretaker</reverse-related>
       <reverse-related>Brightblossom Enclave</reverse-related>
+      <reverse-related>Beast-01</reverse-related>
     </card>
     <card>
-      <name>Bird-01 FOE</name>
+      <name>Bird FOE</name>
       <set num="16">FOE</set>
       <prop>
         <colors>B</colors>
@@ -44,15 +45,16 @@
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related A Flock is Born&lt;3>;
-!exportname Bird-01</notes>
+Bird-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related count="3">A Flock is Born</reverse-related>
+      <reverse-related>Bird-01</reverse-related>
     </card>
     <card>
-      <name>Bird-03 FOE</name>
+      <name>Bird FOE</name>
       <set num="2">FOE</set>
       <prop>
         <colors>W</colors>
@@ -60,15 +62,16 @@
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Feather Piper&lt;2>;
-!exportname Bird-03</notes>
+Bird-03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related count="2">Feather Piper</reverse-related>
+      <reverse-related>Bird-03</reverse-related>
     </card>
     <card>
-      <name>Butterfly-01 FOE</name>
+      <name>Insect FOE</name>
       <set num="36">FOE</set>
       <prop>
         <colors>WI</colors>
@@ -76,15 +79,16 @@
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Chimarel Clearing;
-!exportname Butterfly-01</notes>
+Butterfly-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
       <reverse-related>Chimarel Clearing</reverse-related>
+      <reverse-related>Butterfly-01</reverse-related>
     </card>
     <card>
-      <name>Cat-01 FOE</name>
+      <name>Cat FOE</name>
       <set num="24">FOE</set>
       <prop>
         <colors>G</colors>
@@ -92,7 +96,7 @@
         <maintype>Creature</maintype>
         <pt>3/2</pt>
         <notes>!related Outlands Rescuer;Ancient Font;Enduring Woodland;
-!exportname Cat-01</notes>
+Cat-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -100,9 +104,10 @@
       <reverse-related>Outlands Rescuer</reverse-related>
       <reverse-related>Ancient Font</reverse-related>
       <reverse-related>Enduring Woodland</reverse-related>
+      <reverse-related>Cat-01</reverse-related>
     </card>
     <card>
-      <name>Crab-01 FOE</name>
+      <name>Crab FOE</name>
       <set num="29">FOE</set>
       <prop>
         <colors>I</colors>
@@ -110,12 +115,13 @@
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!related Enlightening Crescents;
-!exportname Crab-01</notes>
+Crab-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Enlightening Crescents</reverse-related>
+      <reverse-related>Crab-01</reverse-related>
     </card>
     <card>
       <name>Draft Archetypes FOE</name>
@@ -145,7 +151,7 @@ IG: Mirror//Tokens</text>
       <token>1</token>
     </card>
     <card>
-      <name>Dragon Eye-01 FOE</name>
+      <name>Dragon Eye FOE</name>
       <set num="12">FOE</set>
       <prop>
         <colors>U</colors>
@@ -153,7 +159,7 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!related Lasting Discovery;Promise of Hunger;Waterscape Mystic; Coiled Sight; Waterscape Mystic // Coiled Sight;
-!exportname Dragon Eye-01</notes>
+Dragon Eye-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample</text>
@@ -163,25 +169,27 @@ IG: Mirror//Tokens</text>
       <reverse-related>Waterscape Mystic</reverse-related>
       <reverse-related> Coiled Sight</reverse-related>
       <reverse-related> Waterscape Mystic  Coiled Sight</reverse-related>
+      <reverse-related>Dragon Eye-01</reverse-related>
     </card>
     <card>
-      <name>Drake-05 FOE</name>
-      <set num="14">FOE</set>
+      <name>Drake FOE</name>
+      <set num="13">FOE</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!related Tiderock Passage;
-!exportname Drake-05</notes>
+Drake-05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Tiderock Passage</reverse-related>
+      <reverse-related>Drake-05</reverse-related>
     </card>
     <card>
-      <name>Drake-04 FOE</name>
+      <name>Drake FOE</name>
       <set num="3">FOE</set>
       <prop>
         <colors>W</colors>
@@ -189,32 +197,34 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>!related Fadove Battle-Cleric;Soarwing Coast;
-!exportname Drake-04</notes>
+Drake-04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Fadove Battle-Cleric</reverse-related>
       <reverse-related>Soarwing Coast</reverse-related>
+      <reverse-related>Drake-04</reverse-related>
     </card>
     <card>
-      <name>Drake-02 FOE</name>
-      <set num="13">FOE</set>
+      <name>Drake FOE</name>
+      <set num="14">FOE</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Cerise, Auger of Flow;
-!exportname Drake-02</notes>
+Drake-02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Cerise, Auger of Flow</reverse-related>
+      <reverse-related>Drake-02</reverse-related>
     </card>
     <card>
-      <name>Drake-01 FOE</name>
+      <name>Drake FOE</name>
       <set num="17">FOE</set>
       <prop>
         <colors>B</colors>
@@ -222,16 +232,17 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Drake-Brood Peak;Pioneer’s Premonition;
-!exportname Drake-01</notes>
+Drake-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Drake-Brood Peak</reverse-related>
       <reverse-related>Pioneer&apos;s Premonition</reverse-related>
+      <reverse-related>Drake-01</reverse-related>
     </card>
     <card>
-      <name>Drake-03 FOE</name>
+      <name>Drake FOE</name>
       <set num="30">FOE</set>
       <prop>
         <colors>I</colors>
@@ -239,7 +250,7 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Adventurous Pair;Emigrating Pilgrim;Emigrating Pilgrim // Free to Fly;Calign&lt;2>;Aerial Assurance;Ignelscor Witch;
-!exportname Drake-03</notes>
+Drake-03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -250,9 +261,10 @@ IG: Mirror//Tokens</text>
       <reverse-related count="2">Calign</reverse-related>
       <reverse-related>Aerial Assurance</reverse-related>
       <reverse-related>Ignelscor Witch</reverse-related>
+      <reverse-related>Drake-03</reverse-related>
     </card>
     <card>
-      <name>Elemental Demon-01 FOE</name>
+      <name>Elemental Demon FOE</name>
       <set num="34">FOE</set>
       <prop>
         <colors>BR</colors>
@@ -260,15 +272,16 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!related Ignelscor Weaver;
-!exportname Elemental Demon-01</notes>
+Elemental Demon-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste, lifelink</text>
       <token>1</token>
       <reverse-related>Ignelscor Weaver</reverse-related>
+      <reverse-related>Elemental Demon-01</reverse-related>
     </card>
     <card>
-      <name>Elk Plant-01 FOE</name>
+      <name>Elk Plant FOE</name>
       <set num="26">FOE</set>
       <prop>
         <colors>G</colors>
@@ -277,16 +290,17 @@ IG: Mirror//Tokens</text>
         <pt>1/1</pt>
         <notes>https://www.artstation.com/artwork/vD0zgE
 !related Cervus Sprouting;Voice of the Thicket;
-!exportname Elk Plant-01</notes>
+Elk Plant-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Cervus Sprouting</reverse-related>
       <reverse-related>Voice of the Thicket</reverse-related>
+      <reverse-related>Elk Plant-01</reverse-related>
     </card>
     <card>
-      <name>Fish-01 FOE</name>
+      <name>Fish FOE</name>
       <set num="27">FOE</set>
       <prop>
         <colors>G</colors>
@@ -294,15 +308,16 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
         <notes>!related CG02 Gold-Streaked Obelisks;
-!exportname Fish-01</notes>
+Fish-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>CG02 Gold-Streaked Obelisks</reverse-related>
+      <reverse-related>Fish-01</reverse-related>
     </card>
     <card>
-      <name>Fox-01 FOE</name>
+      <name>Fox FOE</name>
       <set num="4">FOE</set>
       <prop>
         <colors>W</colors>
@@ -310,7 +325,7 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Meirel Caretaker;Staggering Spires;Meirel Pathwalker;Clerics Claymore;
-!exportname Fox-01</notes>
+Fox-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -319,9 +334,10 @@ IG: Mirror//Tokens</text>
       <reverse-related>Staggering Spires</reverse-related>
       <reverse-related>Meirel Pathwalker</reverse-related>
       <reverse-related>Clerics Claymore</reverse-related>
+      <reverse-related>Fox-01</reverse-related>
     </card>
     <card>
-      <name>Fox-02 FOE</name>
+      <name>Fox FOE</name>
       <set num="5">FOE</set>
       <prop>
         <colors>W</colors>
@@ -329,15 +345,16 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
         <notes>!related Lasting Discovery;
-!exportname Fox-02</notes>
+Fox-02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Lasting Discovery</reverse-related>
+      <reverse-related>Fox-02</reverse-related>
     </card>
     <card>
-      <name>Lizard-01 FOE</name>
+      <name>Lizard FOE</name>
       <set num="19">FOE</set>
       <prop>
         <colors>B</colors>
@@ -345,7 +362,7 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Hedgecrow;Scaled Rippler;Scaled Ripper // Lunging Mitosis;Lizturbance;
-!exportname Lizard-01</notes>
+Lizard-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -354,9 +371,10 @@ IG: Mirror//Tokens</text>
       <reverse-related>Scaled Rippler</reverse-related>
       <reverse-related>Scaled Ripper  Lunging Mitosis</reverse-related>
       <reverse-related>Lizturbance</reverse-related>
+      <reverse-related>Lizard-01</reverse-related>
     </card>
     <card>
-      <name>Lizard-02 FOE</name>
+      <name>Lizard FOE</name>
       <set num="20">FOE</set>
       <prop>
         <colors>B</colors>
@@ -364,15 +382,16 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!related Eroding River;
-!exportname Lizard-02</notes>
+Lizard-02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace</text>
       <token>1</token>
       <reverse-related>Eroding River</reverse-related>
+      <reverse-related>Lizard-02</reverse-related>
     </card>
     <card>
-      <name>Mongoose-01 FOE</name>
+      <name>Mongoose FOE</name>
       <set num="32">FOE</set>
       <prop>
         <colors>I</colors>
@@ -380,22 +399,23 @@ IG: Mirror//Tokens</text>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
         <notes>!related Lasting Discovery;
-!exportname Mongoose-01</notes>
+Mongoose-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach (This creature can block creatures with flying.)</text>
       <token>1</token>
       <reverse-related>Lasting Discovery</reverse-related>
+      <reverse-related>Mongoose-01</reverse-related>
     </card>
     <card>
-      <name>Orb-01 FOE</name>
-      <set num="44">FOE</set>
+      <name>Orb FOE</name>
+      <set num="43">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Orb-01
+        <notes>Orb-01
 !related Mirdrim Summit;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -405,7 +425,7 @@ Whenever this creature deals combat damage to a player, target player mills two 
       <reverse-related>Mirdrim Summit</reverse-related>
     </card>
     <card>
-      <name>Shark-01 FOE</name>
+      <name>Shark FOE</name>
       <set num="7">FOE</set>
       <prop>
         <colors>W</colors>
@@ -413,16 +433,17 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Pathward Riftcalling;Kaln-Ocean Seahorse;
-!exportname Shark-01</notes>
+Shark-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Pathward Riftcalling</reverse-related>
       <reverse-related>Kaln-Ocean Seahorse</reverse-related>
+      <reverse-related>Shark-01</reverse-related>
     </card>
     <card>
-      <name>Whale-01 FOE</name>
+      <name>Whale FOE</name>
       <set num="39">FOE</set>
       <prop>
         <colors>WB</colors>
@@ -430,15 +451,16 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!related Pathward Riftcalling;
-!exportname Whale-01</notes>
+Whale-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Pathward Riftcalling</reverse-related>
+      <reverse-related>Whale-01</reverse-related>
     </card>
     <card>
-      <name>Wurm-01 FOE</name>
+      <name>Wurm FOE</name>
       <set num="22">FOE</set>
       <prop>
         <colors>R</colors>
@@ -446,7 +468,7 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <maintype>Creature</maintype>
         <pt>3/1</pt>
         <notes>!related Bosket Peak;Warforged Pair;Encouraging Passage;
-!exportname Wurm-01</notes>
+Wurm-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -454,9 +476,10 @@ Whenever this creature deals combat damage to a player, target player mills two 
       <reverse-related>Bosket Peak</reverse-related>
       <reverse-related>Warforged Pair</reverse-related>
       <reverse-related>Encouraging Passage</reverse-related>
+      <reverse-related>Wurm-01</reverse-related>
     </card>
     <card>
-      <name>Wurm-02 FOE</name>
+      <name>Wurm FOE</name>
       <set num="9">FOE</set>
       <prop>
         <colors>W</colors>
@@ -464,7 +487,7 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Clanless Tunneler;
-!exportname Wurm-02
+Wurm-02
 
 !tag clanless;</notes>
         <tag>clanless;</tag>
@@ -473,54 +496,58 @@ Whenever this creature deals combat damage to a player, target player mills two 
       <text>This creature can’t block.</text>
       <token>1</token>
       <reverse-related>Clanless Tunneler</reverse-related>
+      <reverse-related>Wurm-02</reverse-related>
     </card>
     <card>
-      <name>Wurm-03 FOE</name>
-      <set num="10">FOE</set>
+      <name>Wurm FOE</name>
+      <set num="8">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>!related Korna Adventuring Historian;
-!exportname Wurm-03</notes>
+Wurm-03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance</text>
       <token>1</token>
       <reverse-related>Korna Adventuring Historian</reverse-related>
+      <reverse-related>Wurm-03</reverse-related>
     </card>
     <card>
-      <name>Wurm Dragon-02 FOE</name>
-      <set num="8">FOE</set>
+      <name>Wurm Dragon FOE</name>
+      <set num="10">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm Dragon </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Yearn for the Sky;
-!exportname Wurm Dragon-02</notes>
+Wurm Dragon-02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Yearn for the Sky</reverse-related>
+      <reverse-related>Wurm Dragon-02</reverse-related>
     </card>
     <card>
-      <name>Wurm Dragon-01 FOE</name>
+      <name>Wurm Dragon FOE</name>
       <set num="1">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment - Wurm Dragon </type>
         <maintype>Enchantment</maintype>
         <notes>!related Homestead Pair;
-!exportname Wurm Dragon-01</notes>
+Wurm Dragon-01</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>(This is also a Kindred permanent.)
 This is also a creature if you’ve illuminated silver.</text>
       <token>1</token>
       <reverse-related>Homestead Pair</reverse-related>
+      <reverse-related>Wurm Dragon-01</reverse-related>
     </card>
     <card>
       <name>Sanctum Reminder FOE</name>
@@ -831,7 +858,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Orb Wizard FOE</name>
-      <set num="43">FOE</set>
+      <set num="44">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>

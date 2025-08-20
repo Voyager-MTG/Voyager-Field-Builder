@@ -32,7 +32,7 @@
       <token>1</token>
     </card>
     <card>
-      <name>Distant Vulture Astral EXPT</name>
+      <name>Distant Vulture EXPT</name>
       <set num="7">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -40,13 +40,14 @@
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>!related Distant Vulture;
-!exportname Distant Vulture Astral;</notes>
+Distant Vulture Astral;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
 This creature has lifelink as long as it’s a token.</text>
       <token>1</token>
       <reverse-related>Distant Vulture</reverse-related>
+      <reverse-related>Distant Vulture Astral</reverse-related>
     </card>
     <card>
       <name>Can Be Cast From Exile EXPT</name>
@@ -126,7 +127,7 @@ This creature has lifelink as long as it’s a token.</text>
       <reverse-related>Homestead Pair</reverse-related>
     </card>
     <card>
-      <name>Elemental Token 2 EXPT</name>
+      <name>Elemental Token EXPT</name>
       <set num="9">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -134,15 +135,16 @@ This creature has lifelink as long as it’s a token.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Unveiling;
-!exportname Elemental Token 2;</notes>
+Elemental Token 2;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Unveiling</reverse-related>
+      <reverse-related>Elemental Token 2</reverse-related>
     </card>
     <card>
-      <name>Elemental Token 3 EXPT</name>
+      <name>Elemental Token EXPT</name>
       <set num="10">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -150,12 +152,13 @@ This creature has lifelink as long as it’s a token.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Unveiling;
-!exportname Elemental Token 3;</notes>
+Elemental Token 3;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
       <token>1</token>
       <reverse-related>Unveiling</reverse-related>
+      <reverse-related>Elemental Token 3</reverse-related>
     </card>
     <card>
       <name>Dragon Eye Token EXPT</name>

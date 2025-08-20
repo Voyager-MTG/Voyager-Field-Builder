@@ -2166,7 +2166,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Denizen of New Akella</name>
-      <set num="1" rarity="common">AKT</set>
+      <set num="2" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4335,7 +4335,7 @@ Flying, hexproof
 If Lyyrata usurped, creatures you control get +5000/+5000.</text>
     </card>
     <card>
-      <name>PrithiteWordlyDicta</name>
+      <name>Prithite&apos;s Worldly Dicta</name>
       <set num="152" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
@@ -4350,7 +4350,7 @@ If Lyyrata usurped, creatures you control get +5000/+5000.</text>
         <pt>4/4</pt>
         <notes>REDRARE03
 
-!exportname PrithiteWordlyDicta</notes>
+PrithiteWordlyDicta</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -5865,8 +5865,8 @@ Emerged Stonepiler can’t be blocked.
       <related attach="transform">Submerged Spires</related>
     </card>
     <card>
-      <name>Denizen of New Akella Alt</name>
-      <set num="2" rarity="common">AKT</set>
+      <name>Denizen of New Akella</name>
+      <set num="1" rarity="common">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5879,7 +5879,7 @@ Emerged Stonepiler can’t be blocked.
         <maintype>Creature</maintype>
         <pt>5/5</pt>
         <notes>COLOURLESSCOMMON
-!exportname Denizen of New Akella Alt</notes>
+Denizen of New Akella Alt</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Transcend {6} (At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)

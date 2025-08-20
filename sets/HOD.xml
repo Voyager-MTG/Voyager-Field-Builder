@@ -857,7 +857,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>
@@ -4340,8 +4340,8 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
       <text>{T}, Sacrifice Crossroads of Identity: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then you may exile three cards from your graveyard. If you do, untap that land.</text>
     </card>
     <card>
-      <name>Whitaker Sigil</name>
-      <set num="329" rarity="">HOD</set>
+      <name>House Sigil</name>
+      <set num="315" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4353,7 +4353,7 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Whitaker Sigil
+Whitaker Sigil
 !tag Whitaker</notes>
         <tag>DewoldWhitaker</tag>
       </prop>
@@ -5401,7 +5401,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. (Sacrifice creatures with total toughness 3 or more.)
 Exile the top three cards of your library. You may play them until the end of your next turn. If Innocent Rendezvous was forsaken, add RRRRR.</text>
     </card>
     <card>
@@ -6823,7 +6823,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Plains</name>
-      <set num="300" rarity="">HOD</set>
+      <set num="301" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6843,7 +6843,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Island</name>
-      <set num="303" rarity="">HOD</set>
+      <set num="304" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6863,7 +6863,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set num="306" rarity="">HOD</set>
+      <set num="308" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6922,8 +6922,8 @@ Sword Cycle</notes>
       <text></text>
     </card>
     <card>
-      <name>Island2</name>
-      <set num="304" rarity="">HOD</set>
+      <name>Island</name>
+      <set num="303" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6935,15 +6935,15 @@ Sword Cycle</notes>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Island2</notes>
+Island2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp2</name>
-      <set num="307" rarity="">HOD</set>
+      <name>Swamp</name>
+      <set num="306" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6955,14 +6955,14 @@ Sword Cycle</notes>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Swamp2</notes>
+Swamp2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain2</name>
+      <name>Mountain</name>
       <set num="310" rarity="">HOD</set>
       <prop>
         <colors></colors>
@@ -6975,114 +6975,14 @@ Sword Cycle</notes>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Mountain2</notes>
+Mountain2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest2</name>
-      <set num="313" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-        <notes>!tag Dewold
-!exportname Forest2</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Plains3</name>
-      <set num="302" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-        <notes>!tag Dewold
-!exportname Plains3</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Island3</name>
-      <set num="305" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-        <notes>!tag Dewold
-!exportname Island3</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Swamp3</name>
-      <set num="308" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-        <notes>!tag Dewold
-!exportname Swamp3</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain3</name>
-      <set num="311" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-        <notes>!tag Dewold
-!exportname Mountain3</notes>
-        <tag>Dewold</tag>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest3</name>
+      <name>Forest</name>
       <set num="314" rarity="">HOD</set>
       <prop>
         <colors></colors>
@@ -7095,15 +6995,15 @@ Sword Cycle</notes>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Forest3</notes>
+Forest2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains2</name>
-      <set num="301" rarity="">HOD</set>
+      <name>Plains</name>
+      <set num="302" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7115,313 +7015,114 @@ Sword Cycle</notes>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Plains2</notes>
+Plains3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Vance Sigil</name>
-      <set num="328" rarity="">HOD</set>
+      <name>Island</name>
+      <set num="305" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Vance Sigil
-!tag Vance</notes>
-        <tag>DewoldVance</tag>
+Island3</notes>
+        <tag>Dewold</tag>
       </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Turnberry Sigil</name>
-      <set num="327" rarity="">HOD</set>
+      <name>Swamp</name>
+      <set num="307" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Turnberry Sigil
-!tag Turnberry</notes>
-        <tag>DewoldTurnberry</tag>
+Swamp3</notes>
+        <tag>Dewold</tag>
       </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Terrel Sigil</name>
-      <set num="326" rarity="">HOD</set>
+      <name>Mountain</name>
+      <set num="311" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Terrel Sigil
-!tag Terrel</notes>
-        <tag>DewoldTerrel</tag>
+Mountain3</notes>
+        <tag>Dewold</tag>
       </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Sapner Sigil</name>
-      <set num="325" rarity="">HOD</set>
+      <name>Forest</name>
+      <set num="313" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Sapner Sigil
-!tag Sapner</notes>
-        <tag>DewoldSapner</tag>
+Forest3</notes>
+        <tag>Dewold</tag>
       </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Rivers Sigil</name>
-      <set num="324" rarity="">HOD</set>
+      <name>Plains</name>
+      <set num="300" rarity="">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Rivers Sigil
-!tag Rivers</notes>
-        <tag>DewoldRivers</tag>
+Plains2</notes>
+        <tag>Dewold</tag>
       </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Rey Sigil</name>
-      <set num="323" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Rey Sigil
-!tag Rey</notes>
-        <tag>DewoldRey</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Radcliff Sigil</name>
-      <set num="322" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Radcliff Sigil
-!tag Radcliff</notes>
-        <tag>DewoldRadcliff</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Plaskett Sigil</name>
-      <set num="321" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Plaskett Sigil
-!tag Plaskett</notes>
-        <tag>DewoldPlaskett</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Phyre Sigil</name>
-      <set num="320" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!tag Phyre
-!exportname Phyre Sigil</notes>
-        <tag>DewoldPhyre</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Attwater Sigil</name>
-      <set num="315" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Attwater Sigil
-!tag Attwater</notes>
-        <tag>DewoldAttwater</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Perle House Sigil</name>
-      <set num="319" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!tag Perle
-!exportname Perle House Sigil</notes>
-        <tag>DewoldPerle</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Nye Sigil</name>
-      <set num="318" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Nye Sigil
-!tag Nye</notes>
-        <tag>DewoldNye</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Hook Sigil</name>
-      <set num="317" rarity="">HOD</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost>2</manacost>
-        <cost>2</cost>
-        <mana>2</mana>
-        <cmc>2</cmc>
-        <mv>2</mv>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-        <notes>!tag Dewold
-!exportname Hook Sigil
-!tag Hook</notes>
-        <tag>DewoldHook</tag>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
-    </card>
-    <card>
-      <name>Banefort Sigil</name>
+      <name>House Sigil</name>
       <set num="316" rarity="">HOD</set>
       <prop>
         <colors></colors>
@@ -7434,7 +7135,306 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Banefort Sigil
+Vance Sigil
+!tag Vance</notes>
+        <tag>DewoldVance</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="329" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Turnberry Sigil
+!tag Turnberry</notes>
+        <tag>DewoldTurnberry</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="317" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Terrel Sigil
+!tag Terrel</notes>
+        <tag>DewoldTerrel</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="318" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Sapner Sigil
+!tag Sapner</notes>
+        <tag>DewoldSapner</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="319" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Rivers Sigil
+!tag Rivers</notes>
+        <tag>DewoldRivers</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="320" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Rey Sigil
+!tag Rey</notes>
+        <tag>DewoldRey</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="321" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Radcliff Sigil
+!tag Radcliff</notes>
+        <tag>DewoldRadcliff</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="322" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Plaskett Sigil
+!tag Plaskett</notes>
+        <tag>DewoldPlaskett</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="323" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!tag Phyre
+Phyre Sigil</notes>
+        <tag>DewoldPhyre</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="324" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Attwater Sigil
+!tag Attwater</notes>
+        <tag>DewoldAttwater</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="325" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+!tag Perle
+Perle House Sigil</notes>
+        <tag>DewoldPerle</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="326" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Nye Sigil
+!tag Nye</notes>
+        <tag>DewoldNye</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="327" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Hook Sigil
+!tag Hook</notes>
+        <tag>DewoldHook</tag>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
+    </card>
+    <card>
+      <name>House Sigil</name>
+      <set num="328" rarity="">HOD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!tag Dewold
+Banefort Sigil
 !tag Banefort</notes>
         <tag>DewoldBanefort</tag>
       </prop>

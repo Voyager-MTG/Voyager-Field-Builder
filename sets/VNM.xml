@@ -176,7 +176,7 @@ When this creature enters, create a 1/1 green Wurm creature token with reach and
 Whenever this creature attacks, put a +1/+1 counter on target attacking token creature you control.</text>
     </card>
     <card>
-      <name>Multaphs Riftwarden</name>
+      <name>Multaph&apos;s Riftwarden</name>
       <set num="241" rarity="uncommon">VNM</set>
       <prop>
         <colors>UG</colors>
@@ -190,7 +190,7 @@ Whenever this creature attacks, put a +1/+1 counter on target attacking token cr
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!note hybrid
-!exportname Multaphs Riftwarden
+Multaphs Riftwarden
 !persistent Voidstone Shard</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -242,7 +242,7 @@ Voidstone Shard {2}| Enchantment
 When this enchantment enters, scry 2.</text>
     </card>
     <card>
-      <name>Survivors Instinct</name>
+      <name>Survivor&apos;s Instinct</name>
       <set num="267" rarity="uncommon">VNM</set>
       <prop>
         <colors>WG</colors>
@@ -255,7 +255,7 @@ When this enchantment enters, scry 2.</text>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!note hybrid
-!exportname Survivors Instinct</notes>
+Survivors Instinct</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. Untap it.</text>
@@ -394,7 +394,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, surveil 1.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Clanless Usurper</name>
@@ -436,7 +436,7 @@ Whenever this creature deals combat damage to a noncreature, exile the top card 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Bulwark</name>
@@ -478,7 +478,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target creature can’t block this turn.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Roduth&apos;s Guard</name>
@@ -871,7 +871,7 @@ Fracture — Whenever this creature attacks or blocks, other creatures you contr
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, draw a card.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Rebuke the Foul</name>
@@ -1634,7 +1634,7 @@ Creatures you control get +1/+0 as long as you’ve illuminated red.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, target creature you control deals damage equal to its power to any nonplayer target you don’t control.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Iconic Resolution</name>
@@ -1921,7 +1921,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
 Creature tokens you control get +0/+1.</text>
     </card>
     <card>
-      <name>Multaphs Watch</name>
+      <name>Multaph&apos;s Watch</name>
       <set num="171" rarity="common">VNM</set>
       <prop>
         <colors>G</colors>
@@ -1934,7 +1934,7 @@ Creature tokens you control get +0/+1.</text>
         <type>Creature - Elk </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
-        <notes>!exportname Multaphs Watch</notes>
+        <notes>Multaphs Watch</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach
@@ -2141,7 +2141,7 @@ Fault|Basic Land — Fault
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Aspiring Entity</name>
@@ -2160,7 +2160,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wings of New Horizons</name>
@@ -2244,7 +2244,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever this enchantment attacks, scry 1.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pinnacle Skitter</name>
@@ -2286,7 +2286,7 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 Whenever this creature deals combat damage to a player or noncreature, scry 2, then draw a card.</text>
     </card>
     <card>
-      <name>Explorers Compass</name>
+      <name>Explorer&apos;s Compass</name>
       <set num="281" rarity="uncommon">VNM</set>
       <prop>
         <colors></colors>
@@ -2298,7 +2298,7 @@ Whenever this creature deals combat damage to a player or noncreature, scry 2, t
         <mv>1</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Explorers Compass</notes>
+        <notes>Explorers Compass</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever equipped creature attacks, you may cast a copy of this artifact’s skill or the equipped creature’s skill.
@@ -2585,7 +2585,7 @@ Scry 2, then draw two cards. If you’ve illuminated blue, instead scry 4, then 
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
     </card>
     <card>
-      <name>Multaphs Resplendant</name>
+      <name>Multaph&apos;s Resplendant</name>
       <set num="170" rarity="uncommon">VNM</set>
       <prop>
         <colors>G</colors>
@@ -2598,7 +2598,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
         <type>Enchantment Creature - Icon Elk </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>!exportname Multaphs Resplendant</notes>
+        <notes>Multaphs Resplendant</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Fracture — The first noncreature spell you cast each turn has “Up to one target creature you control gets +2/+0 and gains trample until end of turn. Untap it.”
@@ -2767,7 +2767,7 @@ Scry 1, then draw a card.</text>
       <text>Flash 
 Vigilance
 When this enchantment enters, tap target permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Wanderer</name>
@@ -3257,7 +3257,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -3277,10 +3277,10 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
-      <name>Giants Blade</name>
+      <name>Giant&apos;s Blade</name>
       <set num="27" rarity="uncommon">VNM</set>
       <prop>
         <colors>W</colors>
@@ -3292,7 +3292,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
         <mv>3</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Giants Blade
+        <notes>Giants Blade
 !addtoken Subdued Rift;conjured;</notes>
       </prop>
       <tablerow>1</tablerow>
@@ -3320,7 +3320,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
       <tablerow>1</tablerow>
       <text>Menace
 When this enchantment enters, target opponent may discard a card. If they don’t, this enchantment deals 3 damage to that player.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Chittering Entity</name>
@@ -3340,7 +3340,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -3420,7 +3420,7 @@ Whenever you attack with one or more tokens, you gain 1 life.</text>
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, you may gain 1 life. If you didn’t, surveil 1.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Riftbearer</name>
@@ -3762,7 +3762,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell
       <tablerow>1</tablerow>
       <text>Flying
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Crowned Entity</name>
@@ -3781,7 +3781,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -3823,7 +3823,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Icebound Reinforcements Token</name>
@@ -3882,7 +3882,7 @@ Voidstone Shard {2}|Enchantment          When this enters, scry 2.</text>
         <pt>1/1</pt>
         <notes>!center
 !related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-!exportname Cat Token
+Cat Token
 Preview</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -3908,7 +3908,7 @@ Preview</notes>
 Whenever you attack with two or more creatures, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of it except it isn’t legendary and has size 1/1.</text>
     </card>
     <card>
-      <name>Multaph Riftborn God</name>
+      <name>Multaph, Riftborn God</name>
       <set num="239" rarity="rare">VNM</set>
       <prop>
         <colors>UB</colors>
@@ -3923,7 +3923,7 @@ Whenever you attack with two or more creatures, you may exile a creature card fr
         <pt>3/3</pt>
         <notes>!smallbox 
 !gold
-!exportname Multaph Riftborn God</notes>
+Multaph Riftborn God</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Multaph enters, trace another target enchantment with mana value 4 or greater into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -4051,7 +4051,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
       <text>Whenever this creature attacks, choose up to one target creature an opponent controls. That creature can’t block this turn unless its owner pays {2}. If they do, untap this creature and it gets +2/+0 until end of turn.</text>
     </card>
     <card>
-      <name>Najael Travelling Shaman</name>
+      <name>Najael, Travelling Shaman</name>
       <set num="242" rarity="rare">VNM</set>
       <prop>
         <colors>UG</colors>
@@ -4064,7 +4064,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
         <type>Legendary Creature - Human Shaman </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!exportname Najael Travelling Shaman</notes>
+        <notes>Najael Travelling Shaman</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, distribute two +1/+1 counters among any number of target enchantments you control.
@@ -4130,7 +4130,7 @@ This creature can’t attack or block unless you own five or more cards in exile
 Whenever you attack with two or more nontoken creatures, you may pay {2}. If you do, each opponent loses 1 life for each attacking colorless creature you control.</text>
     </card>
     <card>
-      <name>Roduth God of Conflict</name>
+      <name>Roduth, God of Conflict</name>
       <set num="255" rarity="rare">VNM</set>
       <prop>
         <colors>WRG</colors>
@@ -4144,7 +4144,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {2}. If you
         <maintype>Creature</maintype>
         <pt>6/6</pt>
         <notes>!smallbox 
-!exportname Roduth God of Conflict</notes>
+Roduth God of Conflict</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, trample
@@ -4315,7 +4315,7 @@ It recycles what others cannot, it brings rest to those that refuse.
       <text>{T}: Add II. You can’t spend this mana to cast a spell.</text>
     </card>
     <card>
-      <name>Dromencals Respite</name>
+      <name>Dromencal&apos;s Respite</name>
       <set num="280" rarity="common">VNM</set>
       <prop>
         <colors></colors>
@@ -4327,7 +4327,7 @@ It recycles what others cannot, it brings rest to those that refuse.
         <mv>3</mv>
         <type>Enchantment Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Dromencals Respite</notes>
+        <notes>Dromencals Respite</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, trace a card named Voidstone Shard into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -4358,7 +4358,7 @@ Voidstone Shard {2}|Enchantment
 When this enchantment enters, scry 2.</text>
     </card>
     <card>
-      <name>Melodia Voidtouched</name>
+      <name>Melodia, Voidtouched</name>
       <set num="191" rarity="rare">VNM</set>
       <prop>
         <colors>I</colors>
@@ -4372,7 +4372,7 @@ When this enchantment enters, scry 2.</text>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!smallbox 
-!exportname Melodia Voidtouched
+Melodia Voidtouched
 !addtoken Blue Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -4380,7 +4380,7 @@ When this enchantment enters, scry 2.</text>
 Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until end of turn</text>
     </card>
     <card>
-      <name>Calia Oracle of Tofnet Plains</name>
+      <name>Calia, Oracle of Tofnet Plains</name>
       <set num="16" rarity="rare">VNM</set>
       <prop>
         <colors>W</colors>
@@ -4393,7 +4393,7 @@ Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until 
         <type>Legendary Enchantment Creature - Icon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Calia Oracle of Tofnet Plains</notes>
+        <notes>Calia Oracle of Tofnet Plains</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -4401,7 +4401,7 @@ Whenever you cast an enchantment spell, up to one other target permanent you con
 Fracture — Once each turn, when you cast a noncreature spell, draw a card.</text>
     </card>
     <card>
-      <name>Ola Kaln-Ocean Spellkeeper</name>
+      <name>Ola, Kaln-Ocean Spellkeeper</name>
       <set num="64" rarity="rare">VNM</set>
       <prop>
         <colors>U</colors>
@@ -4414,7 +4414,7 @@ Fracture — Once each turn, when you cast a noncreature spell, draw a card.</te
         <type>Legendary Enchantment Creature - Icon Wurm </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!exportname Ola Kaln-Ocean Spellkeeper</notes>
+        <notes>Ola Kaln-Ocean Spellkeeper</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -4424,7 +4424,7 @@ Fracture — At the beginning of combat on each turn, choose two as long as you 
 • Draw a card, then discard a card.</text>
     </card>
     <card>
-      <name>Kier Acolyte of Avlod Respite</name>
+      <name>Kier, Acolyte of Avlod Respite</name>
       <set num="99" rarity="rare">VNM</set>
       <prop>
         <colors>B</colors>
@@ -4437,7 +4437,7 @@ Fracture — At the beginning of combat on each turn, choose two as long as you 
         <type>Legendary Enchantment Creature - Icon Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Kier Acolyte of Avlod Respite
+        <notes>Kier Acolyte of Avlod Respite
 !tag avlod;</notes>
         <tag>avlod;</tag>
       </prop>
@@ -4448,7 +4448,7 @@ Steady Growth {B/G}| Enchantment
 Enchant land; Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
-      <name>Vane Verem-Volcano Scorcher</name>
+      <name>Vane, Verem-Volcano Scorcher</name>
       <set num="146" rarity="rare">VNM</set>
       <prop>
         <colors>R</colors>
@@ -4461,7 +4461,7 @@ Enchant land; Enchanted land has “{T}: Add one mana of any color.”</text>
         <type>Legendary Enchantment Creature - Icon Dragon </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>!exportname Vane Verem-Volcano Scorcher</notes>
+        <notes>Vane Verem-Volcano Scorcher</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -4488,7 +4488,7 @@ Fracture — Once each turn, when you cast a noncreature spell, you may create a
 Fracture — At the beginning of your end step, if you cast a noncreature spell this turn, you may put a permanent card from your hand onto the battlefield.</text>
     </card>
     <card>
-      <name>Khestri Fadove Clanleader</name>
+      <name>Khestri, Fadove Clanleader</name>
       <set num="31" rarity="rare">VNM</set>
       <prop>
         <colors>W</colors>
@@ -4501,7 +4501,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
         <type>Legendary Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>!exportname Khestri Fadove Clanleader
+        <notes>Khestri Fadove Clanleader
 !addtoken WhiteWurm;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -4531,7 +4531,7 @@ Whenever you attack, trace a skill from among permanents you control. (Create th
 Fracture — At the beginning of combat on your turn, surveil 3, then return a card put into your graveyard this way to your hand as long as you cast a noncreature spell this turn.</text>
     </card>
     <card>
-      <name>Urkial Outlands Clanleader</name>
+      <name>Urkial, Outlands Clanleader</name>
       <set num="11" rarity="rare">VNM</set>
       <prop>
         <colors></colors>
@@ -4545,7 +4545,7 @@ Fracture — At the beginning of combat on your turn, surveil 3, then return a c
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!tag outlands;
-!exportname Urkial Outlands Clanleader</notes>
+Urkial Outlands Clanleader</notes>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -4635,10 +4635,10 @@ After your first combat phase, there is an additional combat phase where only en
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
-      <name>Zoslera Mordel Clanleader</name>
+      <name>Zoslera, Mordel Clanleader</name>
       <set num="279" rarity="rare">VNM</set>
       <prop>
         <colors>RG</colors>
@@ -4651,7 +4651,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
         <type>Legendary Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
-        <notes>!exportname Zoslera Mordel Clanleader
+        <notes>Zoslera Mordel Clanleader
 !tag fascism;</notes>
         <tag>fascism;</tag>
       </prop>
@@ -4662,7 +4662,7 @@ Whenever you cast a noncreature spell, choose one you haven’t chosen this turn
 • Target creature you control deals damage equal to its power to any nonplayer target you don’t control.</text>
     </card>
     <card>
-      <name>Prophellos Pathborn Hunger</name>
+      <name>Prophellos, Pathborn Hunger</name>
       <set num="7" rarity="rare">VNM</set>
       <prop>
         <colors></colors>
@@ -4675,7 +4675,7 @@ Whenever you cast a noncreature spell, choose one you haven’t chosen this turn
         <type>Legendary Creature - God </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes>!exportname Prophellos Pathborn Hunger</notes>
+        <notes>Prophellos Pathborn Hunger</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -4762,7 +4762,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -4782,7 +4782,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked by creatures with power 2 or less.
 Whenever you attack, put a +1/+1 counter on another target attacking creature.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Curious Shimmer</name>
@@ -4802,7 +4802,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -4822,7 +4822,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Double strike
 Whenever you attack, target creature can’t block this turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Runed Spire</name>
@@ -5537,7 +5537,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
 {4}, Sacrifice this artifact: Put a random card from your sanctum into your hand.</text>
     </card>
     <card>
-      <name>Vin Plains</name>
+      <name>Plains</name>
       <set num="18" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -5549,14 +5549,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Plains
+        <notes>Vin Plains
 !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W})</text>
     </card>
     <card>
-      <name>Vin Island</name>
+      <name>Island</name>
       <set num="16" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -5568,14 +5568,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Island
+        <notes>Vin Island
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U})</text>
     </card>
     <card>
-      <name>Vin Swamp</name>
+      <name>Swamp</name>
       <set num="19" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -5587,14 +5587,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Swamp
+        <notes>Vin Swamp
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B})</text>
     </card>
     <card>
-      <name>Vin Mountain</name>
+      <name>Mountain</name>
       <set num="17" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -5606,14 +5606,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Mountain
+        <notes>Vin Mountain
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R})</text>
     </card>
     <card>
-      <name>Vin Forest</name>
+      <name>Forest</name>
       <set num="15" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -5625,7 +5625,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Forest
+        <notes>Vin Forest
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -6131,7 +6131,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text
 Whenever this creature becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.</text>
     </card>
     <card>
-      <name>Vin-Fault</name>
+      <name>Fault</name>
       <set num="306" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -6145,7 +6145,7 @@ Whenever this creature becomes the target of a spell or ability, its controller 
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Fault</notes>
+Vin-Fault</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {I}.)</text>
@@ -6190,7 +6190,7 @@ When this land enters, surveil 1.
       <text>Search your library for up to three basic land cards and reveal them. If you control a token or a creature with a counter on it,  put one of them onto the battlefield. Put the rest into your hand, then shuffle.</text>
     </card>
     <card>
-      <name>Scouts Bow</name>
+      <name>Scout&apos;s Bow</name>
       <set num="182" rarity="uncommon">VNM</set>
       <prop>
         <colors>G</colors>
@@ -6202,7 +6202,7 @@ When this land enters, surveil 1.
         <mv>1</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Scouts Bow</notes>
+        <notes>Scouts Bow</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, trace a card named Steady Growth into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -6450,7 +6450,7 @@ Cut from Void 2U| Skill Instant
 Scry 1, then draw a card.</text>
     </card>
     <card>
-      <name>Vin Fault</name>
+      <name>Fault</name>
       <set num="14" rarity="">VNM</set>
       <prop>
         <colors></colors>
@@ -6462,7 +6462,7 @@ Scry 1, then draw a card.</text>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Fault
+        <notes>Vin Fault
 !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>

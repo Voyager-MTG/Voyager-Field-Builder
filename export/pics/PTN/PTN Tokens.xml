@@ -3,13 +3,13 @@
   <cards>
 
     <card>
-      <name>Scar Boon PTN</name>
+      <name>Scar PTN</name>
       <set num="4">PTN</set>
       <prop>
         <colors></colors>
         <type>Boon</type>
         <maintype>Boon</maintype>
-        <notes>!exportname Scar Boon
+        <notes>Scar Boon
 !related Broken Sun-Servent;Ragged Sun’s Angel;Root of Mercy;Expose Mortality;Opener of Realities;Perfect Stillness;Seven-Coil’s Scion;Implant the Seeds;Nowhere Stygian;Sky-Scar Angel;Open the Self;Stained Silver;Tattered Cyprian;Carapace Disciple;Debilitated Tragulari;The Old Forms;Ravenous Unmaker;Wolven Hatred;Flames of Emnity;Horomachist Ending;Nowhere Deathlord;The Frangiclave;Ritual Daggar;
 !tokentag Scar</notes>
       </prop>
@@ -42,7 +42,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>Ritual Daggar</reverse-related>
     </card>
     <card>
-      <name>God Horror Token PTN</name>
+      <name>God Horror PTN</name>
       <set num="3">PTN</set>
       <prop>
         <colors></colors>
@@ -50,7 +50,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!tokentag God Horror
-!exportname God Horror Token
+God Horror Token
 !related Monument of Rags;The Red Grail;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -60,14 +60,14 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
       <reverse-related>The Red Grail</reverse-related>
     </card>
     <card>
-      <name>Cleric Token PTN</name>
+      <name>Cleric PTN</name>
       <set num="1">PTN</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Cleric </type>
         <maintype>Creature</maintype>
         <pt>0/1</pt>
-        <notes>!exportname Cleric Token
+        <notes>Cleric Token
 !related Burgeoning Risen;Bringer of Glory;Defacement;Glassgarden Elder;Glassgarden Watcheye;Ignite Fervor;Ignite Fervor&lt;2>;Mystical Trail;The Sky, The Soul;Moonlit Augury;Seaside Smuggler;Take Prisoners;Twins’ Guardian;Veil of Dreams;Carapace Ancestor;Escape into the Night;Indulgent Cyprian;Scarring Servitude;Callidate Invocation;Corrivality;High Cyprian;Rite Flamecaller;Carapace Threadbearer;Cartographed Risen;Discover the Stone Gods;Flesh Weaver;Ring-Yew’s Chosen;Student of Defiance;Tireless Recruiter;Unceasing Initiation;The Allure’s Light;Covert Cloak;The Geminiad;Society Headquarters;
 induct</notes>
       </prop>
@@ -154,14 +154,14 @@ Lands can’t have a cost and are played normally.</text>
       <reverse-related>True Blood of Saint Janus</reverse-related>
     </card>
     <card>
-      <name>Angel Token PTN</name>
+      <name>Angel PTN</name>
       <set num="5">PTN</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!exportname Angel Token
+        <notes>Angel Token
 !related Guided Crusader;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -170,7 +170,7 @@ Lands can’t have a cost and are played normally.</text>
       <reverse-related>Guided Crusader</reverse-related>
     </card>
     <card>
-      <name>Worm Token PTN</name>
+      <name>Worm PTN</name>
       <set num="6">PTN</set>
       <prop>
         <colors>B</colors>
@@ -178,7 +178,7 @@ Lands can’t have a cost and are played normally.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>https://www.deviantart.com/cinemamind/art/Carrion-852775919
-!exportname Worm Token
+Worm Token
 !related The Museum of Worms&lt;X>;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -187,14 +187,14 @@ Lands can’t have a cost and are played normally.</text>
       <reverse-related count="x">The Museum of Worms</reverse-related>
     </card>
     <card>
-      <name>Wolf Token PTN</name>
+      <name>Wolf PTN</name>
       <set num="7">PTN</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wolf </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!exportname Wolf Token
+        <notes>Wolf Token
 !related Smoldering Pack;Wolf-Splinter;Flames of Emnity;</notes>
       </prop>
       <tablerow>2</tablerow>

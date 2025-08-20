@@ -408,7 +408,7 @@ Draw a card.</text>
       <text>This spell deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.</text>
     </card>
     <card>
-      <name>Apprentices Drake</name>
+      <name>Apprentice&apos;s Drake</name>
       <set num="60" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
@@ -422,7 +422,7 @@ Draw a card.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!tag fadove;
-!exportname Apprentices Drake</notes>
+Apprentices Drake</notes>
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -754,7 +754,7 @@ Put up to two target cards in a graveyard into their owner’s sanctum.
 Draw a card. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>You Cant Face Me</name>
+      <name>You Can&apos;t Face Me</name>
       <set num="139" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
@@ -766,7 +766,7 @@ Draw a card. (Then put this into your sanctum.)</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname You Cant Face Me</notes>
+        <notes>You Cant Face Me</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent reveals their hand. You choose a creature or enchantment card from it. That player discards that card.</text>
@@ -1103,7 +1103,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
-      <name>Willbournes Flame</name>
+      <name>Willbourne&apos;s Flame</name>
       <set num="179" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
@@ -1115,7 +1115,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Willbournes Flame</notes>
+        <notes>Willbournes Flame</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell deals 3 damage to any nonplayer target. If you control a red permanent, it deals 4 damage to that target instead.</text>
@@ -1232,7 +1232,7 @@ Target creature you control gains first strike and trample until end of turn. (T
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
-      <name>Drakes Intuition</name>
+      <name>Drake&apos;s Intuition</name>
       <set num="150" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
@@ -1244,7 +1244,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
         <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Drakes Intuition</notes>
+        <notes>Drakes Intuition</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -2756,7 +2756,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of another token you control.)
+• Mirror. (Create a token that’s a copy of a token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -3259,7 +3259,7 @@ Reveal it, shuffle, then put that card on top of your library.</text>
       <text>Sift 3, then draw a card. (Look at the top three cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</text>
     </card>
     <card>
-      <name>When Words Dont Work</name>
+      <name>When Words Don&apos;t Work</name>
       <set num="276" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
@@ -3271,7 +3271,7 @@ Reveal it, shuffle, then put that card on top of your library.</text>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname When Words Dont Work
+        <notes>When Words Dont Work
 can possibly hit enchantments
 Manifest</notes>
       </prop>
@@ -3280,61 +3280,7 @@ Manifest</notes>
 {2}, Discard this: Draw a card.</text>
     </card>
     <card>
-      <name>Fault-01</name>
-      <set num="376" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Fault </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Fault-01</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Fault-03</name>
-      <set num="378" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Fault </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Fault-03</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Fault-02</name>
-      <set num="377" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Fault </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Fault-02</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Fault-04</name>
+      <name>Fault</name>
       <set num="379" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3346,13 +3292,67 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-04</notes>
+        <notes>Fault-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-01</name>
+      <name>Fault</name>
+      <set num="378" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+        <notes>Fault-03</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Fault</name>
+      <set num="377" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+        <notes>Fault-02</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Fault</name>
+      <set num="376" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+        <notes>Fault-04</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
       <set num="372" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3364,49 +3364,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-01</notes>
+        <notes>Forest-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-03</name>
-      <set num="374" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Forest-03</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest-02</name>
-      <set num="373" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Forest-02</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest-04</name>
+      <name>Forest</name>
       <set num="375" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3418,14 +3382,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-04</notes>
+        <notes>Forest-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-01</name>
-      <set num="360" rarity="">FOE</set>
+      <name>Forest</name>
+      <set num="374" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3434,15 +3398,33 @@ Manifest</notes>
         <mana></mana>
         <cmc>0</cmc>
         <mv>0</mv>
-        <type>Basic Land - Island </type>
+        <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-01</notes>
+        <notes>Forest-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-03</name>
+      <name>Forest</name>
+      <set num="373" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+        <notes>Forest-04</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
       <set num="362" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3454,13 +3436,31 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-03</notes>
+        <notes>Island-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-02</name>
+      <name>Island</name>
+      <set num="360" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+        <notes>Island-03</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
       <set num="361" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3472,13 +3472,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-02</notes>
+        <notes>Island-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-04</name>
+      <name>Island</name>
       <set num="363" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3490,67 +3490,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-04</notes>
+        <notes>Island-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-01</name>
-      <set num="368" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Mountain-01</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain-02</name>
-      <set num="369" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Mountain-02</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain-03</name>
-      <set num="370" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Mountain-03</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain-04</name>
+      <name>Mountain</name>
       <set num="371" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3562,14 +3508,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-04</notes>
+        <notes>Mountain-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-04</name>
-      <set num="359" rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="370" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3578,16 +3524,16 @@ Manifest</notes>
         <mana></mana>
         <cmc>0</cmc>
         <mv>0</mv>
-        <type>Basic Land - Plains </type>
+        <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-04</notes>
+        <notes>Mountain-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-01</name>
-      <set num="356" rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="369" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3596,16 +3542,16 @@ Manifest</notes>
         <mana></mana>
         <cmc>0</cmc>
         <mv>0</mv>
-        <type>Basic Land - Plains </type>
+        <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-01</notes>
+        <notes>Mountain-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-03</name>
-      <set num="358" rarity="">FOE</set>
+      <name>Mountain</name>
+      <set num="368" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3614,15 +3560,15 @@ Manifest</notes>
         <mana></mana>
         <cmc>0</cmc>
         <mv>0</mv>
-        <type>Basic Land - Plains </type>
+        <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-03</notes>
+        <notes>Mountain-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-02</name>
+      <name>Plains</name>
       <set num="357" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3634,13 +3580,67 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-02</notes>
+        <notes>Plains-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-01</name>
+      <name>Plains</name>
+      <set num="356" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes>Plains-01</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set num="359" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes>Plains-03</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set num="358" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes>Plains-02</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
       <set num="364" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3652,31 +3652,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-01</notes>
+        <notes>Swamp-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-03</name>
-      <set num="366" rarity="">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-        <notes>!exportname Swamp-03</notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Swamp-02</name>
+      <name>Swamp</name>
       <set num="365" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3688,13 +3670,31 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-02</notes>
+        <notes>Swamp-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-04</name>
+      <name>Swamp</name>
+      <set num="366" rarity="">FOE</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes>Swamp-02</notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
       <set num="367" rarity="">FOE</set>
       <prop>
         <colors></colors>
@@ -3706,7 +3706,7 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-04</notes>
+        <notes>Swamp-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -3748,7 +3748,7 @@ Manifest</notes>
       <text></text>
     </card>
     <card>
-      <name>plus one plus one counter</name>
+      <name>+1+1 Counter</name>
       <set num="382" rarity="">FOE</set>
       <prop>
         <colors>WUBRGI</colors>
@@ -3760,7 +3760,7 @@ Manifest</notes>
         <mv>5</mv>
         <type>Reminder</type>
         <maintype>Reminder</maintype>
-        <notes>!exportname plus one plus one counter
+        <notes>plus one plus one counter
 !related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
 
 !framed!readable</notes>
@@ -3888,7 +3888,7 @@ FGU</notes>
 When this creature enters, you may choose up to two target creatures you control. Those creatures become copies of this creature until this creature leaves the battlefield.</text>
     </card>
     <card>
-      <name>Kornas Forward</name>
+      <name>Korna&apos;s Forward</name>
       <set num="252" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
@@ -3901,7 +3901,7 @@ When this creature enters, you may choose up to two target creatures you control
         <type>Creature - Wurm Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Kornas Forward</notes>
+        <notes>Kornas Forward</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 2 life.
@@ -4615,7 +4615,7 @@ You may cast this creature from your sanctum for 1W.
 Put a +1/+1 counter on target creature you control. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Julius Skyknight of Morriare</name>
+      <name>Julius, Skyknight of Morriare</name>
       <set num="35" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
@@ -4628,7 +4628,7 @@ Put a +1/+1 counter on target creature you control. (Then put this into your san
         <type>Legendary Creature - Mouse Bird Knight </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>!exportname Julius Skyknight of Morriare
+        <notes>Julius Skyknight of Morriare
 WRU
 Multicolor</notes>
       </prop>
@@ -4759,7 +4759,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
       <text>Creatures you control get +1/+1 and have ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
-      <name>Hengs Intercession</name>
+      <name>Heng&apos;s Intercession</name>
       <set num="29" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
@@ -4771,7 +4771,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
         <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hengs Intercession
+        <notes>Hengs Intercession
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -5253,7 +5253,7 @@ Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
     <card>
-      <name>I Wont Stand Alone</name>
+      <name>I Won&apos;t Stand Alone</name>
       <set num="116" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
@@ -5265,7 +5265,7 @@ This creature gets +2/+0 if you’ve illuminated black.</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname I Wont Stand Alone
+        <notes>I Wont Stand Alone
 // mini bleak return :)</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -5788,7 +5788,7 @@ Multicolor</notes>
 2I/G: Create a token that’s a copy of this enchantment without this ability. It’s a 2/2 red Human Wizard enchantment creature. Activate only once.</text>
     </card>
     <card>
-      <name>Our March Wont End</name>
+      <name>Our March Won&apos;t End</name>
       <set num="166" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
@@ -5800,7 +5800,7 @@ Multicolor</notes>
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Our March Wont End
+        <notes>Our March Wont End
 !tag fascism;</notes>
         <tag>fascism;</tag>
       </prop>
@@ -6017,7 +6017,7 @@ Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to 
 Explorer — 3G: This creature gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.</text>
     </card>
     <card>
-      <name>Cartographers Survey</name>
+      <name>Cartographer&apos;s Survey</name>
       <set num="183" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
@@ -6029,13 +6029,13 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Cartographers Survey</notes>
+        <notes>Cartographers Survey</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top seven cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
-      <name>Hunters Strength</name>
+      <name>Hunter&apos;s Strength</name>
       <set num="196" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
@@ -6047,13 +6047,13 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hunters Strength</notes>
+        <notes>Hunters Strength</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power or toughness to target creature you don’t control.</text>
     </card>
     <card>
-      <name>Keras Appointed</name>
+      <name>Kera&apos;s Appointed</name>
       <set num="198" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
@@ -6066,7 +6066,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <type>Creature - Treefolk Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Keras Appointed</notes>
+        <notes>Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
@@ -6208,7 +6208,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
       <text>Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.</text>
     </card>
     <card>
-      <name>Korna Adventuring Historian</name>
+      <name>Korna, Adventuring Historian</name>
       <set num="305" rarity="rare">FOE</set>
       <prop>
         <colors>WR</colors>
@@ -6220,7 +6220,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
         <mv>5</mv>
         <type>Legendary Enchantment - Wurm Entity </type>
         <maintype>Enchantment</maintype>
-        <notes>!exportname Korna Adventuring Historian</notes>
+        <notes>Korna Adventuring Historian</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Materialize 2 (Tap any number of other enchantments you control with total mana value 2 or more: This becomes a creature in addition to its other types until your next upkeep.)
@@ -6228,7 +6228,7 @@ Trample, vigilance
 Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with vigilance.</text>
     </card>
     <card>
-      <name>Zoslera Exiled Visionary</name>
+      <name>Zoslera, Exiled Visionary</name>
       <set num="332" rarity="rare">FOE</set>
       <prop>
         <colors>RG</colors>
@@ -6240,7 +6240,7 @@ Once each turn, whenever a spell or ability puts a card into your hand, create a
         <type>Legendary Planeswalker - Zoslera </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Zoslera Exiled Visionary
+        <notes>Zoslera Exiled Visionary
 
 Maybe the zero is a -1</notes>
       </prop>
@@ -6290,7 +6290,7 @@ Once each turn, you may cast an enchantment or creature spell from the top of yo
 Tap two untapped enchantments you control: Add one mana of any color. This mana can’t be spent to cast noncreature, nonenchantment spells.</text>
     </card>
     <card>
-      <name>Aurel Born Through Discord</name>
+      <name>Aurel, Born Through Discord</name>
       <set num="279" rarity="rare">FOE</set>
       <prop>
         <colors>WUR</colors>
@@ -6303,14 +6303,14 @@ Tap two untapped enchantments you control: Add one mana of any color. This mana 
         <type>Legendary Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Aurel Born Through Discord</notes>
+        <notes>Aurel Born Through Discord</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
 The first creature spell with mana value 3 or less you cast each turn has cascade. (When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
     </card>
     <card>
-      <name>Sonnet Meirel Lancer</name>
+      <name>Sonnet, Meirel Lancer</name>
       <set num="53" rarity="rare">FOE</set>
       <prop>
         <colors>W</colors>
@@ -6323,14 +6323,14 @@ The first creature spell with mana value 3 or less you cast each turn has cascad
         <type>Legendary Creature - Fox Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Sonnet Meirel Lancer</notes>
+        <notes>Sonnet Meirel Lancer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
 When this creature enters, she deals damage equal to the number of creatures you control to up to one nonplayer target.</text>
     </card>
     <card>
-      <name>Marie Hungerbound</name>
+      <name>Marie, Hungerbound</name>
       <set num="10" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
@@ -6342,7 +6342,7 @@ When this creature enters, she deals damage equal to the number of creatures you
         <type>Legendary Planeswalker - Marie </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Marie Hungerbound</notes>
+        <notes>Marie Hungerbound</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>If at least three mana of the same color was spent to cast this spell, this planeswalker enters with an additional three loyalty counters.
@@ -6371,7 +6371,7 @@ When this creature enters, look at the top five cards of your library. You may r
 Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
     <card>
-      <name>Gael Spiteflame Phoenix</name>
+      <name>Gael, Spiteflame Phoenix</name>
       <set num="296" rarity="rare">FOE</set>
       <prop>
         <colors>UBR</colors>
@@ -6384,7 +6384,7 @@ Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Legendary Creature - Phoenix </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Gael Spiteflame Phoenix</notes>
+        <notes>Gael Spiteflame Phoenix</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -6392,7 +6392,7 @@ You may cast enchantment spells as through they had flash.
 U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the battlefield.</text>
     </card>
     <card>
-      <name>Jothi Awakened Flock</name>
+      <name>Jothi, Awakened Flock</name>
       <set num="303" rarity="rare">FOE</set>
       <prop>
         <colors>WB</colors>
@@ -6404,7 +6404,7 @@ U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the 
         <type>Legendary Planeswalker - Jothi </type>
         <maintype>Planeswalker</maintype>
       <loyalty>2</loyalty>
-        <notes>!exportname Jothi Awakened Flock</notes>
+        <notes>Jothi Awakened Flock</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this planeswalker enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
@@ -6699,7 +6699,7 @@ Flying
 If a card would be put from an opponents sanctum into anywhere other than exile, you may exile it instead. If you do, that player may cast it for as long as it remains exiled. Spells cast this way cost {2} more to cast.</text>
     </card>
     <card>
-      <name>Chirps Spice Seeker</name>
+      <name>Chirps, Spice Seeker</name>
       <set num="234" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
@@ -6712,14 +6712,14 @@ If a card would be put from an opponents sanctum into anywhere other than exile,
         <type>Legendary Enchantment Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
-        <notes>!exportname Chirps Spice Seeker</notes>
+        <notes>Chirps Spice Seeker</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, ward {1}
 When Chirps enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with flying and haste.</text>
     </card>
     <card>
-      <name>Melodia Explorer at Heart</name>
+      <name>Melodia, Drifter at Heart</name>
       <set num="260" rarity="rare">FOE</set>
       <prop>
         <colors>I</colors>
@@ -6733,7 +6733,7 @@ When Chirps enters and at the beginning of your upkeep, if you don’t control a
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!smallbox 
-!exportname Melodia Explorer at Heart</notes>
+Melodia Explorer at Heart</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
@@ -6762,7 +6762,7 @@ recreate</notes>
 Whenever this creature enters or attacks, if its not a token, you may mirror.</text>
     </card>
     <card>
-      <name>Lisse Bound by the King</name>
+      <name>Lisse, Bound by the King</name>
       <set num="119" rarity="rare">FOE</set>
       <prop>
         <colors>B</colors>
@@ -6775,7 +6775,7 @@ Whenever this creature enters or attacks, if its not a token, you may mirror.</t
         <type>Legendary Creature - Zombie Cleric  </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Lisse Bound by the King
+        <notes>Lisse Bound by the King
 alira
 FWB
 Multicolor</notes>
@@ -6786,7 +6786,7 @@ This creature can’t attack or block unless you control two or more enchantment
 4I/W, {T}: Each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
-      <name>Lorenz Ascendant King of Alira</name>
+      <name>Lorenz, Ascendant King of Alira</name>
       <set num="75" rarity="rare">FOE</set>
       <prop>
         <colors>U</colors>
@@ -6803,7 +6803,7 @@ This creature can’t attack or block unless you control two or more enchantment
 Alira
 UWB
 Multicolor
-!exportname Lorenz Ascendant King of Alira</notes>
+Lorenz Ascendant King of Alira</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature enters or attacks, you may search your library for an Equipment card with mana value less than or equal to this creature’s power, put it onto the battlefield, then shuffle. Then you may pay {I/B}. If you do, attach that Equipment to this creature.</text>
@@ -6852,7 +6852,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
 {1}: This creature gets +1/-1 or -1/+1 until end of turn.</text>
     </card>
     <card>
-      <name>Cerise Auger of Flow</name>
+      <name>Cerise, Augur of Flow</name>
       <set num="285" rarity="rare">FOE</set>
       <prop>
         <colors>WUI</colors>
@@ -6865,7 +6865,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!exportname Cerise Auger of Flow</notes>
+        <notes>Cerise Auger of Flow</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters and whenever you put one or more cards into your sanctum, create a 1/1 blue Drake creature token with flying.
@@ -6971,7 +6971,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
 {-3}: Until end of turn, whenever a creature you control deals combat damage, draw a card from your library or sanctum.</text>
     </card>
     <card>
-      <name>Heng Hien Reifer of Justice</name>
+      <name>Heng Hien, Reifer of Justice</name>
       <set num="297" rarity="rare">FOE</set>
       <prop>
         <colors>WU</colors>
@@ -6983,7 +6983,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <type>Legendary Planeswalker - Heng </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Heng Hien Reifer of Justice</notes>
+        <notes>Heng Hien Reifer of Justice</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from this planeswalker and draw a card. If you don’t, you gain 2 life.
@@ -7151,8 +7151,8 @@ Verdant
       <related attach="transform">Zesha, Dream Hedonist</related>
     </card>
     <card>
-      <name>Lisse Hope Through Sin</name>
-      <set num="120" rarity="mythic" splitterPath="/Lisse Hope Through Sin.jpg" >FOE</set>
+      <name>Lisse, Hope Through Sin</name>
+      <set num="120" rarity="mythic" splitterPath="/Lisse, Hope Through Sin.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -7186,7 +7186,7 @@ Whenever this creature attacks, this creature deals 1 damage to any target.
         <type>Land</type>
         <notes>!related Alira Glade&lt;attach>;
 Verdant
-!exportname Lisse Hope Through Sin
+Lisse Hope Through Sin
 !backname Alira Glade
 !addtoken Alira Glade;transform;</notes>
       </prop>
@@ -7195,7 +7195,7 @@ Verdant
 {T}: Add {B}.
 3BB: Transform this land until end of turn.
 ---
-(Front): Lisse Hope Through Sin</text>
+(Front): Lisse, Hope Through Sin</text>
       <related attach="transform">Lisse, Hope Through Sin</related>
     </card>
     <card>
@@ -7708,7 +7708,7 @@ When this creature enters, until end of turn, you may cast a copy of a Focus fro
 Counter target activated or triggered ability from an artifact or enchantment source. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Jothi-01</name>
+      <name>Jothi Token</name>
       <set num="34" rarity="common">FOE</set>
       <prop>
         <colors>W</colors>
@@ -7722,7 +7722,7 @@ Counter target activated or triggered ability from an artifact or enchantment so
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Jothi;
-!exportname Jothi-01</notes>
+Jothi-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -8576,7 +8576,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
         <type></type>
         <maintype></maintype>
         <notes>!related Dominator of Drakes;Lasting Discovery;Calamitous Koi;
-!exportname Flying Counter
+Flying Counter
 !framed!readable</notes>
       </prop>
       <tablerow>1</tablerow>

@@ -56,7 +56,7 @@
       <reverse-related persistent="persistent">Raze the Clanless</reverse-related>
     </card>
     <card>
-      <name>Vin-Mountain VNM</name>
+      <name>Mountain VNM</name>
       <set num="18">VNM</set>
       <prop>
         <colors></colors>
@@ -64,7 +64,7 @@
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Mountain</notes>
+Vin-Mountain</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R}.)</text>
@@ -354,7 +354,7 @@ This can’t block.</text>
       <reverse-related>Path of the Roost</reverse-related>
     </card>
     <card>
-      <name>Vin-Plains VNM</name>
+      <name>Plains VNM</name>
       <set num="19">VNM</set>
       <prop>
         <colors></colors>
@@ -362,7 +362,7 @@ This can’t block.</text>
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Plains</notes>
+Vin-Plains</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W}.)</text>
@@ -370,7 +370,7 @@ This can’t block.</text>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
     </card>
     <card>
-      <name>Vin-Island VNM</name>
+      <name>Island VNM</name>
       <set num="17">VNM</set>
       <prop>
         <colors></colors>
@@ -378,7 +378,7 @@ This can’t block.</text>
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Island</notes>
+Vin-Island</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U}.)</text>
@@ -386,7 +386,7 @@ This can’t block.</text>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
     </card>
     <card>
-      <name>Vin-Swamp VNM</name>
+      <name>Swamp VNM</name>
       <set num="21">VNM</set>
       <prop>
         <colors></colors>
@@ -394,7 +394,7 @@ This can’t block.</text>
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Swamp</notes>
+Vin-Swamp</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B}.)</text>
@@ -402,7 +402,7 @@ This can’t block.</text>
       <reverse-related persistent="persistent">Warped Exploration</reverse-related>
     </card>
     <card>
-      <name>Vin-Forest VNM</name>
+      <name>Forest VNM</name>
       <set num="16">VNM</set>
       <prop>
         <colors></colors>
@@ -410,7 +410,7 @@ This can’t block.</text>
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Forest</notes>
+Vin-Forest</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {G}.)</text>
@@ -581,7 +581,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
       <reverse-related>Verem-Volcano Keeper</reverse-related>
     </card>
     <card>
-      <name>Vin-Fault-Conjure VNM</name>
+      <name>Fault VNM</name>
       <set num="15">VNM</set>
       <prop>
         <colors></colors>
@@ -589,7 +589,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Fault-Conjure</notes>
+Vin-Fault-Conjure</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {I}.)</text>

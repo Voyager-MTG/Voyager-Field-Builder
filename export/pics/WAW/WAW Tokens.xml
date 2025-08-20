@@ -84,14 +84,14 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <reverse-related> Cathexis, Soul Aspect</reverse-related>
     </card>
     <card>
-      <name>New Tensuo Luminary Token WAW</name>
+      <name>New Tensuo Luminary WAW</name>
       <set num="5">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname New Tensuo Luminary Token;
+        <notes>New Tensuo Luminary Token;
 !related New Tensuo Luminary;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -101,14 +101,14 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <reverse-related>New Tensuo Luminary</reverse-related>
     </card>
     <card>
-      <name>Lakebed Wrudge Token WAW</name>
+      <name>Lakebed Wrudge WAW</name>
       <set num="9">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Creature - Wonder Fish </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Lakebed Wrudge Token;
+        <notes>Lakebed Wrudge Token;
 !related Lakebed Wrudge;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -132,7 +132,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 • [Exile up to one target nonland permanent with mana value 1 or less.]
 • [Scry 2, then draw a card.]
 • [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
@@ -150,14 +150,14 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
       <token>1</token>
     </card>
     <card>
-      <name>Cloudeater Drake token WAW</name>
+      <name>Cloudeater Drake WAW</name>
       <set num="8">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Wonder Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Cloudeater Drake token;
+        <notes>Cloudeater Drake token;
 !related Cloudeater Drake;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -197,14 +197,14 @@ This creature can’t block.</text>
       <reverse-related>Tenuous Partners</reverse-related>
     </card>
     <card>
-      <name>Flowering Germinus Token WAW</name>
+      <name>Flowering Germinus WAW</name>
       <set num="24">WAW</set>
       <prop>
         <colors>WG</colors>
         <type>Token Creature - Wonder  </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Flowering Germinus Token;
+        <notes>Flowering Germinus Token;
 !related Flowering Germinus;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -214,14 +214,14 @@ This creature can’t block.</text>
       <reverse-related>Flowering Germinus</reverse-related>
     </card>
     <card>
-      <name>Gilded Ancient Token WAW</name>
+      <name>Gilded Ancient WAW</name>
       <set num="18">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Cat </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Gilded Ancient Token;
+        <notes>Gilded Ancient Token;
 !related Gilded Ancient;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -263,14 +263,14 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <token>1</token>
     </card>
     <card>
-      <name>Kindly Skywinder Token WAW</name>
+      <name>Kindly Skywinder WAW</name>
       <set num="4">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Kindly Skywinder Token;
+        <notes>Kindly Skywinder Token;
 !related Kindly Skywinder;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -280,14 +280,14 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related>Kindly Skywinder</reverse-related>
     </card>
     <card>
-      <name>Music of the Deepholt Token WAW</name>
+      <name>Music of the Deepholt WAW</name>
       <set num="10">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Token Enchantment Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Music of the Deepholt Token;
+        <notes>Music of the Deepholt Token;
 !related Music of the Deepholt;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -297,14 +297,14 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related>Music of the Deepholt</reverse-related>
     </card>
     <card>
-      <name>New Tensuo Clergy Token WAW</name>
+      <name>New Tensuo Clergy WAW</name>
       <set num="14">WAW</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Wonder Elf Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname New Tensuo Clergy Token;
+        <notes>New Tensuo Clergy Token;
 !related New Tensuo Clergy;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -314,14 +314,14 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related>New Tensuo Clergy</reverse-related>
     </card>
     <card>
-      <name>New Tensuo Vanguard Token WAW</name>
+      <name>New Tensuo Vanguard WAW</name>
       <set num="6">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname New Tensuo Vanguard Token;
+        <notes>New Tensuo Vanguard Token;
 !related New Tensuo Vanguard</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -369,7 +369,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
@@ -388,14 +388,14 @@ Impetus 4G (You may cast this from your graveyard as a sorcery with only the tex
       <token>1</token>
     </card>
     <card>
-      <name>Stardust Haze Token WAW</name>
+      <name>Stardust Haze WAW</name>
       <set num="7">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Stardust Haze Token;
+        <notes>Stardust Haze Token;
 !related Stardust Haze;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -406,14 +406,14 @@ When this enchantment enters, exile target nonland permanent you don’t control
       <reverse-related>Stardust Haze</reverse-related>
     </card>
     <card>
-      <name>Ageless Caretaker Token WAW</name>
+      <name>Ageless Caretaker WAW</name>
       <set num="1">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Demigod Cleric </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Ageless Caretaker Token;
+        <notes>Ageless Caretaker Token;
 !related Ageless Caretaker;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -424,14 +424,14 @@ This creature gets +1/+0 for each other creature you control.
       <reverse-related>Ageless Caretaker</reverse-related>
     </card>
     <card>
-      <name>New Tensuo Physician Token WAW</name>
+      <name>New Tensuo Physician WAW</name>
       <set num="19">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Elf Druid </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname New Tensuo Physician Token;
+        <notes>New Tensuo Physician Token;
 !related New Tensuo Physician;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -441,14 +441,14 @@ This creature gets +1/+0 for each other creature you control.
       <reverse-related>New Tensuo Physician</reverse-related>
     </card>
     <card>
-      <name>Vrep token WAW</name>
+      <name>Vrep WAW</name>
       <set num="20">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Salamander </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!exportname Vrep token;
+        <notes>Vrep token;
 !related Vrep;</notes>
       </prop>
       <tablerow>2</tablerow>

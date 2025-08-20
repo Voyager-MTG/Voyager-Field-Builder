@@ -2229,7 +2229,7 @@ GREENCOMMON</notes>
     </card>
     <card>
       <name>Denizen of New Akella</name>
-	  <set num="1" rarity="common" uuid="99">AKT</set>
+	  <set num="2" rarity="common" uuid="99">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4398,8 +4398,8 @@ Flying, hexproof
 If Lyyrata usurped, creatures you control get +5000/+5000.</text>
     </card>
     <card>
-      <name>PrithiteWordlyDicta</name>
-	  <set num="152" rarity="rare" uuid="200">AKT</set>
+      <name>Prithite&apos;s Worldly Dicta</name>
+      <set num="152" rarity="rare">AKT</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -4413,7 +4413,7 @@ If Lyyrata usurped, creatures you control get +5000/+5000.</text>
         <pt>4/4</pt>
         <notes>REDRARE03
 
-!exportname PrithiteWordlyDicta</notes>
+PrithiteWordlyDicta</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -5928,8 +5928,8 @@ Emerged Stonepiler can’t be blocked.
       <related attach="transform">Submerged Spires</related>
     </card>
     <card>
-      <name>Denizen of New Akella Alt</name>
-	  <set num="2" rarity="common" uuid="273">AKT</set>
+      <name>Denizen of New Akella</name>
+	  <set num="1" rarity="common" uuid="273">AKT</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5942,7 +5942,7 @@ Emerged Stonepiler can’t be blocked.
         <maintype>Creature</maintype>
         <pt>5/5</pt>
         <notes>COLOURLESSCOMMON
-!exportname Denizen of New Akella Alt</notes>
+Denizen of New Akella Alt</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Transcend {6} (At the beginning of combat, cast your chosen Erysite from outside the game by paying its Transcend cost and exiling a Dragon creature you control.)
@@ -9836,8 +9836,8 @@ Draw a card.</text>
       <text>This spell deals 4 damage to target attacking or blocking creature. Create a 1/1 white Fox creature token if you controlled an enchantment as you cast this spell.</text>
     </card>
     <card>
-      <name>Apprentices Drake</name>
-	  <set num="60" rarity="common" uuid="466">FOE</set>
+      <name>Apprentice&apos;s Drake</name>
+      <set num="60" rarity="common">FOE</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -9850,7 +9850,7 @@ Draw a card.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!tag fadove;
-!exportname Apprentices Drake</notes>
+Apprentices Drake</notes>
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -10182,8 +10182,8 @@ Put up to two target cards in a graveyard into their owner’s sanctum.
 Draw a card. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>You Cant Face Me</name>
-	  <set num="139" rarity="common" uuid="484">FOE</set>
+      <name>You Can&apos;t Face Me</name>
+      <set num="139" rarity="common">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -10194,7 +10194,7 @@ Draw a card. (Then put this into your sanctum.)</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname You Cant Face Me</notes>
+        <notes>You Cant Face Me</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent reveals their hand. You choose a creature or enchantment card from it. That player discards that card.</text>
@@ -10531,8 +10531,8 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
-      <name>Willbournes Flame</name>
-	  <set num="179" rarity="common" uuid="502">FOE</set>
+      <name>Willbourne&apos;s Flame</name>
+      <set num="179" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -10543,7 +10543,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Willbournes Flame</notes>
+        <notes>Willbournes Flame</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell deals 3 damage to any nonplayer target. If you control a red permanent, it deals 4 damage to that target instead.</text>
@@ -10660,8 +10660,8 @@ Target creature you control gains first strike and trample until end of turn. (T
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
-      <name>Drakes Intuition</name>
-	  <set num="150" rarity="common" uuid="509">FOE</set>
+      <name>Drake&apos;s Intuition</name>
+      <set num="150" rarity="common">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -10672,7 +10672,7 @@ As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</
         <mv>2</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Drakes Intuition</notes>
+        <notes>Drakes Intuition</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -11341,7 +11341,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -12184,7 +12184,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of another token you control.)
+• Mirror. (Create a token that’s a copy of a token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -12687,8 +12687,8 @@ Reveal it, shuffle, then put that card on top of your library.</text>
       <text>Sift 3, then draw a card. (Look at the top three cards of your library. Put any number of them into your sanctum and the rest on top in any order.)</text>
     </card>
     <card>
-      <name>When Words Dont Work</name>
-	  <set num="276" rarity="common" uuid="610">FOE</set>
+      <name>When Words Don&apos;t Work</name>
+      <set num="276" rarity="common">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -12699,7 +12699,7 @@ Reveal it, shuffle, then put that card on top of your library.</text>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname When Words Dont Work
+        <notes>When Words Dont Work
 can possibly hit enchantments
 Manifest</notes>
       </prop>
@@ -12708,8 +12708,8 @@ Manifest</notes>
 {2}, Discard this: Draw a card.</text>
     </card>
     <card>
-      <name>Fault-01</name>
-	  <set num="376" rarity="" uuid="611">FOE</set>
+      <name>Fault</name>
+	  <set num="379" rarity="" uuid="611">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12720,13 +12720,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-01</notes>
+        <notes>Fault-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-03</name>
+      <name>Fault</name>
 	  <set num="378" rarity="" uuid="612">FOE</set>
       <prop>
         <colors></colors>
@@ -12738,13 +12738,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-03</notes>
+        <notes>Fault-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-02</name>
+      <name>Fault</name>
 	  <set num="377" rarity="" uuid="613">FOE</set>
       <prop>
         <colors></colors>
@@ -12756,14 +12756,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-02</notes>
+        <notes>Fault-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Fault-04</name>
-	  <set num="379" rarity="" uuid="614">FOE</set>
+      <name>Fault</name>
+	  <set num="376" rarity="" uuid="614">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12774,13 +12774,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Fault-04</notes>
+        <notes>Fault-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-01</name>
+      <name>Forest</name>
 	  <set num="372" rarity="" uuid="615">FOE</set>
       <prop>
         <colors></colors>
@@ -12792,14 +12792,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-01</notes>
+        <notes>Forest-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-03</name>
-	  <set num="374" rarity="" uuid="616">FOE</set>
+      <name>Forest</name>
+	  <set num="375" rarity="" uuid="616">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12810,14 +12810,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-03</notes>
+        <notes>Forest-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-02</name>
-	  <set num="373" rarity="" uuid="617">FOE</set>
+      <name>Forest</name>
+	  <set num="374" rarity="" uuid="617">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12828,14 +12828,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-02</notes>
+        <notes>Forest-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest-04</name>
-	  <set num="375" rarity="" uuid="618">FOE</set>
+      <name>Forest</name>
+	  <set num="373" rarity="" uuid="618">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12846,14 +12846,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Forest-04</notes>
+        <notes>Forest-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-01</name>
-	  <set num="360" rarity="" uuid="619">FOE</set>
+      <name>Island</name>
+	  <set num="362" rarity="" uuid="619">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12864,14 +12864,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-01</notes>
+        <notes>Island-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-03</name>
-	  <set num="362" rarity="" uuid="620">FOE</set>
+      <name>Island</name>
+	  <set num="360" rarity="" uuid="620">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12882,13 +12882,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-03</notes>
+        <notes>Island-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-02</name>
+      <name>Island</name>
 	  <set num="361" rarity="" uuid="621">FOE</set>
       <prop>
         <colors></colors>
@@ -12900,13 +12900,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-02</notes>
+        <notes>Island-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island-04</name>
+      <name>Island</name>
 	  <set num="363" rarity="" uuid="622">FOE</set>
       <prop>
         <colors></colors>
@@ -12918,14 +12918,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Island-04</notes>
+        <notes>Island-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-01</name>
-	  <set num="368" rarity="" uuid="623">FOE</set>
+      <name>Mountain</name>
+	  <set num="371" rarity="" uuid="623">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12936,14 +12936,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-01</notes>
+        <notes>Mountain-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-02</name>
-	  <set num="369" rarity="" uuid="624">FOE</set>
+      <name>Mountain</name>
+	  <set num="370" rarity="" uuid="624">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12954,14 +12954,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-02</notes>
+        <notes>Mountain-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-03</name>
-	  <set num="370" rarity="" uuid="625">FOE</set>
+      <name>Mountain</name>
+	  <set num="369" rarity="" uuid="625">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12972,14 +12972,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-03</notes>
+        <notes>Mountain-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain-04</name>
-	  <set num="371" rarity="" uuid="626">FOE</set>
+      <name>Mountain</name>
+	  <set num="368" rarity="" uuid="626">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -12990,14 +12990,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Mountain-04</notes>
+        <notes>Mountain-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-04</name>
-	  <set num="359" rarity="" uuid="627">FOE</set>
+      <name>Plains</name>
+	  <set num="357" rarity="" uuid="627">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -13008,13 +13008,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-04</notes>
+        <notes>Plains-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-01</name>
+      <name>Plains</name>
 	  <set num="356" rarity="" uuid="628">FOE</set>
       <prop>
         <colors></colors>
@@ -13026,14 +13026,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-01</notes>
+        <notes>Plains-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-03</name>
-	  <set num="358" rarity="" uuid="629">FOE</set>
+      <name>Plains</name>
+	  <set num="359" rarity="" uuid="629">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -13044,14 +13044,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-03</notes>
+        <notes>Plains-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains-02</name>
-	  <set num="357" rarity="" uuid="630">FOE</set>
+      <name>Plains</name>
+	  <set num="358" rarity="" uuid="630">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -13062,13 +13062,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Plains-02</notes>
+        <notes>Plains-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-01</name>
+      <name>Swamp</name>
 	  <set num="364" rarity="" uuid="631">FOE</set>
       <prop>
         <colors></colors>
@@ -13080,14 +13080,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-01</notes>
+        <notes>Swamp-01</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-03</name>
-	  <set num="366" rarity="" uuid="632">FOE</set>
+      <name>Swamp</name>
+	  <set num="365" rarity="" uuid="632">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -13098,14 +13098,14 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-03</notes>
+        <notes>Swamp-03</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-02</name>
-	  <set num="365" rarity="" uuid="633">FOE</set>
+      <name>Swamp</name>
+	  <set num="366" rarity="" uuid="633">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -13116,13 +13116,13 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-02</notes>
+        <notes>Swamp-02</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp-04</name>
+      <name>Swamp</name>
 	  <set num="367" rarity="" uuid="634">FOE</set>
       <prop>
         <colors></colors>
@@ -13134,7 +13134,7 @@ Manifest</notes>
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Swamp-04</notes>
+        <notes>Swamp-04</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
@@ -13176,7 +13176,7 @@ Manifest</notes>
       <text></text>
     </card>
     <card>
-      <name>plus one plus one counter</name>
+      <name>+1+1 Counter</name>
 	  <set num="382" rarity="" uuid="637">FOE</set>
       <prop>
         <colors>WUBRGI</colors>
@@ -13188,7 +13188,7 @@ Manifest</notes>
         <mv>5</mv>
         <type>Reminder</type>
         <maintype>Reminder</maintype>
-        <notes>!exportname plus one plus one counter
+        <notes>plus one plus one counter
 !related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
 
 !framed!readable</notes>
@@ -13316,8 +13316,8 @@ FGU</notes>
 When this creature enters, you may choose up to two target creatures you control. Those creatures become copies of this creature until this creature leaves the battlefield.</text>
     </card>
     <card>
-      <name>Kornas Forward</name>
-	  <set num="252" rarity="uncommon" uuid="644">FOE</set>
+      <name>Korna&apos;s Forward</name>
+      <set num="252" rarity="uncommon">FOE</set>
       <prop>
         <colors>I</colors>
         <color>I</color>
@@ -13329,7 +13329,7 @@ When this creature enters, you may choose up to two target creatures you control
         <type>Creature - Wurm Scout </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Kornas Forward</notes>
+        <notes>Kornas Forward</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward—Pay 2 life.
@@ -14043,7 +14043,7 @@ You may cast this creature from your sanctum for 1W.
 Put a +1/+1 counter on target creature you control. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Julius Skyknight of Morriare</name>
+      <name>Julius, Skyknight of Morriare</name>
 	  <set num="35" rarity="uncommon" uuid="680">FOE</set>
       <prop>
         <colors>W</colors>
@@ -14056,7 +14056,7 @@ Put a +1/+1 counter on target creature you control. (Then put this into your san
         <type>Legendary Creature - Mouse Bird Knight </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>!exportname Julius Skyknight of Morriare
+        <notes>Julius Skyknight of Morriare
 WRU
 Multicolor</notes>
       </prop>
@@ -14187,8 +14187,8 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
       <text>Creatures you control get +1/+1 and have ward {1}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
     </card>
     <card>
-      <name>Hengs Intercession</name>
-	  <set num="29" rarity="uncommon" uuid="687">FOE</set>
+      <name>Heng&apos;s Intercession</name>
+      <set num="29" rarity="uncommon">FOE</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -14199,7 +14199,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
         <mv>5</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hengs Intercession
+        <notes>Hengs Intercession
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -14681,8 +14681,8 @@ Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
     <card>
-      <name>I Wont Stand Alone</name>
-	  <set num="116" rarity="uncommon" uuid="712">FOE</set>
+      <name>I Won&apos;t Stand Alone</name>
+      <set num="116" rarity="uncommon">FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -14693,7 +14693,7 @@ This creature gets +2/+0 if you’ve illuminated black.</text>
         <mv>1</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname I Wont Stand Alone
+        <notes>I Wont Stand Alone
 // mini bleak return :)</notes>
       </prop>
       <tablerow>3</tablerow>
@@ -15216,8 +15216,8 @@ Multicolor</notes>
 2I/G: Create a token that’s a copy of this enchantment without this ability. It’s a 2/2 red Human Wizard enchantment creature. Activate only once.</text>
     </card>
     <card>
-      <name>Our March Wont End</name>
-	  <set num="166" rarity="uncommon" uuid="739">FOE</set>
+      <name>Our March Won&apos;t End</name>
+      <set num="166" rarity="uncommon">FOE</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -15228,7 +15228,7 @@ Multicolor</notes>
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Our March Wont End
+        <notes>Our March Wont End
 !tag fascism;</notes>
         <tag>fascism;</tag>
       </prop>
@@ -15445,8 +15445,8 @@ Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to 
 Explorer — 3G: This creature gets +1/+1 until end of turn for each differently named land you control. Activate only once each turn.</text>
     </card>
     <card>
-      <name>Cartographers Survey</name>
-	  <set num="183" rarity="uncommon" uuid="751">FOE</set>
+      <name>Cartographer&apos;s Survey</name>
+      <set num="183" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -15457,14 +15457,14 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!exportname Cartographers Survey</notes>
+        <notes>Cartographers Survey</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top seven cards of your library. Put up to two land cards from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.</text>
     </card>
     <card>
-      <name>Hunters Strength</name>
-	  <set num="196" rarity="uncommon" uuid="752">FOE</set>
+      <name>Hunter&apos;s Strength</name>
+      <set num="196" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -15475,14 +15475,14 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!exportname Hunters Strength</notes>
+        <notes>Hunters Strength</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power or toughness to target creature you don’t control.</text>
     </card>
     <card>
-      <name>Keras Appointed</name>
-	  <set num="198" rarity="uncommon" uuid="753">FOE</set>
+      <name>Kera&apos;s Appointed</name>
+      <set num="198" rarity="uncommon">FOE</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -15494,7 +15494,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <type>Creature - Treefolk Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Keras Appointed</notes>
+        <notes>Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
@@ -15636,7 +15636,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
       <text>Each opponent sacrifices a creature or planeswalker with the highest mana value among creatures and planeswalkers they control.</text>
     </card>
     <card>
-      <name>Korna Adventuring Historian</name>
+      <name>Korna, Adventuring Historian</name>
 	  <set num="305" rarity="rare" uuid="761">FOE</set>
       <prop>
         <colors>WR</colors>
@@ -15648,7 +15648,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
         <mv>5</mv>
         <type>Legendary Enchantment - Wurm Entity </type>
         <maintype>Enchantment</maintype>
-        <notes>!exportname Korna Adventuring Historian</notes>
+        <notes>Korna Adventuring Historian</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Materialize 2 (Tap any number of other enchantments you control with total mana value 2 or more: This becomes a creature in addition to its other types until your next upkeep.)
@@ -15656,7 +15656,7 @@ Trample, vigilance
 Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with vigilance.</text>
     </card>
     <card>
-      <name>Zoslera Exiled Visionary</name>
+      <name>Zoslera, Exiled Visionary</name>
 	  <set num="332" rarity="rare" uuid="762">FOE</set>
       <prop>
         <colors>RG</colors>
@@ -15668,7 +15668,7 @@ Once each turn, whenever a spell or ability puts a card into your hand, create a
         <type>Legendary Planeswalker - Zoslera </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Zoslera Exiled Visionary
+        <notes>Zoslera Exiled Visionary
 
 Maybe the zero is a -1</notes>
       </prop>
@@ -15718,7 +15718,7 @@ Once each turn, you may cast an enchantment or creature spell from the top of yo
 Tap two untapped enchantments you control: Add one mana of any color. This mana can’t be spent to cast noncreature, nonenchantment spells.</text>
     </card>
     <card>
-      <name>Aurel Born Through Discord</name>
+      <name>Aurel, Born Through Discord</name>
 	  <set num="279" rarity="rare" uuid="765">FOE</set>
       <prop>
         <colors>WUR</colors>
@@ -15731,14 +15731,14 @@ Tap two untapped enchantments you control: Add one mana of any color. This mana 
         <type>Legendary Creature - Angel </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Aurel Born Through Discord</notes>
+        <notes>Aurel Born Through Discord</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
 The first creature spell with mana value 3 or less you cast each turn has cascade. (When you cast that spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
     </card>
     <card>
-      <name>Sonnet Meirel Lancer</name>
+      <name>Sonnet, Meirel Lancer</name>
 	  <set num="53" rarity="rare" uuid="766">FOE</set>
       <prop>
         <colors>W</colors>
@@ -15751,14 +15751,14 @@ The first creature spell with mana value 3 or less you cast each turn has cascad
         <type>Legendary Creature - Fox Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Sonnet Meirel Lancer</notes>
+        <notes>Sonnet Meirel Lancer</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
 When this creature enters, she deals damage equal to the number of creatures you control to up to one nonplayer target.</text>
     </card>
     <card>
-      <name>Marie Hungerbound</name>
+      <name>Marie, Hungerbound</name>
 	  <set num="10" rarity="mythic" uuid="767">FOE</set>
       <prop>
         <colors></colors>
@@ -15770,7 +15770,7 @@ When this creature enters, she deals damage equal to the number of creatures you
         <type>Legendary Planeswalker - Marie </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Marie Hungerbound</notes>
+        <notes>Marie Hungerbound</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>If at least three mana of the same color was spent to cast this spell, this planeswalker enters with an additional three loyalty counters.
@@ -15799,7 +15799,7 @@ When this creature enters, look at the top five cards of your library. You may r
 Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
     <card>
-      <name>Gael Spiteflame Phoenix</name>
+      <name>Gael, Spiteflame Phoenix</name>
 	  <set num="296" rarity="rare" uuid="769">FOE</set>
       <prop>
         <colors>UBR</colors>
@@ -15812,7 +15812,7 @@ Evoke 1G/U (You may cast this spell for its evoke cost. If you do, it’s sacrif
         <type>Legendary Creature - Phoenix </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Gael Spiteflame Phoenix</notes>
+        <notes>Gael Spiteflame Phoenix</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -15820,7 +15820,7 @@ You may cast enchantment spells as through they had flash.
 U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the battlefield.</text>
     </card>
     <card>
-      <name>Jothi Awakened Flock</name>
+      <name>Jothi, Awakened Flock</name>
 	  <set num="303" rarity="rare" uuid="770">FOE</set>
       <prop>
         <colors>WB</colors>
@@ -15832,7 +15832,7 @@ U/BR, Sacrifice an enchantment: Return this creature from your graveyard to the 
         <type>Legendary Planeswalker - Jothi </type>
         <maintype>Planeswalker</maintype>
       <loyalty>2</loyalty>
-        <notes>!exportname Jothi Awakened Flock</notes>
+        <notes>Jothi Awakened Flock</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this planeswalker enters, you may search your library for a Bird card, reveal it, then put it into your hand. Then shuffle.
@@ -16127,7 +16127,7 @@ Flying
 If a card would be put from an opponents sanctum into anywhere other than exile, you may exile it instead. If you do, that player may cast it for as long as it remains exiled. Spells cast this way cost {2} more to cast.</text>
     </card>
     <card>
-      <name>Chirps Spice Seeker</name>
+      <name>Chirps, Spice Seeker</name>
 	  <set num="234" rarity="rare" uuid="785">FOE</set>
       <prop>
         <colors>I</colors>
@@ -16140,14 +16140,14 @@ If a card would be put from an opponents sanctum into anywhere other than exile,
         <type>Legendary Enchantment Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/5</pt>
-        <notes>!exportname Chirps Spice Seeker</notes>
+        <notes>Chirps Spice Seeker</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, ward {1}
 When Chirps enters and at the beginning of your upkeep, if you don’t control a creature named Aubrey, create Aubrey, a 2/1 legendary red and silver Drake creature token with flying and haste.</text>
     </card>
     <card>
-      <name>Melodia Explorer at Heart</name>
+      <name>Melodia, Drifter at Heart</name>
 	  <set num="260" rarity="rare" uuid="786">FOE</set>
       <prop>
         <colors>I</colors>
@@ -16161,7 +16161,7 @@ When Chirps enters and at the beginning of your upkeep, if you don’t control a
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!smallbox 
-!exportname Melodia Explorer at Heart</notes>
+Melodia Explorer at Heart</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
@@ -16190,7 +16190,7 @@ recreate</notes>
 Whenever this creature enters or attacks, if its not a token, you may mirror.</text>
     </card>
     <card>
-      <name>Lisse Bound by the King</name>
+      <name>Lisse, Bound by the King</name>
 	  <set num="119" rarity="rare" uuid="788">FOE</set>
       <prop>
         <colors>B</colors>
@@ -16203,7 +16203,7 @@ Whenever this creature enters or attacks, if its not a token, you may mirror.</t
         <type>Legendary Creature - Zombie Cleric  </type>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
-        <notes>!exportname Lisse Bound by the King
+        <notes>Lisse Bound by the King
 alira
 FWB
 Multicolor</notes>
@@ -16214,7 +16214,7 @@ This creature can’t attack or block unless you control two or more enchantment
 4I/W, {T}: Each opponent loses 2 life and you gain 2 life.</text>
     </card>
     <card>
-      <name>Lorenz Ascendant King of Alira</name>
+      <name>Lorenz, Ascendant King of Alira</name>
 	  <set num="75" rarity="rare" uuid="789">FOE</set>
       <prop>
         <colors>U</colors>
@@ -16231,7 +16231,7 @@ This creature can’t attack or block unless you control two or more enchantment
 Alira
 UWB
 Multicolor
-!exportname Lorenz Ascendant King of Alira</notes>
+Lorenz Ascendant King of Alira</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature enters or attacks, you may search your library for an Equipment card with mana value less than or equal to this creature’s power, put it onto the battlefield, then shuffle. Then you may pay {I/B}. If you do, attach that Equipment to this creature.</text>
@@ -16280,7 +16280,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
 {1}: This creature gets +1/-1 or -1/+1 until end of turn.</text>
     </card>
     <card>
-      <name>Cerise Auger of Flow</name>
+      <name>Cerise, Augur of Flow</name>
 	  <set num="285" rarity="rare" uuid="792">FOE</set>
       <prop>
         <colors>WUI</colors>
@@ -16293,7 +16293,7 @@ For each color you’ve illuminated, this creature gets +1/+1.</text>
         <type>Legendary Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!exportname Cerise Auger of Flow</notes>
+        <notes>Cerise Auger of Flow</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters and whenever you put one or more cards into your sanctum, create a 1/1 blue Drake creature token with flying.
@@ -16399,7 +16399,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
 {-3}: Until end of turn, whenever a creature you control deals combat damage, draw a card from your library or sanctum.</text>
     </card>
     <card>
-      <name>Heng Hien Reifer of Justice</name>
+      <name>Heng Hien, Reifer of Justice</name>
 	  <set num="297" rarity="rare" uuid="798">FOE</set>
       <prop>
         <colors>WU</colors>
@@ -16411,7 +16411,7 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <type>Legendary Planeswalker - Heng </type>
         <maintype>Planeswalker</maintype>
       <loyalty>3</loyalty>
-        <notes>!exportname Heng Hien Reifer of Justice</notes>
+        <notes>Heng Hien Reifer of Justice</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a spell or ability puts a card into an opponents hand, you may remove a loyalty counter from this planeswalker and draw a card. If you don’t, you gain 2 life.
@@ -16579,8 +16579,8 @@ Verdant
       <related attach="transform">Zesha, Dream Hedonist</related>
     </card>
     <card>
-      <name>Lisse Hope Through Sin</name>
-      <set num="120" rarity="mythic" splitterPath="/Lisse Hope Through Sin.jpg" >FOE</set>
+      <name>Lisse, Hope Through Sin</name>
+      <set num="120" rarity="mythic" splitterPath="/Lisse, Hope Through Sin.jpg" >FOE</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -16614,7 +16614,7 @@ Whenever this creature attacks, this creature deals 1 damage to any target.
         <type>Land</type>
         <notes>!related Alira Glade&lt;attach>;
 Verdant
-!exportname Lisse Hope Through Sin
+Lisse Hope Through Sin
 !backname Alira Glade
 !addtoken Alira Glade;transform;</notes>
       </prop>
@@ -16623,7 +16623,7 @@ Verdant
 {T}: Add {B}.
 3BB: Transform this land until end of turn.
 ---
-(Front): Lisse Hope Through Sin</text>
+(Front): Lisse, Hope Through Sin</text>
       <related attach="transform">Lisse, Hope Through Sin</related>
     </card>
     <card>
@@ -17136,7 +17136,7 @@ When this creature enters, until end of turn, you may cast a copy of a Focus fro
 Counter target activated or triggered ability from an artifact or enchantment source. (Then put this into your sanctum.)</text>
     </card>
     <card>
-      <name>Jothi-01</name>
+      <name>Jothi Token</name>
 	  <set num="34" rarity="common" uuid="833">FOE</set>
       <prop>
         <colors>W</colors>
@@ -17150,7 +17150,7 @@ Counter target activated or triggered ability from an artifact or enchantment so
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Jothi;
-!exportname Jothi-01</notes>
+Jothi-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -18004,7 +18004,7 @@ Whenever this creature attacks, you may cast a face up card in your sanctum with
         <type></type>
         <maintype></maintype>
         <notes>!related Dominator of Drakes;Lasting Discovery;Calamitous Koi;
-!exportname Flying Counter
+Flying Counter
 !framed!readable</notes>
       </prop>
       <tablerow>1</tablerow>
@@ -18663,7 +18663,7 @@ When this creature enters, if it isn’t a token, you may sacrifice another crea
         <notes>https://www.deviantart.com/jasonengle/art/Andal-The-Foul-622493301</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
@@ -19024,7 +19024,7 @@ Exile Return for Duty.</text>
 Drain if too weak</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a creature, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -19681,7 +19681,7 @@ Trample, haste</text>
         <notes>https://www.deviantart.com/kotnonekot/art/TwistedConsecration-541312543</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it dies, draw a card for each pact counter on it.
 Sacrifice this enchantment: The next spell you cast this turn can be cast as though it has flash.</text>
     </card>
@@ -19820,7 +19820,7 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
         <notes>https://www.artstation.com/artwork/qQLDRa</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a creature you control, exile the top card of your library. You may play it until the end of your next turn.</text>
     </card>
     <card>
@@ -20325,7 +20325,7 @@ Exile the top two cards of your library. You may play those cards until the end 
 Black aggro/pact synergy deck</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Flying
 This creature can’t attack or block unless there are two or more pact counters among creatures you control.</text>
     </card>
@@ -21921,7 +21921,7 @@ Creatures with counters on them lose all abilities and have base power and tough
         <notes>https://www.deviantart.com/hedonisminc/art/Serafin-547743684</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Flying
 Creatures you control with pact counters on them have +1/+1.</text>
     </card>
@@ -22275,7 +22275,7 @@ arguably too weak</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have hexproof.</text>
     </card>
     <card>
@@ -22553,7 +22553,7 @@ When this creature leaves the battlefield, discard three cards.</text>
         <notes>https://www.artstation.com/artwork/egv86</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it attacks, defending player mills two cards for each pact counter on it.</text>
     </card>
     <card>
@@ -22691,7 +22691,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.instagram.com/p/BzGL86Zl8l3/</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Menace
 Whenever a creature you control with a pact counter on it dies, target player discards a card.</text>
     </card>
@@ -23021,7 +23021,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
 Needs new flavor</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a nontoken creature you control, create a token that’s a copy of it. Exile the token at the end of your next combat step.</text>
     </card>
     <card>
@@ -23084,7 +23084,7 @@ Choose one —
         <notes>https://www.artstation.com/artwork/33A4J</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Reach
 Creatures you control with pact counters on them have trample.</text>
     </card>
@@ -23144,7 +23144,7 @@ Creatures you control with pact counters on them have trample.</text>
         <notes>https://www.deviantart.com/helgecbalzer/art/Atlach-Nacha-Fantasy-Art-by-Helge-C-Balzer-855116807</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Reach
 Whenever a nontoken creature you control dies, create a 2/1 green Spider creature token with reach for each pact counter on it.</text>
     </card>
@@ -23249,7 +23249,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.deviantart.com/verehin/art/King-Witch-A-370791757</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have “{T}: Add one mana of any color.”</text>
     </card>
     <card>
@@ -23271,7 +23271,7 @@ Creatures you control with pact counters on them have “{T}: Add one mana of an
 Undue’s presence caused a divide among the liches of Hwel, driving many to entreat greater entities for protection.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it dies, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
@@ -24751,7 +24751,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>
@@ -28234,8 +28234,8 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
       <text>{T}, Sacrifice Crossroads of Identity: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then you may exile three cards from your graveyard. If you do, untap that land.</text>
     </card>
     <card>
-      <name>Whitaker Sigil</name>
-	  <set num="329" rarity="" uuid="1362">HOD</set>
+      <name>House Sigil</name>
+	  <set num="315" rarity="" uuid="1362">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -28247,7 +28247,7 @@ Islandcycling {2}, Mountaincycling {2}, Plainscycling {2} ({2}, Discard this car
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Whitaker Sigil
+Whitaker Sigil
 !tag Whitaker</notes>
         <tag>DewoldWhitaker</tag>
       </prop>
@@ -29295,7 +29295,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. (Sacrifice creatures with total toughness 3 or more.)
 Exile the top three cards of your library. You may play them until the end of your next turn. If Innocent Rendezvous was forsaken, add RRRRR.</text>
     </card>
     <card>
@@ -30717,7 +30717,7 @@ At the beginning of combat on your turn, you may move a token in your reserves o
     </card>
     <card>
       <name>Plains</name>
-	  <set num="300" rarity="" uuid="1476">HOD</set>
+	  <set num="301" rarity="" uuid="1476">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30737,7 +30737,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Island</name>
-	  <set num="303" rarity="" uuid="1477">HOD</set>
+	  <set num="304" rarity="" uuid="1477">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30757,7 +30757,7 @@ Sword Cycle</notes>
     </card>
     <card>
       <name>Swamp</name>
-	  <set num="306" rarity="" uuid="1478">HOD</set>
+	  <set num="308" rarity="" uuid="1478">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30816,8 +30816,8 @@ Sword Cycle</notes>
       <text></text>
     </card>
     <card>
-      <name>Island2</name>
-	  <set num="304" rarity="" uuid="1481">HOD</set>
+      <name>Island</name>
+	  <set num="303" rarity="" uuid="1481">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30829,15 +30829,15 @@ Sword Cycle</notes>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Island2</notes>
+Island2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp2</name>
-	  <set num="307" rarity="" uuid="1482">HOD</set>
+      <name>Swamp</name>
+	  <set num="306" rarity="" uuid="1482">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30849,14 +30849,14 @@ Sword Cycle</notes>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Swamp2</notes>
+Swamp2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain2</name>
+      <name>Mountain</name>
 	  <set num="310" rarity="" uuid="1483">HOD</set>
       <prop>
         <colors></colors>
@@ -30869,15 +30869,15 @@ Sword Cycle</notes>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Mountain2</notes>
+Mountain2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest2</name>
-	  <set num="313" rarity="" uuid="1484">HOD</set>
+      <name>Forest</name>
+	  <set num="314" rarity="" uuid="1484">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30889,14 +30889,14 @@ Sword Cycle</notes>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Forest2</notes>
+Forest2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains3</name>
+      <name>Plains</name>
 	  <set num="302" rarity="" uuid="1485">HOD</set>
       <prop>
         <colors></colors>
@@ -30909,14 +30909,14 @@ Sword Cycle</notes>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Plains3</notes>
+Plains3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Island3</name>
+      <name>Island</name>
 	  <set num="305" rarity="" uuid="1486">HOD</set>
       <prop>
         <colors></colors>
@@ -30929,15 +30929,15 @@ Sword Cycle</notes>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Island3</notes>
+Island3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Swamp3</name>
-	  <set num="308" rarity="" uuid="1487">HOD</set>
+      <name>Swamp</name>
+	  <set num="307" rarity="" uuid="1487">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30949,14 +30949,14 @@ Sword Cycle</notes>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Swamp3</notes>
+Swamp3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Mountain3</name>
+      <name>Mountain</name>
 	  <set num="311" rarity="" uuid="1488">HOD</set>
       <prop>
         <colors></colors>
@@ -30969,15 +30969,15 @@ Sword Cycle</notes>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Mountain3</notes>
+Mountain3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Forest3</name>
-	  <set num="314" rarity="" uuid="1489">HOD</set>
+      <name>Forest</name>
+	  <set num="313" rarity="" uuid="1489">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -30989,15 +30989,15 @@ Sword Cycle</notes>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Forest3</notes>
+Forest3</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Plains2</name>
-	  <set num="301" rarity="" uuid="1490">HOD</set>
+      <name>Plains</name>
+	  <set num="300" rarity="" uuid="1490">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31009,15 +31009,15 @@ Sword Cycle</notes>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
         <notes>!tag Dewold
-!exportname Plains2</notes>
+Plains2</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>Vance Sigil</name>
-	  <set num="328" rarity="" uuid="1491">HOD</set>
+      <name>House Sigil</name>
+	  <set num="316" rarity="" uuid="1491">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31029,7 +31029,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Vance Sigil
+Vance Sigil
 !tag Vance</notes>
         <tag>DewoldVance</tag>
       </prop>
@@ -31039,8 +31039,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Turnberry Sigil</name>
-	  <set num="327" rarity="" uuid="1492">HOD</set>
+      <name>House Sigil</name>
+	  <set num="329" rarity="" uuid="1492">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31052,7 +31052,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Turnberry Sigil
+Turnberry Sigil
 !tag Turnberry</notes>
         <tag>DewoldTurnberry</tag>
       </prop>
@@ -31062,8 +31062,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Terrel Sigil</name>
-	  <set num="326" rarity="" uuid="1493">HOD</set>
+      <name>House Sigil</name>
+	  <set num="317" rarity="" uuid="1493">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31075,7 +31075,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Terrel Sigil
+Terrel Sigil
 !tag Terrel</notes>
         <tag>DewoldTerrel</tag>
       </prop>
@@ -31085,8 +31085,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Sapner Sigil</name>
-	  <set num="325" rarity="" uuid="1494">HOD</set>
+      <name>House Sigil</name>
+	  <set num="318" rarity="" uuid="1494">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31098,7 +31098,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Sapner Sigil
+Sapner Sigil
 !tag Sapner</notes>
         <tag>DewoldSapner</tag>
       </prop>
@@ -31108,8 +31108,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Rivers Sigil</name>
-	  <set num="324" rarity="" uuid="1495">HOD</set>
+      <name>House Sigil</name>
+	  <set num="319" rarity="" uuid="1495">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31121,7 +31121,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Rivers Sigil
+Rivers Sigil
 !tag Rivers</notes>
         <tag>DewoldRivers</tag>
       </prop>
@@ -31131,8 +31131,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Rey Sigil</name>
-	  <set num="323" rarity="" uuid="1496">HOD</set>
+      <name>House Sigil</name>
+	  <set num="320" rarity="" uuid="1496">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31144,7 +31144,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Rey Sigil
+Rey Sigil
 !tag Rey</notes>
         <tag>DewoldRey</tag>
       </prop>
@@ -31154,8 +31154,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Radcliff Sigil</name>
-	  <set num="322" rarity="" uuid="1497">HOD</set>
+      <name>House Sigil</name>
+	  <set num="321" rarity="" uuid="1497">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31167,7 +31167,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Radcliff Sigil
+Radcliff Sigil
 !tag Radcliff</notes>
         <tag>DewoldRadcliff</tag>
       </prop>
@@ -31177,8 +31177,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Plaskett Sigil</name>
-	  <set num="321" rarity="" uuid="1498">HOD</set>
+      <name>House Sigil</name>
+	  <set num="322" rarity="" uuid="1498">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31190,7 +31190,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Plaskett Sigil
+Plaskett Sigil
 !tag Plaskett</notes>
         <tag>DewoldPlaskett</tag>
       </prop>
@@ -31200,8 +31200,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Phyre Sigil</name>
-	  <set num="320" rarity="" uuid="1499">HOD</set>
+      <name>House Sigil</name>
+	  <set num="323" rarity="" uuid="1499">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31214,7 +31214,7 @@ Sword Cycle</notes>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
 !tag Phyre
-!exportname Phyre Sigil</notes>
+Phyre Sigil</notes>
         <tag>DewoldPhyre</tag>
       </prop>
       <tablerow>1</tablerow>
@@ -31223,8 +31223,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Attwater Sigil</name>
-	  <set num="315" rarity="" uuid="1500">HOD</set>
+      <name>House Sigil</name>
+	  <set num="324" rarity="" uuid="1500">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31236,7 +31236,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Attwater Sigil
+Attwater Sigil
 !tag Attwater</notes>
         <tag>DewoldAttwater</tag>
       </prop>
@@ -31246,8 +31246,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Perle House Sigil</name>
-	  <set num="319" rarity="" uuid="1501">HOD</set>
+      <name>House Sigil</name>
+	  <set num="325" rarity="" uuid="1501">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31260,7 +31260,7 @@ Sword Cycle</notes>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
 !tag Perle
-!exportname Perle House Sigil</notes>
+Perle House Sigil</notes>
         <tag>DewoldPerle</tag>
       </prop>
       <tablerow>1</tablerow>
@@ -31269,8 +31269,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Nye Sigil</name>
-	  <set num="318" rarity="" uuid="1502">HOD</set>
+      <name>House Sigil</name>
+	  <set num="326" rarity="" uuid="1502">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31282,7 +31282,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Nye Sigil
+Nye Sigil
 !tag Nye</notes>
         <tag>DewoldNye</tag>
       </prop>
@@ -31292,8 +31292,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Hook Sigil</name>
-	  <set num="317" rarity="" uuid="1503">HOD</set>
+      <name>House Sigil</name>
+	  <set num="327" rarity="" uuid="1503">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31305,7 +31305,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Hook Sigil
+Hook Sigil
 !tag Hook</notes>
         <tag>DewoldHook</tag>
       </prop>
@@ -31315,8 +31315,8 @@ Sword Cycle</notes>
 {3}, {T}, Sacrifice House Sigil: Choose a name. Create a legendary 3/3 Knight creature token that’s all colors with that name. It can’t block this turn.</text>
     </card>
     <card>
-      <name>Banefort Sigil</name>
-	  <set num="316" rarity="" uuid="1504">HOD</set>
+      <name>House Sigil</name>
+	  <set num="328" rarity="" uuid="1504">HOD</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -31328,7 +31328,7 @@ Sword Cycle</notes>
         <type>Artifact</type>
         <maintype>Artifact</maintype>
         <notes>!tag Dewold
-!exportname Banefort Sigil
+Banefort Sigil
 !tag Banefort</notes>
         <tag>DewoldBanefort</tag>
       </prop>
@@ -36117,8 +36117,8 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
 {4}, Sacrifice a Sanctuary: Target non-God creature becomes a God in addition to its other types. Put two +1/+1 counters on it. Activate only as a Sorcery.</text>
     </card>
     <card>
-      <name>PTN Plains</name>
-	  <set num="260" rarity="" uuid="1740">PTN</set>
+      <name>Plains</name>
+	  <set num="261" rarity="" uuid="1740">PTN</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -36129,14 +36129,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Plains</notes>
+        <notes>PTN Plains</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Plains 2</name>
-	  <set num="261" rarity="" uuid="1741">PTN</set>
+      <name>Plains</name>
+	  <set num="260" rarity="" uuid="1741">PTN</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -36147,14 +36147,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Plains 2
+        <notes>PTN Plains 2
 !subname Plains 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Island</name>
+      <name>Island</name>
 	  <set num="262" rarity="" uuid="1742">PTN</set>
       <prop>
         <colors></colors>
@@ -36166,13 +36166,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Island</notes>
+        <notes>PTN Island</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Island 2</name>
+      <name>Island</name>
 	  <set num="263" rarity="" uuid="1743">PTN</set>
       <prop>
         <colors></colors>
@@ -36184,15 +36184,15 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Island 2
+        <notes>PTN Island 2
 !subname Island 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Swamp</name>
-	  <set num="264" rarity="" uuid="1744">PTN</set>
+      <name>Swamp</name>
+	  <set num="265" rarity="" uuid="1744">PTN</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -36203,14 +36203,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Swamp</notes>
+        <notes>PTN Swamp</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Swamp 2</name>
-	  <set num="265" rarity="" uuid="1745">PTN</set>
+      <name>Swamp</name>
+	  <set num="264" rarity="" uuid="1745">PTN</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -36221,14 +36221,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Swamp 2
+        <notes>PTN Swamp 2
 !subname Swamp 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Mountain</name>
+      <name>Mountain</name>
 	  <set num="266" rarity="" uuid="1746">PTN</set>
       <prop>
         <colors></colors>
@@ -36240,13 +36240,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Mountain</notes>
+        <notes>PTN Mountain</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Mountain 2</name>
+      <name>Mountain</name>
 	  <set num="267" rarity="" uuid="1747">PTN</set>
       <prop>
         <colors></colors>
@@ -36258,14 +36258,14 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Mountain 2
+        <notes>PTN Mountain 2
 !subname Mountain 2</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Forest</name>
+      <name>Forest</name>
 	  <set num="268" rarity="" uuid="1748">PTN</set>
       <prop>
         <colors></colors>
@@ -36277,13 +36277,13 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Forest</notes>
+        <notes>PTN Forest</notes>
       </prop>
       <tablerow>0</tablerow>
       <text></text>
     </card>
     <card>
-      <name>PTN Forest 2</name>
+      <name>Forest</name>
 	  <set num="269" rarity="" uuid="1749">PTN</set>
       <prop>
         <colors></colors>
@@ -36295,7 +36295,7 @@ When Society Headquarters enters, induct. (Create a 0/1 Cleric creature token wi
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname PTN Forest 2
+        <notes>PTN Forest 2
 !subname Forest 2</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -42763,7 +42763,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
@@ -47372,8 +47372,8 @@ When this creature enters, create a 1/1 green Wurm creature token with reach and
 Whenever this creature attacks, put a +1/+1 counter on target attacking token creature you control.</text>
     </card>
     <card>
-      <name>Multaphs Riftwarden</name>
-	  <set num="241" rarity="uncommon" uuid="2306">VNM</set>
+      <name>Multaph&apos;s Riftwarden</name>
+      <set num="241" rarity="uncommon">VNM</set>
       <prop>
         <colors>UG</colors>
         <color>UG</color>
@@ -47386,7 +47386,7 @@ Whenever this creature attacks, put a +1/+1 counter on target attacking token cr
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!note hybrid
-!exportname Multaphs Riftwarden
+Multaphs Riftwarden
 !persistent Voidstone Shard</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -47438,8 +47438,8 @@ Voidstone Shard {2}| Enchantment
 When this enchantment enters, scry 2.</text>
     </card>
     <card>
-      <name>Survivors Instinct</name>
-	  <set num="267" rarity="uncommon" uuid="2309">VNM</set>
+      <name>Survivor&apos;s Instinct</name>
+      <set num="267" rarity="uncommon">VNM</set>
       <prop>
         <colors>WG</colors>
         <color>WG</color>
@@ -47451,7 +47451,7 @@ When this enchantment enters, scry 2.</text>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!note hybrid
-!exportname Survivors Instinct</notes>
+Survivors Instinct</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. Untap it.</text>
@@ -47590,7 +47590,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, surveil 1.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Clanless Usurper</name>
@@ -47632,7 +47632,7 @@ Whenever this creature deals combat damage to a noncreature, exile the top card 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Bulwark</name>
@@ -47674,7 +47674,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target creature can’t block this turn.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Roduth&apos;s Guard</name>
@@ -48067,7 +48067,7 @@ Fracture — Whenever this creature attacks or blocks, other creatures you contr
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, draw a card.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Rebuke the Foul</name>
@@ -48830,7 +48830,7 @@ Creatures you control get +1/+0 as long as you’ve illuminated red.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, target creature you control deals damage equal to its power to any nonplayer target you don’t control.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Iconic Resolution</name>
@@ -49117,8 +49117,8 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
 Creature tokens you control get +0/+1.</text>
     </card>
     <card>
-      <name>Multaphs Watch</name>
-	  <set num="171" rarity="common" uuid="2392">VNM</set>
+      <name>Multaph&apos;s Watch</name>
+      <set num="171" rarity="common">VNM</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -49130,7 +49130,7 @@ Creature tokens you control get +0/+1.</text>
         <type>Creature - Elk </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
-        <notes>!exportname Multaphs Watch</notes>
+        <notes>Multaphs Watch</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach
@@ -49337,7 +49337,7 @@ Fault|Basic Land — Fault
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Aspiring Entity</name>
@@ -49356,7 +49356,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wings of New Horizons</name>
@@ -49440,7 +49440,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever this enchantment attacks, scry 1.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pinnacle Skitter</name>
@@ -49482,8 +49482,8 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 Whenever this creature deals combat damage to a player or noncreature, scry 2, then draw a card.</text>
     </card>
     <card>
-      <name>Explorers Compass</name>
-	  <set num="281" rarity="uncommon" uuid="2410">VNM</set>
+      <name>Explorer&apos;s Compass</name>
+      <set num="281" rarity="uncommon">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -49494,7 +49494,7 @@ Whenever this creature deals combat damage to a player or noncreature, scry 2, t
         <mv>1</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Explorers Compass</notes>
+        <notes>Explorers Compass</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever equipped creature attacks, you may cast a copy of this artifact’s skill or the equipped creature’s skill.
@@ -49781,8 +49781,8 @@ Scry 2, then draw two cards. If you’ve illuminated blue, instead scry 4, then 
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
     </card>
     <card>
-      <name>Multaphs Resplendant</name>
-	  <set num="170" rarity="uncommon" uuid="2425">VNM</set>
+      <name>Multaph&apos;s Resplendant</name>
+      <set num="170" rarity="uncommon">VNM</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -49794,7 +49794,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
         <type>Enchantment Creature - Icon Elk </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>!exportname Multaphs Resplendant</notes>
+        <notes>Multaphs Resplendant</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Fracture — The first noncreature spell you cast each turn has “Up to one target creature you control gets +2/+0 and gains trample until end of turn. Untap it.”
@@ -49963,7 +49963,7 @@ Scry 1, then draw a card.</text>
       <text>Flash 
 Vigilance
 When this enchantment enters, tap target permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Wanderer</name>
@@ -50453,7 +50453,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -50473,11 +50473,11 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
-      <name>Giants Blade</name>
-	  <set num="27" rarity="uncommon" uuid="2458">VNM</set>
+      <name>Giant&apos;s Blade</name>
+      <set num="27" rarity="uncommon">VNM</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -50488,7 +50488,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
         <mv>3</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Giants Blade
+        <notes>Giants Blade
 !addtoken Subdued Rift;conjured;</notes>
       </prop>
       <tablerow>1</tablerow>
@@ -50516,7 +50516,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
       <tablerow>1</tablerow>
       <text>Menace
 When this enchantment enters, target opponent may discard a card. If they don’t, this enchantment deals 3 damage to that player.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Chittering Entity</name>
@@ -50536,7 +50536,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -50616,7 +50616,7 @@ Whenever you attack with one or more tokens, you gain 1 life.</text>
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, you may gain 1 life. If you didn’t, surveil 1.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Riftbearer</name>
@@ -50958,7 +50958,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell
       <tablerow>1</tablerow>
       <text>Flying
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Crowned Entity</name>
@@ -50977,7 +50977,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -51019,7 +51019,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Icebound Reinforcements Token</name>
@@ -51078,7 +51078,7 @@ Voidstone Shard {2}|Enchantment          When this enters, scry 2.</text>
         <pt>1/1</pt>
         <notes>!center
 !related Subdued Rift VNM;Kier, Acolyte of Avlod Respite;Path of the Rift;
-!exportname Cat Token
+Cat Token
 Preview</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -51104,7 +51104,7 @@ Preview</notes>
 Whenever you attack with two or more creatures, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of it except it isn’t legendary and has size 1/1.</text>
     </card>
     <card>
-      <name>Multaph Riftborn God</name>
+      <name>Multaph, Riftborn God</name>
 	  <set num="239" rarity="rare" uuid="2488">VNM</set>
       <prop>
         <colors>UB</colors>
@@ -51119,7 +51119,7 @@ Whenever you attack with two or more creatures, you may exile a creature card fr
         <pt>3/3</pt>
         <notes>!smallbox 
 !gold
-!exportname Multaph Riftborn God</notes>
+Multaph Riftborn God</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Multaph enters, trace another target enchantment with mana value 4 or greater into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -51247,7 +51247,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
       <text>Whenever this creature attacks, choose up to one target creature an opponent controls. That creature can’t block this turn unless its owner pays {2}. If they do, untap this creature and it gets +2/+0 until end of turn.</text>
     </card>
     <card>
-      <name>Najael Travelling Shaman</name>
+      <name>Najael, Travelling Shaman</name>
 	  <set num="242" rarity="rare" uuid="2495">VNM</set>
       <prop>
         <colors>UG</colors>
@@ -51260,7 +51260,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
         <type>Legendary Creature - Human Shaman </type>
         <maintype>Creature</maintype>
         <pt>3/4</pt>
-        <notes>!exportname Najael Travelling Shaman</notes>
+        <notes>Najael Travelling Shaman</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, distribute two +1/+1 counters among any number of target enchantments you control.
@@ -51326,7 +51326,7 @@ This creature can’t attack or block unless you own five or more cards in exile
 Whenever you attack with two or more nontoken creatures, you may pay {2}. If you do, each opponent loses 1 life for each attacking colorless creature you control.</text>
     </card>
     <card>
-      <name>Roduth God of Conflict</name>
+      <name>Roduth, God of Conflict</name>
 	  <set num="255" rarity="rare" uuid="2499">VNM</set>
       <prop>
         <colors>WRG</colors>
@@ -51340,7 +51340,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {2}. If you
         <maintype>Creature</maintype>
         <pt>6/6</pt>
         <notes>!smallbox 
-!exportname Roduth God of Conflict</notes>
+Roduth God of Conflict</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, trample
@@ -51511,8 +51511,8 @@ It recycles what others cannot, it brings rest to those that refuse.
       <text>{T}: Add II. You can’t spend this mana to cast a spell.</text>
     </card>
     <card>
-      <name>Dromencals Respite</name>
-	  <set num="280" rarity="common" uuid="2508">VNM</set>
+      <name>Dromencal&apos;s Respite</name>
+      <set num="280" rarity="common">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -51523,7 +51523,7 @@ It recycles what others cannot, it brings rest to those that refuse.
         <mv>3</mv>
         <type>Enchantment Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Dromencals Respite</notes>
+        <notes>Dromencals Respite</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, trace a card named Voidstone Shard into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -51554,7 +51554,7 @@ Voidstone Shard {2}|Enchantment
 When this enchantment enters, scry 2.</text>
     </card>
     <card>
-      <name>Melodia Voidtouched</name>
+      <name>Melodia, Voidtouched</name>
 	  <set num="191" rarity="rare" uuid="2510">VNM</set>
       <prop>
         <colors>I</colors>
@@ -51568,7 +51568,7 @@ When this enchantment enters, scry 2.</text>
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!smallbox 
-!exportname Melodia Voidtouched
+Melodia Voidtouched
 !addtoken Blue Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -51576,7 +51576,7 @@ When this enchantment enters, scry 2.</text>
 Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until end of turn</text>
     </card>
     <card>
-      <name>Calia Oracle of Tofnet Plains</name>
+      <name>Calia, Oracle of Tofnet Plains</name>
 	  <set num="16" rarity="" uuid="2511">VNM</set>
       <prop>
         <colors>W</colors>
@@ -51589,7 +51589,7 @@ Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until 
         <type>Legendary Enchantment Creature - Icon Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!exportname Calia Oracle of Tofnet Plains</notes>
+        <notes>Calia Oracle of Tofnet Plains</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2}
@@ -51597,7 +51597,7 @@ Whenever you cast an enchantment spell, up to one other target permanent you con
 Fracture — Once each turn, when you cast a noncreature spell, draw a card.</text>
     </card>
     <card>
-      <name>Ola Kaln-Ocean Spellkeeper</name>
+      <name>Ola, Kaln-Ocean Spellkeeper</name>
 	  <set num="64" rarity="rare" uuid="2512">VNM</set>
       <prop>
         <colors>U</colors>
@@ -51610,7 +51610,7 @@ Fracture — Once each turn, when you cast a noncreature spell, draw a card.</te
         <type>Legendary Enchantment Creature - Icon Wurm </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!exportname Ola Kaln-Ocean Spellkeeper</notes>
+        <notes>Ola Kaln-Ocean Spellkeeper</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
@@ -51620,7 +51620,7 @@ Fracture — At the beginning of combat on each turn, choose two as long as you 
 • Draw a card, then discard a card.</text>
     </card>
     <card>
-      <name>Kier Acolyte of Avlod Respite</name>
+      <name>Kier, Acolyte of Avlod Respite</name>
 	  <set num="99" rarity="rare" uuid="2513">VNM</set>
       <prop>
         <colors>B</colors>
@@ -51633,7 +51633,7 @@ Fracture — At the beginning of combat on each turn, choose two as long as you 
         <type>Legendary Enchantment Creature - Icon Warlock </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!exportname Kier Acolyte of Avlod Respite
+        <notes>Kier Acolyte of Avlod Respite
 !tag avlod;</notes>
         <tag>avlod;</tag>
       </prop>
@@ -51644,7 +51644,7 @@ Steady Growth {B/G}| Enchantment
 Enchant land; Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
-      <name>Vane Verem-Volcano Scorcher</name>
+      <name>Vane, Verem-Volcano Scorcher</name>
 	  <set num="146" rarity="rare" uuid="2514">VNM</set>
       <prop>
         <colors>R</colors>
@@ -51657,7 +51657,7 @@ Enchant land; Enchanted land has “{T}: Add one mana of any color.”</text>
         <type>Legendary Enchantment Creature - Icon Dragon </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>!exportname Vane Verem-Volcano Scorcher</notes>
+        <notes>Vane Verem-Volcano Scorcher</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -51684,7 +51684,7 @@ Fracture — Once each turn, when you cast a noncreature spell, you may create a
 Fracture — At the beginning of your end step, if you cast a noncreature spell this turn, you may put a permanent card from your hand onto the battlefield.</text>
     </card>
     <card>
-      <name>Khestri Fadove Clanleader</name>
+      <name>Khestri, Fadove Clanleader</name>
 	  <set num="31" rarity="rare" uuid="2516">VNM</set>
       <prop>
         <colors>W</colors>
@@ -51697,7 +51697,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
         <type>Legendary Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>1/4</pt>
-        <notes>!exportname Khestri Fadove Clanleader
+        <notes>Khestri Fadove Clanleader
 !addtoken WhiteWurm;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -51727,7 +51727,7 @@ Whenever you attack, trace a skill from among permanents you control. (Create th
 Fracture — At the beginning of combat on your turn, surveil 3, then return a card put into your graveyard this way to your hand as long as you cast a noncreature spell this turn.</text>
     </card>
     <card>
-      <name>Urkial Outlands Clanleader</name>
+      <name>Urkial, Outlands Clanleader</name>
 	  <set num="11" rarity="rare" uuid="2518">VNM</set>
       <prop>
         <colors></colors>
@@ -51741,7 +51741,7 @@ Fracture — At the beginning of combat on your turn, surveil 3, then return a c
         <maintype>Creature</maintype>
         <pt>4/4</pt>
         <notes>!tag outlands;
-!exportname Urkial Outlands Clanleader</notes>
+Urkial Outlands Clanleader</notes>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -51831,10 +51831,10 @@ After your first combat phase, there is an additional combat phase where only en
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
-      <name>Zoslera Mordel Clanleader</name>
+      <name>Zoslera, Mordel Clanleader</name>
 	  <set num="279" rarity="rare" uuid="2523">VNM</set>
       <prop>
         <colors>RG</colors>
@@ -51847,7 +51847,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
         <type>Legendary Creature - Human Knight </type>
         <maintype>Creature</maintype>
         <pt>3/5</pt>
-        <notes>!exportname Zoslera Mordel Clanleader
+        <notes>Zoslera Mordel Clanleader
 !tag fascism;</notes>
         <tag>fascism;</tag>
       </prop>
@@ -51858,7 +51858,7 @@ Whenever you cast a noncreature spell, choose one you haven’t chosen this turn
 • Target creature you control deals damage equal to its power to any nonplayer target you don’t control.</text>
     </card>
     <card>
-      <name>Prophellos Pathborn Hunger</name>
+      <name>Prophellos, Pathborn Hunger</name>
 	  <set num="7" rarity="rare" uuid="2524">VNM</set>
       <prop>
         <colors></colors>
@@ -51871,7 +51871,7 @@ Whenever you cast a noncreature spell, choose one you haven’t chosen this turn
         <type>Legendary Creature - God </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes>!exportname Prophellos Pathborn Hunger</notes>
+        <notes>Prophellos Pathborn Hunger</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -51958,7 +51958,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -51978,7 +51978,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked by creatures with power 2 or less.
 Whenever you attack, put a +1/+1 counter on another target attacking creature.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Curious Shimmer</name>
@@ -51998,7 +51998,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -52018,7 +52018,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Double strike
 Whenever you attack, target creature can’t block this turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Runed Spire</name>
@@ -52733,7 +52733,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
 {4}, Sacrifice this artifact: Put a random card from your sanctum into your hand.</text>
     </card>
     <card>
-      <name>Vin Plains</name>
+      <name>Plains</name>
 	  <set num="18" rarity="" uuid="2567">VNM</set>
       <prop>
         <colors></colors>
@@ -52745,14 +52745,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Plains
+        <notes>Vin Plains
 !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {W})</text>
     </card>
     <card>
-      <name>Vin Island</name>
+      <name>Island</name>
 	  <set num="16" rarity="" uuid="2568">VNM</set>
       <prop>
         <colors></colors>
@@ -52764,14 +52764,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Island
+        <notes>Vin Island
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {U})</text>
     </card>
     <card>
-      <name>Vin Swamp</name>
+      <name>Swamp</name>
 	  <set num="19" rarity="" uuid="2569">VNM</set>
       <prop>
         <colors></colors>
@@ -52783,14 +52783,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Swamp
+        <notes>Vin Swamp
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {B})</text>
     </card>
     <card>
-      <name>Vin Mountain</name>
+      <name>Mountain</name>
 	  <set num="17" rarity="" uuid="2570">VNM</set>
       <prop>
         <colors></colors>
@@ -52802,14 +52802,14 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Mountain
+        <notes>Vin Mountain
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {R})</text>
     </card>
     <card>
-      <name>Vin Forest</name>
+      <name>Forest</name>
 	  <set num="15" rarity="" uuid="2571">VNM</set>
       <prop>
         <colors></colors>
@@ -52821,7 +52821,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
         <mv>0</mv>
         <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Forest
+        <notes>Vin Forest
  !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -53327,7 +53327,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text
 Whenever this creature becomes the target of a spell or ability, its controller puts the top ten cards of their library into their sanctum.</text>
     </card>
     <card>
-      <name>Vin-Fault</name>
+      <name>Fault</name>
 	  <set num="306" rarity="" uuid="2596">VNM</set>
       <prop>
         <colors></colors>
@@ -53341,7 +53341,7 @@ Whenever this creature becomes the target of a spell or ability, its controller 
         <maintype>Land</maintype>
         <notes> !related Warped Exploration;
 !conjured
-!exportname Vin-Fault</notes>
+Vin-Fault</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>({T}: Add {I}.)</text>
@@ -53386,8 +53386,8 @@ When this land enters, surveil 1.
       <text>Search your library for up to three basic land cards and reveal them. If you control a token or a creature with a counter on it,  put one of them onto the battlefield. Put the rest into your hand, then shuffle.</text>
     </card>
     <card>
-      <name>Scouts Bow</name>
-	  <set num="182" rarity="uncommon" uuid="2599">VNM</set>
+      <name>Scout&apos;s Bow</name>
+      <set num="182" rarity="uncommon">VNM</set>
       <prop>
         <colors>G</colors>
         <color>G</color>
@@ -53398,7 +53398,7 @@ When this land enters, surveil 1.
         <mv>1</mv>
         <type>Artifact - Equipment </type>
         <maintype>Artifact</maintype>
-        <notes>!exportname Scouts Bow</notes>
+        <notes>Scouts Bow</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>When this artifact enters, trace a card named Steady Growth into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -53646,7 +53646,7 @@ Cut from Void 2U| Skill Instant
 Scry 1, then draw a card.</text>
     </card>
     <card>
-      <name>Vin Fault</name>
+      <name>Fault</name>
 	  <set num="14" rarity="" uuid="2612">VNM</set>
       <prop>
         <colors></colors>
@@ -53658,7 +53658,7 @@ Scry 1, then draw a card.</text>
         <mv>0</mv>
         <type>Basic Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!exportname Vin Fault
+        <notes>Vin Fault
 !related Warped Exploration;</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -54399,7 +54399,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <tablerow>2</tablerow>
       <text>Defender
 {1}, {T}: [Add one mana of any color.]
-Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {1}. Then exile it.)</text>
     </card>
     <card>
       <name>Curious Courier</name>
@@ -54634,7 +54634,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New Tensuo Luminary. This ability triggers only once each turn.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Prismatic Armor</name>
@@ -54754,7 +54754,7 @@ WU: Return another target nonland permanent you control to its owner’s hand.</
       </prop>
       <tablerow>3</tablerow>
       <text>[Mill two cards], then you may pay 1 life to return one of the milled cards to your hand.
-Impetus {B} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {B} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {B}. Then exile it.)</text>
     </card>
     <card>
       <name>Starstruck Skitter</name>
@@ -54970,7 +54970,7 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {2}. If they do, [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
     </card>
     <card>
       <name>Blossoming Dissenter</name>
@@ -54990,7 +54990,7 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       </prop>
       <tablerow>2</tablerow>
       <text>When Blossoming Dissenter dies, [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
     </card>
     <card>
       <name>Calculated Risk</name>
@@ -55109,7 +55109,7 @@ Ploy — Target opponent reveals their hand and discards a nonland card of your 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Deepmists Vindicator becomes blocked, [each opponent sacrifices a creature or planeswalker.]
-Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4B. Then exile it.)</text>
     </card>
     <card>
       <name>Exhaust Desire</name>
@@ -55190,7 +55190,7 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Keyseeker enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Ilcan Resilience</name>
@@ -55209,7 +55209,7 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
       </prop>
       <tablerow>3</tablerow>
       <text>[Target creature you control gains indestructible and lifelink until end of turn.] Put a +1/+1 counter on it.
-Impetus 1B (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 1B (You may cast this from your graveyard as a sorcery with only the text in square brackets for 1B. Then exile it.)</text>
     </card>
     <card>
       <name>Into the Rootways</name>
@@ -55249,7 +55249,7 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
 {T}: Mill a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Liberators of the Soul</name>
@@ -55289,7 +55289,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>Flash
 When Lifelighter enters, you may [return target permanent you control not named Lifelighter to its owner’s hand.]
-Impetus {W} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {W} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {W}. Then exile it.)</text>
     </card>
     <card>
       <name>Memory Lane</name>
@@ -55405,7 +55405,7 @@ Ploy — Creatures you control can’t be blocked by creatures with greater powe
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: [Target creature you control gains haste until end of turn.]
-Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {R}. Then exile it.)</text>
     </card>
     <card>
       <name>Pull of the Unknown</name>
@@ -55772,7 +55772,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature or enchantment. Its controller may [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
     </card>
     <card>
       <name>Brazen Confidence</name>
@@ -56187,7 +56187,7 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever New Tensuo Clergy or another creature you control dies, each opponent loses 1 life and you gain 1 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Out of Options</name>
@@ -56847,7 +56847,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -56884,7 +56884,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>3</tablerow>
       <text>[Tap up to two target creatures], then put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for 2U. Then exile it.)</text>
     </card>
     <card>
       <name>Cutthroat Obsession</name>
@@ -57100,7 +57100,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -57255,7 +57255,7 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
       </prop>
       <tablerow>2</tablerow>
       <text>When Pensive Swordmaster enters, you may discard a card. If you do, [draw a card.]
-Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for 2U. Then exile it.)</text>
     </card>
     <card>
       <name>Redefinition</name>
@@ -57275,7 +57275,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       </prop>
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
@@ -57633,7 +57633,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -57653,7 +57653,7 @@ Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder
       </prop>
       <tablerow>2</tablerow>
       <text>When Cackling Thunderbeast enters or attacks, [monocolored creatures can’t block this turn.]
-Impetus 4R (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 4R (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4R. Then exile it.)</text>
     </card>
     <card>
       <name>Cathexis, Soul Aspect</name>
@@ -57970,7 +57970,7 @@ When Immensity enters, choose up to one.
       </prop>
       <tablerow>2</tablerow>
       <text>When Leyseeker enters, [draw X cards], where X is the number of colors among monocolored permanents you control. When you do, discard that many cards.
-Impetus XXU (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus XXU (You may cast this from your graveyard as a sorcery with only the text in square brackets for XXU. Then exile it.)</text>
     </card>
     <card>
       <name>Limitless Manadrinker</name>
@@ -58106,7 +58106,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Physician enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Vanguard</name>
@@ -58126,7 +58126,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Vanguard enters, creatures you control get +1/+0 and gain first strike until end of turn.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Perceptual Distortion</name>
@@ -58250,7 +58250,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>
@@ -58329,7 +58329,7 @@ At the beginning of your first main phase, return target card from your graveyar
       <tablerow>2</tablerow>
       <text>Vrep can’t be blocked by more than one creature.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to Vrep’s power.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Wish for Death</name>
@@ -58511,7 +58511,7 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
       <tablerow>2</tablerow>
       <text>Vigilance
 When Gilded Ancient enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
-Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder Cat without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder Cat  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Ilcan Szcygite</name>

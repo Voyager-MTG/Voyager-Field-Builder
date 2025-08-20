@@ -3,14 +3,14 @@
   <cards>
 
     <card>
-      <name>Intisuyus Armies HOD</name>
+      <name>Intisuyu&apos;s Armies HOD</name>
       <set num="3">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment</type>
         <maintype>Enchantment</maintype>
         <notes>!tag Dewold
-!exportname Intisuyus Armies
+Intisuyus Armies
 !related Capac Suyay, Grim Seeker&lt;2>;</notes>
         <tag>Dewold</tag>
       </prop>
@@ -20,15 +20,15 @@
       <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
     </card>
     <card>
-      <name>Suyay&apos;s Soldier HOD</name>
-      <set num="6">HOD</set>
+      <name>Soldier HOD</name>
+      <set num="5">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!tag Dewold
-!exportname Suyay’s Soldier
+Suyay’s Soldier
 !related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;</notes>
         <tag>Dewold</tag>
       </prop>
@@ -91,7 +91,7 @@ Renowned Cycle
       <reverse-related>House Negotiations</reverse-related>
     </card>
     <card>
-      <name>Vances Claw HOD</name>
+      <name>Vance&apos;s Claw HOD</name>
       <set num="12">HOD</set>
       <prop>
         <colors>B</colors>
@@ -99,7 +99,7 @@ Renowned Cycle
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!tag Dewold
-!exportname Vances Claw
+Vances Claw
 Renowned Cycle
 !related Blessing at Graven Laughs;</notes>
         <tag>Dewold</tag>
@@ -184,7 +184,7 @@ Renowned Cycle
       <reverse-related>Gosfridus Turnberry</reverse-related>
     </card>
     <card>
-      <name>Dewold Army HOD</name>
+      <name>Army HOD</name>
       <set num="10">HOD</set>
       <prop>
         <colors>B</colors>
@@ -192,7 +192,7 @@ Renowned Cycle
         <maintype>Creature</maintype>
         <pt>X/X</pt>
         <notes>!tag Dewold
-!exportname Dewold Army
+Dewold Army
 !related Left to Wander</notes>
         <tag>Dewold</tag>
       </prop>
@@ -202,7 +202,7 @@ Renowned Cycle
       <reverse-related>Left to Wander</reverse-related>
     </card>
     <card>
-      <name>Young Soldier HOD</name>
+      <name>Soldier HOD</name>
       <set num="14">HOD</set>
       <prop>
         <colors>R</colors>
@@ -210,7 +210,7 @@ Renowned Cycle
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!tag Dewold
-!exportname Young Soldier
+Young Soldier
 !related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel;</notes>
         <tag>Dewold</tag>
       </prop>
@@ -239,7 +239,7 @@ Renowned Cycle
       <token>1</token>
     </card>
     <card>
-      <name>Destroyed-Knight HOD</name>
+      <name>Knight HOD</name>
       <set num="19">HOD</set>
       <prop>
         <colors>WUBRG</colors>
@@ -247,7 +247,7 @@ Renowned Cycle
         <maintype>Creature</maintype>
         <pt>3/3</pt>
         <notes>!tag Dewold
-!exportname Destroyed-Knight
+Destroyed-Knight
 !related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;</notes>
         <tag>Dewold</tag>
       </prop>
@@ -262,7 +262,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Soldier HOD</name>
-      <set num="5">HOD</set>
+      <set num="6">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
