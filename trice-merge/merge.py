@@ -83,9 +83,10 @@ for set_file_path in os.listdir('temp'): # Loop through the temp folder
 			name = card[0].text
 			set = card[1].text
 			rar = card[1].attrib["rarity"]
+			num = card[1].attrib["num"]
 			if isBasicLand(name):
-				set_card_text = set_card_text.replace(f'<name>{name}</name>\n      <set rarity="{rar}">{set}</set>', f'<name>{name}</name>\n	  <set rarity="" uuid="{uuid}">{set}</set>')
-			set_card_text = set_card_text.replace(f'<name>{name}</name>\n      <set rarity="{rar}">{set}</set>', f'<name>{name}</name>\n	  <set rarity="{rar}" uuid="{uuid}">{set}</set>')
+				set_card_text = set_card_text.replace(f'<name>{name}</name>\n      <set num="{num}" rarity="{rar}">{set}</set>', f'<name>{name}</name>\n	  <set num="{num}" rarity="" uuid="{uuid}">{set}</set>')
+			set_card_text = set_card_text.replace(f'<name>{name}</name>\n      <set num="{num}" rarity="{rar}">{set}</set>', f'<name>{name}</name>\n	  <set num="{num}" rarity="{rar}" uuid="{uuid}">{set}</set>')
 			uuid += 1
 
 		set_card_text = set_card_text.replace("<cards>", "").replace("</cards>", "")

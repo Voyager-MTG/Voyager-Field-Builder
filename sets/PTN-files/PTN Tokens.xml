@@ -4,7 +4,7 @@
 
     <card>
       <name>Scar Boon PTN</name>
-      <set>PTN</set>
+      <set num="4">PTN</set>
       <prop>
         <colors></colors>
         <type>Boon</type>
@@ -43,7 +43,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>God Horror Token PTN</name>
-      <set>PTN</set>
+      <set num="3">PTN</set>
       <prop>
         <colors></colors>
         <type>Token Creature - God Horror </type>
@@ -61,7 +61,7 @@ When a creature you control dies, you may pay {1}. If you do, draw a card.</text
     </card>
     <card>
       <name>Cleric Token PTN</name>
-      <set>PTN</set>
+      <set num="1">PTN</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Cleric </type>
@@ -112,7 +112,7 @@ induct</notes>
     </card>
     <card>
       <name>Foretell PTN</name>
-      <set>PTN</set>
+      <set num="2">PTN</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -155,7 +155,7 @@ Lands can’t have a cost and are played normally.</text>
     </card>
     <card>
       <name>Angel Token PTN</name>
-      <set>PTN</set>
+      <set num="5">PTN</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Angel </type>
@@ -171,7 +171,7 @@ Lands can’t have a cost and are played normally.</text>
     </card>
     <card>
       <name>Worm Token PTN</name>
-      <set>PTN</set>
+      <set num="6">PTN</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Worm </type>
@@ -188,7 +188,7 @@ Lands can’t have a cost and are played normally.</text>
     </card>
     <card>
       <name>Wolf Token PTN</name>
-      <set>PTN</set>
+      <set num="7">PTN</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wolf </type>

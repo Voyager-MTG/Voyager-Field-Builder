@@ -202,7 +202,7 @@ When this creature enters, if it isn’t a token, you may sacrifice another crea
         <notes>https://www.deviantart.com/jasonengle/art/Andal-The-Foul-622493301</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
@@ -563,7 +563,7 @@ Exile Return for Duty.</text>
 Drain if too weak</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever you put a pact counter on a creature, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -1220,7 +1220,7 @@ Trample, haste</text>
         <notes>https://www.deviantart.com/kotnonekot/art/TwistedConsecration-541312543</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever a creature you control with a pact counter on it dies, draw a card for each pact counter on it.
 Sacrifice this enchantment: The next spell you cast this turn can be cast as though it has flash.</text>
     </card>
@@ -1359,7 +1359,7 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
         <notes>https://www.artstation.com/artwork/qQLDRa</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever you put a pact counter on a creature you control, exile the top card of your library. You may play it until the end of your next turn.</text>
     </card>
     <card>
@@ -1864,7 +1864,7 @@ Exile the top two cards of your library. You may play those cards until the end 
 Black aggro/pact synergy deck</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Flying
 This creature can’t attack or block unless there are two or more pact counters among creatures you control.</text>
     </card>
@@ -3460,7 +3460,7 @@ Creatures with counters on them lose all abilities and have base power and tough
         <notes>https://www.deviantart.com/hedonisminc/art/Serafin-547743684</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Flying
 Creatures you control with pact counters on them have +1/+1.</text>
     </card>
@@ -3814,7 +3814,7 @@ arguably too weak</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Creatures you control with pact counters on them have hexproof.</text>
     </card>
     <card>
@@ -4092,7 +4092,7 @@ When this creature leaves the battlefield, discard three cards.</text>
         <notes>https://www.artstation.com/artwork/egv86</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever a creature you control with a pact counter on it attacks, defending player mills two cards for each pact counter on it.</text>
     </card>
     <card>
@@ -4230,7 +4230,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.instagram.com/p/BzGL86Zl8l3/</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Menace
 Whenever a creature you control with a pact counter on it dies, target player discards a card.</text>
     </card>
@@ -4560,7 +4560,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
 Needs new flavor</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever you put a pact counter on a nontoken creature you control, create a token that’s a copy of it. Exile the token at the end of your next combat step.</text>
     </card>
     <card>
@@ -4623,7 +4623,7 @@ Choose one —
         <notes>https://www.artstation.com/artwork/33A4J</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Reach
 Creatures you control with pact counters on them have trample.</text>
     </card>
@@ -4683,7 +4683,7 @@ Creatures you control with pact counters on them have trample.</text>
         <notes>https://www.deviantart.com/helgecbalzer/art/Atlach-Nacha-Fantasy-Art-by-Helge-C-Balzer-855116807</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Reach
 Whenever a nontoken creature you control dies, create a 2/1 green Spider creature token with reach for each pact counter on it.</text>
     </card>
@@ -4788,7 +4788,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.deviantart.com/verehin/art/King-Witch-A-370791757</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Creatures you control with pact counters on them have “{T}: Add one mana of any color.”</text>
     </card>
     <card>
@@ -4810,7 +4810,7 @@ Creatures you control with pact counters on them have “{T}: Add one mana of an
 Undue’s presence caused a divide among the liches of Hwel, driving many to entreat greater entities for protection.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
 Whenever a creature you control with a pact counter on it dies, put a +1/+1 counter on this creature.</text>
     </card>
     <card>

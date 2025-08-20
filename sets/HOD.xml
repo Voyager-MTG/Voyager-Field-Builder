@@ -5401,7 +5401,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. (Sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Exile the top three cards of your library. You may play them until the end of your next turn. If Innocent Rendezvous was forsaken, add RRRRR.</text>
     </card>
     <card>

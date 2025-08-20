@@ -4,7 +4,7 @@
 
     <card>
       <name>Faerie Horror ITD</name>
-      <set>ITD</set>
+      <set num="2">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Faerie Horror </type>
@@ -19,7 +19,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Horror ITD</name>
-      <set>ITD</set>
+      <set num="3">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Horror </type>
@@ -33,7 +33,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Ringing Noise ITD</name>
-      <set>ITD</set>
+      <set num="4">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -46,7 +46,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Illusion ITD</name>
-      <set>ITD</set>
+      <set num="5">ITD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Illusion </type>
@@ -60,7 +60,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Nightmare ITD</name>
-      <set>ITD</set>
+      <set num="6">ITD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Nightmare </type>
@@ -75,7 +75,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Everywhere ITD</name>
-      <set>ITD</set>
+      <set num="8">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Land</type>
@@ -89,7 +89,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Echo ITD</name>
-      <set>ITD</set>
+      <set num="1">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Planeswalker - Echo </type>
@@ -103,7 +103,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Ancient Forerunner ITD ITD</name>
-      <set>ITD</set>
+      <set num="3">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Construct </type>
@@ -121,7 +121,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
     </card>
     <card>
       <name>Cloudscape Observer ITD ITD</name>
-      <set>ITD</set>
+      <set num="4">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Drone </type>
@@ -138,7 +138,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
     </card>
     <card>
       <name>Deepmind Oracle ITD ITD</name>
-      <set>ITD</set>
+      <set num="5">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Sphinx </type>
@@ -156,7 +156,7 @@ When this creature enters, surveil X, where X is its power.</text>
     </card>
     <card>
       <name>Emergent Anomaly ITD ITD</name>
-      <set>ITD</set>
+      <set num="6">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Horror </type>
@@ -174,7 +174,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
     </card>
     <card>
       <name>Fracture of Divinity ITD ITD</name>
-      <set>ITD</set>
+      <set num="7">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Demigod Construct </type>
@@ -192,7 +192,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
     </card>
     <card>
       <name>Lammasu, Dream-Stilled ITD ITD</name>
-      <set>ITD</set>
+      <set num="8">ITD</set>
       <prop>
         <colors></colors>
         <type>Legendary Artifact Creature - Sphinx </type>
@@ -210,7 +210,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Mechanised Hunter ITD ITD</name>
-      <set>ITD</set>
+      <set num="9">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Horror </type>
@@ -227,7 +227,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>New-Life Acolyte ITD ITD</name>
-      <set>ITD</set>
+      <set num="10">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Warlock </type>
@@ -244,7 +244,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Priest of Perfection ITD ITD</name>
-      <set>ITD</set>
+      <set num="11">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Cleric </type>
@@ -261,7 +261,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Shifting Silverscape ITD ITD</name>
-      <set>ITD</set>
+      <set num="12">ITD</set>
       <prop>
         <colors></colors>
         <type>Artifact Creature - Shapeshifter </type>
@@ -278,7 +278,7 @@ When this creature enters, return target instant or sorcery card from your grave
     </card>
     <card>
       <name>Insect ITD</name>
-      <set>ITD</set>
+      <set num="7">ITD</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Insect </type>

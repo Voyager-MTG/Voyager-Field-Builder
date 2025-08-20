@@ -4,7 +4,7 @@
 
     <card>
       <name>Dragon Token WAW</name>
-      <set>WAW</set>
+      <set num="16">WAW</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Dragon </type>
@@ -19,7 +19,7 @@
     </card>
     <card>
       <name>Memory of Home WAW</name>
-      <set>WAW</set>
+      <set num="13">WAW</set>
       <prop>
         <colors>B</colors>
         <type>Token Enchantment</type>
@@ -33,7 +33,7 @@
     </card>
     <card>
       <name>Spirit Token WAW</name>
-      <set>WAW</set>
+      <set num="15">WAW</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Spirit </type>
@@ -54,7 +54,7 @@
     </card>
     <card>
       <name>Story of a Dead Plane WAW</name>
-      <set>WAW</set>
+      <set num="21">WAW</set>
       <prop>
         <colors></colors>
         <type>Token Enchantment</type>
@@ -69,7 +69,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Wonder Archon Token WAW</name>
-      <set>WAW</set>
+      <set num="22">WAW</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder Archon </type>
@@ -85,7 +85,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>New Tensuo Luminary Token WAW</name>
-      <set>WAW</set>
+      <set num="5">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
@@ -102,7 +102,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Lakebed Wrudge Token WAW</name>
-      <set>WAW</set>
+      <set num="9">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Creature - Wonder Fish </type>
@@ -120,7 +120,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
     </card>
     <card>
       <name>Anything and Everything WAW</name>
-      <set>WAW</set>
+      <set num="1">WAW</set>
       <prop>
         <colors></colors>
         <type>Sorcery</type>
@@ -132,12 +132,12 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 • [Exile up to one target nonland permanent with mana value 1 or less.]
 • [Scry 2, then draw a card.]
 • [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
       <name>Beast Token WAW</name>
-      <set>WAW</set>
+      <set num="17">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Beast </type>
@@ -151,7 +151,7 @@ Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the 
     </card>
     <card>
       <name>Cloudeater Drake token WAW</name>
-      <set>WAW</set>
+      <set num="8">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Wonder Drake </type>
@@ -169,7 +169,7 @@ When this creature enters, draw a card.
     </card>
     <card>
       <name>Copy WAW</name>
-      <set>WAW</set>
+      <set num="2">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token</type>
@@ -182,7 +182,7 @@ When this creature enters, draw a card.
     </card>
     <card>
       <name>Demon Token WAW</name>
-      <set>WAW</set>
+      <set num="12">WAW</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Demon </type>
@@ -198,7 +198,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Flowering Germinus Token WAW</name>
-      <set>WAW</set>
+      <set num="24">WAW</set>
       <prop>
         <colors>WG</colors>
         <type>Token Creature - Wonder  </type>
@@ -215,7 +215,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Gilded Ancient Token WAW</name>
-      <set>WAW</set>
+      <set num="18">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Cat </type>
@@ -233,7 +233,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Ilcan Entrancer WAW</name>
-      <set>WAW</set>
+      <set num="49">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Creature - Kor Wizard </type>
@@ -249,7 +249,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Ilcan Keyseeker WAW</name>
-      <set>WAW</set>
+      <set num="3">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Human Wizard </type>
@@ -264,7 +264,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Kindly Skywinder Token WAW</name>
-      <set>WAW</set>
+      <set num="4">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Drake </type>
@@ -281,7 +281,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Music of the Deepholt Token WAW</name>
-      <set>WAW</set>
+      <set num="10">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Token Enchantment Creature - Wonder </type>
@@ -298,7 +298,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>New Tensuo Clergy Token WAW</name>
-      <set>WAW</set>
+      <set num="14">WAW</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Wonder Elf Cleric </type>
@@ -315,7 +315,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>New Tensuo Vanguard Token WAW</name>
-      <set>WAW</set>
+      <set num="6">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Elf Knight </type>
@@ -332,7 +332,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Wonder Token WAW</name>
-      <set>WAW</set>
+      <set num="23">WAW</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder  </type>
@@ -359,7 +359,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
     </card>
     <card>
       <name>Borderholt Herdcaller WAW</name>
-      <set>WAW</set>
+      <set num="148">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Creature - Elf Druid </type>
@@ -369,12 +369,12 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
       <name>Redefinition WAW</name>
-      <set>WAW</set>
+      <set num="11">WAW</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Wonder Jellyfish </type>
@@ -389,7 +389,7 @@ Impetus 4G (You may cast this from your graveyard as a sorcery with only the tex
     </card>
     <card>
       <name>Stardust Haze Token WAW</name>
-      <set>WAW</set>
+      <set num="7">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment Creature - Wonder </type>
@@ -407,7 +407,7 @@ When this enchantment enters, exile target nonland permanent you don’t control
     </card>
     <card>
       <name>Ageless Caretaker Token WAW</name>
-      <set>WAW</set>
+      <set num="1">WAW</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wonder Demigod Cleric </type>
@@ -425,7 +425,7 @@ This creature gets +1/+0 for each other creature you control.
     </card>
     <card>
       <name>New Tensuo Physician Token WAW</name>
-      <set>WAW</set>
+      <set num="19">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Elf Druid </type>
@@ -442,7 +442,7 @@ This creature gets +1/+0 for each other creature you control.
     </card>
     <card>
       <name>Vrep token WAW</name>
-      <set>WAW</set>
+      <set num="20">WAW</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wonder Salamander </type>
@@ -460,7 +460,7 @@ Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG t
     </card>
     <card>
       <name>Worldsoul Ambassador WAW</name>
-      <set>WAW</set>
+      <set num="7">WAW</set>
       <prop>
         <colors></colors>
         <type>Creature - Elemental </type>

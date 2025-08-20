@@ -4,7 +4,7 @@
 
     <card>
       <name>Intisuyus Armies HOD</name>
-      <set>HOD</set>
+      <set num="3">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Enchantment</type>
@@ -21,7 +21,7 @@
     </card>
     <card>
       <name>Suyay&apos;s Soldier HOD</name>
-      <set>HOD</set>
+      <set num="6">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -40,7 +40,7 @@
     </card>
     <card>
       <name>The Sword of Perle HOD</name>
-      <set>HOD</set>
+      <set num="16">HOD</set>
       <prop>
         <colors>R</colors>
         <type>Token Legendary Creature - Orc Soldier </type>
@@ -60,7 +60,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Scout HOD</name>
-      <set>HOD</set>
+      <set num="9">HOD</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Scout </type>
@@ -75,7 +75,7 @@ Renowned Cycle
     </card>
     <card>
       <name>The Gentle Giant HOD</name>
-      <set>HOD</set>
+      <set num="17">HOD</set>
       <prop>
         <colors>G</colors>
         <type>Token Legendary Creature - Azra Knight </type>
@@ -92,7 +92,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Vances Claw HOD</name>
-      <set>HOD</set>
+      <set num="12">HOD</set>
       <prop>
         <colors>B</colors>
         <type>Token Legendary Creature - Elf Soldier </type>
@@ -111,7 +111,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Lover to All HOD</name>
-      <set>HOD</set>
+      <set num="13">HOD</set>
       <prop>
         <colors>R</colors>
         <type>Token Legendary Creature - Human Noble </type>
@@ -130,7 +130,7 @@ Renowned Cycle
     </card>
     <card>
       <name>The Diamond of the Nye HOD</name>
-      <set>HOD</set>
+      <set num="8">HOD</set>
       <prop>
         <colors>U</colors>
         <type>Token Legendary Creature - Human Pirate </type>
@@ -149,7 +149,7 @@ Renowned Cycle
     </card>
     <card>
       <name>The Occultist HOD</name>
-      <set>HOD</set>
+      <set num="4">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Legendary Creature - Human Wizard </type>
@@ -168,7 +168,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Horror HOD</name>
-      <set>HOD</set>
+      <set num="11">HOD</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Horror </type>
@@ -185,7 +185,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Dewold Army HOD</name>
-      <set>HOD</set>
+      <set num="10">HOD</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Army </type>
@@ -203,7 +203,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Young Soldier HOD</name>
-      <set>HOD</set>
+      <set num="14">HOD</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Soldier </type>
@@ -225,7 +225,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Reserves HOD</name>
-      <set>HOD</set>
+      <set num="2">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>
@@ -240,7 +240,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Destroyed-Knight HOD</name>
-      <set>HOD</set>
+      <set num="19">HOD</set>
       <prop>
         <colors>WUBRG</colors>
         <type>Token Creature - Knight </type>
@@ -262,7 +262,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Soldier HOD</name>
-      <set>HOD</set>
+      <set num="5">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -277,7 +277,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Knight HOD</name>
-      <set>HOD</set>
+      <set num="18">HOD</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Knight </type>
@@ -292,7 +292,7 @@ Renowned Cycle
     </card>
     <card>
       <name>The True Heir HOD</name>
-      <set>HOD</set>
+      <set num="7">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Legendary Creature - Human Noble </type>
@@ -307,7 +307,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Treasure HOD</name>
-      <set>HOD</set>
+      <set num="22">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -326,7 +326,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Weapon HOD</name>
-      <set>HOD</set>
+      <set num="23">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Equipment </type>
@@ -347,7 +347,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Food HOD</name>
-      <set>HOD</set>
+      <set num="21">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Food </type>
@@ -364,7 +364,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Clue HOD</name>
-      <set>HOD</set>
+      <set num="20">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Clue </type>
@@ -382,7 +382,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Spirit HOD</name>
-      <set>HOD</set>
+      <set num="15">HOD</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Spirit </type>
@@ -397,7 +397,7 @@ Equip {2}</text>
     </card>
     <card>
       <name>Heir Tracking HOD</name>
-      <set>HOD</set>
+      <set num="1">HOD</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>

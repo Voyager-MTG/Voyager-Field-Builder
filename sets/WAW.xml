@@ -743,7 +743,7 @@ Pursue Wonder. (Reveal a basic land or Wonder card you own from your sanctum and
       <tablerow>2</tablerow>
       <text>Defender
 {1}, {T}: [Add one mana of any color.]
-Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {1}. Then exile it.)</text>
+Impetus {1} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Curious Courier</name>
@@ -1098,7 +1098,7 @@ WU: Return another target nonland permanent you control to its owner’s hand.</
       </prop>
       <tablerow>3</tablerow>
       <text>[Mill two cards], then you may pay 1 life to return one of the milled cards to your hand.
-Impetus {B} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {B}. Then exile it.)</text>
+Impetus {B} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Starstruck Skitter</name>
@@ -1314,7 +1314,7 @@ Ploy — Return each card exiled with Ageless Wayfarer to its owner’s hand. (W
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell unless its controller pays {2}. If they do, [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Blossoming Dissenter</name>
@@ -1334,7 +1334,7 @@ Impetus {G} (You may cast this from your graveyard as a sorcery with only the te
       </prop>
       <tablerow>2</tablerow>
       <text>When Blossoming Dissenter dies, [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Calculated Risk</name>
@@ -1453,7 +1453,7 @@ Ploy — Target opponent reveals their hand and discards a nonland card of your 
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Deepmists Vindicator becomes blocked, [each opponent sacrifices a creature or planeswalker.]
-Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4B. Then exile it.)</text>
+Impetus 4B (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Exhaust Desire</name>
@@ -1553,7 +1553,7 @@ Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder
       </prop>
       <tablerow>3</tablerow>
       <text>[Target creature you control gains indestructible and lifelink until end of turn.] Put a +1/+1 counter on it.
-Impetus 1B (You may cast this from your graveyard as a sorcery with only the text in square brackets for 1B. Then exile it.)</text>
+Impetus 1B (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Into the Rootways</name>
@@ -1633,7 +1633,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>Flash
 When Lifelighter enters, you may [return target permanent you control not named Lifelighter to its owner’s hand.]
-Impetus {W} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {W}. Then exile it.)</text>
+Impetus {W} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Memory Lane</name>
@@ -1749,7 +1749,7 @@ Ploy — Creatures you control can’t be blocked by creatures with greater powe
       </prop>
       <tablerow>2</tablerow>
       <text>{T}: [Target creature you control gains haste until end of turn.]
-Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {R}. Then exile it.)</text>
+Impetus {R} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Pull of the Unknown</name>
@@ -2116,7 +2116,7 @@ Destroy target creature if it’s tapped or if this spell emerged. You gain 3 li
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature or enchantment. Its controller may [create a 1/1 Wonder creature token that’s all colors.]
-Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {G}. Then exile it.)</text>
+Impetus {G} (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Brazen Confidence</name>
@@ -3228,7 +3228,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>3</tablerow>
       <text>[Tap up to two target creatures], then put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for 2U. Then exile it.)</text>
+Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Cutthroat Obsession</name>
@@ -3599,7 +3599,7 @@ Overload 2UBBBR (You may cast this spell for its overload cost. If you do, chang
       </prop>
       <tablerow>2</tablerow>
       <text>When Pensive Swordmaster enters, you may discard a card. If you do, [draw a card.]
-Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for 2U. Then exile it.)</text>
+Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Redefinition</name>
@@ -3997,7 +3997,7 @@ Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder
       </prop>
       <tablerow>2</tablerow>
       <text>When Cackling Thunderbeast enters or attacks, [monocolored creatures can’t block this turn.]
-Impetus 4R (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4R. Then exile it.)</text>
+Impetus 4R (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Cathexis, Soul Aspect</name>
@@ -4314,7 +4314,7 @@ When Immensity enters, choose up to one.
       </prop>
       <tablerow>2</tablerow>
       <text>When Leyseeker enters, [draw X cards], where X is the number of colors among monocolored permanents you control. When you do, discard that many cards.
-Impetus XXU (You may cast this from your graveyard as a sorcery with only the text in square brackets for XXU. Then exile it.)</text>
+Impetus XXU (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Limitless Manadrinker</name>

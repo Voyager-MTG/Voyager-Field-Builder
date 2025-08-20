@@ -4,7 +4,7 @@
 
     <card>
       <name>Vertex Reminder PVR</name>
-      <set>PVR</set>
+      <set num="317">PVR</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>
@@ -18,7 +18,7 @@
     </card>
     <card>
       <name>Bird PVR</name>
-      <set>PVR</set>
+      <set num="4">PVR</set>
       <prop>
         <colors>U</colors>
         <type>Token Artifact Creature - Bird </type>
@@ -32,7 +32,7 @@
     </card>
     <card>
       <name>Treasure PVR</name>
-      <set>PVR</set>
+      <set num="7">PVR</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -45,7 +45,7 @@
     </card>
     <card>
       <name>Dinosaur PVR</name>
-      <set>PVR</set>
+      <set num="6">PVR</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Dinosaur </type>
@@ -59,7 +59,7 @@
     </card>
     <card>
       <name>Fractal Horror PVR</name>
-      <set>PVR</set>
+      <set num="1">PVR</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Fractal Horror </type>
@@ -75,7 +75,7 @@ Conquex, Broken Mandate</notes>
     </card>
     <card>
       <name>Fractal Reflection PVR</name>
-      <set>PVR</set>
+      <set num="2">PVR</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Fractal Reflection </type>
@@ -90,7 +90,7 @@ Anivir, Forgotten Savior</notes>
     </card>
     <card>
       <name>Horror PVR</name>
-      <set>PVR</set>
+      <set num="5">PVR</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Horror </type>
@@ -105,7 +105,7 @@ Conquex, Broken Mandate</notes>
     </card>
     <card>
       <name>Human PVR</name>
-      <set>PVR</set>
+      <set num="3">PVR</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Human </type>
@@ -119,7 +119,7 @@ Conquex, Broken Mandate</notes>
     </card>
     <card>
       <name>Nilvoid PVR</name>
-      <set>PVR</set>
+      <set num="8">PVR</set>
       <prop>
         <colors></colors>
         <type>Token Land</type>

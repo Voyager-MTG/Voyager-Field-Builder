@@ -4,7 +4,7 @@
 
     <card>
       <name>Voidstone Shard VNM</name>
-      <set>VNM</set>
+      <set num="5">VNM</set>
       <prop>
         <colors></colors>
         <type>Enchantment</type>
@@ -41,7 +41,7 @@
     </card>
     <card>
       <name>Reformed Rift VNM</name>
-      <set>VNM</set>
+      <set num="20">VNM</set>
       <prop>
         <colors></colors>
         <type>Trace Land</type>
@@ -57,7 +57,7 @@
     </card>
     <card>
       <name>Vin-Mountain VNM</name>
-      <set>VNM</set>
+      <set num="18">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Mountain </type>
@@ -73,7 +73,7 @@
     </card>
     <card>
       <name>Subdued Rift VNM</name>
-      <set>VNM</set>
+      <set num="13">VNM</set>
       <prop>
         <colors>WB</colors>
         <type>Skill Sorcery</type>
@@ -98,7 +98,7 @@
     </card>
     <card>
       <name>Hollow Graze VNM</name>
-      <set>VNM</set>
+      <set num="8">VNM</set>
       <prop>
         <colors>UB</colors>
         <type>Skill Instant</type>
@@ -118,7 +118,7 @@
     </card>
     <card>
       <name>Ever Vigilant VNM</name>
-      <set>VNM</set>
+      <set num="7">VNM</set>
       <prop>
         <colors>UG</colors>
         <type>Skill Sorcery</type>
@@ -138,7 +138,7 @@
     </card>
     <card>
       <name>Steady Growth VNM</name>
-      <set>VNM</set>
+      <set num="14">VNM</set>
       <prop>
         <colors>BG</colors>
         <type>Enchantment</type>
@@ -158,7 +158,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Prepared Strike VNM</name>
-      <set>VNM</set>
+      <set num="5">VNM</set>
       <prop>
         <colors>R</colors>
         <type>Skill Sorcery</type>
@@ -176,7 +176,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>In the Moment VNM</name>
-      <set>VNM</set>
+      <set num="4">VNM</set>
       <prop>
         <colors>R</colors>
         <type>Skill Sorcery</type>
@@ -194,7 +194,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Reshape Will VNM</name>
-      <set>VNM</set>
+      <set num="12">VNM</set>
       <prop>
         <colors>WU</colors>
         <type>Skill Instant</type>
@@ -215,7 +215,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Readied Assault VNM</name>
-      <set>VNM</set>
+      <set num="11">VNM</set>
       <prop>
         <colors>WR</colors>
         <type>Trace Skill Sorcery</type>
@@ -235,7 +235,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Military Training VNM</name>
-      <set>VNM</set>
+      <set num="10">VNM</set>
       <prop>
         <colors>WG</colors>
         <type>Skill Instant</type>
@@ -256,7 +256,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>White Drake Token VNM</name>
-      <set>VNM</set>
+      <set num="6">VNM</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Drake </type>
@@ -273,7 +273,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Luminous VNM</name>
-      <set>VNM</set>
+      <set num="1">VNM</set>
       <prop>
         <colors></colors>
         <type>Token Reminder</type>
@@ -316,7 +316,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Warped Exploration VNM</name>
-      <set>VNM</set>
+      <set num="1">VNM</set>
       <prop>
         <colors></colors>
         <type>Skill Sorcery</type>
@@ -336,7 +336,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Blue Drake Token VNM</name>
-      <set>VNM</set>
+      <set num="8">VNM</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
@@ -355,7 +355,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Plains VNM</name>
-      <set>VNM</set>
+      <set num="19">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Plains </type>
@@ -371,7 +371,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Island VNM</name>
-      <set>VNM</set>
+      <set num="17">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Island </type>
@@ -387,7 +387,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Swamp VNM</name>
-      <set>VNM</set>
+      <set num="21">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Swamp </type>
@@ -403,7 +403,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Vin-Forest VNM</name>
-      <set>VNM</set>
+      <set num="16">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Forest </type>
@@ -419,7 +419,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Harsh Reprise VNM</name>
-      <set>VNM</set>
+      <set num="3">VNM</set>
       <prop>
         <colors>B</colors>
         <type>Skill Instant</type>
@@ -437,7 +437,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Cut from Void VNM</name>
-      <set>VNM</set>
+      <set num="2">VNM</set>
       <prop>
         <colors>U</colors>
         <type>Skill Instant</type>
@@ -455,7 +455,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Sanctum Reminder VNM</name>
-      <set>VNM</set>
+      <set num="3">VNM</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -520,7 +520,7 @@ You can move cards in and out of your sanctum in sideboarding, provided that all
     </card>
     <card>
       <name>Pathbound VNM</name>
-      <set>VNM</set>
+      <set num="2">VNM</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -582,7 +582,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Vin-Fault-Conjure VNM</name>
-      <set>VNM</set>
+      <set num="15">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Fault </type>
@@ -598,7 +598,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Icon VNM</name>
-      <set>VNM</set>
+      <set num="12">VNM</set>
       <prop>
         <colors>G</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -613,7 +613,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Black Wurm Token VNM</name>
-      <set>VNM</set>
+      <set num="9">VNM</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Wurm </type>
@@ -631,7 +631,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Green Wurm Token VNM</name>
-      <set>VNM</set>
+      <set num="11">VNM</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wurm </type>
@@ -651,7 +651,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Red Wurm Token VNM</name>
-      <set>VNM</set>
+      <set num="10">VNM</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Wurm </type>
@@ -672,7 +672,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>White Wurm Token VNM</name>
-      <set>VNM</set>
+      <set num="7">VNM</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm </type>
@@ -693,7 +693,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Trace Reminder VNM</name>
-      <set>VNM</set>
+      <set num="4">VNM</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -706,7 +706,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Icon Token VNM</name>
-      <set>VNM</set>
+      <set num="13">VNM</set>
       <prop>
         <colors>G</colors>
         <type>Token Enchantment Creature - Icon </type>

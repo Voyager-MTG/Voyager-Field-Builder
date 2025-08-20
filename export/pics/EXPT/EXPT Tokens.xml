@@ -4,7 +4,7 @@
 
     <card>
       <name>Icon Token EXPT</name>
-      <set>EXPT</set>
+      <set num="12">EXPT</set>
       <prop>
         <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -19,7 +19,7 @@
     </card>
     <card>
       <name>Horror EXPT</name>
-      <set>EXPT</set>
+      <set num="11">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Horror </type>
@@ -33,7 +33,7 @@
     </card>
     <card>
       <name>Distant Vulture Astral EXPT</name>
-      <set>EXPT</set>
+      <set num="7">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Creature - Bird Incarnation </type>
@@ -50,7 +50,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Can Be Cast From Exile EXPT</name>
-      <set>EXPT</set>
+      <set num="1">EXPT</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -63,7 +63,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Demon EXPT</name>
-      <set>EXPT</set>
+      <set num="6">EXPT</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Demon </type>
@@ -78,7 +78,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Drake Token EXPT</name>
-      <set>EXPT</set>
+      <set num="8">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Drake </type>
@@ -98,7 +98,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Fox Token EXPT</name>
-      <set>EXPT</set>
+      <set num="4">EXPT</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Fox </type>
@@ -113,7 +113,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Wurm Dragon Token EXPT</name>
-      <set>EXPT</set>
+      <set num="3">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Kindred Enchantment - Wurm Dragon </type>
@@ -127,7 +127,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Elemental Token 2 EXPT</name>
-      <set>EXPT</set>
+      <set num="9">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Elemental </type>
@@ -143,7 +143,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Elemental Token 3 EXPT</name>
-      <set>EXPT</set>
+      <set num="10">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Elemental </type>
@@ -159,7 +159,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Dragon Eye Token EXPT</name>
-      <set>EXPT</set>
+      <set num="5">EXPT</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Dragon Eye </type>
@@ -174,7 +174,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <set>EXPT</set>
+      <set num="13">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -189,7 +189,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Treasure Token EXPT</name>
-      <set>EXPT</set>
+      <set num="14">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Treasure </type>
@@ -207,7 +207,7 @@ Bastien Chapitaux</notes>
     </card>
     <card>
       <name>Fish Token EXPT</name>
-      <set>EXPT</set>
+      <set num="2">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Fish </type>

@@ -4,7 +4,7 @@
 
     <card>
       <name>Liberated Dragon AKT</name>
-      <set>AKT</set>
+      <set num="3">AKT</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Dragon </type>
@@ -20,7 +20,7 @@
     </card>
     <card>
       <name>Insect Advisor AKT</name>
-      <set>AKT</set>
+      <set num="4">AKT</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Insect Advisor </type>
@@ -34,7 +34,7 @@
     </card>
     <card>
       <name>Embraced Cards AKT</name>
-      <set>AKT</set>
+      <set num="2">AKT</set>
       <prop>
         <colors></colors>
         <type>Reminder</type>
@@ -49,7 +49,7 @@
     </card>
     <card>
       <name>Recruit AKT</name>
-      <set>AKT</set>
+      <set num="11">AKT</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature</type>
@@ -63,7 +63,7 @@
     </card>
     <card>
       <name>Treasure AKT</name>
-      <set>AKT</set>
+      <set num="13">AKT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Treasure </type>
@@ -78,7 +78,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Human AKT</name>
-      <set>AKT</set>
+      <set num="9">AKT</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Human </type>
@@ -94,7 +94,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Incarnation AKT</name>
-      <set>AKT</set>
+      <set num="10">AKT</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Incarnation </type>
@@ -110,7 +110,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Hex Citizen AKT</name>
-      <set>AKT</set>
+      <set num="8">AKT</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Hex Citizen </type>
@@ -126,7 +126,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Werewolf Citizen AKT</name>
-      <set>AKT</set>
+      <set num="7">AKT</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Werewolf Citizen </type>
@@ -142,7 +142,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Incarnation Soldier AKT</name>
-      <set>AKT</set>
+      <set num="6">AKT</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Incarnation Soldier </type>
@@ -158,7 +158,7 @@ Tooken</notes>
     </card>
     <card>
       <name>Soldier AKT</name>
-      <set>AKT</set>
+      <set num="5">AKT</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -172,7 +172,7 @@ Tooken</notes>
     </card>
     <card>
       <name>House AKT</name>
-      <set>AKT</set>
+      <set num="12">AKT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Equipment </type>
@@ -186,7 +186,7 @@ Equip creature of the chosen type {1}</text>
     </card>
     <card>
       <name>Dragon AKT</name>
-      <set>AKT</set>
+      <set num="1">AKT</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Dragon </type>
