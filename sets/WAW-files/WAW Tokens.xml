@@ -3,7 +3,7 @@
   <cards>
 
     <card>
-      <name>Dragon Token WAW</name>
+      <name>Dragon WAW</name>
       <set num="16">WAW</set>
       <prop>
         <colors>R</colors>
@@ -68,8 +68,8 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
       <reverse-related>Dhere, Preserver of Memories</reverse-related>
     </card>
     <card>
-      <name>Wonder Archon Token WAW</name>
-      <set num="22">WAW</set>
+      <name>Wonder Archon WAW</name>
+      <set num="23">WAW</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder Archon </type>
@@ -132,11 +132,11 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 • [Exile up to one target nonland permanent with mana value 1 or less.]
 • [Scry 2, then draw a card.]
 • [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
-      <name>Beast Token WAW</name>
+      <name>Beast WAW</name>
       <set num="17">WAW</set>
       <prop>
         <colors>G</colors>
@@ -181,7 +181,7 @@ When this creature enters, draw a card.
       <token>1</token>
     </card>
     <card>
-      <name>Demon Token WAW</name>
+      <name>Demon WAW</name>
       <set num="12">WAW</set>
       <prop>
         <colors>B</colors>
@@ -331,8 +331,8 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       <reverse-related>New Tensuo Vanguard</reverse-related>
     </card>
     <card>
-      <name>Wonder Token WAW</name>
-      <set num="23">WAW</set>
+      <name>Wonder WAW</name>
+      <set num="22">WAW</set>
       <prop>
         <colors></colors>
         <type>Token Creature - Wonder  </type>
@@ -369,7 +369,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>

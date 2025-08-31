@@ -3,8 +3,8 @@
   <cards>
 
     <card>
-      <name>Icon Token EXPT</name>
-      <set num="12">EXPT</set>
+      <name>Icon EXPT</name>
+      <set num="11">EXPT</set>
       <prop>
         <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -19,7 +19,7 @@
     </card>
     <card>
       <name>Horror EXPT</name>
-      <set num="11">EXPT</set>
+      <set num="10">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Horror </type>
@@ -33,7 +33,7 @@
     </card>
     <card>
       <name>Distant Vulture EXPT</name>
-      <set num="7">EXPT</set>
+      <set num="6">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Creature - Bird Incarnation </type>
@@ -64,7 +64,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Demon EXPT</name>
-      <set num="6">EXPT</set>
+      <set num="5">EXPT</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Demon </type>
@@ -78,8 +78,8 @@ This creature has lifelink as long as it’s a token.</text>
       <reverse-related>The Demon Within</reverse-related>
     </card>
     <card>
-      <name>Drake Token EXPT</name>
-      <set num="8">EXPT</set>
+      <name>Drake EXPT</name>
+      <set num="7">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Drake </type>
@@ -98,8 +98,8 @@ This creature has lifelink as long as it’s a token.</text>
       <reverse-related>Kindred Spirits</reverse-related>
     </card>
     <card>
-      <name>Fox Token EXPT</name>
-      <set num="4">EXPT</set>
+      <name>Fox EXPT</name>
+      <set num="3">EXPT</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Fox </type>
@@ -113,21 +113,23 @@ This creature has lifelink as long as it’s a token.</text>
       <reverse-related>Kindred Spirits</reverse-related>
     </card>
     <card>
-      <name>Wurm Dragon Token EXPT</name>
-      <set num="3">EXPT</set>
+      <name>Flying Elemental EXPT</name>
+      <set num="8">EXPT</set>
       <prop>
-        <colors></colors>
-        <type>Token Kindred Enchantment - Wurm Dragon </type>
-        <maintype>Enchantment</maintype>
-        <notes>!related Homestead Pair;</notes>
+        <colors>I</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Unveiling;
+!exportname Flying Elemental</notes>
       </prop>
-      <tablerow>1</tablerow>
-      <text>This enchantment is also a creature if you’ve illuminated silver.</text>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
       <token>1</token>
-      <reverse-related>Homestead Pair</reverse-related>
+      <reverse-related>Unveiling</reverse-related>
     </card>
     <card>
-      <name>Elemental Token EXPT</name>
+      <name>Lifelink Elemental EXPT</name>
       <set num="9">EXPT</set>
       <prop>
         <colors>I</colors>
@@ -135,34 +137,16 @@ This creature has lifelink as long as it’s a token.</text>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Unveiling;
-Elemental Token 2;</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-      <reverse-related>Unveiling</reverse-related>
-      <reverse-related>Elemental Token 2</reverse-related>
-    </card>
-    <card>
-      <name>Elemental Token EXPT</name>
-      <set num="10">EXPT</set>
-      <prop>
-        <colors>I</colors>
-        <type>Token Creature - Elemental </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-        <notes>!related Unveiling;
-Elemental Token 3;</notes>
+!exportname Lifelink Elemental</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Lifelink</text>
       <token>1</token>
       <reverse-related>Unveiling</reverse-related>
-      <reverse-related>Elemental Token 3</reverse-related>
     </card>
     <card>
-      <name>Dragon Eye Token EXPT</name>
-      <set num="5">EXPT</set>
+      <name>Dragon Eye EXPT</name>
+      <set num="4">EXPT</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Dragon Eye </type>
@@ -177,7 +161,7 @@ Elemental Token 3;</notes>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <set num="13">EXPT</set>
+      <set num="12">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -191,8 +175,8 @@ Elemental Token 3;</notes>
       <reverse-related>Wandering Travelers</reverse-related>
     </card>
     <card>
-      <name>Treasure Token EXPT</name>
-      <set num="14">EXPT</set>
+      <name>Treasure EXPT</name>
+      <set num="13">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Treasure </type>
@@ -209,7 +193,7 @@ Bastien Chapitaux</notes>
       <reverse-related>Bastien Chapitaux</reverse-related>
     </card>
     <card>
-      <name>Fish Token EXPT</name>
+      <name>Fish EXPT</name>
       <set num="2">EXPT</set>
       <prop>
         <colors></colors>

@@ -49,7 +49,7 @@ UW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from multicolored
-Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying WWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Epoch Ending</name>
@@ -69,7 +69,7 @@ WHITERARE</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>You gain 6 life. Then if this spell was retopologised, create six 0/0 colorless Fractal Horror creature tokens. Put two +1/+1 counters on each of those creatures.
-Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WWWWWW (Cast a copy of this from your graveyard by exiling it and paying WWWWWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Gathering Olorosaurs</name>
@@ -90,7 +90,7 @@ UG07</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Gathering Olorosaurs enters with two +1/+1 counters on it if no mana from land sources were spent to cast it.
-Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology GGG (Cast a copy of this from your graveyard by exiling it and paying GGG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Heirloom of the Obsolete</name>
@@ -291,7 +291,7 @@ Whenever another artifact you control enters, put a +1/+1 counter on Awakened Ma
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Sun Pouncer</name>
@@ -373,7 +373,7 @@ CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
-Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Harsurfir Scavenger</name>
@@ -855,7 +855,7 @@ CG15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target card from your graveyard to your hand.
-Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1GG (Cast a copy of this from your graveyard by exiling it and paying 1GG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Overlaid Bridge</name>
@@ -1073,7 +1073,7 @@ Melt deals 3 damage to any target.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Geometric Singularity deals X damage to any target.
-Retopology XR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology XR (Cast a copy of this from your graveyard by exiling it and paying XR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Mana Void</name>
@@ -1114,7 +1114,7 @@ DINOCURVE?</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Emerging Wildlife enters, put a +1/+1 counter on target creature.
-Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2GG (Cast a copy of this from your graveyard by exiling it and paying 2GG. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Elder Gigantops</name>
@@ -1315,7 +1315,7 @@ CR01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Sacrifice Orchard Vixen, discard a card: Draw a card.
-Retopology RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology RR (Cast a copy of this from your graveyard by exiling it and paying RR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>The Downscaling</name>
@@ -1492,7 +1492,7 @@ ARCUNSET1</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Stick Retriever enters, create a 1/1 white Human creature token for each creature card in your graveyard.
-Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Nilshroud Predator</name>
@@ -1791,7 +1791,7 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards. You may play an additional land this turn.
-Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1G/UG/UG/UG/U (Cast a copy of this from your graveyard by exiling it and paying 1G/UG/UG/UG/U. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Friend Collector</name>
@@ -1852,7 +1852,7 @@ CW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Asset Manager enters, create a 1/1 white Human creature token.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Chronicler of the Obsolete</name>
@@ -1934,7 +1934,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
@@ -2337,7 +2337,7 @@ Sacrifice this permanent: Draw a card.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card with mana value 3 or less from your graveyard to the battlefield.
-Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BB (Cast a copy of this from your graveyard by exiling it and paying 1BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Bog Snapper</name>
@@ -2358,7 +2358,7 @@ CB02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Bog Snapper dies, up to one target creature gets -1/-1 until end of turn.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Conscripted Serpengon</name>
@@ -2638,7 +2638,7 @@ UW10</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target nonland permanent with mana value 3 or less.
-Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1B/GB/GB/GB/G (Cast a copy of this from your graveyard by exiling it and paying 1B/GB/GB/GB/G. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Waypoint of Nil</name>
@@ -3122,7 +3122,7 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
@@ -3263,7 +3263,7 @@ UG08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 0/0 colorless Fractal Horror creature token. Put X +1/+1 counters on it.
-Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology {X} (Cast a copy of this from your graveyard by exiling it and paying {X}. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Excessive Decadence</name>
@@ -3283,7 +3283,7 @@ UU07</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Target player mills twice X cards.
-Retopology XU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology XU (Cast a copy of this from your graveyard by exiling it and paying XU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Resplendent Dawn</name>
@@ -3401,7 +3401,7 @@ UU08</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw X cards, where X is the amount of mana spent to cast this spell, then discard a card.
-Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Edravir, Last of the Obsolete</name>
@@ -3648,7 +3648,7 @@ UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Hatebloom Titangon</name>
@@ -3690,7 +3690,7 @@ UB06</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Ego Eroder enters, look at target player’s hand. You may choose a noncreature, nonland card from it. Exile that card until Ego Eroder leaves the battlefield.
-Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1BBB (Cast a copy of this from your graveyard by exiling it and paying 1BBB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Cruel Condor</name>
@@ -3934,7 +3934,7 @@ UW03</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Hierarch of Exultation or another permanent you control leaves the battlefield, you gain 1 life.
-Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying 2WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Serrated Angel</name>
@@ -4366,7 +4366,7 @@ CU15</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Look at the top two cards of your library. Put one of those cards into your hand and the other into your graveyard.
-Retopology UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UU (Cast a copy of this from your graveyard by exiling it and paying UU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Manaqueduct</name>
@@ -4511,7 +4511,7 @@ BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Seafloor Scrounger gets +1/+1 if a spell or ability put a nontoken card into your hand this turn.
-Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UU (Cast a copy of this from your graveyard by exiling it and paying 2UU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Security Breach</name>
@@ -4859,7 +4859,7 @@ If you would copy a spell or create a token that’s a copy of a permanent one o
       </prop>
       <tablerow>2</tablerow>
       <text>When Abandonmare enters, each player discards two cards.
-Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology BB. Spend only mana from nonland sources this way. (Cast a copy of this from your graveyard by exiling it and paying BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Skirweigh, Abyssal Tsar</name>
@@ -4979,7 +4979,7 @@ UW09</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Irticull’s Vanguard enters, exile target nonland permanent an opponent controls until Irticull’s Vanguard leaves the battlefield.
-Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1WWW (Cast a copy of this from your graveyard by exiling it and paying 1WWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocide</name>
@@ -5092,7 +5092,7 @@ Whenever this permanent deals damage to a player or planeswalker, create a token
         <mv>3</mv>
         <type>Creature - Human Rogue </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/3</pt>
         <notes>BLUERARE4</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -5552,7 +5552,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, tap 
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever Dynotopic Stampede enters or attacks, destroy up to one target land. Its controller creates a colorless land token named Nilvoid with hexproof and “{T}: Add one mana of any color.”</text>
+When Dynotopic Stampede enters, the owner of target land sacrifices it and creates a colorless land token named Nilvoid with hexproof and “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Cadix, the Raze-Rager</name>
@@ -5630,7 +5630,7 @@ Cadix, the Raze-Rager gets -2/-2 for each land you control.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>If it isn’t an extra turn, take an extra turn after this one.
-Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and paying UUUUUUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Duplicate Specialty</name>
@@ -5649,7 +5649,7 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>

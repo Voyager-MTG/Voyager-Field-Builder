@@ -48,7 +48,7 @@
       <tablerow>2</tablerow>
       <text>Menace
 Whenever this creature attacks, tap up to one target creature.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Priest of Perfection</name>
@@ -69,7 +69,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you cast a spell with mana value 5 or greater, draw a card.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Far-Off Factory</name>
@@ -249,7 +249,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is this creature’s power. 
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Deepmind Oracle</name>
@@ -291,8 +291,8 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
 !spellbook I9;1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Artifact spells you cast with mana value 2 or greater cost {1} less to cast. 
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+      <text>Artifact spells you cast cost {1} less to cast. This effect can’t reduce a spell’s cost to less than {1}.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Thought-Theft</name>
@@ -707,7 +707,7 @@ Create a token copy of the returned creature, except it isn’t legendary and ha
       <tablerow>2</tablerow>
       <text>Flying
 When this creature enters, return target instant or sorcery card from your graveyard to your hand.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Ichor-Drowned</name>
@@ -883,7 +883,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       </prop>
       <tablerow>1</tablerow>
       <text>When Far-off Door enters, search your library for a planeswalker card, reveal it, put it into your hand, then shuffle.
-Far-off Door has all loyalty abilities of nonartifact permanents you control.</text>
+{3}, {T}: You may activate a loyalty ability of target permanent you control an additional time this turn.</text>
     </card>
     <card>
       <name>A Blossoming of Flowers</name>
@@ -1206,7 +1206,7 @@ Whenever this creature deals combat damage to a player, return it to its owner�
       <tablerow>2</tablerow>
       <text>Vigilance
 Whenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Warden of Scorching Days</name>
@@ -1532,8 +1532,9 @@ Once each turn, if you would draw a card while your library has no cards in it, 
 !spellbook I10;1</notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}: Add {C}.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand. It’s not a land.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+      <text>Shifting Silverscape enters tapped if it isn’t a creature.
+{T}: Add {C}.
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>To Be Forgotten in a Dream</name>
@@ -2591,7 +2592,7 @@ When this creature enters, it deals 2 damage to up to one target creature or pla
         <notes>https://www.deviantart.com/sanskarans/art/Gate-1110562193</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this enchantment enters, you may mill four cards.
+      <text>When this enchantment enters, you may mill two cards.
 {B}, Discard a creature card: Choose target creature card in your graveyard. You may cast it this turn. Creatures cast this way enter with a finality counter on them.</text>
     </card>
     <card>
@@ -2755,7 +2756,7 @@ At the beginning of each player’s upkeep, they may put a card they own exiled 
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, return up to one target creature you don’t control to its owner’s hand.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>Celestial Realm</name>
@@ -2854,7 +2855,7 @@ changed</notes>
       <tablerow>1</tablerow>
       <text>When Aeon, of the Living Coffin enters, mill four cards and return each land card from your graveyard to the battlefield tapped.
 [+2]: Creatures you control gain reach and trample until your next turn.
-[-3]: Untap target land you control. It becomes a 4/4 Elemental creature with vigilance and haste. It’s still a land.</text>
+[-3]: Untap target land you control. It becomes a 4/4 Elemental creature with vigilance and haste until end of turn. It’s still a land.</text>
     </card>
     <card>
       <name>Phantom City</name>
@@ -2974,7 +2975,7 @@ Your maximum hand size is two.</text>
       <tablerow>2</tablerow>
       <text>Ancient Forerunner has first strike during your turn.
 When this creature enters, it deals damage equal to its power to each opponent.
-Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.) (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
+Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version of it without iterate into your hand.)</text>
     </card>
     <card>
       <name>The Ephemeral Piper</name>
@@ -3115,7 +3116,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
       <tablerow>1</tablerow>
       <text>MX-04 enters with an additional loyalty counter on it for each land in your realm. You gain that much life. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)
 [+1]: This planeswalker deals 3 damage to target opponent.
-[-3]: Create a colorless Mx-04 planeswalker token with 1 starting loyalty named Replicant with “+1: Each opponent loses 2 life and you gain 2 life.” and “-2: Draw a card.”</text>
+[-3]: Create a colorless Mx-04 planeswalker token with 1 starting loyalty named Replicant with “+2: Each opponent loses 2 life and you gain 2 life.” and “-2: Draw a card.”</text>
     </card>
     <card>
       <name>Wandering Moon </name>
@@ -3298,8 +3299,8 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-Whenever this creature attacks, conjure a card named Drain into your hand. (It’s a {B} sorcery with “Target opponent loses 1 life and you gain 1 life.”)
-This creature gets +1/+1 for each instant and sorcery card in your graveyard.</text>
+As this creature enters, you may exile any number of instant or sorcery cards from your graveyard. It enters with that many +1/+1 counters.
+Whenever this creature attacks, conjure a card named Drain into your hand. (It’s a {B} sorcery with “Target opponent loses 1 life and you gain 1 life.”)</text>
     </card>
     <card>
       <name>Siltcurrent Obsession</name>
@@ -3469,9 +3470,9 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
       <prop>
         <colors>B</colors>
         <color>B</color>
-        <manacost>1BB</manacost>
-        <cost>1BB</cost>
-        <mana>1BB</mana>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
         <cmc>3</cmc>
         <mv>3</mv>
         <type>Sorcery</type>
@@ -3479,7 +3480,8 @@ Whenever an opponent loses life on your turn, creatures you control get +1/+0 an
         <notes>https://es.pinterest.com/pin/412783122110307933/</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than 5, mill a number of cards equal to the difference.</text>
+      <text>As an additional cost to cast Necromantic Overspill, pay {2} or sacrifice a creature.
+Return target creature or planeswalker card with mana value 5 or less from your graveyard to the battlefield. If that card has mana value less than 5, mill a number of cards equal to the difference.</text>
     </card>
     <card>
       <name>Devoted Numena</name>
@@ -3520,7 +3522,7 @@ When this creature enters, exile another target nonland permanent until this cre
       </prop>
       <tablerow>1</tablerow>
       <text>Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, Abiogenetic. PRIORITY: Expand.
-[+1]: Each opponent loses 2 life and you gain 2 life
+[+2]: Each opponent loses 2 life and you gain 2 life
 [-2]: Draw a card.</text>
     </card>
     <card>
@@ -3628,18 +3630,18 @@ At the beginning of your end step, if you gained life this turn, choose one—
       <set num="6" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
-        <manacost>15</manacost>
-        <cost>15</cost>
-        <mana>15</mana>
-        <cmc>15</cmc>
-        <mv>15</mv>
+        <manacost>10</manacost>
+        <cost>10</cost>
+        <mana>10</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
         <type>Legendary Planeswalker - Gardener </type>
         <maintype>Planeswalker</maintype>
       <loyalty>7</loyalty>
         <notes>https://www.artstation.com/artwork/Kr8vY4</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>The Gardener, Crowned costs 1 less to cast for each colorless permanent you control. (Lands are colorless.)
+      <text>The Gardener, Crowned costs 1 less to cast for each nonland colorless permanent you control.
 [+2]: Create three 1/1 colorless Faerie Horror creature tokens with flying that can’t block.
 [-3]: Gain control of target permanent.
 [-5]: You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</text>
@@ -3663,7 +3665,7 @@ https://www.deviantart.com/abeardedartist/art/Untitled-1110201842</notes>
       <tablerow>1</tablerow>
       <text>You may look at the top card of your library any time.
 You may cast artifact spells and colorless spells from the top of your library.
-Put a burden counter on The Howling Door: You lose 1 life for each burden counter on The Howling Door. Mill a card.</text>
+{1}, Put a burden counter on The Howling Door: You lose 1 life for each burden counter on The Howling Door. Mill a card.</text>
     </card>
     <card>
       <name>The Eternal Echo</name>

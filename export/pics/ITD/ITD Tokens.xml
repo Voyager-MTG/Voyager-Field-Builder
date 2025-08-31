@@ -209,7 +209,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related persistent="persistent">Lammasu, Dream-Stilled</reverse-related>
     </card>
     <card>
-      <name>Mechanised Hunter ITD ITD</name>
+      <name>Mechanised Hunter ITD</name>
       <set num="9">ITD</set>
       <prop>
         <colors></colors>
@@ -226,7 +226,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related persistent="persistent">Mechanised Hunter</reverse-related>
     </card>
     <card>
-      <name>New-Life Acolyte ITD ITD</name>
+      <name>New-Life Acolyte ITD</name>
       <set num="10">ITD</set>
       <prop>
         <colors></colors>
@@ -238,12 +238,12 @@ When this creature enters, return target instant or sorcery card from your grave
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Artifact spells you cast with mana value 2 or greater cost {1} less to cast. </text>
+      <text>Artifact spells you cast cost {1} less to cast. This effect can’t reduce a spell’s cost to less than 1.</text>
       <token>1</token>
       <reverse-related persistent="persistent">New-Life Acolyte</reverse-related>
     </card>
     <card>
-      <name>Priest of Perfection ITD ITD</name>
+      <name>Priest of Perfection ITD</name>
       <set num="11">ITD</set>
       <prop>
         <colors></colors>
@@ -260,7 +260,7 @@ When this creature enters, return target instant or sorcery card from your grave
       <reverse-related persistent="persistent">Priest of Perfection</reverse-related>
     </card>
     <card>
-      <name>Shifting Silverscape ITD ITD</name>
+      <name>Shifting Silverscape ITD</name>
       <set num="12">ITD</set>
       <prop>
         <colors></colors>
@@ -272,7 +272,8 @@ When this creature enters, return target instant or sorcery card from your grave
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>{T}: Add {C}</text>
+      <text>Shifting Silverscape enters tapped if it isn’t a creature.
+{T}: Add {C}.</text>
       <token>1</token>
       <reverse-related persistent="persistent">Shifting Silverscape</reverse-related>
     </card>

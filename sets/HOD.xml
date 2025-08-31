@@ -857,7 +857,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>
@@ -1551,8 +1551,8 @@ At the beginning of your upkeep, you may forsake. If you do, reveal the top card
         <mana>URW</mana>
         <cmc>3</cmc>
         <mv>3</mv>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
         <notes>!tag Dewold
 !tag Terrel
 !tag HODStory
@@ -5401,7 +5401,7 @@ Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defe
         <tag>DewoldRey</tag>
       </prop>
       <tablerow>3</tablerow>
-      <text>As an additional cost to cast this spell, you may forsake. (Sacrifice creatures with total toughness 3 or more.)
+      <text>As an additional cost to cast this spell, you may forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)
 Exile the top three cards of your library. You may play them until the end of your next turn. If Innocent Rendezvous was forsaken, add RRRRR.</text>
     </card>
     <card>

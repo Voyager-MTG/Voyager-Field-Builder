@@ -4,7 +4,7 @@
 
     <card>
       <name>Aubrey FOE</name>
-      <set num="33">FOE</set>
+      <set num="35">FOE</set>
       <prop>
         <colors>RI</colors>
         <type>Legendary Token Creature - Drake </type>
@@ -19,7 +19,7 @@
     </card>
     <card>
       <name>Beast FOE</name>
-      <set num="23">FOE</set>
+      <set num="25">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Beast </type>
@@ -37,24 +37,23 @@ Beast-01</notes>
       <reverse-related>Beast-01</reverse-related>
     </card>
     <card>
-      <name>Bird FOE</name>
-      <set num="16">FOE</set>
+      <name>Black Bird FOE</name>
+      <set num="17">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related A Flock is Born&lt;3>;
-Bird-01</notes>
+!exportname Black Bird</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related count="3">A Flock is Born</reverse-related>
-      <reverse-related>Bird-01</reverse-related>
     </card>
     <card>
-      <name>Bird FOE</name>
+      <name>White Bird FOE</name>
       <set num="2">FOE</set>
       <prop>
         <colors>W</colors>
@@ -62,17 +61,16 @@ Bird-01</notes>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Feather Piper&lt;2>;
-Bird-03</notes>
+!exportname White Bird</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related count="2">Feather Piper</reverse-related>
-      <reverse-related>Bird-03</reverse-related>
     </card>
     <card>
       <name>Insect FOE</name>
-      <set num="36">FOE</set>
+      <set num="38">FOE</set>
       <prop>
         <colors>WI</colors>
         <type>Token Creature - Insect </type>
@@ -89,7 +87,7 @@ Butterfly-01</notes>
     </card>
     <card>
       <name>Cat FOE</name>
-      <set num="24">FOE</set>
+      <set num="26">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Cat </type>
@@ -108,7 +106,7 @@ Cat-01</notes>
     </card>
     <card>
       <name>Crab FOE</name>
-      <set num="29">FOE</set>
+      <set num="31">FOE</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Crab </type>
@@ -172,24 +170,23 @@ Dragon Eye-01</notes>
       <reverse-related>Dragon Eye-01</reverse-related>
     </card>
     <card>
-      <name>Drake FOE</name>
-      <set num="13">FOE</set>
+      <name>Blue Drake 21 FOE</name>
+      <set num="14">FOE</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!related Tiderock Passage;
-Drake-05</notes>
+!exportname Blue Drake 21</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
       <reverse-related>Tiderock Passage</reverse-related>
-      <reverse-related>Drake-05</reverse-related>
     </card>
     <card>
-      <name>Drake FOE</name>
+      <name>White Drake FOE</name>
       <set num="3">FOE</set>
       <prop>
         <colors>W</colors>
@@ -197,7 +194,8 @@ Drake-05</notes>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>!related Fadove Battle-Cleric;Soarwing Coast;
-Drake-04</notes>
+Drake-04
+!exportname White Drake</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -207,15 +205,16 @@ Drake-04</notes>
       <reverse-related>Drake-04</reverse-related>
     </card>
     <card>
-      <name>Drake FOE</name>
-      <set num="14">FOE</set>
+      <name>Blue Drake 11 FOE</name>
+      <set num="13">FOE</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Cerise, Auger of Flow;
-Drake-02</notes>
+Drake-02
+!exportname Blue Drake 11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -224,15 +223,16 @@ Drake-02</notes>
       <reverse-related>Drake-02</reverse-related>
     </card>
     <card>
-      <name>Drake FOE</name>
-      <set num="17">FOE</set>
+      <name>Black Drake 11 FOE</name>
+      <set num="18">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Drake-Brood Peak;Pioneer’s Premonition;
-Drake-01</notes>
+Drake-01
+!exportname Black Drake 11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -242,15 +242,16 @@ Drake-01</notes>
       <reverse-related>Drake-01</reverse-related>
     </card>
     <card>
-      <name>Drake FOE</name>
-      <set num="30">FOE</set>
+      <name>Silver Drake 11 FOE</name>
+      <set num="32">FOE</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Adventurous Pair;Emigrating Pilgrim;Emigrating Pilgrim // Free to Fly;Calign&lt;2>;Aerial Assurance;Ignelscor Witch;
-Drake-03</notes>
+Drake-03
+!exportname Silver Drake 11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -265,7 +266,7 @@ Drake-03</notes>
     </card>
     <card>
       <name>Elemental Demon FOE</name>
-      <set num="34">FOE</set>
+      <set num="36">FOE</set>
       <prop>
         <colors>BR</colors>
         <type>Token Creature - Elemental Demon </type>
@@ -282,7 +283,7 @@ Elemental Demon-01</notes>
     </card>
     <card>
       <name>Elk Plant FOE</name>
-      <set num="26">FOE</set>
+      <set num="28">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Elk Plant </type>
@@ -301,7 +302,7 @@ Elk Plant-01</notes>
     </card>
     <card>
       <name>Fish FOE</name>
-      <set num="27">FOE</set>
+      <set num="29">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Fish </type>
@@ -317,15 +318,15 @@ Fish-01</notes>
       <reverse-related>Fish-01</reverse-related>
     </card>
     <card>
-      <name>Fox FOE</name>
-      <set num="4">FOE</set>
+      <name>Fox 11 FOE</name>
+      <set num="5">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Fox </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Meirel Caretaker;Staggering Spires;Meirel Pathwalker;Clerics Claymore;
-Fox-01</notes>
+!exportname Fox 11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -334,18 +335,18 @@ Fox-01</notes>
       <reverse-related>Staggering Spires</reverse-related>
       <reverse-related>Meirel Pathwalker</reverse-related>
       <reverse-related>Clerics Claymore</reverse-related>
-      <reverse-related>Fox-01</reverse-related>
     </card>
     <card>
-      <name>Fox FOE</name>
-      <set num="5">FOE</set>
+      <name>Fox 02 FOE</name>
+      <set num="4">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Fox </type>
         <maintype>Creature</maintype>
         <pt>0/2</pt>
         <notes>!related Lasting Discovery;
-Fox-02</notes>
+Fox-02
+!exportname Fox 02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -354,15 +355,16 @@ Fox-02</notes>
       <reverse-related>Fox-02</reverse-related>
     </card>
     <card>
-      <name>Lizard FOE</name>
-      <set num="19">FOE</set>
+      <name>Lizard 11 FOE</name>
+      <set num="21">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Hedgecrow;Scaled Rippler;Scaled Ripper // Lunging Mitosis;Lizturbance;
-Lizard-01</notes>
+Lizard-01
+!exportname Lizard 11</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -374,15 +376,16 @@ Lizard-01</notes>
       <reverse-related>Lizard-01</reverse-related>
     </card>
     <card>
-      <name>Lizard FOE</name>
-      <set num="20">FOE</set>
+      <name>Lizard 21 FOE</name>
+      <set num="22">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Lizard </type>
         <maintype>Creature</maintype>
         <pt>2/1</pt>
         <notes>!related Eroding River;
-Lizard-02</notes>
+Lizard-02
+!exportname Lizard 21</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace</text>
@@ -392,7 +395,7 @@ Lizard-02</notes>
     </card>
     <card>
       <name>Mongoose FOE</name>
-      <set num="32">FOE</set>
+      <set num="34">FOE</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Mongoose </type>
@@ -409,7 +412,7 @@ Mongoose-01</notes>
     </card>
     <card>
       <name>Orb FOE</name>
-      <set num="43">FOE</set>
+      <set num="45">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb </type>
@@ -444,7 +447,7 @@ Shark-01</notes>
     </card>
     <card>
       <name>Whale FOE</name>
-      <set num="39">FOE</set>
+      <set num="40">FOE</set>
       <prop>
         <colors>WB</colors>
         <type>Token Enchantment Creature - Whale </type>
@@ -460,15 +463,16 @@ Whale-01</notes>
       <reverse-related>Whale-01</reverse-related>
     </card>
     <card>
-      <name>Wurm FOE</name>
-      <set num="22">FOE</set>
+      <name>Red Wurm FOE</name>
+      <set num="24">FOE</set>
       <prop>
         <colors>R</colors>
         <type>Token Creature - Wurm </type>
         <maintype>Creature</maintype>
         <pt>3/1</pt>
         <notes>!related Bosket Peak;Warforged Pair;Encouraging Passage;
-Wurm-01</notes>
+Wurm-01
+!exportname Red Wurm</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -479,7 +483,7 @@ Wurm-01</notes>
       <reverse-related>Wurm-01</reverse-related>
     </card>
     <card>
-      <name>Wurm FOE</name>
+      <name>White Wurm 11 FOE</name>
       <set num="9">FOE</set>
       <prop>
         <colors>W</colors>
@@ -489,7 +493,8 @@ Wurm-01</notes>
         <notes>!related Clanless Tunneler;
 Wurm-02
 
-!tag clanless;</notes>
+!tag clanless;
+!exportname White Wurm 11</notes>
         <tag>clanless;</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -499,15 +504,16 @@ Wurm-02
       <reverse-related>Wurm-02</reverse-related>
     </card>
     <card>
-      <name>Wurm FOE</name>
-      <set num="8">FOE</set>
+      <name>White Wurm 22 FOE</name>
+      <set num="10">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>!related Korna Adventuring Historian;
-Wurm-03</notes>
+Wurm-03
+!exportname White Wurm 22</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance</text>
@@ -516,15 +522,16 @@ Wurm-03</notes>
       <reverse-related>Wurm-03</reverse-related>
     </card>
     <card>
-      <name>Wurm Dragon FOE</name>
-      <set num="10">FOE</set>
+      <name>White Wurm Dragon FOE</name>
+      <set num="8">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Wurm Dragon </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Yearn for the Sky;
-Wurm Dragon-02</notes>
+Wurm Dragon-02
+!exportname White Wurm Dragon</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -550,73 +557,8 @@ This is also a creature if you’ve illuminated silver.</text>
       <reverse-related>Wurm Dragon-01</reverse-related>
     </card>
     <card>
-      <name>Sanctum Reminder FOE</name>
-      <set num="38">FOE</set>
-      <prop>
-        <colors>WUBRGI</colors>
-        <type>Reminder</type>
-        <maintype>Reminder</maintype>
-        <notes>!related Avlod Pathshaper;Bearer of Change;Breach of Malice;Breach of Mortality;Breach of Nature;Breach of Protection;Breach of Sanity;Breach of the Unknown;Crumbling Forest;Crumbling Island;Crumbling Mountain;Crumbling Plains;Crumbling Swamp;Dusted Spire;Eternities Weaver;Fadove Pathwarden;Fadove Reinforcement;Guardian Roost;Keeper of Faloden Woods;Mordel Combatant;Mordel Razer;Mordel Reinforcement;Outlands Guardian;Outlands Pathwarden;Outlands Traveller;Path of Insight;Path of Revival;Path of the Brood;Path of the Grove;Path of the Mighty;Path of the Proud;Path of the Rift;Path of the Roost;Path to Ages;Path to Restoration;Pathborn Aggression;Pathborn Drake;Pathbound Bloom;Pathbound Drake;Paths Strider;Restored Forest;Restored Island;Restored Mountain;Restored Plains;Restored Swamp;Rip to Today;Unstable Rift;Verem-Volcano Keeper;Flashing Path;Shimmering Path;</notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Before the game starts, place your sanctum here face down. This is not an ordered deck. You can look at your sanctum at any time.
-Your sanctum consists of up to seven basic land cards and unique nonbasic cards that can start in the sanctum. 
-You may sideboard to add or remove cards from your sanctum as long as they are all unique or are basic lands.</text>
-      <token>1</token>
-      <reverse-related>Avlod Pathshaper</reverse-related>
-      <reverse-related>Bearer of Change</reverse-related>
-      <reverse-related>Breach of Malice</reverse-related>
-      <reverse-related>Breach of Mortality</reverse-related>
-      <reverse-related>Breach of Nature</reverse-related>
-      <reverse-related>Breach of Protection</reverse-related>
-      <reverse-related>Breach of Sanity</reverse-related>
-      <reverse-related>Breach of the Unknown</reverse-related>
-      <reverse-related>Crumbling Forest</reverse-related>
-      <reverse-related>Crumbling Island</reverse-related>
-      <reverse-related>Crumbling Mountain</reverse-related>
-      <reverse-related>Crumbling Plains</reverse-related>
-      <reverse-related>Crumbling Swamp</reverse-related>
-      <reverse-related>Dusted Spire</reverse-related>
-      <reverse-related>Eternities Weaver</reverse-related>
-      <reverse-related>Fadove Pathwarden</reverse-related>
-      <reverse-related>Fadove Reinforcement</reverse-related>
-      <reverse-related>Guardian Roost</reverse-related>
-      <reverse-related>Keeper of Faloden Woods</reverse-related>
-      <reverse-related>Mordel Combatant</reverse-related>
-      <reverse-related>Mordel Razer</reverse-related>
-      <reverse-related>Mordel Reinforcement</reverse-related>
-      <reverse-related>Outlands Guardian</reverse-related>
-      <reverse-related>Outlands Pathwarden</reverse-related>
-      <reverse-related>Outlands Traveller</reverse-related>
-      <reverse-related>Path of Insight</reverse-related>
-      <reverse-related>Path of Revival</reverse-related>
-      <reverse-related>Path of the Brood</reverse-related>
-      <reverse-related>Path of the Grove</reverse-related>
-      <reverse-related>Path of the Mighty</reverse-related>
-      <reverse-related>Path of the Proud</reverse-related>
-      <reverse-related>Path of the Rift</reverse-related>
-      <reverse-related>Path of the Roost</reverse-related>
-      <reverse-related>Path to Ages</reverse-related>
-      <reverse-related>Path to Restoration</reverse-related>
-      <reverse-related>Pathborn Aggression</reverse-related>
-      <reverse-related>Pathborn Drake</reverse-related>
-      <reverse-related>Pathbound Bloom</reverse-related>
-      <reverse-related>Pathbound Drake</reverse-related>
-      <reverse-related>Paths Strider</reverse-related>
-      <reverse-related>Restored Forest</reverse-related>
-      <reverse-related>Restored Island</reverse-related>
-      <reverse-related>Restored Mountain</reverse-related>
-      <reverse-related>Restored Plains</reverse-related>
-      <reverse-related>Restored Swamp</reverse-related>
-      <reverse-related>Rip to Today</reverse-related>
-      <reverse-related>Unstable Rift</reverse-related>
-      <reverse-related>Verem-Volcano Keeper</reverse-related>
-      <reverse-related>Flashing Path</reverse-related>
-      <reverse-related>Shimmering Path</reverse-related>
-    </card>
-    <card>
       <name>Depthscout Token FOE</name>
-      <set num="25">FOE</set>
+      <set num="27">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Wurm Plant Scout </type>
@@ -630,7 +572,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Illuminated black FOE</name>
-      <set num="18">FOE</set>
+      <set num="20">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Reminder</type>
@@ -706,7 +648,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Illuminated Green FOE</name>
-      <set num="28">FOE</set>
+      <set num="30">FOE</set>
       <prop>
         <colors>G</colors>
         <type>Token Reminder</type>
@@ -744,7 +686,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Illuminated Red FOE</name>
-      <set num="21">FOE</set>
+      <set num="23">FOE</set>
       <prop>
         <colors>R</colors>
         <type>Token Reminder</type>
@@ -782,7 +724,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Illuminated Silver FOE</name>
-      <set num="31">FOE</set>
+      <set num="33">FOE</set>
       <prop>
         <colors>I</colors>
         <type>Token Reminder</type>
@@ -857,8 +799,72 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
       <reverse-related>Your Strength is Fading</reverse-related>
     </card>
     <card>
+      <name>Healing Counter FOE</name>
+      <set num="19">FOE</set>
+      <prop>
+        <colors>B</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Calamitous Koi;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Calamitous Koi</reverse-related>
+    </card>
+    <card>
+      <name>Stun Counter FOE</name>
+      <set num="16">FOE</set>
+      <prop>
+        <colors>U</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>!related Vestige Prowler;Meirel Evacuator;Branching Paths;Captivate;</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Vestige Prowler</reverse-related>
+      <reverse-related>Meirel Evacuator</reverse-related>
+      <reverse-related>Branching Paths</reverse-related>
+      <reverse-related>Captivate</reverse-related>
+    </card>
+    <card>
+      <name>+1+1 Counter FOE</name>
+      <set num="41">FOE</set>
+      <prop>
+        <colors>WUBRGI</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+        <notes>plus one plus one counter
+!related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
+
+!framed!readable</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Whisperer of the Paths</reverse-related>
+      <reverse-related>Disciplined Seeker</reverse-related>
+      <reverse-related>Ignelscor Frontliner</reverse-related>
+      <reverse-related>Ignelscor Weaver</reverse-related>
+      <reverse-related>Dominator of Drakes</reverse-related>
+      <reverse-related>Clanless Weaver</reverse-related>
+      <reverse-related>Safeguarded Pair</reverse-related>
+      <reverse-related>Shard Bearer</reverse-related>
+      <reverse-related>Tiderock Passage</reverse-related>
+      <reverse-related>Tiderock Passage Promo</reverse-related>
+      <reverse-related>Light of Hope</reverse-related>
+      <reverse-related count="2">Meditation</reverse-related>
+      <reverse-related>Open Eternity</reverse-related>
+      <reverse-related>Alternate Path</reverse-related>
+      <reverse-related count="2">Lasting Discovery</reverse-related>
+      <reverse-related>Scale the Heights</reverse-related>
+      <reverse-related>Start of an Adventure</reverse-related>
+    </card>
+    <card>
       <name>Orb Wizard FOE</name>
-      <set num="44">FOE</set>
+      <set num="46">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -872,7 +878,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Luminous in All Colors FOE</name>
-      <set num="37">FOE</set>
+      <set num="39">FOE</set>
       <prop>
         <colors>WUBRGI</colors>
         <type>Token Reminder</type>
@@ -910,7 +916,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Food FOE</name>
-      <set num="42">FOE</set>
+      <set num="44">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Food </type>
@@ -924,7 +930,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Blood FOE</name>
-      <set num="40">FOE</set>
+      <set num="42">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Blood </type>
@@ -938,7 +944,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Clue FOE</name>
-      <set num="41">FOE</set>
+      <set num="43">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact - Clue </type>
@@ -951,8 +957,8 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
       <reverse-related>Bone Salesman</reverse-related>
     </card>
     <card>
-      <name>Goat Token FOE</name>
-      <set num="35">FOE</set>
+      <name>Goat FOE</name>
+      <set num="37">FOE</set>
       <prop>
         <colors>WB</colors>
         <type>Token Creature - Goat </type>
@@ -968,7 +974,7 @@ You may sideboard to add or remove cards from your sanctum as long as they are a
     </card>
     <card>
       <name>Jura FOE</name>
-      <set num="45">FOE</set>
+      <set num="47">FOE</set>
       <prop>
         <colors></colors>
         <type>Legendary Land Token</type>

@@ -41,7 +41,7 @@
     </card>
     <card>
       <name>Reformed Rift VNM</name>
-      <set num="20">VNM</set>
+      <set num="21">VNM</set>
       <prop>
         <colors></colors>
         <type>Trace Land</type>
@@ -57,7 +57,7 @@
     </card>
     <card>
       <name>Mountain VNM</name>
-      <set num="18">VNM</set>
+      <set num="19">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Mountain </type>
@@ -73,7 +73,7 @@ Vin-Mountain</notes>
     </card>
     <card>
       <name>Subdued Rift VNM</name>
-      <set num="13">VNM</set>
+      <set num="12">VNM</set>
       <prop>
         <colors>WB</colors>
         <type>Skill Sorcery</type>
@@ -138,7 +138,7 @@ Vin-Mountain</notes>
     </card>
     <card>
       <name>Steady Growth VNM</name>
-      <set num="14">VNM</set>
+      <set num="15">VNM</set>
       <prop>
         <colors>BG</colors>
         <type>Enchantment</type>
@@ -194,7 +194,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Reshape Will VNM</name>
-      <set num="12">VNM</set>
+      <set num="11">VNM</set>
       <prop>
         <colors>WU</colors>
         <type>Skill Instant</type>
@@ -215,7 +215,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Readied Assault VNM</name>
-      <set num="11">VNM</set>
+      <set num="10">VNM</set>
       <prop>
         <colors>WR</colors>
         <type>Trace Skill Sorcery</type>
@@ -235,7 +235,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
     </card>
     <card>
       <name>Military Training VNM</name>
-      <set num="10">VNM</set>
+      <set num="9">VNM</set>
       <prop>
         <colors>WG</colors>
         <type>Skill Instant</type>
@@ -255,14 +255,15 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
-      <name>White Drake Token VNM</name>
+      <name>White Drake VNM</name>
       <set num="6">VNM</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!related Breach of Protection;Crumbling Plains;Drake Rider;</notes>
+        <notes>!related Breach of Protection;Crumbling Plains;Drake Rider;
+!exportname White Drake</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
@@ -270,6 +271,23 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related>Breach of Protection</reverse-related>
       <reverse-related>Crumbling Plains</reverse-related>
       <reverse-related>Drake Rider</reverse-related>
+    </card>
+    <card>
+      <name>Icebound Reinforcements Copy VNM</name>
+      <set num="14">VNM</set>
+      <prop>
+        <colors>UG</colors>
+        <type>Token Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>!related Icebound Reinforcements
+!exportname Icebound Reinforcements Copy</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
+      <token>1</token>
+      <reverse-related>Icebound Reinforcements</reverse-related>
     </card>
     <card>
       <name>Luminous VNM</name>
@@ -335,14 +353,15 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
       <reverse-related persistent="persistent"></reverse-related>
     </card>
     <card>
-      <name>Blue Drake Token VNM</name>
+      <name>Blue Drake VNM</name>
       <set num="8">VNM</set>
       <prop>
         <colors>U</colors>
         <type>Token Creature - Drake </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Aerial Roost&lt;2>;Drake Wrangler;Outlands Bulwark;Path of the Roost;</notes>
+        <notes>!related Aerial Roost&lt;2>;Drake Wrangler;Outlands Bulwark;Path of the Roost;
+!exportname Blue Drake</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -355,7 +374,7 @@ This can’t block.</text>
     </card>
     <card>
       <name>Plains VNM</name>
-      <set num="19">VNM</set>
+      <set num="20">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Plains </type>
@@ -371,7 +390,7 @@ Vin-Plains</notes>
     </card>
     <card>
       <name>Island VNM</name>
-      <set num="17">VNM</set>
+      <set num="18">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Island </type>
@@ -387,7 +406,7 @@ Vin-Island</notes>
     </card>
     <card>
       <name>Swamp VNM</name>
-      <set num="21">VNM</set>
+      <set num="22">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Swamp </type>
@@ -403,7 +422,7 @@ Vin-Swamp</notes>
     </card>
     <card>
       <name>Forest VNM</name>
-      <set num="16">VNM</set>
+      <set num="17">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Forest </type>
@@ -582,7 +601,7 @@ Each pathbound card in your sanctum must be unique. You may have only five pathb
     </card>
     <card>
       <name>Fault VNM</name>
-      <set num="15">VNM</set>
+      <set num="16">VNM</set>
       <prop>
         <colors></colors>
         <type>Basic Land - Fault </type>
@@ -612,7 +631,7 @@ Vin-Fault-Conjure</notes>
       <reverse-related>Splendid Genesis</reverse-related>
     </card>
     <card>
-      <name>Black Wurm Token VNM</name>
+      <name>Black Wurm VNM</name>
       <set num="9">VNM</set>
       <prop>
         <colors>B</colors>
@@ -620,7 +639,7 @@ Vin-Fault-Conjure</notes>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Conflict Mentor;Outlands Bulwark;Path of the Rift;
-!tokentag BlackWurm;</notes>
+!exportname Black Wurm</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Deathtouch</text>
@@ -630,7 +649,7 @@ Vin-Fault-Conjure</notes>
       <reverse-related>Path of the Rift</reverse-related>
     </card>
     <card>
-      <name>Green Wurm Token VNM</name>
+      <name>Green Wurm VNM</name>
       <set num="11">VNM</set>
       <prop>
         <colors>G</colors>
@@ -638,7 +657,7 @@ Vin-Fault-Conjure</notes>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Bruin Clankeeper;Outlands Bulwark;Bulwark of the Thicket;Bruin Wanderer;Path of the Mighty;
-!tokentag GreenWurm</notes>
+!exportname Green Wurm</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach</text>
@@ -650,7 +669,7 @@ Vin-Fault-Conjure</notes>
       <reverse-related>Path of the Mighty</reverse-related>
     </card>
     <card>
-      <name>Red Wurm Token VNM</name>
+      <name>Red Wurm VNM</name>
       <set num="10">VNM</set>
       <prop>
         <colors>R</colors>
@@ -658,7 +677,7 @@ Vin-Fault-Conjure</notes>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Unexpected Discovery&lt;2>;Conflict Mentor;Brood Protector;Bulwark of the Thicket;Passage Patroller;Path of the Brood;
-!tokentag RedWurm</notes>
+!exportname Red Wurm</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste</text>
@@ -671,7 +690,7 @@ Vin-Fault-Conjure</notes>
       <reverse-related>Path of the Brood</reverse-related>
     </card>
     <card>
-      <name>White Wurm Token VNM</name>
+      <name>White Wurm VNM</name>
       <set num="7">VNM</set>
       <prop>
         <colors>W</colors>
@@ -679,7 +698,7 @@ Vin-Fault-Conjure</notes>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
         <notes>!related Bruin Wanderer;Will of Roduth&lt;2>;Oathkeep Wurm&lt;2>;Khestri, Fadove Clanleader;Path of the Proud;Triumphant Entrance&lt;2>;
-!tokentag WhiteWurm</notes>
+!exportname White Wurm</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -705,14 +724,14 @@ Vin-Fault-Conjure</notes>
       <token>1</token>
     </card>
     <card>
-      <name>Icon Token VNM</name>
+      <name>Icon 22 VNM</name>
       <set num="13">VNM</set>
       <prop>
         <colors>G</colors>
         <type>Token Enchantment Creature - Icon </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>!tokentag Icon 2;</notes>
+        <notes>!exportname Icon 22</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>

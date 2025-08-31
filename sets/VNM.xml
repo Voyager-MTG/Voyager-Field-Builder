@@ -436,7 +436,7 @@ Whenever this creature deals combat damage to a noncreature, exile the top card 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Bulwark</name>
@@ -478,7 +478,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target creature can’t block this turn.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Roduth&apos;s Guard</name>
@@ -518,7 +518,7 @@ When this creature enters, it deals damage equal to the number of creatures you 
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, up to one target creature or enchantment you control becomes a 4/4 blue and green Turtle creature until end of turn.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Icebound Reinforcements</name>
@@ -616,7 +616,7 @@ As long as you have at least 7 life more than your starting life total, creature
         <mv>4</mv>
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>3/4</pt>
         <notes>!note hybrid
 !addtoken RedWurm;</notes>
       </prop>
@@ -871,7 +871,7 @@ Fracture — Whenever this creature attacks or blocks, other creatures you contr
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, draw a card.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Rebuke the Foul</name>
@@ -987,7 +987,7 @@ Fracture — At the beginning of combat, this creature gets +1/+1 and can attack
         <notes>previewed</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Fracture — At the beginning of combat of each turn, if you cast a noncreature spell this turn, scry 1, then untap up to one target nonland permanent.</text>
+      <text>Fracture — At the beginning of your end step, if you cast a noncreature spell this turn, scry 1, then tap or untap up to one target nonland permanent.</text>
     </card>
     <card>
       <name>Due Dismissal</name>
@@ -1085,7 +1085,7 @@ Scry 1, then draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Fracture — Once each turn, when you cast a noncreature spell, draw a card, then you may put a stun counter on target creature.</text>
+Fracture — Once each turn, when you cast a noncreature spell, draw a card, then you may put a stun counter on target permanent.</text>
     </card>
     <card>
       <name>Avakin Sayer</name>
@@ -1634,7 +1634,7 @@ Creatures you control get +1/+0 as long as you’ve illuminated red.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, target creature you control deals damage equal to its power to any nonplayer target you don’t control.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Iconic Resolution</name>
@@ -1728,7 +1728,7 @@ Exile the top two cards of your library. Until the end of your next turn, you ma
         <mv>3</mv>
         <type>Enchantment Creature - Icon Wurm </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/3</pt>
         <notes>!addtoken RedWurm;</notes>
       </prop>
       <tablerow>2</tablerow>
@@ -1850,7 +1850,7 @@ This spell deals 2 damage to any target. If you’ve illuminated red, this spell
         <mv>3</mv>
         <type>Enchantment Creature - Icon Druid </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/3</pt>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
@@ -2141,7 +2141,7 @@ Fault|Basic Land — Fault
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Aspiring Entity</name>
@@ -2160,7 +2160,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Wings of New Horizons</name>
@@ -2244,7 +2244,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever this enchantment attacks, scry 1.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Pinnacle Skitter</name>
@@ -2767,7 +2767,7 @@ Scry 1, then draw a card.</text>
       <text>Flash 
 Vigilance
 When this enchantment enters, tap target permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Wanderer</name>
@@ -2811,7 +2811,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Fracture — Whenever this creature attacks, target creature you control gains flying until end of turn as long as you cast a noncreature spell this turn.</text>
+Fracture — Whenever this creature attacks, target creature you control gains flying until end of turn. If you’ve cast a noncreature spell this turn, it also gets +1/+0 until end of turn.</text>
     </card>
     <card>
       <name>Kaln-Ocean Cloak</name>
@@ -3134,7 +3134,8 @@ This creature gets +1/+1 as long as you’ve illuminated white or red.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Fracture — At the beginning of combat on your turn, up to one target creature gets +1/+0 and can’t be blocked by non-enchantment creatures until end of turn as long as you cast a noncreature spell this turn.</text>
+      <text>This creature can’t be blocked by nonenchantment creatures.
+Fracture — At the beginning of combat on your turn, up to one target creature gets +1/+0 and can’t be blocked by nonenchantment creatures until end of turn as long as you cast a noncreature spell this turn.</text>
     </card>
     <card>
       <name>Manifesting Ardor</name>
@@ -3320,7 +3321,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
       <tablerow>1</tablerow>
       <text>Menace
 When this enchantment enters, target opponent may discard a card. If they don’t, this enchantment deals 3 damage to that player.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Chittering Entity</name>
@@ -3781,7 +3782,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -3823,27 +3824,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
-    </card>
-    <card>
-      <name>Icebound Reinforcements Token</name>
-      <set num="9" rarity="">VNM</set>
-      <prop>
-        <colors>UG</colors>
-        <color>UG</color>
-        <manacost>1G/UG/U</manacost>
-        <cost>1G/UG/U</cost>
-        <mana>1G/UG/U</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
-        <type>Token Creature - Human Scout </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-        <notes>!related Icebound Reinforcements</notes>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
-1G/UG/U, Remove three +1/+1 counters from this creature: Create a token that’s a copy of this creature.</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Breaking the Mold</name>
@@ -4635,7 +4616,7 @@ After your first combat phase, there is an additional combat phase where only en
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Zoslera, Mordel Clanleader</name>
@@ -4680,7 +4661,7 @@ Whenever you cast a noncreature spell, choose one you haven’t chosen this turn
       <tablerow>2</tablerow>
       <text>Flying
 Fracture — Whenever this creature enters or attacks, each opponent sacrifices a creature as long as you cast a noncreature spell this turn.
-Escape—{5}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+Escape—{5}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
     </card>
     <card>
       <name>Dust for Dust</name>
@@ -4762,7 +4743,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -4782,7 +4763,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked by creatures with power 2 or less.
 Whenever you attack, put a +1/+1 counter on another target attacking creature.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Curious Shimmer</name>
@@ -4802,7 +4783,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -4822,7 +4803,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Double strike
 Whenever you attack, target creature can’t block this turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Runed Spire</name>
@@ -4946,7 +4927,7 @@ When this creature enters, up to one target creature you control gets +3/+3 unti
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—{2}. Activate only if you control no nonland permanents. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Fracture — Once each turn, when you cast a noncreature spell, you may have this creature gains flying until end of turn. If you cast your third noncreature spell this turn, other creatures you control get +2/+0 until end of turn.</text>
+Fracture — When this creature attacks, if it’s attacking alone or you’ve cast a noncreature spell this turn, draw a card, then discard a card.</text>
     </card>
     <card>
       <name>Mordel Combatant</name>
@@ -5538,7 +5519,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
     </card>
     <card>
       <name>Plains</name>
-      <set num="18" rarity="">VNM</set>
+      <set num="17" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5557,7 +5538,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
     </card>
     <card>
       <name>Island</name>
-      <set num="16" rarity="">VNM</set>
+      <set num="15" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5576,7 +5557,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
     </card>
     <card>
       <name>Swamp</name>
-      <set num="19" rarity="">VNM</set>
+      <set num="18" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5595,7 +5576,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
     </card>
     <card>
       <name>Mountain</name>
-      <set num="17" rarity="">VNM</set>
+      <set num="16" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -5614,7 +5595,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
     </card>
     <card>
       <name>Forest</name>
-      <set num="15" rarity="">VNM</set>
+      <set num="14" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -6451,7 +6432,7 @@ Scry 1, then draw a card.</text>
     </card>
     <card>
       <name>Fault</name>
-      <set num="14" rarity="">VNM</set>
+      <set num="13" rarity="">VNM</set>
       <prop>
         <colors></colors>
         <color></color>

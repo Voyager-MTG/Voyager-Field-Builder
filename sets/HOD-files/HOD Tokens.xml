@@ -20,8 +20,8 @@ Intisuyus Armies
       <reverse-related count="2">Capac Suyay, Grim Seeker</reverse-related>
     </card>
     <card>
-      <name>Soldier HOD</name>
-      <set num="5">HOD</set>
+      <name>White Soldier 11 HOD</name>
+      <set num="6">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
@@ -29,7 +29,8 @@ Intisuyus Armies
         <pt>1/1</pt>
         <notes>!tag Dewold
 Suyay’s Soldier
-!related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;</notes>
+!related Capac Suyay, Grim Seeker&lt;2>; Intisuyu’s Armies;
+!exportname White Soldier 11</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -202,7 +203,7 @@ Dewold Army
       <reverse-related>Left to Wander</reverse-related>
     </card>
     <card>
-      <name>Soldier HOD</name>
+      <name>Red Soldier HOD</name>
       <set num="14">HOD</set>
       <prop>
         <colors>R</colors>
@@ -211,7 +212,8 @@ Dewold Army
         <pt>2/1</pt>
         <notes>!tag Dewold
 Young Soldier
-!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel;</notes>
+!related Whitaker Captain; Turnberry Scout &lt;2>; Patrol the Geistwald; Leon’s Claim; Hulking Vessel;
+!exportname Red Soldier</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -239,7 +241,7 @@ Young Soldier
       <token>1</token>
     </card>
     <card>
-      <name>Knight HOD</name>
+      <name>Knight all colors HOD</name>
       <set num="19">HOD</set>
       <prop>
         <colors>WUBRG</colors>
@@ -248,7 +250,9 @@ Young Soldier
         <pt>3/3</pt>
         <notes>!tag Dewold
 Destroyed-Knight
-!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;</notes>
+!related Knight of Skyspire; Banefort Archer; Replenishing Camp; Resolute Elk; Turnberry Overseer;
+
+!exportname Knight all colors</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -261,14 +265,15 @@ Destroyed-Knight
       <reverse-related> Turnberry Overseer</reverse-related>
     </card>
     <card>
-      <name>Soldier HOD</name>
-      <set num="6">HOD</set>
+      <name>Defender Soldier HOD</name>
+      <set num="5">HOD</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Soldier </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!tag Dewold</notes>
+        <notes>!tag Dewold
+!exportname Defender Soldier</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
@@ -276,14 +281,15 @@ Destroyed-Knight
       <token>1</token>
     </card>
     <card>
-      <name>Knight HOD</name>
+      <name>Green Knight HOD</name>
       <set num="18">HOD</set>
       <prop>
         <colors>G</colors>
         <type>Token Creature - Knight </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!tag Dewold</notes>
+        <notes>!tag Dewold
+!exportname Green Knight</notes>
         <tag>Dewold</tag>
       </prop>
       <tablerow>2</tablerow>
