@@ -481,7 +481,10 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>2</mv>
         <type>Legendary Artifact</type>
         <maintype>Artifact</maintype>
-        <notes>!designer Kogane</notes>
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer Kogane</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Exile up to two target cards from a single graveyard.
@@ -500,7 +503,10 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!designer Wende</notes>
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer Wende</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>When The Heart of Ischav enters, you may exile a card from your hand. If you do, exile a basic land card you own from your sanctum.
@@ -520,7 +526,10 @@ Whenever a player discards a card with a creature type, you embrace it, and you 
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>WHITEUNCOMMON
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+WHITEUNCOMMON
 UW10
 !designer Myr</notes>
       </prop>
@@ -540,7 +549,10 @@ UW10
         <mv>1</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>BLACKCOMMON
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+BLACKCOMMON
 CB12
 !designer Myr</notes>
       </prop>
@@ -560,7 +572,10 @@ CB12
         <mv>1</mv>
         <type>Enchantment - Realm </type>
         <maintype>Enchantment</maintype>
-        <notes>!designer TVP</notes>
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer TVP</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>As this realm enters, choose a card name.
@@ -579,7 +594,10 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <mv>0</mv>
         <type>Land</type>
         <maintype>Land</maintype>
-        <notes>!designer Wende</notes>
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer Wende</notes>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}, Pay 1 life, Sacrifice Wanderer’s Shrine: Put a basic land card you own from your sanctum onto the battlefield.</text>
@@ -597,7 +615,10 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!designer TVP</notes>
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer TVP</notes>
       </prop>
       <tablerow>3</tablerow>
       <text>Converge — Falling Sparks deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. You gain that much life.</text>
@@ -615,7 +636,10 @@ Activated abilities of sources with the chosen name can’t be activated unless 
         <mv>3</mv>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
-        <notes>!designer Aanginer
+        <notes>!tag&lt;lairnumber> 4
+!tag&lt;lairauthor> voyager
+!tag&lt;lair> top cards I
+!designer Aanginer
 
 https://www.deviantart.com/ryky/art/ALL-COMMISSIONS-FOR-75-USD-READ-DESCRIPTIONS-744213721</notes>
       </prop>
@@ -636,7 +660,10 @@ Discard your hand, then draw three cards.</text>
         <mv>0</mv>
         <type>Land - Plains </type>
         <maintype>Land</maintype>
-        <notes>!tapped
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!tapped
 !designer TVP</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -659,7 +686,10 @@ When this land enters, surveil 1.
         <mv>0</mv>
         <type>Land - Island </type>
         <maintype>Land</maintype>
-        <notes>!designer TVP
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!designer TVP
 !tapped</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -682,7 +712,10 @@ When this land enters, surveil 1.
         <mv>0</mv>
         <type>Land - Swamp </type>
         <maintype>Land</maintype>
-        <notes>!designer TVP
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!designer TVP
 !tapped
 </notes>
       </prop>
@@ -706,7 +739,10 @@ When this land enters, surveil 1.
         <mv>0</mv>
         <type>Land - Mountain </type>
         <maintype>Land</maintype>
-        <notes>!designer TVP
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!designer TVP
 !tapped</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -729,7 +765,10 @@ When this land enters, surveil 1.
         <mv>0</mv>
         <type>Land - Fault </type>
         <maintype>Land</maintype>
-        <notes>!designer TVP
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!designer TVP
 !tapped</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -752,7 +791,10 @@ When Restored Fault enters, surveil 1.
         <mv>0</mv>
         <type>Land - Forest </type>
         <maintype>Land</maintype>
-        <notes>!designer TVP
+        <notes>!tag&lt;lairnumber> 5
+!tag&lt;lairauthor> aanginer
+!tag&lt;lair> restoration
+!designer TVP
 !tapped</notes>
       </prop>
       <tablerow>0</tablerow>
@@ -775,7 +817,9 @@ When this land enters, surveil 1.
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!tag Dewold
+        <notes>!tag&lt;is> champion
+!tag&lt;champion> aanginer
+!tag Dewold
 !tag Rey
 !ocean
 !designer Zangy</notes>

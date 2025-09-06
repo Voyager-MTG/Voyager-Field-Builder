@@ -116,7 +116,7 @@ Equipment you control have “Sacrifice this Equipment: Equipped creature gains 
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Double strike
 Exile three cards from your graveyard: Sapner Vindicator becomes an artifact until end of turn. (It’s no longer a creature this turn.)</text>
     </card>
@@ -637,7 +637,7 @@ Whenever Vance Informant deals combat damage to a player or planeswalker, mill t
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you copy a spell that was targeting a creature you control, you draw a card and you lose 1 life.</text>
     </card>
     <card>
@@ -1167,7 +1167,7 @@ Whenever Chorus of the Silberwald deals combat damage to a player or planeswalke
         <tag>DewoldBanefort</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever Blight-Tipped Hunter deals damage to a player, that player gets that many poison counters.</text>
     </card>
     <card>
@@ -1190,7 +1190,7 @@ Whenever Blight-Tipped Hunter deals damage to a player, that player gets that ma
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Other permanents you control have bloom.</text>
     </card>
     <card>
@@ -2331,7 +2331,7 @@ Sacrifice a creature: Wystan Terrel gains indestructible until end of turn.</tex
         <tag>DewoldBanefort</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you cast or copy a noncreature spell, create a 1/1 blue Scout creature token.</text>
     </card>
     <card>
@@ -2825,7 +2825,7 @@ Enchanted creature gets +2/+0 and has “Whenever this creature dies, create a t
         <tag>DewoldWhitaker</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Lifelink</text>
     </card>
     <card>
@@ -3354,7 +3354,7 @@ At the beginning of your end step, if you attacked this turn, put a +1/+1 counte
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you cast or copy a noncreature spell, creatures you control get +1/+1 until end of turn.</text>
     </card>
     <card>
@@ -3881,7 +3881,7 @@ Tricolor</notes>
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Creatures you control have “{T}: Add one mana of any color. You can’t spend this mana to cast creature spells.”</text>
     </card>
     <card>
@@ -5314,7 +5314,7 @@ Escape—1R, Discard a card, Exile three other cards from your graveyard. (You m
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 When Fort Sapner Caretaker enters, draw a card.</text>
     </card>
     <card>
@@ -5337,7 +5337,7 @@ When Fort Sapner Caretaker enters, draw a card.</text>
         <tag>RoulDewoldBanefort</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you cast a noncreature spell, you gain 1 life.</text>
     </card>
     <card>
@@ -5487,7 +5487,7 @@ When Tormentor of Tales enters, surveil 2.</text>
         <tag>DewoldSapner</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Whenever you cast or copy a noncreature spell, put a +1/+1 counter on Warden of Fort Sapner.</text>
     </card>
     <card>
@@ -5554,7 +5554,7 @@ Whenever one or more creatures you control enter, if they weren’t cast from yo
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
+Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
     </card>
     <card>
       <name>Vance Racketeers</name>
@@ -6415,7 +6415,7 @@ At the beginning of your end step, create a 1/1 blue Scout creature token in you
         <tag>DewoldBanefort</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
+      <text>Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)
 Ward {2}</text>
     </card>
     <card>

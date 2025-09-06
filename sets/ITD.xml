@@ -3630,11 +3630,11 @@ At the beginning of your end step, if you gained life this turn, choose one—
       <set num="6" rarity="rare">ITD</set>
       <prop>
         <colors></colors>
-        <manacost>10</manacost>
-        <cost>10</cost>
-        <mana>10</mana>
-        <cmc>10</cmc>
-        <mv>10</mv>
+        <manacost>12</manacost>
+        <cost>12</cost>
+        <mana>12</mana>
+        <cmc>12</cmc>
+        <mv>12</mv>
         <type>Legendary Planeswalker - Gardener </type>
         <maintype>Planeswalker</maintype>
       <loyalty>7</loyalty>
@@ -3643,7 +3643,7 @@ At the beginning of your end step, if you gained life this turn, choose one—
       <tablerow>1</tablerow>
       <text>The Gardener, Crowned costs 1 less to cast for each nonland colorless permanent you control.
 [+2]: Create three 1/1 colorless Faerie Horror creature tokens with flying that can’t block.
-[-3]: Gain control of target permanent.
+[-3]: Gain control of target permanent until The Gardener leaves the battlefield.
 [-5]: You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</text>
     </card>
     <card>

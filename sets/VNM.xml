@@ -394,7 +394,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, surveil 1.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Clanless Usurper</name>
@@ -3258,7 +3258,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -3278,7 +3278,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Giant&apos;s Blade</name>
@@ -3341,7 +3341,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -3421,7 +3421,7 @@ Whenever you attack with one or more tokens, you gain 1 life.</text>
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, you may gain 1 life. If you didn’t, surveil 1.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Riftbearer</name>
@@ -3763,7 +3763,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell
       <tablerow>1</tablerow>
       <text>Flying
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Crowned Entity</name>
@@ -4723,7 +4723,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -4927,6 +4927,7 @@ When this creature enters, up to one target creature you control gets +3/+3 unti
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—{2}. Activate only if you control no nonland permanents. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+Flying
 Fracture — When this creature attacks, if it’s attacking alone or you’ve cast a noncreature spell this turn, draw a card, then discard a card.</text>
     </card>
     <card>
