@@ -1561,7 +1561,7 @@ Target creature you control gets +1/+1 and gains haste until end of turn. (Then 
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Outlands Rescuer</name>
@@ -3280,7 +3280,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Fault</name>
-      <set num="380" rarity="">FOE</set>
+      <set num="379" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3316,7 +3316,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Fault</name>
-      <set num="379" rarity="">FOE</set>
+      <set num="377" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3334,7 +3334,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Fault</name>
-      <set num="377" rarity="">FOE</set>
+      <set num="376" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3370,7 +3370,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set num="376" rarity="">FOE</set>
+      <set num="374" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3388,7 +3388,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set num="374" rarity="">FOE</set>
+      <set num="373" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3406,7 +3406,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Forest</name>
-      <set num="373" rarity="">FOE</set>
+      <set num="372" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3424,7 +3424,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Island</name>
-      <set num="364" rarity="">FOE</set>
+      <set num="363" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3442,7 +3442,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Island</name>
-      <set num="361" rarity="">FOE</set>
+      <set num="360" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3460,7 +3460,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Island</name>
-      <set num="363" rarity="">FOE</set>
+      <set num="361" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3496,7 +3496,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set num="371" rarity="">FOE</set>
+      <set num="368" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3514,7 +3514,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set num="370" rarity="">FOE</set>
+      <set num="369" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3532,7 +3532,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set num="369" rarity="">FOE</set>
+      <set num="370" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3550,7 +3550,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Mountain</name>
-      <set num="372" rarity="">FOE</set>
+      <set num="371" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3568,7 +3568,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Plains</name>
-      <set num="358" rarity="">FOE</set>
+      <set num="356" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3586,7 +3586,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Plains</name>
-      <set num="357" rarity="">FOE</set>
+      <set num="359" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3604,7 +3604,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Plains</name>
-      <set num="360" rarity="">FOE</set>
+      <set num="357" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3622,7 +3622,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Plains</name>
-      <set num="359" rarity="">FOE</set>
+      <set num="358" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3640,7 +3640,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set num="368" rarity="">FOE</set>
+      <set num="366" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3658,7 +3658,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set num="367" rarity="">FOE</set>
+      <set num="365" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3676,7 +3676,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set num="366" rarity="">FOE</set>
+      <set num="364" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -3694,7 +3694,7 @@ Manifest</notes>
     </card>
     <card>
       <name>Swamp</name>
-      <set num="365" rarity="">FOE</set>
+      <set num="367" rarity="">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -4476,7 +4476,7 @@ When this land enters tapped, up to one target creature you control gains haste 
     </card>
     <card>
       <name>Tavern Sanctum</name>
-      <set num="356" rarity="mythic">FOE</set>
+      <set num="355" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -7483,7 +7483,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
     </card>
     <card>
       <name>Shifting Spire</name>
-      <set num="355" rarity="mythic">FOE</set>
+      <set num="354" rarity="mythic">FOE</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -8982,23 +8982,4 @@ Whenever you deal noncombat damage to a creature you control, it gets +2/+0 unti
       <tablerow>2</tablerow>
       <text>Flying
 Whenever this creature enters or attacks, it deals 2 damage to up to one target permanent or player that was dealt damage this turn.</text>
-    </card>
-    <card>
-      <name>Frontier of Eternity</name>
-      <set num="354" rarity="mythic">FOE</set>
-      <prop>
-        <colors></colors>
-        <color></color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Land - Frontier </type>
-        <maintype>Land</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>{T}: Add {C}.
-{15}, {T}, Sacrifice this land: Reveal the top ten cards of your library. You may cast a spell revealed this way without paying its mana cost. This ability costs {1} less to activate for each permanent you control.</text>
     </card>
