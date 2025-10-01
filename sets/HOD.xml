@@ -859,7 +859,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>

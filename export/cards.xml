@@ -9056,7 +9056,7 @@ https://www.deviantart.com/mantara1/art/Manta-973822942</notes>
       <tablerow>1</tablerow>
       <text>Vigilance
 As long as your complexity is three or greater, Nildiver is also a creature. (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.) (Your complexity is the number of spells you’ve cast and nonland abilities you’ve activated this turn.)
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Planar Boundary</name>
@@ -9670,7 +9670,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>The Foxfolk children are born feral; They must spark their curiosity to join society. </notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 When this creature enters, create a 1/1 white Fox creature token.
 This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
@@ -9711,7 +9711,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature gets +0/+1 and has vigilance as long as you’ve illuminated white.</text>
     </card>
     <card>
@@ -9734,7 +9734,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {3}, {T}: Tap target creature. This ability costs {3} less to activate if you’ve illuminated white.</text>
     </card>
     <card>
@@ -10083,7 +10083,7 @@ When this creature enters, tap target creature an opponent controls and put a st
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.
 This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.</text>
     </card>
@@ -10277,7 +10277,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Destroy target creature or planeswalker if it has mana value 2 or less or if you’ve illuminated black.</text>
     </card>
     <card>
@@ -10451,7 +10451,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This spell costs {2} less to cast if you’ve illuminated black or if you control three or more black permanents.</text>
     </card>
     <card>
@@ -10527,7 +10527,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
         <tag>clanless;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
@@ -10656,7 +10656,7 @@ Target creature you control gains first strike and trample until end of turn. (T
         <tag>fascism;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
@@ -10775,7 +10775,7 @@ v1.0 Whenever a spell or ability puts a card into your hand, you gain 2 life.
         <notes>It took years, but the kinfolk reignited a strength the elves of Vinimroth could never hold again.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Landfall — Whenever a land enters the battlefield under your control, this creature gets +1/+0 until end of turn. If you illuminated green, put a +1/+1 counter on this creature instead.</text>
     </card>
     <card>
@@ -11156,7 +11156,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.</text>
     </card>
     <card>
@@ -11287,7 +11287,7 @@ Create two 1/1 white and silver Insect creature tokens with flying and decayed. 
         <notes>Create a tapped token that’s a copy of target land if it’s basic or if you’ve illuminated silver. Then untap that token if you’ve illuminated silver.</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Target creature becomes an enchantment land. (It loses all other card types.) It gains “{T}: Add {I}.” If you’ve illuminated silver, it loses all abilities.</text>
     </card>
     <card>
@@ -11341,7 +11341,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of a token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -12081,7 +12081,7 @@ Evoke W/BW/B (You may cast this spell for its evoke cost. If you do, it’s sacr
 steve</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Flying, haste
 This creature gets +1/+1 if you’ve illuminated red, and +1/+1 if you’ve illuminated silver. (If you’ve illuminated both, it gets +2/+2.)</text>
     </card>
@@ -12184,7 +12184,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of a token you control.)
+• Mirror. (Create a token that’s a copy of a token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -12621,7 +12621,7 @@ Equipped creature has healing 2. (Damage dealt by that creature also causes you 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature is all colors among other permanents you control.
 Whenever you cast a spell that is one or more colors, if you’ve illuminated any of that spell’s colors, put a +1/+1 counter on target creature you control.</text>
     </card>
@@ -12642,7 +12642,7 @@ Whenever you cast a spell that is one or more colors, if you’ve illuminated an
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantment token with “This is also a creature if you’ve illuminated silver.”</text>
     </card>
     <card>
@@ -13294,7 +13294,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Tokens you control have haste.
 Whenever you attack, draw a card from your sanctum or library, then discard a card. If you’ve illuminated silver, put a +1/+1 counter on this creature.</text>
     </card>
@@ -13492,7 +13492,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {T}: Add {C}.
 {T}, Sacrifice this land: Draw a card. Activate only if you’ve illuminated a color.</text>
     </card>
@@ -14106,7 +14106,7 @@ Explorer — When this creature attacks, if you control five or more differently
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature has power equal to the number of creatures you control.
 This creature has vigilance and flying as long as you’ve illuminated white.</text>
     </card>
@@ -14145,7 +14145,7 @@ This creature has vigilance and flying as long as you’ve illuminated white.</t
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This spell costs {2} less to cast if you’ve illuminated white.
 Exile target nonland permanent.</text>
     </card>
@@ -14386,7 +14386,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {T}: Add {C}. You can’t spend this mana to cast a noninstant, nonsorcery spell.
 4U, Sacrifice this creature: Draw three cards. Activate only if you’ve illuminated blue.</text>
     </card>
@@ -14459,7 +14459,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
       <text>Enchant creature
 When this enchantment enters, tap enchanted permanent.
 Enchanted permanent doesn’t untap during its controller’s untap step.
-When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Relentless Spellseeker</name>
@@ -14618,7 +14618,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
@@ -14678,7 +14678,7 @@ Explorer — 1B: Return this creature from your graveyard to the battlefield. Ac
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
 Creature tokens you control gain haste until end of turn.</text>
     </card>
@@ -14736,7 +14736,7 @@ Creature tokens you control gain haste until end of turn.</text>
         <notes>*probably* needs to be 5 mana &lt;3</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Whenever you attack, if you’ve illuminated black, each opponent loses 2 life and you gain 2 life. Otherwise each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -15053,7 +15053,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Haste
 {3}, {T}: This creature deals 1 damage to any target. This ability costs {T} less to activate if you’ve illuminated red.</text>
     </card>
@@ -15363,7 +15363,7 @@ Put a +1/+1 counter on each of up to X target creatures. (Then put this card int
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Create two 1/1 green Elk Plant creature tokens and put a +1/+1 counter on up to one token you control. Then If you illuminated green, put a +1/+1 counter on each other creature you control. (This spell’s tokens can cause you to illuminate green before putting counters.)</text>
     </card>
     <card>
@@ -15439,7 +15439,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <notes>Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Vigilance
 Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, draw a card.</text>
     </card>
@@ -16021,7 +16021,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Haste
 Whenever this creature attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.         </text>
     </card>
@@ -16195,7 +16195,7 @@ Lorenz Ascendant King of Alira</notes>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Flying, ward {1}
 This creature is all colors.
 For each color you’ve illuminated, this creature gets +1/+1.</text>
@@ -16907,7 +16907,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mirror (Create a token thats a copy of a token you control.)</text>
+      <text>Mirror (Create a token thats a copy of another token you control.)</text>
     </card>
     <card>
       <name>Shifting Spire</name>
@@ -18605,7 +18605,7 @@ When this creature enters, if it isn’t a token, you may sacrifice another crea
         <notes>https://www.deviantart.com/jasonengle/art/Andal-The-Foul-622493301</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have +1/+0.</text>
     </card>
     <card>
@@ -18966,7 +18966,7 @@ Exile Return for Duty.</text>
 Drain if too weak</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a creature, each opponent loses 1 life.</text>
     </card>
     <card>
@@ -19623,7 +19623,7 @@ Trample, haste</text>
         <notes>https://www.deviantart.com/kotnonekot/art/TwistedConsecration-541312543</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it dies, draw a card for each pact counter on it.
 Sacrifice this enchantment: The next spell you cast this turn can be cast as though it has flash.</text>
     </card>
@@ -19762,7 +19762,7 @@ Repulsive Blast deals 3 damage to each creature. You gain 3 life.</text>
         <notes>https://www.artstation.com/artwork/qQLDRa</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a creature you control, exile the top card of your library. You may play it until the end of your next turn.</text>
     </card>
     <card>
@@ -20267,7 +20267,7 @@ Exile the top two cards of your library. You may play those cards until the end 
 Black aggro/pact synergy deck</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Flying
 This creature can’t attack or block unless there are two or more pact counters among creatures you control.</text>
     </card>
@@ -21863,7 +21863,7 @@ Creatures with counters on them lose all abilities and have base power and tough
         <notes>https://www.deviantart.com/hedonisminc/art/Serafin-547743684</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Flying
 Creatures you control with pact counters on them have +1/+1.</text>
     </card>
@@ -22217,7 +22217,7 @@ arguably too weak</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have hexproof.</text>
     </card>
     <card>
@@ -22495,7 +22495,7 @@ When this creature leaves the battlefield, discard three cards.</text>
         <notes>https://www.artstation.com/artwork/egv86</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it attacks, defending player mills two cards for each pact counter on it.</text>
     </card>
     <card>
@@ -22633,7 +22633,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.instagram.com/p/BzGL86Zl8l3/</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Menace
 Whenever a creature you control with a pact counter on it dies, target player discards a card.</text>
     </card>
@@ -22963,7 +22963,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
 Needs new flavor</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever you put a pact counter on a nontoken creature you control, create a token that’s a copy of it. Exile the token at the end of your next combat step.</text>
     </card>
     <card>
@@ -23026,7 +23026,7 @@ Choose one —
         <notes>https://www.artstation.com/artwork/33A4J</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Reach
 Creatures you control with pact counters on them have trample.</text>
     </card>
@@ -23086,7 +23086,7 @@ Creatures you control with pact counters on them have trample.</text>
         <notes>https://www.deviantart.com/helgecbalzer/art/Atlach-Nacha-Fantasy-Art-by-Helge-C-Balzer-855116807</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Reach
 Whenever a nontoken creature you control dies, create a 2/1 green Spider creature token with reach for each pact counter on it.</text>
     </card>
@@ -23191,7 +23191,7 @@ Unrelenting (When this creature dies, if it wasn’t a token, you may discard a 
         <notes>https://www.deviantart.com/verehin/art/King-Witch-A-370791757</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Creatures you control with pact counters on them have “{T}: Add one mana of any color.”</text>
     </card>
     <card>
@@ -23213,7 +23213,7 @@ Creatures you control with pact counters on them have “{T}: Add one mana of an
 Undue’s presence caused a divide among the liches of Hwel, driving many to entreat greater entities for protection.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has two or more.)
+      <text>Pact (At the beginning of your end step, put a pact counter on a creature you control if you haven’t this turn, then sacrifice it if it has three or more.)
 Whenever a creature you control with a pact counter on it dies, put a +1/+1 counter on this creature.</text>
     </card>
     <card>
@@ -24695,7 +24695,7 @@ Whenever Caryl Rey, the Rose attacks, exile the top card of your library. You ma
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (To forsake, sacrifice creatures with total toughness 3 or more.)</text>
+{T}: Create a token that’s a copy of target non-Ouphe creature you control. That token has haste. At the beginning of your next end step, forsake. (Sacrifice creatures with total toughness 3 or more.)</text>
     </card>
     <card>
       <name>Usurp</name>
@@ -42230,7 +42230,7 @@ Blazefoxes of Moz gets +2/+0 as long as your complexity is three or greater. (Yo
         <notes>OTHERRARE</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Flying, double strike, vigilance, trample, haste, protection from tokens and from copies of spells</text>
     </card>
     <card>
@@ -42808,7 +42808,7 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 This permanent is a 3/3 Zombie Soldier artifact creature if an artifact entered this turn.</text>
     </card>
     <card>
@@ -43129,7 +43129,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
@@ -43149,7 +43149,7 @@ Retopology WW (Cast a copy of this from your graveyard by exiling it and paying 
 CW05</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Creatures can’t block this permanent unless their controller pays {1} for each of those creatures. </text>
     </card>
     <card>
@@ -43271,7 +43271,7 @@ When Erfex Cartographer enters, you may discard a card. If you do, search your l
 CW12</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 This permanent has double strike if its attacking.</text>
     </card>
     <card>
@@ -43351,7 +43351,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
 CW01</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 {1}, {T}: Tap target creature with mana value 4 or less.</text>
     </card>
     <card>
@@ -43512,7 +43512,7 @@ CB15</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Sacrifice this permanent: Draw a card.</text>
     </card>
     <card>
@@ -43672,7 +43672,7 @@ When Nilshroud Mulcher enters or dies, target player mills two cards.</text>
 CB04</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Menace</text>
     </card>
     <card>
@@ -43693,7 +43693,7 @@ Menace</text>
 CB08</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 When this permanent leaves the battlefield, you get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
@@ -43755,7 +43755,7 @@ Whenever you spend four or more mana to cast a spell or activate an ability, eac
 CB10</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player, target player mills that many cards.</text>
     </card>
     <card>
@@ -44053,7 +44053,7 @@ CG07</notes>
         <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 {T}, Sacrifice this permanent: Exile up to two target cards in graveyards.
 {1}, {T}, Sacrifice this permanent: Draw a card.</text>
     </card>
@@ -44515,7 +44515,7 @@ Retopology XU (Cast a copy of this from your graveyard by exiling it and paying 
 UB09</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Whenever this permanent or a nontoken permanent this is attached to leaves the battlefield, create a 2/2 black Horror creature token with prowess.
 Equip {1}, {T}</text>
     </card>
@@ -44675,7 +44675,7 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
 CU03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 {T}: Target player draws a card, then discards a card.</text>
     </card>
     <card>
@@ -44716,7 +44716,7 @@ Whenever three or more creatures you control deal combat damage to a player, cre
 UU03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 {U}: This permanent becomes a copy of target artifact, creature, enchantment, or land until end of turn, except it still has its name. Activate only once each turn.</text>
     </card>
     <card>
@@ -44800,7 +44800,7 @@ At the beginning of your end step, put a +1/+1 counter on target creature unless
 UB02</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Deathtouch, lifelink</text>
     </card>
     <card>
@@ -44821,7 +44821,7 @@ Deathtouch, lifelink</text>
 UB03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 {T}, Sacrifice this permanent: Return target creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -44843,7 +44843,7 @@ UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Hatebloom Titangon</name>
@@ -45149,7 +45149,7 @@ Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying
 UW06</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Flying, vigilance</text>
     </card>
     <card>
@@ -45644,7 +45644,7 @@ UU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 If you’ve cast a spell this turn and it wasn’t your main phase, this permanent has flying.</text>
     </card>
     <card>
@@ -45746,7 +45746,7 @@ Counter target spell.</text>
 BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -45809,7 +45809,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
 CU08</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Vigilance
 {T}: Target player mills two cards.</text>
     </card>
@@ -46250,7 +46250,7 @@ When enchanted creature dies, create five 1/1 white Human creature tokens.</text
         <notes>BLUERARE2</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 This permanent can’t be blocked.
 Whenever this permanent becomes tapped, scry X, where X is this permanent’s mana value, then draw a card.</text>
     </card>
@@ -46271,7 +46271,7 @@ Whenever this permanent becomes tapped, scry X, where X is this permanent’s ma
         <notes>BLUERARE3</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player or planeswalker, create a token that’s a copy of it, except the copy isn’t legendary if this permanent is legendary. This ability triggers only once each turn.</text>
     </card>
     <card>
@@ -46311,7 +46311,7 @@ When Luddite Infiltrator enters, exile target instant or sorcery card from your 
         <notes>BLACKRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 At the beginning of each opponent’s end step, you sacrifice a creature.
 Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.</text>
     </card>
@@ -46959,7 +46959,7 @@ Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Rhystic Palace enters tapped.
 {T}: Add one mana of any color.
 {1}: Tap this permanent. Only your opponents may activate this ability and only once each turn.</text>
@@ -47546,7 +47546,7 @@ If five or more permanents incremented your complexity this turn, you may cast a
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
 Defender, haste
 {2}, {T}: Each opponent loses 3 life and you gain 3 life. Activate only if you control three or more artifacts.</text>
     </card>
@@ -47956,7 +47956,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, surveil 1.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Clanless Usurper</name>
@@ -48080,7 +48080,7 @@ When this creature enters, it deals damage equal to the number of creatures you 
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, up to one target creature or enchantment you control becomes a 4/4 blue and green Turtle creature until end of turn.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Icebound Reinforcements</name>
@@ -49703,7 +49703,7 @@ Fault|Basic Land — Fault
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Aspiring Entity</name>
@@ -50820,7 +50820,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -50983,7 +50983,7 @@ Whenever you attack with one or more tokens, you gain 1 life.</text>
       <tablerow>1</tablerow>
       <text>Flying
 Whenever you cast a noncreature spell, you may gain 1 life. If you didn’t, surveil 1.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Riftbearer</name>
@@ -52345,7 +52345,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -55637,7 +55637,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>Flash
 When Lifelighter enters, you may [return target permanent you control not named Lifelighter to its owner’s hand.]
-Impetus {W} (You may cast this from your graveyard as a sorcery with only the text in square brackets for {W}. Then exile it.)</text>
+Impetus 1W (You may cast this from your graveyard as a sorcery with only the text in square brackets for 1W. Then exile it.)</text>
     </card>
     <card>
       <name>Memory Lane</name>
@@ -58677,7 +58677,7 @@ At the beginning of your first main phase, return target card from your graveyar
       <tablerow>2</tablerow>
       <text>Vrep can’t be blocked by more than one creature.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to Vrep’s power.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Wish for Death</name>
