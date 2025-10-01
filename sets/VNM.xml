@@ -518,7 +518,7 @@ When this creature enters, it deals damage equal to the number of creatures you 
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, up to one target creature or enchantment you control becomes a 4/4 blue and green Turtle creature until end of turn.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Icebound Reinforcements</name>
@@ -871,7 +871,7 @@ Fracture — Whenever this creature attacks or blocks, other creatures you contr
       <tablerow>1</tablerow>
       <text>Flash
 When this enchantment enters, draw a card.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Rebuke the Foul</name>
@@ -2767,7 +2767,7 @@ Scry 1, then draw a card.</text>
       <text>Flash 
 Vigilance
 When this enchantment enters, tap target permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Wanderer</name>
@@ -3258,7 +3258,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -4743,7 +4743,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach, haste
 Whenever you attack, target creature you control gains deathtouch until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wild Shimmer</name>
@@ -4783,7 +4783,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -6049,7 +6049,7 @@ Whenever this creature attacks, if you control three or more tokens, this creatu
       <tablerow>3</tablerow>
       <text>Choose one —
 • Counter target spell that was cast from anywhere other than its owner’s hand.
-• Create a token that’s a copy of target token, except its a creature and has size 2/2. (It keeps its types and abilities.)</text>
+• Create a token that’s a copy of target token, except it’s a creature and has size 2/2. (It keeps its types and abilities.)</text>
     </card>
     <card>
       <name>Enduring Sapling</name>

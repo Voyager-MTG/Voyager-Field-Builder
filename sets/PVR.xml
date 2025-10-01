@@ -1035,7 +1035,7 @@ Blazefoxes of Moz gets +2/+0 as long as your complexity is three or greater. (Yo
         <notes>OTHERRARE</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Flying, double strike, vigilance, trample, haste, protection from tokens and from copies of spells</text>
     </card>
     <card>
@@ -1613,7 +1613,7 @@ ARCUNSET2</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 This permanent is a 3/3 Zombie Soldier artifact creature if an artifact entered this turn.</text>
     </card>
     <card>
@@ -1934,7 +1934,7 @@ CR11</notes>
       <tablerow>1</tablerow>
       <text>Enchant creature
 Enchanted creature gets +2/+2.
-Retopology WW (Cast a copy of this from your graveyard by exiling it and paying WW. Spend only mana from differently named sources this way.)</text>
+Retopology WW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Ecocidal Tracker</name>
@@ -1954,7 +1954,7 @@ Retopology WW (Cast a copy of this from your graveyard by exiling it and paying 
 CW05</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Creatures can’t block this permanent unless their controller pays {1} for each of those creatures. </text>
     </card>
     <card>
@@ -2076,7 +2076,7 @@ When Erfex Cartographer enters, you may discard a card. If you do, search your l
 CW12</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 This permanent has double strike if its attacking.</text>
     </card>
     <card>
@@ -2156,7 +2156,7 @@ You get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
 CW01</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 {1}, {T}: Tap target creature with mana value 4 or less.</text>
     </card>
     <card>
@@ -2317,7 +2317,7 @@ CB15</notes>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Sacrifice this permanent: Draw a card.</text>
     </card>
     <card>
@@ -2477,7 +2477,7 @@ When Nilshroud Mulcher enters or dies, target player mills two cards.</text>
 CB04</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Menace</text>
     </card>
     <card>
@@ -2498,7 +2498,7 @@ Menace</text>
 CB08</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 When this permanent leaves the battlefield, you get {V/W}. (Spend {V} to cast copies of Vertex spells.)</text>
     </card>
     <card>
@@ -2560,7 +2560,7 @@ Whenever you spend four or more mana to cast a spell or activate an ability, eac
 CB10</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player, target player mills that many cards.</text>
     </card>
     <card>
@@ -2858,7 +2858,7 @@ CG07</notes>
         <notes>COLOURLESSUNCOMMON</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 {T}, Sacrifice this permanent: Exile up to two target cards in graveyards.
 {1}, {T}, Sacrifice this permanent: Draw a card.</text>
     </card>
@@ -3320,7 +3320,7 @@ Retopology XU (Cast a copy of this from your graveyard by exiling it and paying 
 UB09</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Whenever this permanent or a nontoken permanent this is attached to leaves the battlefield, create a 2/2 black Horror creature token with prowess.
 Equip {1}, {T}</text>
     </card>
@@ -3480,7 +3480,7 @@ Whenever Melodic Unwrapper attacks, untap target nonland permanent.</text>
 CU03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 {T}: Target player draws a card, then discards a card.</text>
     </card>
     <card>
@@ -3521,7 +3521,7 @@ Whenever three or more creatures you control deal combat damage to a player, cre
 UU03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 {U}: This permanent becomes a copy of target artifact, creature, enchantment, or land until end of turn, except it still has its name. Activate only once each turn.</text>
     </card>
     <card>
@@ -3605,7 +3605,7 @@ At the beginning of your end step, put a +1/+1 counter on target creature unless
 UB02</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Deathtouch, lifelink</text>
     </card>
     <card>
@@ -3626,7 +3626,7 @@ Deathtouch, lifelink</text>
 UB03</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 {T}, Sacrifice this permanent: Return target creature card from your graveyard to your hand.</text>
     </card>
     <card>
@@ -3648,7 +3648,7 @@ UB04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Hierarch of Expiration enters, each player sacrifices a creature or planeswalker.
-Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying 2BB. Spend only mana from differently named sources this way.)</text>
+Retopology 2BB (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Hatebloom Titangon</name>
@@ -3954,7 +3954,7 @@ Retopology 2WW (Cast a copy of this from your graveyard by exiling it and paying
 UW06</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Flying, vigilance</text>
     </card>
     <card>
@@ -4449,7 +4449,7 @@ UU02</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 If you’ve cast a spell this turn and it wasn’t your main phase, this permanent has flying.</text>
     </card>
     <card>
@@ -4551,7 +4551,7 @@ Counter target spell.</text>
 BLUECOMMON</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -4614,7 +4614,7 @@ Whenever a spell or ability puts one or more nontoken cards into your hand, you 
 CU08</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Vigilance
 {T}: Target player mills two cards.</text>
     </card>
@@ -5055,7 +5055,7 @@ When enchanted creature dies, create five 1/1 white Human creature tokens.</text
         <notes>BLUERARE2</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 This permanent can’t be blocked.
 Whenever this permanent becomes tapped, scry X, where X is this permanent’s mana value, then draw a card.</text>
     </card>
@@ -5076,7 +5076,7 @@ Whenever this permanent becomes tapped, scry X, where X is this permanent’s ma
         <notes>BLUERARE3</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Whenever this permanent deals damage to a player or planeswalker, create a token that’s a copy of it, except the copy isn’t legendary if this permanent is legendary. This ability triggers only once each turn.</text>
     </card>
     <card>
@@ -5116,7 +5116,7 @@ When Luddite Infiltrator enters, exile target instant or sorcery card from your 
         <notes>BLACKRARE4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 At the beginning of each opponent’s end step, you sacrifice a creature.
 Whenever you sacrifice a creature, you may pay 1 life. If you do, draw a card.</text>
     </card>
@@ -5649,7 +5649,7 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>
@@ -5764,7 +5764,7 @@ Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+      <text>Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Rhystic Palace enters tapped.
 {T}: Add one mana of any color.
 {1}: Tap this permanent. Only your opponents may activate this ability and only once each turn.</text>
@@ -6351,7 +6351,7 @@ If five or more permanents incremented your complexity this turn, you may cast a
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Bake (When this enters, up to one other target permanent gains its abilities until end of turn.)
+Bake (When this enters, up to one target permanent gains its abilities until end of turn.)
 Defender, haste
 {2}, {T}: Each opponent loses 3 life and you gain 3 life. Activate only if you control three or more artifacts.</text>
     </card>

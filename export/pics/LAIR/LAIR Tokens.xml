@@ -2,6 +2,21 @@
 <cockatrice_carddatabase version="4">
   <cards>
 
+    <card>
+      <name>Wonder LAIR</name>
+      <set num="1">LAIR</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Wonder </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related Blinding Majesty&lt;2>;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Blinding Majesty</reverse-related>
+    </card>
 
   </cards>
 </cockatrice_carddatabase>

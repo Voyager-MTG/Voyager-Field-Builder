@@ -883,7 +883,7 @@ WIZARDTYPE
 WEREWOLFTYPE</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bisapience cost— Exile an instant or sorcery card from your graveyard.
+      <text>Bisapience— Exile an instant or sorcery card from your graveyard.
 Flying
 ---
 (Front): Hazenwyld Occultist</text>
@@ -4809,7 +4809,7 @@ If an ability of a non-Dragon creature you control triggers, you may have that a
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Bisapience—{R} (Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)
+      <text>Bisapience {R} (Cast either half of this card. Pay bisapience once each turn as a sorcery to transform for that turn.)
 Menace
 ---
 (Back): That Gross Authentic Self</text>

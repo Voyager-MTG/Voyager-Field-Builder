@@ -158,7 +158,7 @@ Whenever The Thunderskin attacks, create an enchantment token named Heartbeat wi
     </card>
     <card>
       <name>Drifting Field</name>
-      <set num="5" rarity="">LAIR</set>
+      <set num="8" rarity="">LAIR</set>
       <prop>
         <colors></colors>
         <color></color>
@@ -281,7 +281,7 @@ Exhaust — {T}: Choose a color.
     </card>
     <card>
       <name>Drown in Self Reflection</name>
-      <set num="2" rarity="">LAIR</set>
+      <set num="4" rarity="">LAIR</set>
       <prop>
         <colors>U</colors>
         <color>U</color>
@@ -303,7 +303,7 @@ Whenever Drown in Self Reflection leaves your graveyard during your turn, you ma
     </card>
     <card>
       <name>Apostle Entheate</name>
-      <set num="1" rarity="">LAIR</set>
+      <set num="2" rarity="">LAIR</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -327,7 +327,7 @@ Your opponents can’t cast spells with the same name as the exiled card.</text>
     </card>
     <card>
       <name>Identity Connoisseur</name>
-      <set num="3" rarity="">LAIR</set>
+      <set num="5" rarity="">LAIR</set>
       <prop>
         <colors>B</colors>
         <color>B</color>
@@ -806,7 +806,7 @@ When this land enters, surveil 1.
     </card>
     <card>
       <name>Call of the Rose</name>
-      <set num="4" rarity="">LAIR</set>
+      <set num="6" rarity="">LAIR</set>
       <prop>
         <colors>R</colors>
         <color>R</color>
@@ -828,4 +828,68 @@ When this land enters, surveil 1.
       <tablerow>3</tablerow>
       <text>Call of the Rose deals 2 damage to any target. 
 Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble creature token with menace.</text>
+    </card>
+    <card>
+      <name>The Gardener, Crowned</name>
+      <set num="1" rarity="">LAIR</set>
+      <prop>
+        <colors></colors>
+        <manacost>12</manacost>
+        <cost>12</cost>
+        <mana>12</mana>
+        <cmc>12</cmc>
+        <mv>12</mv>
+        <type>Legendary Planeswalker - Gardener </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>7</loyalty>
+        <notes>https://www.artstation.com/artwork/Kr8vY4
+!ocean</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The Gardener, Crowned costs 1 less to cast for each nonland colorless permanent you control.
+[+2]: Create three 1/1 colorless Faerie Horror creature tokens with flying that can’t block.
+[-3]: Gain control of target permanent until The Gardener leaves the battlefield.
+[-5]: You get an emblem with “You may look at the top card of your library any time and you may play lands and cast colorless spells from the top of your library.”</text>
+    </card>
+    <card>
+      <name>Blinding Majesty</name>
+      <set num="3" rarity="">LAIR</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes>!ocean
+!designer Wende
+!tag&lt;is> champion
+!tag&lt;champion> TVP</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 Wonder creature tokens that are all colors. When you do, up to one target creature gets +X/+X until end of turn, where X is the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Shimmer From Beyond</name>
+      <set num="7" rarity="">LAIR</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes>!porthole
+!designer TVP
+!tag&lt;is> champion
+!tag&lt;champion> TVP</notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature card in your graveyard. It has haste and isn’t legendary. Sacrifice it at end of turn.</text>
     </card>

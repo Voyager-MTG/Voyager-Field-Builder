@@ -26,7 +26,7 @@
       </prop>
       <tablerow>1</tablerow>
       <text>This artifact enters tapped.
-When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
 {2}, {T}, Sacrifice this artifact: Draw a card from your sanctum or library.</text>
     </card>
     <card>
@@ -143,7 +143,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>traverse 1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Staggering Spires</name>
@@ -616,7 +616,7 @@ traverse 3</notes>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Vestige Prowler</name>
@@ -1062,7 +1062,7 @@ Threshold — Whenever this creature attacks while you have seven or more cards 
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
 Create a 1/1 black Drake creature token with flying.</text>
     </card>
     <card>
@@ -1156,7 +1156,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <notes>traverse 5</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Warforged Pair</name>
@@ -1690,7 +1690,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Avakin Adventurer</name>
@@ -1709,7 +1709,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes>traverse 4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Meirel Drifter</name>
@@ -1913,7 +1913,7 @@ Create a 1/1 silver Drake creature token with flying. (Then put this into your s
         <notes>recreate</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of another token you control.)</text>
+      <text>Put target noncreature permanent into its owner’s sanctum. Mirror. (Create a token thats a copy of a token you control.)</text>
     </card>
     <card>
       <name>Drougth Oracle</name>
@@ -2492,7 +2492,7 @@ Sisters in Sorrow has first strike during your turn.
 Whenever you attack, reveal the top card of your library. If it’s a permanent card with mana value 3 or less, you may play that card. Otherwise, put that card into your sanctum and Sisters in Sorrow deals 1 damage to any target.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Feather Piper</name>
@@ -2756,7 +2756,7 @@ At the beginning of combat on each turn, if a land entered under your control th
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, if you cast it from your hand, choose one— 
-• Mirror. (Create a token thats a copy of another token you control.)
+• Mirror. (Create a token thats a copy of a token you control.)
 • Reveal the top card of your library. If its a permanent card, put it into your hand.
 Evoke 1I/G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
@@ -3135,8 +3135,8 @@ This creature gets +1/+0 for each enchantment you control.</text>
 Traverse X, x is the number of other cards in graveyard</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
-{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Drakesteel Effigy</name>
@@ -3748,7 +3748,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
       <tablerow>3</tablerow>
       <text>Choose one—
 • Counter target permanent spell unless its controller pays {2}. If you control three or more tokens, counter that spell instead.
-• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Concealing Ruins</name>
@@ -5369,7 +5369,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
         <notes>Traverse up to X, where X is the number of cards in your graveyard</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
 3BB, {T}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -5707,7 +5707,7 @@ Explorer — 1R: This creature gets +2/+0 and gains trample until end of turn. A
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Broodmages Furor</name>
@@ -7424,7 +7424,7 @@ Whenever this creature attacks, you may discard a card. If you do, reveal random
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell.
-Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
+Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
     </card>
     <card>
       <name>Probe the Veil</name>
@@ -7479,7 +7479,7 @@ Enchanted permanent loses all abilities and is a colorless enchantment.</text>
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mirror (Create a token thats a copy of another token you control.)</text>
+      <text>Mirror (Create a token thats a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shifting Spire</name>
@@ -7742,7 +7742,7 @@ As long as you control a white, blue, black, red, or silver permanent, this crea
     <pt>6/5</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
 --- 
 Prevent all combat damage that would be dealt to players this turn. (Then put this card into your sanctum.)</text>
     </card>
