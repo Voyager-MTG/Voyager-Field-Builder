@@ -145,7 +145,7 @@ Whenever a card you own becomes foretold, put a +1/+1 counter on The Watchman.
         <mv>4</mv>
         <type>Legendary Creature - Human God </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>3/4</pt>
         <notes>https://www.instagram.com/p/DJl-PfLMMYY/?img_index=3
 !tag&lt;lairnumber> 1
 !tag&lt;lair> the hours
@@ -346,7 +346,7 @@ Your opponents can’t cast spells with the same name as the exiled card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>When Identity Connoisseur enters, target player discards a card.
-Whenever a player discards a card with a creature type, you embrace it, and you may spend mana as though it was mana of any color to cast it.  ()</text>
+Whenever a player discards a card with a creature type, you embrace it, and you may spend mana as though it was mana of any color to cast it. </text>
     </card>
     <card>
       <name>Illuminant Spire</name>
@@ -857,11 +857,11 @@ Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble cre
       <prop>
         <colors>W</colors>
         <color>W</color>
-        <manacost>2W</manacost>
-        <cost>2W</cost>
-        <mana>2W</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!ocean

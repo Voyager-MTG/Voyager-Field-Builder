@@ -10,12 +10,11 @@
         <type>Token Creature - Wonder </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Blinding Majesty&lt;2>;</notes>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
-      <reverse-related count="2">Blinding Majesty</reverse-related>
     </card>
 
   </cards>

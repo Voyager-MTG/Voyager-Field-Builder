@@ -233,8 +233,8 @@ When this enters, scry 2.</text>
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!note hybrid
-!tag fascism;</notes>
-        <tag>fascism;</tag>
+!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>3</tablerow>
       <text>Exile target creature, enchantment or planeswalker. Trace a card named Voidstone Shard into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -1445,7 +1445,7 @@ Each opponent loses 2 life.</text>
         <type>Creature - Human Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes>Preview</notes>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever a spell or ability puts one or more cards into your hand, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
@@ -1546,8 +1546,8 @@ Fracture — At the beginning of combat on each turn, scry 1, then up to one tar
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>3/2</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, trace its skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -1588,8 +1588,8 @@ Fracture — At the beginning of combat on each turn, up to one target creature 
         <type>Creature - Minotaur Warrior Spellshaper </type>
         <maintype>Creature</maintype>
         <pt>5/4</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, trace its skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -1688,8 +1688,8 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
         <mv>1</mv>
         <type>Enchantment</type>
         <maintype>Enchantment</maintype>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>1</tablerow>
       <text>Flash
@@ -1770,8 +1770,8 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
         <type>Creature - Human Scout Spellshaper </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever this creature attacks, trace its skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -1870,8 +1870,8 @@ This spell deals 2 damage to any target. If you’ve illuminated red, this spell
         <type>Creature - Wurm Warlock </type>
         <maintype>Creature</maintype>
         <pt>2/3</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach
@@ -1954,8 +1954,8 @@ Creature tokens you control get +0/+1.</text>
         <type>Creature - Wurm Warrior </type>
         <maintype>Creature</maintype>
         <pt>5/5</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -1993,8 +1993,8 @@ When this creature enters, put a +1/+1 counter on each of up to two target creat
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>previewed
-!tag fascism;</notes>
-        <tag>fascism;</tag>
+!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>3</tablerow>
       <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
@@ -3462,8 +3462,8 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
         <type>Creature - Human Scout </type>
         <maintype>Creature</maintype>
         <pt>1/3</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Reach, vigilance
@@ -3544,8 +3544,8 @@ Draw a card.</text>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
         <notes>Preview
-!tag fascism;</notes>
-        <tag>fascism;</tag>
+!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, trace its skill into your hand. (Create that card. Traces are cards that become copies when they enter public zones.)
@@ -3875,17 +3875,17 @@ Preview</notes>
       <prop>
         <colors>W</colors>
         <color>W</color>
-        <manacost>2W</manacost>
-        <cost>2W</cost>
-        <mana>2W</mana>
-        <cmc>3</cmc>
-        <mv>3</mv>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
         <type>Legendary Enchantment Artifact</type>
         <maintype>Artifact</maintype>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creature tokens you control get +1/+1.
+      <text>Creature tokens you control get +2/+1.
 Whenever you attack with two or more creatures, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of it except it isn’t legendary and has size 1/1.</text>
     </card>
     <card>
@@ -4087,7 +4087,7 @@ Once each turn, when an enchantment you control becomes a creature, draw a card.
       <tablerow>1</tablerow>
       <text>This spell costs {1} less to cast for each enchantment you control.
 {T}: Add GG.
-At the beginning of combat on each turn, you may untap another target enchantment you control. It also becomes a 3/3 creature with haste.</text>
+{T}: Target enchantment also becomes a 3/3 creature with haste. (This effect lasts indefinitely.)</text>
     </card>
     <card>
       <name>Will of Hunger</name>
@@ -4229,8 +4229,8 @@ Evoke {I/W} (You may cast this spell for its evoke cost. If you do, it’s sacri
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-{I/R}, Sacrifice four permanents named this creature: This creature deals 7 damage to target opponent.
-A deck can have any number of cards name this creature.</text>
+{I/R}, Sacrifice four permanents named Pathborn Crackle: This creature deals 7 damage to target opponent.
+A deck can have any number of cards named Pathborn Crackle.</text>
     </card>
     <card>
       <name>Guardian of Faloden Woods</name>
@@ -4351,14 +4351,14 @@ When this enchantment enters, scry 2.</text>
         <mv>4</mv>
         <type>Legendary Enchantment Creature - Human Wizard </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>2/4</pt>
         <notes>!smallbox 
 Melodia Voidtouched
 !addtoken Blue Drake Token;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Melodia enters, create a 1/1 blue Drake creature token with flying and “This creature can’t block”.
-Whenever Melodia attacks, attacking creature tokens you control get +2/+1 until end of turn</text>
+Whenever Melodia attacks, up to one target attacking creature token you control gets +2/+1 until end of turn.</text>
     </card>
     <card>
       <name>Calia, Oracle of Tofnet Plains</name>
@@ -4569,8 +4569,9 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
         <type>Instant</type>
         <maintype>Instant</maintype>
         <notes>!addtoken Reformed Rift;
-!tag fascism;</notes>
-        <tag>fascism;</tag>
+!tag Mordel;
+!tag Clanless;</notes>
+        <tag>Mordel;Clanless;</tag>
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target land. If it was a basic land, its controller creates a Reformed Rift token. Otherwise, its controller creates a basic Mountain token.
@@ -4633,8 +4634,8 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
         <maintype>Creature</maintype>
         <pt>3/5</pt>
         <notes>Zoslera Mordel Clanleader
-!tag fascism;</notes>
-        <tag>fascism;</tag>
+!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
@@ -4723,7 +4724,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -4863,7 +4864,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target c
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text> Pathbound—IU, Put a card from your hand into your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—IU, Exile a card from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 You may cast this spell as though it had flash as long as you control three or more enchantments.
 Draw three cards. Scry 2.</text>
     </card>
@@ -4905,7 +4906,7 @@ Choose one —
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Pathbound—{I/G}, Reveal a card with haste from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—1I/G, Reveal a card with haste from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 Vigilance, deathtouch, haste
 When this creature enters, up to one target creature you control gets +3/+3 until end of turn.</text>
     </card>
@@ -4944,8 +4945,8 @@ Fracture — When this creature attacks, if it’s attacking alone or you’ve c
         <type>Creature - Human Warrior </type>
         <maintype>Creature</maintype>
         <pt>1/2</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound {I} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -4986,8 +4987,8 @@ Whenever you attack, each player mills four cards.</text>
         <type>Creature - Human Wizard </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—{I/R}, Reveal a card with haste from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -5053,7 +5054,7 @@ You may play lands from your sanctum.</text>
       <tablerow>2</tablerow>
       <text>Pathbound—{I/W}, Reveal two cards with flying and/or vigilance from your hand. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 Flying, vigilance
-When you cast this spell, if it isn’t a copy, trace three cards named Guardian Roost into your hand.</text>
+When you cast this spell, if it isn’t a copy, trace a card named Guardian Roost into your hand.</text>
     </card>
     <card>
       <name>Path to Restoration</name>
@@ -5208,9 +5209,9 @@ Whenever a creature dies, each opponent loses 1 life.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Pathbound {2} (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Enchant land you control.
+Enchant land you control
 Whenever you tap enchanted land, add {I}.
-5II: Target enchantment becomes a 4/4 creature. (This effect lasts indefinitely.)</text>
+5II: Put a breach counter on target enchantment. It becomes a 4/4 creature.</text>
     </card>
     <card>
       <name>Path of the Grove</name>
@@ -5352,8 +5353,8 @@ Fracture — At the beginning of combat, this creature has flying and can attack
         <type>Creature - Minotaur Warrior </type>
         <maintype>Creature</maintype>
         <pt>4/3</pt>
-        <notes>!tag fascism;</notes>
-        <tag>fascism;</tag>
+        <notes>!tag Mordel;</notes>
+        <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
       <text>Pathbound—1IR. Activate only if you have no other cards in your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
@@ -5417,7 +5418,7 @@ Fracture — At the beginning of combat, this creature has flying and can attack
       </prop>
       <tablerow>1</tablerow>
       <text>Pathbound—{I/W}. Activate only if you gained life this turn. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-When this enchantment enters, you gain 2 life.
+When this enchantment enters, you gain 3 life.
 Whenever you attack, if you gained life this turn, up to one target creature you control gets +2/+2 until end of turn.</text>
     </card>
     <card>
@@ -5437,7 +5438,7 @@ Whenever you attack, if you gained life this turn, up to one target creature you
       </prop>
       <tablerow>1</tablerow>
       <text>Pathbound—IU, Put a card from your hand into your sanctum. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
-Once each turn, you may cast a nonpermanent spell from your sanctum. that spell costs {U} more to cast, and if that card would be put into a graveyard, exile it instead.</text>
+Once on each of your turns, you may cast a nonpermanent spell from your sanctum. That spell costs {U} more to cast, and if that card would be put into a graveyard, exile it instead.</text>
     </card>
     <card>
       <name>Path of the Rift</name>
@@ -5651,7 +5652,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {W}.)</text>
@@ -5715,7 +5716,7 @@ This land enters tapped unless you control two or more basic lands.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {U}.)</text>
@@ -5738,7 +5739,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {B}.)</text>
@@ -5760,7 +5761,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {R}.)</text>
@@ -5782,7 +5783,7 @@ When this land enters, surveil 1.
       </prop>
       <tablerow>0</tablerow>
       <cipt>1</cipt>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {G}.)</text>
@@ -6148,7 +6149,7 @@ Vin-Fault</notes>
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Pathbound—{1}, Pay 2 life (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
+      <text>Pathbound—{1}, Pay 2 life. (As a sorcery, reveal this, then put this on top of your library from your sanctum by paying its pathbound cost.)
 This land enters tapped.
 When this land enters, surveil 1.
 ({T}: Add {I}.)</text>
@@ -6266,10 +6267,10 @@ Modern Horizons 4 confirmed</notes>
         <mv>2</mv>
         <type>Instant</type>
         <maintype>Instant</maintype>
-        <notes>!tag fascism;
+        <notes>!tag Mordel;
 !tag outlands;
 !tag clanless;</notes>
-        <tag>fascism;outlands;clanless;</tag>
+        <tag>Mordel;outlands;clanless;</tag>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose target creature or planeswalker you don’t control. Each creature you control deals 1 damage to that permanent.</text>

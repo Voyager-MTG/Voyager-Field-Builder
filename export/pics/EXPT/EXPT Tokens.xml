@@ -4,7 +4,7 @@
 
     <card>
       <name>Icon EXPT</name>
-      <set num="11">EXPT</set>
+      <set num="13">EXPT</set>
       <prop>
         <colors>WI</colors>
         <type>Token Enchantment Creature - Icon </type>
@@ -19,17 +19,18 @@
     </card>
     <card>
       <name>Horror EXPT</name>
-      <set num="10">EXPT</set>
+      <set num="11">EXPT</set>
       <prop>
         <colors>I</colors>
         <type>Token Creature - Horror </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
-        <notes></notes>
+        <notes>! !related The Depths Talk Loudly;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
       <token>1</token>
+      <reverse-related>The Depths Talk Loudly</reverse-related>
     </card>
     <card>
       <name>Distant Vulture EXPT</name>
@@ -44,10 +45,68 @@ Distant Vulture Astral;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
-This creature has lifelink as long as it’s a token.</text>
+This creature has lifelink as long as it has power 2 or greater.</text>
       <token>1</token>
       <reverse-related>Distant Vulture</reverse-related>
       <reverse-related>Distant Vulture Astral</reverse-related>
+    </card>
+    <card>
+      <name>Insect Plant EXPT</name>
+      <set num="12">EXPT</set>
+      <prop>
+        <colors>I</colors>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed. (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Wall EXPT</name>
+      <set num="17">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender (This creature can’t attack.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Shapeshifter EXPT</name>
+      <set num="2">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Robot EXPT</name>
+      <set num="15">EXPT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>Hopeless
+!related Extant Surveyor;</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Extant Surveyor</reverse-related>
     </card>
     <card>
       <name>Can Be Cast From Exile EXPT</name>
@@ -161,7 +220,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Orb Wizard EXPT</name>
-      <set num="12">EXPT</set>
+      <set num="14">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -176,7 +235,7 @@ This creature has lifelink as long as it’s a token.</text>
     </card>
     <card>
       <name>Treasure EXPT</name>
-      <set num="13">EXPT</set>
+      <set num="16">EXPT</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Treasure </type>
@@ -194,9 +253,9 @@ Bastien Chapitaux</notes>
     </card>
     <card>
       <name>Fish EXPT</name>
-      <set num="2">EXPT</set>
+      <set num="10">EXPT</set>
       <prop>
-        <colors></colors>
+        <colors>I</colors>
         <type>Token Creature - Fish </type>
         <maintype>Creature</maintype>
         <pt>X/X</pt>

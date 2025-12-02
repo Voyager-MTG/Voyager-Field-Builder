@@ -25,48 +25,44 @@
         <type>Token Creature - Beast </type>
         <maintype>Creature</maintype>
         <pt>3/3</pt>
-        <notes>!related Lasting Discovery;Outlands Caretaker;Brightblossom Enclave;
+        <notes>!related Lasting Discovery;
 Beast-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
       <reverse-related>Lasting Discovery</reverse-related>
-      <reverse-related>Outlands Caretaker</reverse-related>
-      <reverse-related>Brightblossom Enclave</reverse-related>
       <reverse-related>Beast-01</reverse-related>
     </card>
     <card>
-      <name>Black Bird FOE</name>
+      <name>Bird FOE</name>
       <set num="17">FOE</set>
       <prop>
         <colors>B</colors>
         <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related A Flock is Born&lt;3>;
-!exportname Black Bird</notes>
+        <notes>!related  A Flock is Born&lt;1>;A Flock is Born&lt;3>;</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related count="1"> A Flock is Born</reverse-related>
       <reverse-related count="3">A Flock is Born</reverse-related>
     </card>
     <card>
-      <name>White Bird FOE</name>
+      <name>Bird FOE</name>
       <set num="2">FOE</set>
       <prop>
         <colors>W</colors>
         <type>Token Creature - Bird </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Feather Piper&lt;2>;
-!exportname White Bird</notes>
+        <notes></notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
-      <reverse-related count="2">Feather Piper</reverse-related>
     </card>
     <card>
       <name>Insect FOE</name>
@@ -412,7 +408,7 @@ Mongoose-01</notes>
     </card>
     <card>
       <name>Orb FOE</name>
-      <set num="45">FOE</set>
+      <set num="46">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb </type>
@@ -435,15 +431,11 @@ Whenever this creature deals combat damage to a player, target player mills two 
         <type>Token Enchantment Creature - Shark </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
-        <notes>!related Pathward Riftcalling;Kaln-Ocean Seahorse;
-Shark-01</notes>
+        <notes>Shark-01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
-      <reverse-related>Pathward Riftcalling</reverse-related>
-      <reverse-related>Kaln-Ocean Seahorse</reverse-related>
-      <reverse-related>Shark-01</reverse-related>
     </card>
     <card>
       <name>Whale FOE</name>
@@ -839,7 +831,7 @@ This is also a creature if you’ve illuminated silver.</text>
         <notes>plus one plus one counter
 !related Whisperer of the Paths;Disciplined Seeker;Ignelscor Frontliner;Ignelscor Weaver;Dominator of Drakes;Clanless Weaver;Safeguarded Pair;Shard Bearer;Tiderock Passage;Tiderock Passage Promo;Light of Hope;Meditation&lt;2>;Open Eternity;Alternate Path;Lasting Discovery&lt;2>;Scale the Heights;Start of an Adventure;
 
-!framed!readable test</notes>
+!framed!readable</notes>
       </prop>
       <tablerow>1</tablerow>
       <text></text>
@@ -864,7 +856,7 @@ This is also a creature if you’ve illuminated silver.</text>
     </card>
     <card>
       <name>Orb Wizard FOE</name>
-      <set num="46">FOE</set>
+      <set num="47">FOE</set>
       <prop>
         <colors></colors>
         <type>Token Artifact Creature - Orb Wizard </type>
@@ -974,7 +966,7 @@ This is also a creature if you’ve illuminated silver.</text>
     </card>
     <card>
       <name>Jura FOE</name>
-      <set num="47">FOE</set>
+      <set num="49">FOE</set>
       <prop>
         <colors></colors>
         <type>Legendary Land Token</type>
@@ -984,6 +976,36 @@ This is also a creature if you’ve illuminated silver.</text>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
 {3}, {T}, Sacrifice this land: Return target creature card with mana value 2 or less from your graveyard to the battlefield tapped.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Law of Nature FOE</name>
+      <set num="45">FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!related Zoslera Exiled Visionary;
+https://www.artstation.com/artwork/YBvy6Y</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ward {2}
+Creatures you control get +2/+2 and have haste, vigilance, and first strike.</text>
+      <token>1</token>
+      <reverse-related>Zoslera Exiled Visionary</reverse-related>
+      <reverse-related>httpswwwartstationcomartworkYBvy6Y</reverse-related>
+    </card>
+    <card>
+      <name>Powerstone Shard FOE</name>
+      <set num="48">FOE</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>https://www.artstation.com/artwork/98nZ0q</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.</text>
       <token>1</token>
     </card>
 
