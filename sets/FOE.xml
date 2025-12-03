@@ -26,7 +26,7 @@
       </prop>
       <tablerow>1</tablerow>
       <text>This artifact enters tapped.
-When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 {2}, {T}, Sacrifice this artifact: Draw a card from your sanctum or library.</text>
     </card>
     <card>
@@ -143,7 +143,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>traverse 1</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Staggering Spires</name>
@@ -616,7 +616,7 @@ traverse 3</notes>
         <tag>outlands;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Vestige Prowler</name>
@@ -1062,7 +1062,7 @@ Threshold — Whenever this creature attacks while you have seven or more cards 
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 Create a 1/1 black Drake creature token with flying.</text>
     </card>
     <card>
@@ -1156,7 +1156,7 @@ As long as you’ve illuminated red, this creature gets +2/+0 and has first stri
         <notes>traverse 5</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Warforged Pair</name>
@@ -1561,7 +1561,7 @@ Target creature you control gets +1/+1 and gains haste until end of turn. (Then 
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Outlands Rescuer</name>
@@ -1690,7 +1690,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Avakin Adventurer</name>
@@ -1709,7 +1709,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes>traverse 4</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Meirel Drifter</name>
@@ -2492,7 +2492,7 @@ Sisters in Sorrow has first strike during your turn.
 Whenever you attack, reveal the top card of your library. If it’s a permanent card with mana value 3 or less, you may play that card. Otherwise, put that card into your sanctum and Sisters in Sorrow deals 1 damage to any target.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>Whenever this creature and at least one other creature attacks, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Feather Piper</name>
@@ -3136,8 +3136,8 @@ This creature gets +1/+0 for each enchantment you control.</text>
 Traverse X, x is the number of other cards in graveyard</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
-{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+      <text>{1}, Sacrifice this creature: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
+{4}, Exile this land from your graveyard: Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Drakesteel Effigy</name>
@@ -3749,7 +3749,7 @@ Discard a card: This creature has size 4/4 until end of turn.</text>
       <tablerow>3</tablerow>
       <text>Choose one—
 • Counter target permanent spell unless its controller pays {2}. If you control three or more tokens, counter that spell instead.
-• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+• Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Concealing Ruins</name>
@@ -5033,7 +5033,7 @@ Create a blue 4/4 Dragon Eye creature token with trample. (Then put this into yo
       <text>Enchant creature
 When this enchantment enters, tap enchanted permanent.
 Enchanted permanent doesn’t untap during its controller’s untap step.
-When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+When this enchantment leaves the battlefield, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Relentless Spellseeker</name>
@@ -5371,7 +5371,7 @@ Whenever you attack, if you’ve illuminated black, each opponent loses 2 life a
         <notes>Traverse up to X, where X is the number of cards in your graveyard</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>When this artifact enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 3BB, {T}, Sacrifice this artifact: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
     </card>
     <card>
@@ -5709,7 +5709,7 @@ Explorer — 1R: This creature gets +2/+0 and gains trample until end of turn. A
       </prop>
       <tablerow>2</tablerow>
       <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+Whenever this creature attacks, you may discard a card. If you do, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Broodmages Furor</name>
@@ -6167,7 +6167,7 @@ Once during each of your turns, you may play a card from your sanctum.</text>
         <notes>Korna Adventuring Historian</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)
+      <text>Materialize 2 (Tap any number of other enchantments you control with total mana value 2 or more: This becomes a creature in addition to its other types until your next upkeep.)
 Trample, vigilance
 Once each turn, whenever a spell or ability puts a card into your hand, create a 2/2 white Wurm creature token with vigilance.</text>
     </card>
@@ -7422,7 +7422,7 @@ Whenever this creature attacks, you may discard a card. If you do, reveal random
       </prop>
       <tablerow>3</tablerow>
       <text>Counter target spell.
-Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )</text>
+Draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)</text>
     </card>
     <card>
       <name>Probe the Veil</name>
@@ -7721,7 +7721,7 @@ As long as you control a white, blue, black, red, or silver permanent, this crea
     <pt>6/5</pt>
       </prop>
       <tablerow>3</tablerow>
-      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand. )
+      <text>When this creature enters, draft a card from your sanctum. (Look at three random cards from your sanctum. Put one into your hand.)
 --- 
 Prevent all combat damage that would be dealt to players this turn. (Then put this card into your sanctum.)</text>
     </card>

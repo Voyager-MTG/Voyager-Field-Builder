@@ -132,7 +132,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 • [Exile up to one target nonland permanent with mana value 1 or less.]
 • [Scry 2, then draw a card.]
 • [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
@@ -368,7 +368,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
