@@ -461,6 +461,13 @@ This creature has lifelink as long as it has power 2 or greater.</text>
 	  <reverse-related>Fervent Demagogue</reverse-related>
 	  <reverse-related>Plaskett Trickster</reverse-related>
 	  <reverse-related>Marilye, Heirloom Pilferer</reverse-related>
+	  <reverse-related>Spitting Hellfire</reverse-related>
+	  <reverse-related>Unhinged Giant</reverse-related>
+	  <reverse-related>Aggravator of Herds</reverse-related>
+	  <reverse-related>Rattler's Crusade</reverse-related>
+	  <reverse-related>Davriel's Dealbroker</reverse-related>
+	  <reverse-related>Overwhelming Consumption</reverse-related>
+	  <reverse-related>Mad Summoner</reverse-related>
 	  <reverse-related>Shalewing, Age of Dragons</reverse-related>
 	  <reverse-related>Mordel Charm</reverse-related>
 	  <reverse-related>Idol of Reconstruction</reverse-related>
@@ -1702,6 +1709,143 @@ Creatures you control get +2/+2 and have haste, vigilance, and first strike.</te
   
 
     <card>
+      <name>Zombie HEL</name>
+	  <reverse-related >Sweltering Shoals</reverse-related>
+	  <reverse-related >Foreboding Milestone</reverse-related>
+	  <reverse-related >Rotten Insight</reverse-related>
+	  <reverse-related >Castle Salus's Catacombs</reverse-related>
+	  <reverse-related count="2">Saintly Remains</reverse-related>
+	  <reverse-related >Shamble En Masse</reverse-related>
+	  <reverse-related >Fides, Bloodied Confidant</reverse-related>
+	  <reverse-related >Phylactery Crafter</reverse-related>
+	  <reverse-related >Return for Duty</reverse-related>
+	  <reverse-related >Crypt Defenders</reverse-related>
+      <set num="2">HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes>https://www.deviantart.com/markusvogt/art/Underworld-Rising-697237078</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Merfolk Horror HEL</name>
+	  <reverse-related count="2">Unidentifiable Mass</reverse-related>
+	  <reverse-related count="2">Ghastly Tide</reverse-related>
+	  <reverse-related >Faber's Hatching</reverse-related>
+	  <reverse-related count="2">Gigas Screamer</reverse-related>
+      <set num="3">HEL</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Merfolk Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.deviantart.com/davesrightmind/art/Siren-Final-369903638</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton HEL</name>
+	  <reverse-related >Servant of Laceration</reverse-related>
+	  <reverse-related count="3">Remains of Despair</reverse-related>
+	  <reverse-related count="3">Ransack the Tombs</reverse-related>
+	  <reverse-related >Blazing Raid</reverse-related>
+	  <reverse-related >Bemused Gorger</reverse-related>
+	  <reverse-related >Processing Revenant</reverse-related>
+	  <reverse-related count="2">Hellemental</reverse-related>
+	  <reverse-related count="2">Crumbling Monstrosity</reverse-related>
+	  <reverse-related >Rambunctious Bonewalkers</reverse-related>
+	  <reverse-related >Aged Warmage</reverse-related>
+	  <reverse-related >Salvaged Legionnaire</reverse-related>
+	  <reverse-related >Skeletonfy</reverse-related>
+      <set num="4">HEL</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Skeleton </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.artstation.com/artwork/nQ2J0E</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Spider HEL</name>
+	  <reverse-related count="3">Thread the Undergrowth</reverse-related>
+	  <reverse-related >Sparse Weblands</reverse-related>
+	  <reverse-related >Skittering Host</reverse-related>
+	  <reverse-related >Eafem, Lethal Arachne</reverse-related>
+	  <reverse-related >Skittering Skullsifter</reverse-related>
+	  <reverse-related >Nightmare Webbing</reverse-related>
+      <set num="6">HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes>https://www.deviantart.com/highdarktemplar/art/Spider-of-Leng-820654490</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Hydra HEL</name>
+	  <reverse-related >Bonemarrow Hydra</reverse-related>
+      <set num="5">HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>https://www.deviantart.com/pininkela/art/The-Serpent-283704184</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Skeleton Horse HEL</name>
+	  <reverse-related >Undue, Death Devourer</reverse-related>
+      <set num="7">HEL</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Skeleton Horse </type>
+        <maintype>Creature</maintype>
+        <pt>X/X</pt>
+        <notes>https://www.deviantart.com/thedurrrrian/art/Fear-the-black-horse-of-famine-488974264</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Vampire Soldier HEL</name>
+	  <reverse-related >Sorin, Vengeful Sangrablade</reverse-related>
+      <set num="1">HEL</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Vampire Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes>https://www.deviantart.com/sinealas/art/The-Knight-600552138</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+
+  
+
+    <card>
       <name>Intisuyu&apos;s Armies HOD</name>
       <set num="3">HOD</set>
       <prop>
@@ -2275,7 +2419,7 @@ This creature can’t block.</text>
     </card>
     <card>
       <name>Nightmare ITD</name>
-	  <reverse-related >Grasping Eternity</reverse-related>
+	  <reverse-related >Desolate Meeting</reverse-related>
 	  <reverse-related >Illuminant Master</reverse-related>
 	  <reverse-related >Ghostspitter</reverse-related>
 	  <reverse-related >Desolate Meeting</reverse-related>
@@ -2329,7 +2473,8 @@ This creature can’t block.</text>
       <reverse-related>The Eternal Echo</reverse-related>
     </card>
     <card>
-      <name>Ancient Forerunner ITD ITD</name>
+      <name>Ancient Forerunner ITD</name>
+	  <reverse-related>Ancient Forerunner</reverse-related>
       <set num="3">ITD</set>
       <prop>
         <colors></colors>
@@ -2341,13 +2486,14 @@ This creature can’t block.</text>
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ancient Forerunner ITD has first strike during your turn.
-When this creature enters, it deals damage equal to its power to each opponent.</text>
+      <text>This creature has first strike as long as it’s your turn.
+When this creature enters, it deals 1 damage to each opponent. It deals 2 damage instead if it has power 4 or greater.</text>
       <token>1</token>
       <reverse-related persistent="persistent">Ancient Forerunner</reverse-related>
     </card>
     <card>
-      <name>Cloudscape Observer ITD ITD</name>
+      <name>Cloudscape Observer ITD</name>
+	  <reverse-related>Cloudscape Observer</reverse-related>
       <set num="4">ITD</set>
       <prop>
         <colors></colors>
@@ -2364,7 +2510,8 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <reverse-related persistent="persistent">Cloudscape Observer</reverse-related>
     </card>
     <card>
-      <name>Deepmind Oracle ITD ITD</name>
+      <name>Deepmind Oracle ITD</name>
+	  <reverse-related>Deepmind Oracle</reverse-related>
       <set num="5">ITD</set>
       <prop>
         <colors></colors>
@@ -2382,7 +2529,8 @@ When this creature enters, surveil X, where X is its power.</text>
       <reverse-related persistent="persistent">Deepmind Oracle</reverse-related>
     </card>
     <card>
-      <name>Emergent Anomaly ITD ITD</name>
+      <name>Emergent Anomaly ITD</name>
+	  <reverse-related>Emergent Anomaly</reverse-related>
       <set num="6">ITD</set>
       <prop>
         <colors></colors>
@@ -2400,7 +2548,8 @@ Whenever this creature attacks, tap up to one target creature.</text>
       <reverse-related persistent="persistent">Emergent Anomaly</reverse-related>
     </card>
     <card>
-      <name>Fracture of Divinity ITD ITD</name>
+      <name>Fracture of Divinity ITD</name>
+	  <reverse-related>Fracture of Divinity</reverse-related>
       <set num="7">ITD</set>
       <prop>
         <colors></colors>
@@ -2418,7 +2567,8 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
       <reverse-related persistent="persistent">Fracture of Divinity</reverse-related>
     </card>
     <card>
-      <name>Lammasu, Dream-Stilled ITD ITD</name>
+      <name>Lammasu, Dream-Stilled ITD</name>
+	  <reverse-related>Lammasu, Dream-Stilled</reverse-related>
       <set num="8">ITD</set>
       <prop>
         <colors></colors>
@@ -2485,7 +2635,7 @@ When this creature enters, return target instant or sorcery card from your grave
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
+      <text>Whenever you spend five or more mana to cast a spell, draw a card.</text>
       <token>1</token>
       <reverse-related persistent="persistent">Priest of Perfection</reverse-related>
     </card>
@@ -3923,7 +4073,7 @@ Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Ad
 • [Exile up to one target nonland permanent with mana value 1 or less.]
 • [Scry 2, then draw a card.]
 • [Create a 3/3 green Beast creature token.]
-Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for WUBRG. Then exile it.)</text>
+Impetus WUBRG (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>
@@ -4180,7 +4330,7 @@ When this creature enters, target creature gets +X/+X until end of turn, where X
       </prop>
       <tablerow>2</tablerow>
       <text>4G, Exile a card from your graveyard: [Create a 3/3 green Beast creature token.] Activate only as a sorcery. 
-Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for 4G. Then exile it.)</text>
+Impetus 4G (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
       <token>1</token>
     </card>
     <card>

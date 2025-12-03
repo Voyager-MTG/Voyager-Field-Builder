@@ -102,7 +102,7 @@ This creature can’t block.</text>
       <reverse-related>The Eternal Echo</reverse-related>
     </card>
     <card>
-      <name>Ancient Forerunner ITD ITD</name>
+      <name>Ancient Forerunner ITD</name>
       <set num="3">ITD</set>
       <prop>
         <colors></colors>
@@ -114,13 +114,13 @@ This creature can’t block.</text>
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Ancient Forerunner ITD has first strike during your turn.
-When this creature enters, it deals damage equal to its power to each opponent.</text>
+      <text>This creature has first strike as long as it’s your turn.
+When this creature enters, it deals 1 damage to each opponent. It deals 2 damage instead if it has power 4 or greater.</text>
       <token>1</token>
       <reverse-related persistent="persistent">Ancient Forerunner</reverse-related>
     </card>
     <card>
-      <name>Cloudscape Observer ITD ITD</name>
+      <name>Cloudscape Observer ITD</name>
       <set num="4">ITD</set>
       <prop>
         <colors></colors>
@@ -137,7 +137,7 @@ When this creature enters, it deals damage equal to its power to each opponent.<
       <reverse-related persistent="persistent">Cloudscape Observer</reverse-related>
     </card>
     <card>
-      <name>Deepmind Oracle ITD ITD</name>
+      <name>Deepmind Oracle ITD</name>
       <set num="5">ITD</set>
       <prop>
         <colors></colors>
@@ -155,7 +155,7 @@ When this creature enters, surveil X, where X is its power.</text>
       <reverse-related persistent="persistent">Deepmind Oracle</reverse-related>
     </card>
     <card>
-      <name>Emergent Anomaly ITD ITD</name>
+      <name>Emergent Anomaly ITD</name>
       <set num="6">ITD</set>
       <prop>
         <colors></colors>
@@ -173,7 +173,7 @@ Whenever this creature attacks, tap up to one target creature.</text>
       <reverse-related persistent="persistent">Emergent Anomaly</reverse-related>
     </card>
     <card>
-      <name>Fracture of Divinity ITD ITD</name>
+      <name>Fracture of Divinity ITD</name>
       <set num="7">ITD</set>
       <prop>
         <colors></colors>
@@ -191,7 +191,7 @@ Whenever an opponent casts a noncreature spell with mana value less than this cr
       <reverse-related persistent="persistent">Fracture of Divinity</reverse-related>
     </card>
     <card>
-      <name>Lammasu, Dream-Stilled ITD ITD</name>
+      <name>Lammasu, Dream-Stilled ITD</name>
       <set num="8">ITD</set>
       <prop>
         <colors></colors>
@@ -255,7 +255,7 @@ When this creature enters, return target instant or sorcery card from your grave
 !conjured</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast another spell with mana value 5 or greater, draw a card.</text>
+      <text>Whenever you spend five or more mana to cast a spell, draw a card.</text>
       <token>1</token>
       <reverse-related persistent="persistent">Priest of Perfection</reverse-related>
     </card>
