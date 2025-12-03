@@ -563,7 +563,7 @@ At the beginning of your end step, you may exile target card from your graveyard
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, if it isn’t a token, mirror. (Create a token thats a copy of a token you control.)
+When this creature enters, if it isn’t a token, mirror. (Create a token that’s a copy of a token you control.)
 Whenever you create a token that doesn’t share a name with a token you control, you may exile this creature, then return it to the battlefield under its owner’s control at the beginning of the next end step.   </text>
     </card>
     <card>
@@ -662,7 +662,7 @@ Discard your hand, then draw three cards.</text>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
 Flying
-When this creature enters, if it’s not a token, mirror twice. (Create a token thats a copy of a token you control.)</text>
+When this creature enters, if it’s not a token, mirror twice. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shell&apos;s Scraping</name>
@@ -1449,7 +1449,7 @@ also, maybe 7 mana
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
-Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+Channel — IW, Discard this: Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Sample Skimmer</name>

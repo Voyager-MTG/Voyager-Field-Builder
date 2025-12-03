@@ -342,7 +342,7 @@ Sycophant, sycophant (Whenever this permanent deals damage to a player or planes
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3UU (3UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3UU (You may cast this spell for 3UU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying
 Whenever Takers of Voice enters, gain control of target nonland permanent for as long as you control Takers of Voice.</text>
     </card>
@@ -456,7 +456,7 @@ Flying
         <tag>DewoldMarilyePlaneswalkerDundrym</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Deception 2UU (2UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2UU (You may cast this spell for 2UU if you also return an unblocked attacker you control to hand during the declare blockers step. )
 As long as it’s your turn, Marilye is a 3/2 Elf Rogue creature with hexproof and indestructible.
 [+1]: Tap target permanent. It doesn’t untap during its controller’s next untap step.
 [-2]: Exile the top five cards of target opponent’s library. You may cast any number of cards exiled this way with total mana value equal to or less than the amount of damage dealt to them this turn without paying their mana costs.</text>
@@ -660,7 +660,7 @@ Whenever you copy a spell that was targeting a creature you control, you draw a 
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2B
+      <text>Sneak 2B
 Whenever Plaskett Trickster deals combat damage to a player or planeswalker, choose one to be exiled. You may play the exiled cards for as long as they remain exiled and spend mana as though it were mana of any type to cast spells this way.
 • A card from defending player’s hand.
 • A random card form defending player’s sanctum.</text>
@@ -1148,7 +1148,7 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2GG (2GG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2GG (You may cast this spell for 2GG if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Chorus of the Silberwald deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
@@ -1471,7 +1471,7 @@ Other legendary creatures you control get +1/+0.
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1GU (1GU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1GU (You may cast this spell for 1GU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever a creature you control enters, it gets +2/+2 until end of turn.</text>
     </card>
     <card>
@@ -1696,7 +1696,7 @@ Tricolor</notes>
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3BGU (3BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3BGU (You may cast this spell for 3BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Castle Delta Agitator deals combat damage to a player or planeswalker, you may cast target card in your graveyard without paying its mana cost. If you do, exile that card as it resolves.</text>
     </card>
     <card>
@@ -1922,7 +1922,7 @@ Edith Rey escapes with a flying counter on her if a creature exiled with her esc
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2BGU (2BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2BGU (You may cast this spell for 2BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Trample
 Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’t an extra turn, taken an extra turn after this one.</text>
     </card>
@@ -2505,7 +2505,7 @@ Whenever you cast a spell, if the amount of mana spent to cast it was less than 
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {U} (You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Pilferer of Shrouded Coasts deals combat damage to a player or planeswalker, create a tapped Treasure token.</text>
     </card>
     <card>
@@ -2850,7 +2850,7 @@ Lifelink</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {B} (You may cast this spell for {B} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When Plaskett Barber enters, choose one —
 • Remove up to three counters from target permanent or opponent.
 • Exile the top card of target player’s library.</text>
@@ -3207,7 +3207,7 @@ Escape—3G, Exile seven other cards from your graveyard. (You may cast this car
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Deception 3G (3G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3G (You may cast this spell for 3G if you also return an unblocked attacker you control to hand during the declare blockers step. )
 Whenever The Call to Adventure enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -3291,7 +3291,7 @@ Escape—2G, Exile three other cards from your graveyard. (You may cast this car
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {G} ({G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {G} (You may cast this spell for {G} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on Attwater Elite.</text>
     </card>
     <card>
@@ -3401,7 +3401,7 @@ When Turnberry Overseer enters, choose a name. Create a legendary 3/3 Knight cre
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 5G (5G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 5G (You may cast this spell for 5G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Silberwald Trailblazer deals combat damage to a player or planeswalker, put a +1/+1 counter on each creature you control.</text>
     </card>
     <card>
@@ -3840,7 +3840,7 @@ Whenever one or more legendary creatures you control attacks, exile the top card
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception GU (GU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak GU (You may cast this spell for GU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.</text>
     </card>
     <card>
@@ -4117,8 +4117,8 @@ Tricolor</notes>
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception BGU (BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-You may have Faceless Mirrorkin enter as a copy of any creature on the battlefield. If you paid this card’s deception cost, you may instead have this creature enter as a copy of the creature you returned to your hand.</text>
+      <text>Sneak BGU (You may cast this spell for BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
+You may have Faceless Mirrorkin enter as a copy of any creature on the battlefield. If you paid this card’s sneak cost, you may instead have this creature enter as a copy of the creature you returned to your hand.</text>
     </card>
     <card>
       <name>Azra Seasonkeeper</name>
@@ -5383,7 +5383,7 @@ Enchanted creature loses all abilities and is a 1/1 green Peasant.</text>
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2B (2B, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2B (You may cast this spell for 2B if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defending player discards a card.</text>
     </card>
     <card>
@@ -5645,7 +5645,7 @@ Whenever you cast a spell with mana value 5 or greater, Phyre Sellsword deals 2 
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3G (3G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3G (You may cast this spell for 3G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When Flowing Streams Halberdier enters, target creature gets +2/+0 and gains trample until end of turn.</text>
     </card>
     <card>
@@ -5754,7 +5754,7 @@ Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble cre
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1G (1G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1G (You may cast this spell for 1G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Qualified Windrigger deals combat damage to a player, untap up to two lands.</text>
     </card>
     <card>
@@ -6018,7 +6018,7 @@ Escape—3W, Exile three other cards from your graveyard. (You may cast this car
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1U (1U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1U (You may cast this spell for 1U if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -6155,7 +6155,7 @@ Vigilance</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 4B (4B, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 4B (You may cast this spell for 4B if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying</text>
     </card>
     <card>
@@ -6243,7 +6243,7 @@ When Charitable Faerie enters, surveil 2.</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2U (2U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2U (You may cast this spell for 2U if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you may tap target nonland permanent and put a stun counter on it.</text>
     </card>
     <card>

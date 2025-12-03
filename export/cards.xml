@@ -7493,7 +7493,7 @@ At the beginning of your end step, you may exile target card from your graveyard
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, if it isn’t a token, mirror. (Create a token thats a copy of a token you control.)
+When this creature enters, if it isn’t a token, mirror. (Create a token that’s a copy of a token you control.)
 Whenever you create a token that doesn’t share a name with a token you control, you may exile this creature, then return it to the battlefield under its owner’s control at the beginning of the next end step.   </text>
     </card>
     <card>
@@ -7592,7 +7592,7 @@ Discard your hand, then draw three cards.</text>
       <tablerow>2</tablerow>
       <text>This spell costs {1} less for each land you control.
 Flying
-When this creature enters, if it’s not a token, mirror twice. (Create a token thats a copy of a token you control.)</text>
+When this creature enters, if it’s not a token, mirror twice. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Shell&apos;s Scraping</name>
@@ -8379,7 +8379,7 @@ also, maybe 7 mana
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target creature card or planeswalker card in a graveyard, except it’s not legendary.
-Channel — IW, Discard this: Mirror. (Create a token thats a copy of a token you control.)</text>
+Channel — IW, Discard this: Mirror. (Create a token that’s a copy of a token you control.)</text>
     </card>
     <card>
       <name>Sample Skimmer</name>
@@ -9594,7 +9594,7 @@ Prevent the next 3 damage that would be dealt to any target this turn. (Then put
         <notes>The Foxfolk children are born feral; They must spark their curiosity to join society. </notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 When this creature enters, create a 1/1 white Fox creature token.
 This creature gets +1/+1 as long as you’ve illuminated white.</text>
     </card>
@@ -9635,7 +9635,7 @@ This creature gets +1/+1 as long as you’ve illuminated white.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature gets +0/+1 and has vigilance as long as you’ve illuminated white.</text>
     </card>
     <card>
@@ -9658,7 +9658,7 @@ This creature gets +0/+1 and has vigilance as long as you’ve illuminated white
         <tag>fadove;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {3}, {T}: Tap target creature. This ability costs {3} less to activate if you’ve illuminated white.</text>
     </card>
     <card>
@@ -10007,7 +10007,7 @@ When this creature enters, tap target creature an opponent controls and put a st
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Whenever this creature attacks, up to one target creature gets -3/-0 until end of turn.
 This creature gets +1/+1 and has vigilance as long as you’ve illuminated blue.</text>
     </card>
@@ -10201,7 +10201,7 @@ Whenever you cast a noncreature spell, each opponent loses 1 life and you gain 1
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Destroy target creature or planeswalker if it has mana value 2 or less or if you’ve illuminated black.</text>
     </card>
     <card>
@@ -10375,7 +10375,7 @@ When this creature dies, create a 1/1 black enchantment Lizard creature token.</
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This spell costs {2} less to cast if you’ve illuminated black or if you control three or more black permanents.</text>
     </card>
     <card>
@@ -10451,7 +10451,7 @@ This spell deals 1 damage to each creature you don’t control. (Then put this i
         <tag>clanless;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated red, this creature gets +2/+0 and has first strike.</text>
     </card>
     <card>
@@ -10580,7 +10580,7 @@ Target creature you control gains first strike and trample until end of turn. (T
         <tag>Mordel;</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated red, this creature gets +1/+1 and has trample.</text>
     </card>
     <card>
@@ -10699,7 +10699,7 @@ v1.0 Whenever a spell or ability puts a card into your hand, you gain 2 life.
         <notes>It took years, but the kinfolk reignited a strength the elves of Vinimroth could never hold again.</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Landfall — Whenever a land enters the battlefield under your control, this creature gets +1/+0 until end of turn. If you illuminated green, put a +1/+1 counter on this creature instead.</text>
     </card>
     <card>
@@ -11080,7 +11080,7 @@ Draw a card from your library or sanctum. You may put a land from your hand onto
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 As long as you’ve illuminated silver, this creature gets +2/+1 and has flying.</text>
     </card>
     <card>
@@ -11211,7 +11211,7 @@ Create two 1/1 white and silver Insect creature tokens with flying and decayed. 
         <notes>Create a tapped token that’s a copy of target land if it’s basic or if you’ve illuminated silver. Then untap that token if you’ve illuminated silver.</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Target creature becomes an enchantment land. (It loses all other card types.) It gains “{T}: Add {I}.” If you’ve illuminated silver, it loses all abilities.</text>
     </card>
     <card>
@@ -12006,7 +12006,7 @@ steve
 </notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Flying, haste
 Instant spells you cast cost {2} less to cast if you’ve illuminated Red.
 Sorcery spells you cast cost {2} less to cast if you’ve illuminated Silver.</text>
@@ -12546,7 +12546,7 @@ Equipped creature has healing 2. (Damage dealt by that creature also causes you 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature is all colors among other permanents you control.
 Whenever you cast a spell that is one or more colors, if you’ve illuminated any of that spell’s colors, put a +1/+1 counter on target creature you control.</text>
     </card>
@@ -12567,7 +12567,7 @@ Whenever you cast a spell that is one or more colors, if you’ve illuminated an
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 When this creature enters, create a colorless 3/3 Wurm Dragon kindred enchantment token with “This is also a creature if you’ve illuminated silver.”</text>
     </card>
     <card>
@@ -13219,7 +13219,7 @@ When this creature enters, it deals damage to any noncreature target equal to th
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Tokens you control have haste.
 Whenever you attack, draw a card from your sanctum or library, then discard a card. If you’ve illuminated silver, put a +1/+1 counter on this creature.</text>
     </card>
@@ -13417,7 +13417,7 @@ When this land enters tapped, up to one target creature you control gets +1/+0 a
         <notes></notes>
       </prop>
       <tablerow>0</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {T}: Add {C}.
 {T}, Sacrifice this land: Draw a card. Activate only if you’ve illuminated a color.</text>
     </card>
@@ -14031,7 +14031,7 @@ Explorer — When this creature attacks, if you control five or more differently
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This creature has power equal to the number of creatures you control.
 This creature has vigilance and flying as long as you’ve illuminated white.</text>
     </card>
@@ -14071,7 +14071,7 @@ When this enchantment enters, exile up to one other nonland permanent or land cr
 watch in testing</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 This spell costs {2} less to cast if you’ve illuminated white.
 Exile target nonland permanent.</text>
     </card>
@@ -14312,7 +14312,7 @@ Whenever you attack, sift 1. (Look at the top card of your library. You may put 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 {T}: Add {C}. You can’t spend this mana to cast a noninstant, nonsorcery spell.
 4U, Sacrifice this creature: Draw three cards. Activate only if you’ve illuminated blue.</text>
     </card>
@@ -14544,7 +14544,7 @@ Tap two untapped enchantments and/or creatures you control: This enchantment als
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Menace
 This creature gets +2/+0 if you’ve illuminated black.</text>
     </card>
@@ -14604,7 +14604,7 @@ Explorer — 1B: Return this creature from your graveyard to the battlefield. Ac
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Create a 1/1 black enchantment Lizard creature token. Then if you illuminated black, create a 1/1 black enchantment Lizard creature token.
 Creature tokens you control gain haste until end of turn.</text>
     </card>
@@ -14662,7 +14662,7 @@ Creature tokens you control gain haste until end of turn.</text>
         <notes>*probably* needs to be 5 mana &lt;3</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Whenever you attack, if you’ve illuminated black, each opponent loses 2 life and you gain 2 life. Otherwise each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -14979,7 +14979,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Haste
 {3}, {T}: This creature deals 1 damage to any target. This ability costs {T} less to activate if you’ve illuminated red.</text>
     </card>
@@ -15289,7 +15289,7 @@ Put a +1/+1 counter on each of up to X target creatures. (Then put this card int
         <notes></notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Create two 1/1 green Elk Plant creature tokens. Then If you illuminated green, put a +1/+1 counter on each creature you control. (This spell’s tokens can cause you to illuminate green before putting counters.)</text>
     </card>
     <card>
@@ -15365,7 +15365,7 @@ Explorer — 3G: This creature gets +1/+1 until end of turn for each differently
         <notes>Keras Appointed</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Vigilance
 Whenever this creature attacks, you gain 2 life. If you’ve illuminated green, draw a card.</text>
     </card>
@@ -15946,7 +15946,7 @@ Escape—{I}, Exile a card from your sanctum. (You may cast this card from your 
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Haste
 Whenever this creature attacks, if you’ve illuminated silver, create a tapped and attacking token that’s a copy of another target creature you control, except it has size 1/1.         </text>
     </card>
@@ -16120,7 +16120,7 @@ Lorenz Ascendant King of Alira</notes>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
+      <text>Luminous (If you control at least four permanents of a color, illuminate that color this game.)
 Flying, ward {1}
 This creature is all colors.
 For each color you’ve illuminated, this creature gets +1/+1.</text>
@@ -18646,7 +18646,7 @@ Sycophant, sycophant (Whenever this permanent deals damage to a player or planes
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3UU (3UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3UU (You may cast this spell for 3UU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying
 Whenever Takers of Voice enters, gain control of target nonland permanent for as long as you control Takers of Voice.</text>
     </card>
@@ -18760,7 +18760,7 @@ Flying
         <tag>DewoldMarilyePlaneswalkerDundrym</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Deception 2UU (2UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2UU (You may cast this spell for 2UU if you also return an unblocked attacker you control to hand during the declare blockers step. )
 As long as it’s your turn, Marilye is a 3/2 Elf Rogue creature with hexproof and indestructible.
 [+1]: Tap target permanent. It doesn’t untap during its controller’s next untap step.
 [-2]: Exile the top five cards of target opponent’s library. You may cast any number of cards exiled this way with total mana value equal to or less than the amount of damage dealt to them this turn without paying their mana costs.</text>
@@ -18964,7 +18964,7 @@ Whenever you copy a spell that was targeting a creature you control, you draw a 
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2B
+      <text>Sneak 2B
 Whenever Plaskett Trickster deals combat damage to a player or planeswalker, choose one to be exiled. You may play the exiled cards for as long as they remain exiled and spend mana as though it were mana of any type to cast spells this way.
 • A card from defending player’s hand.
 • A random card form defending player’s sanctum.</text>
@@ -19452,7 +19452,7 @@ When Geistwald Abomination dies, choose two names. For each chosen name, create 
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2GG (2GG, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2GG (You may cast this spell for 2GG if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Chorus of the Silberwald deals combat damage to a player or planeswalker, you may search your library for a creature card with mana value equal to or less than that damage, put it onto the battlefield, then shuffle.</text>
     </card>
     <card>
@@ -19775,7 +19775,7 @@ Other legendary creatures you control get +1/+0.
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1GU (1GU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1GU (You may cast this spell for 1GU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever a creature you control enters, it gets +2/+2 until end of turn.</text>
     </card>
     <card>
@@ -20000,7 +20000,7 @@ Tricolor</notes>
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3BGU (3BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3BGU (You may cast this spell for 3BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Castle Delta Agitator deals combat damage to a player or planeswalker, you may cast target card in your graveyard without paying its mana cost. If you do, exile that card as it resolves.</text>
     </card>
     <card>
@@ -20226,7 +20226,7 @@ Edith Rey escapes with a flying counter on her if a creature exiled with her esc
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2BGU (2BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2BGU (You may cast this spell for 2BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Trample
 Whenever Elric Nye deals combat damage to a player or planeswalker, if it isn’t an extra turn, taken an extra turn after this one.</text>
     </card>
@@ -20809,7 +20809,7 @@ Whenever you cast a spell, if the amount of mana spent to cast it was less than 
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {U} (You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Pilferer of Shrouded Coasts deals combat damage to a player or planeswalker, create a tapped Treasure token.</text>
     </card>
     <card>
@@ -21154,7 +21154,7 @@ Lifelink</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {B} (You may cast this spell for {B} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When Plaskett Barber enters, choose one —
 • Remove up to three counters from target permanent or opponent.
 • Exile the top card of target player’s library.</text>
@@ -21511,7 +21511,7 @@ Escape—3G, Exile seven other cards from your graveyard. (You may cast this car
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>1</tablerow>
-      <text>Deception 3G (3G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3G (You may cast this spell for 3G if you also return an unblocked attacker you control to hand during the declare blockers step. )
 Whenever The Call to Adventure enters during combat or a creature you control deals combat damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -21595,7 +21595,7 @@ Escape—2G, Exile three other cards from your graveyard. (You may cast this car
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception {G} ({G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak {G} (You may cast this spell for {G} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on Attwater Elite.</text>
     </card>
     <card>
@@ -21705,7 +21705,7 @@ When Turnberry Overseer enters, choose a name. Create a legendary 3/3 Knight cre
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 5G (5G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 5G (You may cast this spell for 5G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Silberwald Trailblazer deals combat damage to a player or planeswalker, put a +1/+1 counter on each creature you control.</text>
     </card>
     <card>
@@ -22144,7 +22144,7 @@ Whenever one or more legendary creatures you control attacks, exile the top card
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception GU (GU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak GU (You may cast this spell for GU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 If a creature entering the battlefield or dealing combat damage to an opponent causes a triggered ability of a permanent you control to trigger during combat, that ability triggers an additional time.</text>
     </card>
     <card>
@@ -22421,8 +22421,8 @@ Tricolor</notes>
         <tag>DewoldTurnberry</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception BGU (BGU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-You may have Faceless Mirrorkin enter as a copy of any creature on the battlefield. If you paid this card’s deception cost, you may instead have this creature enter as a copy of the creature you returned to your hand.</text>
+      <text>Sneak BGU (You may cast this spell for BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
+You may have Faceless Mirrorkin enter as a copy of any creature on the battlefield. If you paid this card’s sneak cost, you may instead have this creature enter as a copy of the creature you returned to your hand.</text>
     </card>
     <card>
       <name>Azra Seasonkeeper</name>
@@ -23687,7 +23687,7 @@ Enchanted creature loses all abilities and is a 1/1 green Peasant.</text>
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2B (2B, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2B (You may cast this spell for 2B if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Devious Cutthroat deals combat damage to a player or planeswalker, defending player discards a card.</text>
     </card>
     <card>
@@ -23949,7 +23949,7 @@ Whenever you cast a spell with mana value 5 or greater, Phyre Sellsword deals 2 
         <tag>DewoldAttwater</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 3G (3G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 3G (You may cast this spell for 3G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When Flowing Streams Halberdier enters, target creature gets +2/+0 and gains trample until end of turn.</text>
     </card>
     <card>
@@ -24058,7 +24058,7 @@ Create Lover to All in your reserves. He’s a legendary 2/3 red Human Noble cre
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1G (1G, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1G (You may cast this spell for 1G if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Qualified Windrigger deals combat damage to a player, untap up to two lands.</text>
     </card>
     <card>
@@ -24322,7 +24322,7 @@ Escape—3W, Exile three other cards from your graveyard. (You may cast this car
         <tag>DewoldNye</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 1U (1U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 1U (You may cast this spell for 1U if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Castle Delta Lookout deals combat damage to a player or planeswalker, draw a card.</text>
     </card>
     <card>
@@ -24459,7 +24459,7 @@ Vigilance</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 4B (4B, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 4B (You may cast this spell for 4B if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying</text>
     </card>
     <card>
@@ -24547,7 +24547,7 @@ When Charitable Faerie enters, surveil 2.</text>
         <tag>DewoldPlaskett</tag>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deception 2U (2U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+      <text>Sneak 2U (You may cast this spell for 2U if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever Ardent Warsworn deals combat damage to a player or planeswalker, you may tap target nonland permanent and put a stun counter on it.</text>
     </card>
     <card>
@@ -28252,7 +28252,7 @@ Creatures you control gain haste until end of turn.</text>
         <notes>https://x.com/Slitherbop/status/1787906825918234640</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 3WU
+      <text>Sneak 3WU (You may cast this spell for 3WU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value 3 or less without paying its mana cost.</text>
     </card>
     <card>
@@ -28472,7 +28472,7 @@ If it isn’t an extra turn, take an extra turn after this one.</text>
 changed to if it was cast</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak UUU
+      <text>Sneak UUU (You may cast this spell for UUU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When this creature enters, if it was cast, each player may shuffle their hand and graveyard into their library, then draw seven cards.</text>
     </card>
     <card>
@@ -28814,7 +28814,7 @@ You may have this spell deals 3 damage to each other creature if there are five 
         <notes>https://www.deviantart.com/dariuszkieliszek/art/Moonboy-Chronicles-Super-Cycle-1047649289</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak BGU
+      <text>Sneak BGU (You may cast this spell for BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Menace
 Whenever this creature deals combat damage to a player, that player sacrifices a planeswalker. Return up to one target planeswalker card from your graveyard to your hand. </text>
     </card>
@@ -28836,7 +28836,7 @@ Whenever this creature deals combat damage to a player, that player sacrifices a
 changed to sneak 3</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 3
+      <text>Sneak {3} (You may cast this spell for {3} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever one or more creatures you control deal combat damage to a player, that player sacrifices a nonland permanent. If they can’t, you draw a card.</text>
     </card>
     <card>
@@ -28937,7 +28937,7 @@ Lands you control are Swamps.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 2UU
+      <text>Sneak 2UU (You may cast this spell for 2UU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying
 When Like Butterflies on Strings deals combat damage to a player, if it entered this turn, gain control of up to one target creature for as long as you control this creature.</text>
     </card>
@@ -29120,7 +29120,7 @@ Overcoalesce 6GU (You may cast this from your graveyard for 6GU. If you do, chan
         <notes>A shimmer on the water, a stray reflection or something else entirely?</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 2WW
+      <text>Sneak 2WW (You may cast this spell for 2WW if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying, lifelink
 When Insubstantial Glimpse deals combat damage to a player, if it entered this turn, exile up to one target creature.</text>
     </card>
@@ -29530,7 +29530,7 @@ changed to not be an engine</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
-Sneak 2WW
+Sneak 2WW (You may cast this spell for 2WW if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When One of Keys deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
@@ -38843,7 +38843,7 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
@@ -41467,7 +41467,7 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying CCC. Spend only mana from differently named sources this way.)</text>
+Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Rhystic Palace</name>
@@ -44855,7 +44855,7 @@ Scry 1, then draw a card.</text>
       <text>Flash 
 Vigilance
 When this enchantment enters, tap target permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Outlands Wanderer</name>
@@ -45346,7 +45346,7 @@ Target creature gains vigilance and can’t be blocked by creatures with power 2
       <tablerow>1</tablerow>
       <text>Flying
 At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn and may attack this turn as though it didn’t have defender.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Skywatch Entity</name>
@@ -45366,7 +45366,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Giant&apos;s Blade</name>
@@ -45912,7 +45912,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Breaking the Mold</name>
@@ -46812,7 +46812,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -46872,7 +46872,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked except by creatures with defender.
 Whenever you attack, draw a card, then discard a card.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pouncing Shimmer</name>
@@ -49509,7 +49509,7 @@ When Larissi enters, surveil 1. (Look at the top card of your library. You may p
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on New Tensuo Luminary. This ability triggers only once each turn.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Prismatic Armor</name>
@@ -50065,7 +50065,7 @@ Feral Prelwort gets +1/+1 for each color among monocolored permanents you contro
       </prop>
       <tablerow>2</tablerow>
       <text>When Ilcan Keyseeker enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Human Wizard without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Ilcan Resilience</name>
@@ -50124,7 +50124,7 @@ Search your library for a land card, reveal it, then shuffle. If it’s basic, p
       <tablerow>2</tablerow>
       <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library.
 {T}: Mill a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Fish without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Liberators of the Soul</name>
@@ -50164,7 +50164,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>Flash
 When Lifelighter enters, you may [return target permanent you control not named Lifelighter to its owner’s hand.]
-Impetus 1W (You may cast this from your graveyard as a sorcery with only the text in square brackets for 1W. Then exile it.)</text>
+Impetus 1W (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Memory Lane</name>
@@ -51062,7 +51062,7 @@ Reflect 1R (1R: Create a token copy of this enchantment, except it’s a 1/1 Won
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever New Tensuo Clergy or another creature you control dies, each opponent loses 1 life and you gain 1 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Out of Options</name>
@@ -51722,7 +51722,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -51975,7 +51975,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -52150,7 +52150,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       </prop>
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
@@ -52508,7 +52508,7 @@ For each color among monocolored cards in your graveyard, add one mana of that c
       <tablerow>2</tablerow>
       <text>During your turn, Ageless Caretaker has indestructible and vigilance.
 Ageless Caretaker gets +1/+0 for each other creature you control.
-Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 1G (1G: Create a token copy of this creature, except it’s a 1/1 Wonder Demigod Cleric without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Cackling Thunderbeast</name>
@@ -52981,7 +52981,7 @@ Ploy —New Tensuo Collaborator deals X damage to any nonplayer target, where X 
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Physician enters, return target permanent card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Druid without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Vanguard</name>
@@ -53001,7 +53001,7 @@ Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>2</tablerow>
       <text>When New Tensuo Vanguard enters, creatures you control get +1/+0 and gain first strike until end of turn.
-Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 3W (3W: Create a token copy of this creature, except it’s a 1/1 Wonder Elf Knight without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Perceptual Distortion</name>
@@ -53125,7 +53125,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>
@@ -53204,7 +53204,7 @@ At the beginning of your first main phase, return target card from your graveyar
       <tablerow>2</tablerow>
       <text>Vrep can’t be blocked by more than one creature.
 Augmented — At the beginning of combat on your turn, if you’ve spent WUBRG to cast spells this turn, put a number of +1/+1 counters on target creature equal to Vrep’s power.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Salamander without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Wish for Death</name>
@@ -53386,7 +53386,7 @@ Ploy — Each opponent sacrifices two creatures. (When this creature attacks, yo
       <tablerow>2</tablerow>
       <text>Vigilance
 When Gilded Ancient enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control.
-Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder Cat  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect 2W (2W: Create a token copy of this creature, except it’s a 1/1 Wonder Cat without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Ilcan Szcygite</name>

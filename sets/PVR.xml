@@ -3122,7 +3122,7 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
@@ -5746,7 +5746,7 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying CCC. Spend only mana from differently named sources this way.)</text>
+Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Rhystic Palace</name>

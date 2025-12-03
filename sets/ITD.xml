@@ -2465,7 +2465,7 @@ Creatures you control gain haste until end of turn.</text>
         <notes>https://x.com/Slitherbop/status/1787906825918234640</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 3WU
+      <text>Sneak 3WU (You may cast this spell for 3WU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever one or more creatures you control deal combat damage to an opponent, draw a card. Then you may cast a spell from your hand with mana value 3 or less without paying its mana cost.</text>
     </card>
     <card>
@@ -2685,7 +2685,7 @@ If it isn’t an extra turn, take an extra turn after this one.</text>
 changed to if it was cast</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak UUU
+      <text>Sneak UUU (You may cast this spell for UUU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When this creature enters, if it was cast, each player may shuffle their hand and graveyard into their library, then draw seven cards.</text>
     </card>
     <card>
@@ -3027,7 +3027,7 @@ You may have this spell deals 3 damage to each other creature if there are five 
         <notes>https://www.deviantart.com/dariuszkieliszek/art/Moonboy-Chronicles-Super-Cycle-1047649289</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak BGU
+      <text>Sneak BGU (You may cast this spell for BGU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Menace
 Whenever this creature deals combat damage to a player, that player sacrifices a planeswalker. Return up to one target planeswalker card from your graveyard to your hand. </text>
     </card>
@@ -3049,7 +3049,7 @@ Whenever this creature deals combat damage to a player, that player sacrifices a
 changed to sneak 3</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 3
+      <text>Sneak {3} (You may cast this spell for {3} if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Whenever one or more creatures you control deal combat damage to a player, that player sacrifices a nonland permanent. If they can’t, you draw a card.</text>
     </card>
     <card>
@@ -3150,7 +3150,7 @@ Lands you control are Swamps.</text>
         <notes></notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 2UU
+      <text>Sneak 2UU (You may cast this spell for 2UU if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying
 When Like Butterflies on Strings deals combat damage to a player, if it entered this turn, gain control of up to one target creature for as long as you control this creature.</text>
     </card>
@@ -3333,7 +3333,7 @@ Overcoalesce 6GU (You may cast this from your graveyard for 6GU. If you do, chan
         <notes>A shimmer on the water, a stray reflection or something else entirely?</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>Sneak 2WW
+      <text>Sneak 2WW (You may cast this spell for 2WW if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 Flying, lifelink
 When Insubstantial Glimpse deals combat damage to a player, if it entered this turn, exile up to one target creature.</text>
     </card>
@@ -3743,7 +3743,7 @@ changed to not be an engine</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
-Sneak 2WW
+Sneak 2WW (You may cast this spell for 2WW if you also return an unblocked attacker you control to hand during the declare blockers step. This creature enters tapped and attacking.)
 When One of Keys deals combat damage to a player, you may search your library for a creature card with toughness 2 or less, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
