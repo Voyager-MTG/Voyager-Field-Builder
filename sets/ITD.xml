@@ -809,7 +809,7 @@ Draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Haste
-When this creature enters, if it’s not a token, create a token that’s a copy of it. Exile that token at the beginning of the next end step unless there are three or more lands in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+When this creature enters, if it’s not a token, create a token that’s a copy of it. Exile that token at the beginning of the next end step unless there are three or more lands in your realm. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Observation Agent</name>
@@ -830,7 +830,7 @@ When this creature enters, if it’s not a token, create a token that’s a copy
       <tablerow>2</tablerow>
       <text>Changeling (This card is every creature type.)
 Deathtouch
-When this creature enters or dies, draw a card if there are five or more lands in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+When this creature enters or dies, draw a card if there are five or more lands in your realm. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Mirror Eater</name>
@@ -908,7 +908,7 @@ Ominous {2} ({2}, Exile this card from your hand as a sorcery: Draw a card. Duri
         <notes>https://x.com/RobbieSTrevino/status/1513928313454047239</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature’s power and toughness are each equal to the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)
+      <text>This creature’s power and toughness are each equal to the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.)
 Whenever this creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped with a stun counter on it, then shuffle.</text>
     </card>
     <card>
@@ -1010,7 +1010,7 @@ Create two 1/1 white Nightmare creature tokens with lifelink and “This creatur
       <tablerow>1</tablerow>
       <text>Enchant creature
 When Mycelial Coating enters, search your library for a land with a basic land type, reveal it, put it into your hand, then shuffle.
-Enchanted creature has +1/+1 for each land in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+Enchanted creature has +1/+1 for each land in your realm. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Ashiok, Dream Feaster</name>
@@ -1170,7 +1170,7 @@ Whenever you cast a spell with mana value 1, copy it. You may choose new targets
         <notes>https://www.artstation.com/artwork/xJN3qR</notes>
       </prop>
       <tablerow>2</tablerow>
-      <text>This spell costs {1} less to cast for each land in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)
+      <text>This spell costs {1} less to cast for each land in your realm. (Your realm consists of up to one land of each of the basic land types.)
 When this creature enters, you may search your library for a land card, put it onto the battlefield tapped, then shuffle.
 WUBRG: This creature gets +5/+5 and gains trample until end of turn.</text>
     </card>
@@ -1193,7 +1193,7 @@ changed to replace the bounce condition with conditional lifegain. also added up
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this creature enters, it deals damage equal to the number of lands in your realm to up to one target creature. If your realm has five or more lands in it, you gain that much life. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+When this creature enters, it deals damage equal to the number of lands in your realm to up to one target creature. If your realm has five or more lands in it, you gain that much life. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Fracture of Divinity</name>
@@ -1742,7 +1742,7 @@ Whenever you attack, if you control five or more lands, Nightmares you control g
         <notes>https://www.deviantart.com/masiani/art/Gate-acrylic-on-canvas-964705608</notes>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tyrant’s Rage deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+      <text>Tyrant’s Rage deals X damage to each creature and each planeswalker, where X is the number of lands in your realm. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Saylthe, Twice-Drowned</name>
@@ -3008,7 +3008,7 @@ Iterate (When this enters, conjure a colorless {6} 4/4 artifact creature version
       </prop>
       <tablerow>3</tablerow>
       <text>Destroy target creature. 
-You may have this spell deals 3 damage to each other creature if there are five or more lands in your realm. If you didn’t, you may put a land card from your hand onto the battlefield tapped. (Your realm consists of up to one land of each of the basic land types.) (Your realm consists of up to one land of each of the basic land types.)</text>
+You may have this spell deals 3 damage to each other creature if there are five or more lands in your realm. If you didn’t, you may put a land card from your hand onto the battlefield tapped. (Your realm consists of up to one land of each of the basic land types.)</text>
     </card>
     <card>
       <name>Interstellar Drifter</name>
