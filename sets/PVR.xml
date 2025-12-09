@@ -49,7 +49,7 @@ UW01</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Protection from multicolored
-Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology WWW (Cast a copy of this from your graveyard by exiling it and paying WWW. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Epoch Ending</name>
@@ -373,7 +373,7 @@ CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
-Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Harsurfir Scavenger</name>
@@ -5649,7 +5649,7 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>

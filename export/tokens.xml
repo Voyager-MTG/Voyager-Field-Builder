@@ -1761,6 +1761,7 @@ Renowned Cycle
     </card>
     <card>
       <name>Scout HOD</name>
+	  <reverse-related count="2">Naval Diplomacy</reverse-related>
 	  <reverse-related >Gaze Upon Greatness</reverse-related>
 	  <reverse-related >Read the Wingbeats</reverse-related>
 	  <reverse-related >Approach of the Newly Crowned</reverse-related>
@@ -1961,6 +1962,7 @@ Young Soldier
     </card>
     <card>
       <name>Reserves HOD</name>
+	  <reverse-related>Naval Diplomacy</reverse-related>
 	  <reverse-related>Call of the Rose</reverse-related>
 	  <reverse-related>Hexer's Cave</reverse-related>
 	  <reverse-related>Long Night's Rest</reverse-related>

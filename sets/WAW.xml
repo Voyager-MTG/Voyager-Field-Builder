@@ -1633,7 +1633,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       <tablerow>2</tablerow>
       <text>Flash
 When Lifelighter enters, you may [return target permanent you control not named Lifelighter to its owner’s hand.]
-Impetus 1W (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
+Impetus 1W (You may cast this from your graveyard as a sorcery with only the text in square brackets for 1W. Then exile it.)</text>
     </card>
     <card>
       <name>Memory Lane</name>
@@ -3191,7 +3191,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -3444,7 +3444,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -4594,7 +4594,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>
