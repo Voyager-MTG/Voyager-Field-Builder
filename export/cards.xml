@@ -16054,7 +16054,7 @@ recreate</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, ward {2}
-Whenever this creature enters or attacks, if its not a token, you may mirror. (Create a token thats a copy of another token you control.)</text>
+Whenever this creature enters or attacks, if its not a token, you may mirror. (Create a token thats a copy of a token you control.)</text>
     </card>
     <card>
       <name>Lisse, Bound by the King</name>
@@ -23861,7 +23861,7 @@ Whenever one or more creatures you control enter, if they weren’t cast from yo
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
+Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
     </card>
     <card>
       <name>Vance Racketeers</name>
@@ -36255,7 +36255,7 @@ CR05</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>Creature tokens you control have menace.
-Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2RR (Cast a copy of this from your graveyard by exiling it and paying 2RR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Harsurfir Scavenger</name>
@@ -39004,7 +39004,7 @@ UR04</notes>
       </prop>
       <tablerow>2</tablerow>
       <text>When Harsurfir’s Folly enters, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
-Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 1RRR (Cast a copy of this from your graveyard by exiling it and paying 1RRR. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Colossal Giraffosaurs</name>
@@ -41531,7 +41531,7 @@ Retopology UUUUUUUU (Cast a copy of this from your graveyard by exiling it and p
       </prop>
       <tablerow>3</tablerow>
       <text>Create a token that’s a copy of target permanent, except its name is Mirrored Entity.
-Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology 2UUUU (Cast a copy of this from your graveyard by exiling it and paying 2UUUU. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Corrupted Protocol</name>
@@ -41628,7 +41628,7 @@ Whenever Paleoartistic Masterpiece attacks, the next spell you cast this turn co
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
-Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying its retopology cost. Spend only mana from differently named sources this way.)</text>
+Retopology CCC (Cast a copy of this from your graveyard by exiling it and paying CCC. Spend only mana from differently named sources this way.)</text>
     </card>
     <card>
       <name>Rhystic Palace</name>
@@ -42685,7 +42685,7 @@ Whenever this creature deals combat damage to a noncreature, exile the top card 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Bulwark</name>
@@ -42727,7 +42727,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target creature can’t block this turn.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Roduth&apos;s Guard</name>
@@ -43883,7 +43883,7 @@ Creatures you control get +1/+0 as long as you’ve illuminated red.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, target creature you control deals damage equal to its power to any nonplayer target you don’t control.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Iconic Resolution</name>
@@ -44409,7 +44409,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wings of New Horizons</name>
@@ -44493,7 +44493,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever this enchantment attacks, scry 1.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pinnacle Skitter</name>
@@ -45527,7 +45527,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Giant&apos;s Blade</name>
@@ -45570,7 +45570,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
       <tablerow>1</tablerow>
       <text>Menace
 When this enchantment enters, target opponent may discard a card. If they don’t, this enchantment deals 3 damage to that player.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Chittering Entity</name>
@@ -45590,7 +45590,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -46012,7 +46012,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell
       <tablerow>1</tablerow>
       <text>Flying
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Crowned Entity</name>
@@ -46031,7 +46031,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -46073,7 +46073,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Breaking the Mold</name>
@@ -46866,7 +46866,7 @@ After your first combat phase, there is an additional combat phase where only en
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Zoslera, Mordel Clanleader</name>
@@ -46973,7 +46973,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -47013,7 +47013,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked by creatures with power 2 or less.
 Whenever you attack, put a +1/+1 counter on another target attacking creature.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Curious Shimmer</name>
@@ -51883,7 +51883,7 @@ Augmented — At the beginning of your end step, discard a card or sacrifice a n
       <tablerow>2</tablerow>
       <text>Flying
 When Cloudeater Drake enters, draw a card.
-Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Conceptual Digestion</name>
@@ -51920,7 +51920,7 @@ Reflect {3} ({3}: Create a token copy of this creature, except it’s a 1/1 Wond
       </prop>
       <tablerow>3</tablerow>
       <text>[Tap up to two target creatures], then put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
-Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for 2U. Then exile it.)</text>
+Impetus 2U (You may cast this from your graveyard as a sorcery with only the text in square brackets for its impetus cost. Then exile it.)</text>
     </card>
     <card>
       <name>Cutthroat Obsession</name>
@@ -52136,7 +52136,7 @@ If Khiare would leave the battlefield, shuffle it into its owner’s library ins
       </prop>
       <tablerow>2</tablerow>
       <text>When Kindly Skywinder enters, target creature you control gains flying until end of turn.
-Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {U} ({U}: Create a token copy of this creature, except it’s a 1/1 Wonder Drake without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>New Tensuo Orator</name>
@@ -52311,7 +52311,7 @@ Impetus 2U (You may cast this from your graveyard as a sorcery with only the tex
       </prop>
       <tablerow>2</tablerow>
       <text>When Redefinition enters, up to one target creature’s power and toughness each become equal to Redefinition’s power and toughness until Redefinition leaves the battlefield.
-Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {1} ({1}: Create a token copy of this creature, except it’s a 1/1 Wonder Jellyfish  without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Rootway Toll-Taker</name>
@@ -53286,7 +53286,7 @@ Augmented — At the beginning of your end step, if you’ve spent WUBRG to cast
       <tablerow>2</tablerow>
       <text>Flying
 When Starseeker Deva enters, create a 1/1 Wonder creature token that’s all colors.
-Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel  without reflect. Reflect only as a sorcery, and only once.)</text>
+Reflect {2} ({2}: Create a token copy of this creature, except it’s a 1/1 Wonder Angel without reflect. Reflect only as a sorcery, and only once.)</text>
     </card>
     <card>
       <name>Territorial Wanderer</name>

@@ -5557,7 +5557,7 @@ Whenever one or more creatures you control enter, if they weren’t cast from yo
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Bloom (Whenever you cast a spell that targets this permanent, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
+Bloom (Whenever you cast a spell that targets this creature, you may pay that spell’s mana cost. If you do, copy that spell. You may choose new targets for the copy.)</text>
     </card>
     <card>
       <name>Vance Racketeers</name>

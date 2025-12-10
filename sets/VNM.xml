@@ -436,7 +436,7 @@ Whenever this creature deals combat damage to a noncreature, exile the top card 
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, return up to two target creature cards that share a creature type from your graveyard to your hand.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Outlands Bulwark</name>
@@ -478,7 +478,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
       </prop>
       <tablerow>1</tablerow>
       <text>{T}: Target creature can’t block this turn.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Roduth&apos;s Guard</name>
@@ -1634,7 +1634,7 @@ Creatures you control get +1/+0 as long as you’ve illuminated red.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, target creature you control deals damage equal to its power to any nonplayer target you don’t control.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Iconic Resolution</name>
@@ -2160,7 +2160,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>When this enchantment enters, search your library for a card with a basic land type, put it onto the battlefield, then shuffle.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Wings of New Horizons</name>
@@ -2244,7 +2244,7 @@ When this enchantment enters, scry 2.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever this enchantment attacks, scry 1.
-Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 1 (Tap one or more other enchantments you control with total mana value 1 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Pinnacle Skitter</name>
@@ -3278,7 +3278,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Flying, vigilance
 Once each turn, when a spell or ability puts a card into your hand, you may tap or untap target nonland permanent.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Giant&apos;s Blade</name>
@@ -3321,7 +3321,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
       <tablerow>1</tablerow>
       <text>Menace
 When this enchantment enters, target opponent may discard a card. If they don’t, this enchantment deals 3 damage to that player.
-Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 2 (Tap one or more other enchantments you control with total mana value 2 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Chittering Entity</name>
@@ -3341,7 +3341,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>Reach
 {T}: Tap target creature with flying.
-Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 0 (Tap one or more other enchantments you control with total mana value 0 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Riftborn Flames</name>
@@ -3763,7 +3763,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature. Cast this spell
       <tablerow>1</tablerow>
       <text>Flying
 Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Crowned Entity</name>
@@ -3782,7 +3782,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat of each turn,  exile up to one target card from a graveyard. If you exiled a creature card this way, create a 1/1 green Wurm creature token with reach.
-Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 5 (Tap one or more other enchantments you control with total mana value 5 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Flaming Iron</name>
@@ -3824,7 +3824,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
       <tablerow>1</tablerow>
       <text>First strike
 At the beginning of your end step, if an enchantment creature you control attacked this turn, draw a card.
-Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 3 (Tap one or more other enchantments you control with total mana value 3 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Breaking the Mold</name>
@@ -4617,7 +4617,7 @@ After your first combat phase, there is an additional combat phase where only en
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, target creature you control gets +1/+1 until end of turn. If Korna is a creature, after this phase, there’s an additional combat phase where only enchantment creatures you control may attack.
-Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 6 (Tap one or more other enchantments you control with total mana value 6 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Zoslera, Mordel Clanleader</name>
@@ -4724,7 +4724,7 @@ Exile the top card of your library. You may play it this turn.</text>
       <text>Lifelink 
 Ward—Pay 3 life.
 Whenever you attack, target creature you control gets +1/+1 until end of turn.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Bushy Shimmer</name>
@@ -4764,7 +4764,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
       <tablerow>1</tablerow>
       <text>This enchantment can’t be blocked by creatures with power 2 or less.
 Whenever you attack, put a +1/+1 counter on another target attacking creature.
-Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until your next upkeep.)</text>
+Materialize 4 (Tap one or more other enchantments you control with total mana value 4 or more: This also becomes an Icon creature until end of turn.)</text>
     </card>
     <card>
       <name>Curious Shimmer</name>
